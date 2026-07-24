@@ -23,6 +23,7 @@ from bs4 import BeautifulSoup
 
 ROOT = Path(__file__).resolve().parent
 CATEGORIES = ["Apps for Your Life", "Work & Productivity", "Developer Tools", "Education"]
+SCORE_FIELDS = ("technological_implementation", "design", "potential_impact", "quality_of_idea")
 USER_AGENT = (
     "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
     "(KHTML, like Gecko) Chrome/124.0 Safari/537.36"
@@ -137,6 +138,29 @@ Developer Tools unless its core product is an instructional course/lab."""
     return rubric + "\n\nProjects:\n" + json.dumps(evidence, ensure_ascii=False)
 
 
+def scoring_prompt(records):
+    rubric = """You are a rigorous hackathon judge. Score every supplied Devpost project independently on four criteria, using only its title, short description, and public Devpost write-up. Do not browse, invent implementation details, or treat a project's claims as proof beyond the evidence described. Score each criterion from 0 through 10 using the full range.
+
+Criteria:
+- technological_implementation: How thoroughly and skillfully does the project use Codex? Does the evidence describe genuine effort, a working/runnable product, and a non-trivial implementation? Reward concrete architecture, integration, testing, safety boundaries, and demonstrated behavior; do not reward vague “built with AI” claims alone.
+- design: Does the project deliver a working or runnable product experience with coherent flows, interaction, and finish, rather than only a technical proof of concept? Reward a demonstrated end-to-end experience and thoughtful usability; score low when the write-up describes only an experiment or backend.
+- potential_impact: Does it make a credible, specific case for solving a real problem for a real audience, and does the described solution actually address that problem? Reward specificity, audience clarity, and evidence of usefulness; do not award points for grand claims alone.
+- quality_of_idea: How creative and novel is the concept, and how clearly does it differ from existing concepts? Reward a distinctive insight or combination with a defensible reason to exist; familiar ideas with only an AI wrapper should score lower.
+
+Calibration: 9–10 is exceptional and well evidenced; 7–8 is strong; 5–6 is competent or promising but materially incomplete; 3–4 is weak or mostly asserted; 0–2 has little credible evidence. Do not give every project similar scores. Scores are judgments, not facts, so use the evidence and be conservative.
+
+Return ONLY a valid JSON array with exactly one object per supplied project, in the same order, with exactly these keys: slug, technological_implementation, design, potential_impact, quality_of_idea. Copy every slug byte-for-byte from the supplied data; never correct spelling, normalize, abbreviate, or invent a slug. Every score must be an integer from 0 to 10. No Markdown and no commentary."""
+    evidence = []
+    for record in records:
+        evidence.append({
+            "slug": record["slug"],
+            "title": record.get("title", ""),
+            "description": record.get("description", ""),
+            "about": re.sub(r"\s+", " ", record.get("about", ""))[:3500],
+        })
+    return rubric + "\n\nProjects:\n" + json.dumps(evidence, ensure_ascii=False)
+
+
 def make_batches(slug, size, education_audit=False):
     base, input_path, _ = paths(slug)
     records = load_json(input_path)
@@ -147,6 +171,18 @@ def make_batches(slug, size, education_audit=False):
     for number, start in enumerate(range(0, len(records), size), 1):
         (batches / f"batch-{number:03d}.prompt.txt").write_text(classifier_prompt(records[start:start + size], education_audit))
     print(f"wrote {number if records else 0} prompts for {len(records)} projects")
+
+
+def make_score_batches(slug, size):
+    base, input_path, _ = paths(slug)
+    records = load_json(input_path)
+    batches = base / "batches"
+    batches.mkdir(parents=True, exist_ok=True)
+    for old in batches.glob("batch-*.prompt.txt"):
+        old.unlink()
+    for number, start in enumerate(range(0, len(records), size), 1):
+        (batches / f"batch-{number:03d}.prompt.txt").write_text(scoring_prompt(records[start:start + size]))
+    print(f"wrote {number if records else 0} score prompts for {len(records)} projects")
 
 
 def parse_output(text):
@@ -183,6 +219,54 @@ def validate(slug):
     atomic_json(results_path, {"labels": labels, "missing": missing, "errors": errors})
     print(json.dumps({"valid": len(labels), "missing": len(missing), "errors": errors}, indent=2))
     return not missing and not errors
+
+
+def validate_scores(slug):
+    base, input_path, results_path = paths(slug)
+    expected = [x["slug"] for x in load_json(input_path)]
+    labels = {}
+    errors = []
+    for output in sorted((base / "outputs").glob("batch-*.json")):
+        try:
+            items = parse_output(output.read_text())
+        except ValueError as error:
+            errors.append(f"{output.name}: {error}")
+            continue
+        for item in items:
+            slug_value = item.get("slug")
+            scores = {field: item.get(field) for field in SCORE_FIELDS}
+            if slug_value not in expected or slug_value in labels:
+                errors.append(f"{output.name}: invalid or duplicate score {slug_value!r}")
+                continue
+            if any(type(value) is not int or value < 0 or value > 10 for value in scores.values()):
+                errors.append(f"{output.name}: scores out of range for {slug_value!r}")
+                continue
+            labels[slug_value] = {**scores, "total": sum(scores.values())}
+    missing = [s for s in expected if s not in labels]
+    atomic_json(results_path, {"scores": labels, "missing": missing, "errors": errors})
+    print(json.dumps({"valid": len(labels), "missing": len(missing), "errors": errors}, indent=2))
+    return not missing and not errors
+
+
+def publish_scores(prefix):
+    """Publish complete score snapshots into the frontend score sidecar."""
+    scores = {}
+    pattern = ROOT / "data" / ".classification"
+    for results_path in sorted(pattern.glob(f"{prefix}-*/results.json")):
+        result = load_json(results_path)
+        if result.get("missing") or result.get("errors"):
+            continue
+        for project_slug, score in result.get("scores", {}).items():
+            if project_slug in scores and scores[project_slug] != score:
+                raise SystemExit(f"Conflicting validated scores for {project_slug}")
+            scores[project_slug] = score
+    output = ROOT / "data" / "openai-build-week-scores.json"
+    atomic_json(output, {
+        "generated_at": datetime.now(timezone.utc).isoformat(),
+        "count": len(scores),
+        "scores": scores,
+    })
+    print(f"published {len(scores)} validated scorecards to {output}")
 
 
 def run_batches(slug, workers):
@@ -273,7 +357,7 @@ def publish(slug):
 def main():
     parser = argparse.ArgumentParser()
     parser.add_argument("slug")
-    parser.add_argument("action", choices=("prepare", "batches", "run", "validate", "publish", "merge"))
+    parser.add_argument("action", choices=("prepare", "batches", "score-batches", "run", "validate", "score-validate", "publish", "score-publish", "merge"))
     parser.add_argument("--delay", type=float, default=0.4)
     parser.add_argument("--batch-size", type=int, default=20)
     parser.add_argument("--workers", type=int, default=10)
@@ -283,10 +367,16 @@ def main():
         prepare(args.slug, args.delay)
     elif args.action == "batches":
         make_batches(args.slug, args.batch_size, args.education_audit)
+    elif args.action == "score-batches":
+        make_score_batches(args.slug, args.batch_size)
     elif args.action == "run":
         run_batches(args.slug, args.workers)
     elif args.action == "validate":
         sys.exit(0 if validate(args.slug) else 1)
+    elif args.action == "score-validate":
+        sys.exit(0 if validate_scores(args.slug) else 1)
+    elif args.action == "score-publish":
+        publish_scores(args.slug)
     elif args.action == "publish":
         publish(args.slug)
     else:
