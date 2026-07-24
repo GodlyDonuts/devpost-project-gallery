@@ -1,0 +1,102 @@
+[
+  {
+    "slug": "before-the-clue",
+    "category": "Education",
+    "confidence": 90
+  },
+  {
+    "slug": "onlytax",
+    "category": "Work & Productivity",
+    "confidence": 92
+  },
+  {
+    "slug": "mainquest-the-unwritten-world",
+    "category": "Apps for Your Life",
+    "confidence": 65
+  },
+  {
+    "slug": "aplx-ai",
+    "category": "Apps for Your Life",
+    "confidence": 50
+  },
+  {
+    "slug": "aplyged-a-voice-tutor-that-teaches-the-next-step",
+    "category": "Education",
+    "confidence": 95
+  },
+  {
+    "slug": "exai-c1zd9s",
+    "category": "Work & Productivity",
+    "confidence": 88
+  },
+  {
+    "slug": "ai-for-investor",
+    "category": "Work & Productivity",
+    "confidence": 85
+  },
+  {
+    "slug": "prepaste",
+    "category": "Apps for Your Life",
+    "confidence": 68
+  },
+  {
+    "slug": "draft-walk",
+    "category": "Apps for Your Life",
+    "confidence": 80
+  },
+  {
+    "slug": "credentia-6zqtua",
+    "category": "Work & Productivity",
+    "confidence": 85
+  },
+  {
+    "slug": "phrase-dictionary-ai",
+    "category": "Education",
+    "confidence": 82
+  },
+  {
+    "slug": "project-8lh7u5sbqorz",
+    "category": "Apps for Your Life",
+    "confidence": 80
+  },
+  {
+    "slug": "project-tpxomfvqn875",
+    "category": "Apps for Your Life",
+    "confidence": 85
+  },
+  {
+    "slug": "glasshouse-xyik58",
+    "category": "Developer Tools",
+    "confidence": 95
+  },
+  {
+    "slug": "candrive-id",
+    "category": "Apps for Your Life",
+    "confidence": 85
+  },
+  {
+    "slug": "standpoint-ai-crowd-experience-simulator",
+    "category": "Work & Productivity",
+    "confidence": 88
+  },
+  {
+    "slug": "did-you-know-6y9m8t",
+    "category": "Education",
+    "confidence": 95
+  },
+  {
+    "slug": "internpulse",
+    "category": "Work & Productivity",
+    "confidence": 90
+  },
+  {
+    "slug": "plasmonic-coupling-simulator",
+    "category": "Work & Productivity",
+    "confidence": 72
+  },
+  {
+    "slug": "graphene-decision-provenance-graph",
+    "category": "Developer Tools",
+    "confidence": 95
+  }
+]

@@ -1,0 +1,107 @@
+[
+  {
+    "slug": "before-you-assign",
+    "technological_implementation": 8,
+    "design": 7,
+    "potential_impact": 7,
+    "quality_of_idea": 8
+  },
+  {
+    "slug": "safe-handoff-preview",
+    "technological_implementation": 8,
+    "design": 7,
+    "potential_impact": 7,
+    "quality_of_idea": 7
+  },
+  {
+    "slug": "six-of-two-hundred",
+    "technological_implementation": 8,
+    "design": 7,
+    "potential_impact": 7,
+    "quality_of_idea": 7
+  },
+  {
+    "slug": "vesper-budget-expense",
+    "technological_implementation": 7,
+    "design": 8,
+    "potential_impact": 7,
+    "quality_of_idea": 5
+  },
+  {
+    "slug": "regbridge",
+    "technological_implementation": 9,
+    "design": 8,
+    "potential_impact": 7,
+    "quality_of_idea": 8
+  },
+  {
+    "slug": "mastery-qde06j",
+    "technological_implementation": 8,
+    "design": 8,
+    "potential_impact": 7,
+    "quality_of_idea": 8
+  },
+  {
+    "slug": "relay-3l6d5y",
+    "technological_implementation": 5,
+    "design": 6,
+    "potential_impact": 6,
+    "quality_of_idea": 5
+  },
+  {
+    "slug": "nevercase",
+    "technological_implementation": 8,
+    "design": 8,
+    "potential_impact": 5,
+    "quality_of_idea": 8
+  },
+  {
+    "slug": "phase-binder",
+    "technological_implementation": 8,
+    "design": 8,
+    "potential_impact": 8,
+    "quality_of_idea": 6
+  },
+  {
+    "slug": "cardio-chase",
+    "technological_implementation": 9,
+    "design": 9,
+    "potential_impact": 6,
+    "quality_of_idea": 8
+  },
+  {
+    "slug": "cheria-gift-exchanges",
+    "technological_implementation": 9,
+    "design": 9,
+    "potential_impact": 7,
+    "quality_of_idea": 6
+  },
+  {
+    "slug": "project-origin-chrj9e",
+    "technological_implementation": 2,
+    "design": 2,
+    "potential_impact": 3,
+    "quality_of_idea": 4
+  },
+  {
+    "slug": "fdcos-ai-incident-commander",
+    "technological_implementation": 4,
+    "design": 4,
+    "potential_impact": 5,
+    "quality_of_idea": 5
+  },
+  {
+    "slug": "study-agent-harness",
+    "technological_implementation": 8,
+    "design": 6,
+    "potential_impact": 7,
+    "quality_of_idea": 8
+  },
+  {
+    "slug": "usagewidget",
+    "technological_implementation": 3,
+    "design": 4,
+    "potential_impact": 4,
+    "quality_of_idea": 3
+  }
+]

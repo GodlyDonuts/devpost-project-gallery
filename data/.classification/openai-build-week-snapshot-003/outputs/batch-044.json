@@ -1,0 +1,102 @@
+[
+  {
+    "slug": "lky-oracle",
+    "category": "Apps for Your Life",
+    "confidence": 92
+  },
+  {
+    "slug": "notemae",
+    "category": "Apps for Your Life",
+    "confidence": 95
+  },
+  {
+    "slug": "medico-ai-symptom-analyser-app",
+    "category": "Apps for Your Life",
+    "confidence": 90
+  },
+  {
+    "slug": "jacque",
+    "category": "Apps for Your Life",
+    "confidence": 90
+  },
+  {
+    "slug": "olinckbotai",
+    "category": "Developer Tools",
+    "confidence": 95
+  },
+  {
+    "slug": "chapimo",
+    "category": "Apps for Your Life",
+    "confidence": 92
+  },
+  {
+    "slug": "kufanyi",
+    "category": "Work & Productivity",
+    "confidence": 85
+  },
+  {
+    "slug": "djinzin",
+    "category": "Apps for Your Life",
+    "confidence": 95
+  },
+  {
+    "slug": "hskmax",
+    "category": "Education",
+    "confidence": 95
+  },
+  {
+    "slug": "animatemath-ai",
+    "category": "Education",
+    "confidence": 88
+  },
+  {
+    "slug": "grouphub-szg2nm",
+    "category": "Work & Productivity",
+    "confidence": 80
+  },
+  {
+    "slug": "loopskill-durable-workflows-for-codex",
+    "category": "Developer Tools",
+    "confidence": 90
+  },
+  {
+    "slug": "digital-krishna",
+    "category": "Apps for Your Life",
+    "confidence": 92
+  },
+  {
+    "slug": "ezzapply",
+    "category": "Apps for Your Life",
+    "confidence": 82
+  },
+  {
+    "slug": "arenaos",
+    "category": "Developer Tools",
+    "confidence": 80
+  },
+  {
+    "slug": "mie-lite-codex-built-multi-agent-intelligence-engine",
+    "category": "Work & Productivity",
+    "confidence": 82
+  },
+  {
+    "slug": "skill-router",
+    "category": "Developer Tools",
+    "confidence": 95
+  },
+  {
+    "slug": "hati-home-autonomous-threat-interceptor",
+    "category": "Apps for Your Life",
+    "confidence": 90
+  },
+  {
+    "slug": "ai-lig",
+    "category": "Work & Productivity",
+    "confidence": 85
+  },
+  {
+    "slug": "scrappy-zc7rs5",
+    "category": "Apps for Your Life",
+    "confidence": 88
+  }
+]

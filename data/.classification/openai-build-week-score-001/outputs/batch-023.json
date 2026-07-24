@@ -1,0 +1,107 @@
+[
+  {
+    "slug": "duration-of-status-calculator",
+    "technological_implementation": 8,
+    "design": 7,
+    "potential_impact": 9,
+    "quality_of_idea": 7
+  },
+  {
+    "slug": "devflow-p3boae",
+    "technological_implementation": 9,
+    "design": 8,
+    "potential_impact": 7,
+    "quality_of_idea": 6
+  },
+  {
+    "slug": "neuroquest-mind-adaptive-study-tuitor",
+    "technological_implementation": 6,
+    "design": 5,
+    "potential_impact": 5,
+    "quality_of_idea": 5
+  },
+  {
+    "slug": "there-i-was",
+    "technological_implementation": 9,
+    "design": 8,
+    "potential_impact": 6,
+    "quality_of_idea": 8
+  },
+  {
+    "slug": "tbd-7w8rky",
+    "technological_implementation": 8,
+    "design": 7,
+    "potential_impact": 8,
+    "quality_of_idea": 7
+  },
+  {
+    "slug": "arcadeops-the-release-gate-for-ai-agents",
+    "technological_implementation": 10,
+    "design": 9,
+    "potential_impact": 9,
+    "quality_of_idea": 9
+  },
+  {
+    "slug": "codex-rule-ledger",
+    "technological_implementation": 9,
+    "design": 8,
+    "potential_impact": 7,
+    "quality_of_idea": 8
+  },
+  {
+    "slug": "bridgeback",
+    "technological_implementation": 9,
+    "design": 8,
+    "potential_impact": 8,
+    "quality_of_idea": 8
+  },
+  {
+    "slug": "workshoplm",
+    "technological_implementation": 9,
+    "design": 8,
+    "potential_impact": 7,
+    "quality_of_idea": 8
+  },
+  {
+    "slug": "train-a-plane",
+    "technological_implementation": 2,
+    "design": 2,
+    "potential_impact": 3,
+    "quality_of_idea": 5
+  },
+  {
+    "slug": "nicobuddy-a-personal-desktop-companion",
+    "technological_implementation": 6,
+    "design": 6,
+    "potential_impact": 5,
+    "quality_of_idea": 4
+  },
+  {
+    "slug": "zeroprep",
+    "technological_implementation": 7,
+    "design": 7,
+    "potential_impact": 6,
+    "quality_of_idea": 7
+  },
+  {
+    "slug": "authidenty",
+    "technological_implementation": 9,
+    "design": 7,
+    "potential_impact": 7,
+    "quality_of_idea": 8
+  },
+  {
+    "slug": "divit-lux-ai-architect",
+    "technological_implementation": 3,
+    "design": 2,
+    "potential_impact": 3,
+    "quality_of_idea": 4
+  },
+  {
+    "slug": "requiem",
+    "technological_implementation": 8,
+    "design": 7,
+    "potential_impact": 6,
+    "quality_of_idea": 7
+  }
+]

@@ -1,0 +1,107 @@
+[
+  {
+    "slug": "somename-u9gsz6",
+    "technological_implementation": 9,
+    "design": 8,
+    "potential_impact": 8,
+    "quality_of_idea": 8
+  },
+  {
+    "slug": "receiptbrain-yf2dqc",
+    "technological_implementation": 7,
+    "design": 7,
+    "potential_impact": 7,
+    "quality_of_idea": 6
+  },
+  {
+    "slug": "edumind-ai-gich39",
+    "technological_implementation": 4,
+    "design": 4,
+    "potential_impact": 5,
+    "quality_of_idea": 3
+  },
+  {
+    "slug": "forj",
+    "technological_implementation": 7,
+    "design": 7,
+    "potential_impact": 7,
+    "quality_of_idea": 6
+  },
+  {
+    "slug": "test-25d0rw",
+    "technological_implementation": 0,
+    "design": 0,
+    "potential_impact": 0,
+    "quality_of_idea": 0
+  },
+  {
+    "slug": "latch-yelrhs",
+    "technological_implementation": 9,
+    "design": 8,
+    "potential_impact": 8,
+    "quality_of_idea": 8
+  },
+  {
+    "slug": "orderloop",
+    "technological_implementation": 8,
+    "design": 7,
+    "potential_impact": 8,
+    "quality_of_idea": 6
+  },
+  {
+    "slug": "autofix-swarm",
+    "technological_implementation": 9,
+    "design": 8,
+    "potential_impact": 8,
+    "quality_of_idea": 6
+  },
+  {
+    "slug": "curisositypedia",
+    "technological_implementation": 4,
+    "design": 5,
+    "potential_impact": 5,
+    "quality_of_idea": 5
+  },
+  {
+    "slug": "monkeybuddy",
+    "technological_implementation": 3,
+    "design": 3,
+    "potential_impact": 4,
+    "quality_of_idea": 4
+  },
+  {
+    "slug": "audit-workflow",
+    "technological_implementation": 2,
+    "design": 2,
+    "potential_impact": 5,
+    "quality_of_idea": 3
+  },
+  {
+    "slug": "ssh-mobile-ai-agent",
+    "technological_implementation": 8,
+    "design": 7,
+    "potential_impact": 7,
+    "quality_of_idea": 5
+  },
+  {
+    "slug": "autopilot-agent-u4rqha",
+    "technological_implementation": 0,
+    "design": 0,
+    "potential_impact": 0,
+    "quality_of_idea": 0
+  },
+  {
+    "slug": "indusbrain-ai-enterprise-knowledge-intelligence-platform",
+    "technological_implementation": 7,
+    "design": 6,
+    "potential_impact": 6,
+    "quality_of_idea": 4
+  },
+  {
+    "slug": "ai-operations-and-maintenance",
+    "technological_implementation": 6,
+    "design": 4,
+    "potential_impact": 6,
+    "quality_of_idea": 5
+  }
+]

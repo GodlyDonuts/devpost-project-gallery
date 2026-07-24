@@ -1,0 +1,107 @@
+[
+  {
+    "slug": "atomi-evidence-gate",
+    "technological_implementation": 9,
+    "design": 5,
+    "potential_impact": 7,
+    "quality_of_idea": 7
+  },
+  {
+    "slug": "sheetifyimg",
+    "technological_implementation": 8,
+    "design": 7,
+    "potential_impact": 7,
+    "quality_of_idea": 6
+  },
+  {
+    "slug": "pauselab",
+    "technological_implementation": 8,
+    "design": 7,
+    "potential_impact": 6,
+    "quality_of_idea": 5
+  },
+  {
+    "slug": "nearby-now-diuj10",
+    "technological_implementation": 7,
+    "design": 7,
+    "potential_impact": 6,
+    "quality_of_idea": 6
+  },
+  {
+    "slug": "omnicanvas",
+    "technological_implementation": 9,
+    "design": 8,
+    "potential_impact": 8,
+    "quality_of_idea": 8
+  },
+  {
+    "slug": "gaggu",
+    "technological_implementation": 3,
+    "design": 2,
+    "potential_impact": 4,
+    "quality_of_idea": 3
+  },
+  {
+    "slug": "15loop",
+    "technological_implementation": 8,
+    "design": 7,
+    "potential_impact": 7,
+    "quality_of_idea": 7
+  },
+  {
+    "slug": "machine-learning-teaching-stickman-to-walk",
+    "technological_implementation": 1,
+    "design": 1,
+    "potential_impact": 1,
+    "quality_of_idea": 1
+  },
+  {
+    "slug": "stock-analysis-model",
+    "technological_implementation": 1,
+    "design": 1,
+    "potential_impact": 2,
+    "quality_of_idea": 1
+  },
+  {
+    "slug": "agent-shelf",
+    "technological_implementation": 8,
+    "design": 7,
+    "potential_impact": 8,
+    "quality_of_idea": 8
+  },
+  {
+    "slug": "spotted-ai",
+    "technological_implementation": 2,
+    "design": 2,
+    "potential_impact": 3,
+    "quality_of_idea": 3
+  },
+  {
+    "slug": "wasm-oj",
+    "technological_implementation": 7,
+    "design": 6,
+    "potential_impact": 7,
+    "quality_of_idea": 8
+  },
+  {
+    "slug": "mask-private-meeting-memory",
+    "technological_implementation": 9,
+    "design": 8,
+    "potential_impact": 8,
+    "quality_of_idea": 8
+  },
+  {
+    "slug": "helpifyr-governed-execution-for-ai-agents",
+    "technological_implementation": 7,
+    "design": 6,
+    "potential_impact": 7,
+    "quality_of_idea": 7
+  },
+  {
+    "slug": "odyssey-ig43or",
+    "technological_implementation": 7,
+    "design": 7,
+    "potential_impact": 5,
+    "quality_of_idea": 4
+  }
+]

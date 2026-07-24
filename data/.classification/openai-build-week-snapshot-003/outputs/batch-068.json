@@ -1,0 +1,22 @@
+[
+  {"slug": "continuity-agent", "category": "Apps for Your Life", "confidence": 90},
+  {"slug": "quantum-faultsack", "category": "Education", "confidence": 95},
+  {"slug": "boredgame", "category": "Apps for Your Life", "confidence": 90},
+  {"slug": "srs-signal", "category": "Work & Productivity", "confidence": 85},
+  {"slug": "geolog-field", "category": "Work & Productivity", "confidence": 90},
+  {"slug": "moxi", "category": "Apps for Your Life", "confidence": 30},
+  {"slug": "bobman-5t2ra7", "category": "Apps for Your Life", "confidence": 85},
+  {"slug": "poseidondeck", "category": "Apps for Your Life", "confidence": 40},
+  {"slug": "kitchen-designer", "category": "Apps for Your Life", "confidence": 70},
+  {"slug": "the-guide", "category": "Apps for Your Life", "confidence": 90},
+  {"slug": "zgp-commander", "category": "Apps for Your Life", "confidence": 90},
+  {"slug": "skena", "category": "Apps for Your Life", "confidence": 90},
+  {"slug": "aegis-os-verified-spatial-inspection", "category": "Work & Productivity", "confidence": 85},
+  {"slug": "margins", "category": "Education", "confidence": 35},
+  {"slug": "before-evidence", "category": "Apps for Your Life", "confidence": 80},
+  {"slug": "the-logo-lab", "category": "Education", "confidence": 95},
+  {"slug": "infergrade-runner", "category": "Developer Tools", "confidence": 90},
+  {"slug": "hostelsolve", "category": "Work & Productivity", "confidence": 85},
+  {"slug": "devcouncil", "category": "Developer Tools", "confidence": 95},
+  {"slug": "cimmich", "category": "Apps for Your Life", "confidence": 90}
+]

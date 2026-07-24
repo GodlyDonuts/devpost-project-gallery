@@ -1,0 +1,107 @@
+[
+  {
+    "slug": "possible-r18lqa",
+    "technological_implementation": 8,
+    "design": 7,
+    "potential_impact": 8,
+    "quality_of_idea": 8
+  },
+  {
+    "slug": "umoja-isp",
+    "technological_implementation": 7,
+    "design": 6,
+    "potential_impact": 8,
+    "quality_of_idea": 6
+  },
+  {
+    "slug": "binglecraft",
+    "technological_implementation": 9,
+    "design": 8,
+    "potential_impact": 5,
+    "quality_of_idea": 5
+  },
+  {
+    "slug": "chews-freedom",
+    "technological_implementation": 4,
+    "design": 5,
+    "potential_impact": 8,
+    "quality_of_idea": 7
+  },
+  {
+    "slug": "worktwin",
+    "technological_implementation": 7,
+    "design": 7,
+    "potential_impact": 7,
+    "quality_of_idea": 6
+  },
+  {
+    "slug": "store-pulse",
+    "technological_implementation": 7,
+    "design": 6,
+    "potential_impact": 6,
+    "quality_of_idea": 5
+  },
+  {
+    "slug": "tripfork",
+    "technological_implementation": 8,
+    "design": 8,
+    "potential_impact": 8,
+    "quality_of_idea": 8
+  },
+  {
+    "slug": "carryon-59m1h6",
+    "technological_implementation": 2,
+    "design": 2,
+    "potential_impact": 2,
+    "quality_of_idea": 3
+  },
+  {
+    "slug": "flashware-ai",
+    "technological_implementation": 6,
+    "design": 6,
+    "potential_impact": 7,
+    "quality_of_idea": 5
+  },
+  {
+    "slug": "casebook-ai",
+    "technological_implementation": 9,
+    "design": 7,
+    "potential_impact": 8,
+    "quality_of_idea": 8
+  },
+  {
+    "slug": "fluvisat-ai-natural-language-earth-observation-agent",
+    "technological_implementation": 6,
+    "design": 6,
+    "potential_impact": 7,
+    "quality_of_idea": 6
+  },
+  {
+    "slug": "practice-385hco",
+    "technological_implementation": 8,
+    "design": 7,
+    "potential_impact": 7,
+    "quality_of_idea": 6
+  },
+  {
+    "slug": "boring-bugshot",
+    "technological_implementation": 7,
+    "design": 7,
+    "potential_impact": 6,
+    "quality_of_idea": 5
+  },
+  {
+    "slug": "skriven-time-unbound",
+    "technological_implementation": 8,
+    "design": 7,
+    "potential_impact": 5,
+    "quality_of_idea": 8
+  },
+  {
+    "slug": "mini-project-memory-database",
+    "technological_implementation": 8,
+    "design": 6,
+    "potential_impact": 7,
+    "quality_of_idea": 8
+  }
+]

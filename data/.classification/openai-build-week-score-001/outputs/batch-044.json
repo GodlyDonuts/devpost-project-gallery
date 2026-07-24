@@ -1,0 +1,107 @@
+[
+  {
+    "slug": "workspace-b3feg5",
+    "technological_implementation": 2,
+    "design": 2,
+    "potential_impact": 2,
+    "quality_of_idea": 2
+  },
+  {
+    "slug": "supadox-9oncwp",
+    "technological_implementation": 8,
+    "design": 7,
+    "potential_impact": 7,
+    "quality_of_idea": 6
+  },
+  {
+    "slug": "chateam",
+    "technological_implementation": 7,
+    "design": 7,
+    "potential_impact": 7,
+    "quality_of_idea": 8
+  },
+  {
+    "slug": "add-pbr-lithing-module",
+    "technological_implementation": 4,
+    "design": 3,
+    "potential_impact": 4,
+    "quality_of_idea": 6
+  },
+  {
+    "slug": "amorphix",
+    "technological_implementation": 6,
+    "design": 5,
+    "potential_impact": 5,
+    "quality_of_idea": 4
+  },
+  {
+    "slug": "kpi-compass",
+    "technological_implementation": 8,
+    "design": 7,
+    "potential_impact": 7,
+    "quality_of_idea": 6
+  },
+  {
+    "slug": "maquestlink",
+    "technological_implementation": 2,
+    "design": 2,
+    "potential_impact": 3,
+    "quality_of_idea": 3
+  },
+  {
+    "slug": "fine-line",
+    "technological_implementation": 6,
+    "design": 8,
+    "potential_impact": 8,
+    "quality_of_idea": 7
+  },
+  {
+    "slug": "classroom-after-dark",
+    "technological_implementation": 7,
+    "design": 7,
+    "potential_impact": 7,
+    "quality_of_idea": 6
+  },
+  {
+    "slug": "branchline",
+    "technological_implementation": 9,
+    "design": 8,
+    "potential_impact": 8,
+    "quality_of_idea": 8
+  },
+  {
+    "slug": "airtouch-qjz8bm",
+    "technological_implementation": 9,
+    "design": 8,
+    "potential_impact": 6,
+    "quality_of_idea": 8
+  },
+  {
+    "slug": "threadstrike-biology-field-lab",
+    "technological_implementation": 7,
+    "design": 7,
+    "potential_impact": 5,
+    "quality_of_idea": 6
+  },
+  {
+    "slug": "remember-9zo6e5",
+    "technological_implementation": 8,
+    "design": 7,
+    "potential_impact": 6,
+    "quality_of_idea": 6
+  },
+  {
+    "slug": "chronos-swj36y",
+    "technological_implementation": 9,
+    "design": 8,
+    "potential_impact": 8,
+    "quality_of_idea": 9
+  },
+  {
+    "slug": "cramerweb",
+    "technological_implementation": 9,
+    "design": 7,
+    "potential_impact": 8,
+    "quality_of_idea": 6
+  }
+]

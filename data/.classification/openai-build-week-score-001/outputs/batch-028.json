@@ -1,0 +1,107 @@
+[
+  {
+    "slug": "voxa-ai-z4rhai",
+    "technological_implementation": 7,
+    "design": 7,
+    "potential_impact": 7,
+    "quality_of_idea": 6
+  },
+  {
+    "slug": "bitstark-w08k45",
+    "technological_implementation": 7,
+    "design": 4,
+    "potential_impact": 7,
+    "quality_of_idea": 5
+  },
+  {
+    "slug": "chalkboard-2xkdgs",
+    "technological_implementation": 3,
+    "design": 4,
+    "potential_impact": 4,
+    "quality_of_idea": 3
+  },
+  {
+    "slug": "akade-dev",
+    "technological_implementation": 5,
+    "design": 5,
+    "potential_impact": 6,
+    "quality_of_idea": 5
+  },
+  {
+    "slug": "sable-72fcsz",
+    "technological_implementation": 7,
+    "design": 6,
+    "potential_impact": 6,
+    "quality_of_idea": 5
+  },
+  {
+    "slug": "backstory-agent",
+    "technological_implementation": 8,
+    "design": 7,
+    "potential_impact": 7,
+    "quality_of_idea": 7
+  },
+  {
+    "slug": "asmforge",
+    "technological_implementation": 7,
+    "design": 6,
+    "potential_impact": 4,
+    "quality_of_idea": 6
+  },
+  {
+    "slug": "agent-haderach",
+    "technological_implementation": 8,
+    "design": 7,
+    "potential_impact": 7,
+    "quality_of_idea": 7
+  },
+  {
+    "slug": "nealite-ai-ai-powered-embroidery-software",
+    "technological_implementation": 2,
+    "design": 2,
+    "potential_impact": 3,
+    "quality_of_idea": 4
+  },
+  {
+    "slug": "meta-platform",
+    "technological_implementation": 2,
+    "design": 2,
+    "potential_impact": 3,
+    "quality_of_idea": 3
+  },
+  {
+    "slug": "corkly-the-ai-sommelier-that-teaches-you-to-taste",
+    "technological_implementation": 8,
+    "design": 8,
+    "potential_impact": 7,
+    "quality_of_idea": 8
+  },
+  {
+    "slug": "us-fleet-fuel-hedge-simulator",
+    "technological_implementation": 8,
+    "design": 6,
+    "potential_impact": 8,
+    "quality_of_idea": 6
+  },
+  {
+    "slug": "offshift",
+    "technological_implementation": 7,
+    "design": 7,
+    "potential_impact": 6,
+    "quality_of_idea": 5
+  },
+  {
+    "slug": "nadi-0asbf1",
+    "technological_implementation": 8,
+    "design": 8,
+    "potential_impact": 7,
+    "quality_of_idea": 7
+  },
+  {
+    "slug": "offomo",
+    "technological_implementation": 3,
+    "design": 3,
+    "potential_impact": 4,
+    "quality_of_idea": 3
+  }
+]

@@ -1,0 +1,107 @@
+[
+  {
+    "slug": "cinebridgecapital-blacklight-institutional-film-finance",
+    "technological_implementation": 3,
+    "design": 3,
+    "potential_impact": 5,
+    "quality_of_idea": 5
+  },
+  {
+    "slug": "cardiosignature",
+    "technological_implementation": 6,
+    "design": 5,
+    "potential_impact": 6,
+    "quality_of_idea": 5
+  },
+  {
+    "slug": "browser-test-progress",
+    "technological_implementation": 8,
+    "design": 6,
+    "potential_impact": 5,
+    "quality_of_idea": 6
+  },
+  {
+    "slug": "rarebuilders",
+    "technological_implementation": 7,
+    "design": 7,
+    "potential_impact": 7,
+    "quality_of_idea": 7
+  },
+  {
+    "slug": "perfii-the-customizable-budgeting-app",
+    "technological_implementation": 6,
+    "design": 6,
+    "potential_impact": 6,
+    "quality_of_idea": 4
+  },
+  {
+    "slug": "xconsole",
+    "technological_implementation": 7,
+    "design": 7,
+    "potential_impact": 7,
+    "quality_of_idea": 5
+  },
+  {
+    "slug": "sortinder",
+    "technological_implementation": 6,
+    "design": 6,
+    "potential_impact": 6,
+    "quality_of_idea": 4
+  },
+  {
+    "slug": "becurious",
+    "technological_implementation": 3,
+    "design": 4,
+    "potential_impact": 4,
+    "quality_of_idea": 4
+  },
+  {
+    "slug": "pixel-warriors",
+    "technological_implementation": 7,
+    "design": 7,
+    "potential_impact": 6,
+    "quality_of_idea": 6
+  },
+  {
+    "slug": "dkmath-verifiable-ai-mathematical-research",
+    "technological_implementation": 9,
+    "design": 5,
+    "potential_impact": 6,
+    "quality_of_idea": 7
+  },
+  {
+    "slug": "breaking-math-verification",
+    "technological_implementation": 9,
+    "design": 5,
+    "potential_impact": 6,
+    "quality_of_idea": 7
+  },
+  {
+    "slug": "homework-x-ray",
+    "technological_implementation": 7,
+    "design": 7,
+    "potential_impact": 7,
+    "quality_of_idea": 7
+  },
+  {
+    "slug": "prodpilot",
+    "technological_implementation": 7,
+    "design": 6,
+    "potential_impact": 7,
+    "quality_of_idea": 6
+  },
+  {
+    "slug": "anti-hero",
+    "technological_implementation": 4,
+    "design": 5,
+    "potential_impact": 5,
+    "quality_of_idea": 6
+  },
+  {
+    "slug": "gridwake",
+    "technological_implementation": 9,
+    "design": 8,
+    "potential_impact": 5,
+    "quality_of_idea": 8
+  }
+]

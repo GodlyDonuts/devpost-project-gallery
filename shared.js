@@ -82,6 +82,7 @@ function projectCard(p) {
   const url = p.url || (slug ? "https://devpost.com/software/" + slug : "#");
   const desc = escapeHtml(p.description || p.tagline || "");
   const cat = p.category || "Unclassified";
+  const judging = p.judging_score;
   const links = [];
   if (url && url !== "#")
     links.push('<a href="' + escapeHtml(url) + '" target="_blank" rel="noopener">Devpost ↗</a>');
@@ -107,6 +108,9 @@ function projectCard(p) {
     '<h3><a href="' + escapeHtml(url) + '" target="_blank" rel="noopener">' + escapeHtml(title) + "</a></h3>" +
     (desc ? '<p class="desc">' + desc + "</p>" : "") +
     teamBlock(p.members) +
+    (judging && Number.isInteger(judging.total)
+      ? '<div class="judge-score" title="Technological implementation ' + judging.technological_implementation + '/10 · Design ' + judging.design + '/10 · Potential impact ' + judging.potential_impact + '/10 · Quality of idea ' + judging.quality_of_idea + '/10">Judge score <strong>' + judging.total + '/40</strong></div>'
+      : "") +
     (links.length ? '<div class="links">' + links.join("") + "</div>" : "") +
     "</div>" +
     "</article>"

@@ -1,0 +1,22 @@
+[
+  {"slug": "zen-notes", "category": "Apps for Your Life", "confidence": 90},
+  {"slug": "socialmediamother", "category": "Apps for Your Life", "confidence": 95},
+  {"slug": "visualmql", "category": "Developer Tools", "confidence": 90},
+  {"slug": "critiforge", "category": "Developer Tools", "confidence": 95},
+  {"slug": "decidio-9rc8q0", "category": "Work & Productivity", "confidence": 95},
+  {"slug": "clearpath-ai-s1whmc", "category": "Apps for Your Life", "confidence": 90},
+  {"slug": "codexcandoit", "category": "Developer Tools", "confidence": 70},
+  {"slug": "dispatchai-abj20d", "category": "Work & Productivity", "confidence": 95},
+  {"slug": "ai-infra", "category": "Developer Tools", "confidence": 80},
+  {"slug": "rex-signal-to-action-engine", "category": "Work & Productivity", "confidence": 95},
+  {"slug": "odeya", "category": "Work & Productivity", "confidence": 75},
+  {"slug": "gpt-wallet-aifinpay", "category": "Apps for Your Life", "confidence": 85},
+  {"slug": "hotseat", "category": "Education", "confidence": 95},
+  {"slug": "reellearn", "category": "Education", "confidence": 98},
+  {"slug": "word-cards", "category": "Education", "confidence": 95},
+  {"slug": "poopi", "category": "Apps for Your Life", "confidence": 95},
+  {"slug": "quick-6wm74i", "category": "Education", "confidence": 95},
+  {"slug": "curio-l052x6", "category": "Education", "confidence": 95},
+  {"slug": "tagdrop-the-price-tracking-agent-for-everyday-life", "category": "Apps for Your Life", "confidence": 95},
+  {"slug": "midnight-harbor", "category": "Apps for Your Life", "confidence": 90}
+]

@@ -1,0 +1,88 @@
+[
+  {
+    "slug": "dailysync",
+    "technological_implementation": 6,
+    "design": 5,
+    "potential_impact": 6,
+    "quality_of_idea": 4
+  },
+  {
+    "slug": "cmt-mcp",
+    "technological_implementation": 5,
+    "design": 4,
+    "potential_impact": 6,
+    "quality_of_idea": 4
+  },
+  {
+    "slug": "parallelpilot",
+    "technological_implementation": 8,
+    "design": 6,
+    "potential_impact": 7,
+    "quality_of_idea": 7
+  },
+  {
+    "slug": "bar-tender",
+    "technological_implementation": 8,
+    "design": 8,
+    "potential_impact": 6,
+    "quality_of_idea": 7
+  },
+  {
+    "slug": "minecraftgpt",
+    "technological_implementation": 4,
+    "design": 4,
+    "potential_impact": 3,
+    "quality_of_idea": 4
+  },
+  {
+    "slug": "reversegps",
+    "technological_implementation": 7,
+    "design": 7,
+    "potential_impact": 6,
+    "quality_of_idea": 5
+  },
+  {
+    "slug": "devsphere-ona1gr",
+    "technological_implementation": 6,
+    "design": 6,
+    "potential_impact": 5,
+    "quality_of_idea": 4
+  },
+  {
+    "slug": "cvgo",
+    "technological_implementation": 6,
+    "design": 7,
+    "potential_impact": 7,
+    "quality_of_idea": 5
+  },
+  {
+    "slug": "bowser-profile-browser",
+    "technological_implementation": 7,
+    "design": 6,
+    "potential_impact": 5,
+    "quality_of_idea": 5
+  },
+  {
+    "slug": "project-taste",
+    "technological_implementation": 9,
+    "design": 6,
+    "potential_impact": 5,
+    "quality_of_idea": 8
+  },
+  {
+    "slug": "safeagent-ai-action-verification-platform",
+    "technological_implementation": 8,
+    "design": 7,
+    "potential_impact": 7,
+    "quality_of_idea": 7
+  },
+  {
+    "slug": "perspective-n3r1op",
+    "technological_implementation": 7,
+    "design": 7,
+    "potential_impact": 6,
+    "quality_of_idea": 7
+  },
+  {
+    "slug": "ask-momo",
+    "technological_implementation

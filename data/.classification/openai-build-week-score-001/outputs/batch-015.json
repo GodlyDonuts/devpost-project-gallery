@@ -1,0 +1,107 @@
+[
+  {
+    "slug": "prometheus-v-1-1-1",
+    "technological_implementation": 1,
+    "design": 1,
+    "potential_impact": 2,
+    "quality_of_idea": 3
+  },
+  {
+    "slug": "photo-diary",
+    "technological_implementation": 6,
+    "design": 6,
+    "potential_impact": 6,
+    "quality_of_idea": 4
+  },
+  {
+    "slug": "ankhoric-storygate",
+    "technological_implementation": 5,
+    "design": 7,
+    "potential_impact": 5,
+    "quality_of_idea": 8
+  },
+  {
+    "slug": "phishlens",
+    "technological_implementation": 8,
+    "design": 7,
+    "potential_impact": 8,
+    "quality_of_idea": 6
+  },
+  {
+    "slug": "miscue-lens",
+    "technological_implementation": 8,
+    "design": 7,
+    "potential_impact": 8,
+    "quality_of_idea": 8
+  },
+  {
+    "slug": "slashing-one",
+    "technological_implementation": 4,
+    "design": 4,
+    "potential_impact": 5,
+    "quality_of_idea": 5
+  },
+  {
+    "slug": "confusionlayer",
+    "technological_implementation": 9,
+    "design": 8,
+    "potential_impact": 8,
+    "quality_of_idea": 6
+  },
+  {
+    "slug": "orgainise",
+    "technological_implementation": 2,
+    "design": 1,
+    "potential_impact": 3,
+    "quality_of_idea": 4
+  },
+  {
+    "slug": "stellar-alien-wars-sci-fi-shooter",
+    "technological_implementation": 5,
+    "design": 7,
+    "potential_impact": 4,
+    "quality_of_idea": 3
+  },
+  {
+    "slug": "cocon",
+    "technological_implementation": 8,
+    "design": 8,
+    "potential_impact": 7,
+    "quality_of_idea": 6
+  },
+  {
+    "slug": "word-gets-around-in-the-zone",
+    "technological_implementation": 9,
+    "design": 8,
+    "potential_impact": 6,
+    "quality_of_idea": 9
+  },
+  {
+    "slug": "ellucian",
+    "technological_implementation": 4,
+    "design": 5,
+    "potential_impact": 5,
+    "quality_of_idea": 4
+  },
+  {
+    "slug": "next-gen-ep3klq",
+    "technological_implementation": 1,
+    "design": 1,
+    "potential_impact": 2,
+    "quality_of_idea": 2
+  },
+  {
+    "slug": "cover-performance-analytics",
+    "technological_implementation": 8,
+    "design": 7,
+    "potential_impact": 7,
+    "quality_of_idea": 7
+  },
+  {
+    "slug": "codex-project-recovery-manager-v2",
+    "technological_implementation": 7,
+    "design": 6,
+    "potential_impact": 6,
+    "quality_of_idea": 6
+  }
+]

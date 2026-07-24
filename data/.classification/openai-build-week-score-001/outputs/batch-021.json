@@ -1,0 +1,107 @@
+[
+  {
+    "slug": "manager-mode",
+    "technological_implementation": 9,
+    "design": 8,
+    "potential_impact": 8,
+    "quality_of_idea": 8
+  },
+  {
+    "slug": "autodeck-4gbcxy",
+    "technological_implementation": 4,
+    "design": 3,
+    "potential_impact": 3,
+    "quality_of_idea": 3
+  },
+  {
+    "slug": "flow-circle",
+    "technological_implementation": 2,
+    "design": 3,
+    "potential_impact": 5,
+    "quality_of_idea": 6
+  },
+  {
+    "slug": "reasonweave-wynpvd",
+    "technological_implementation": 8,
+    "design": 8,
+    "potential_impact": 7,
+    "quality_of_idea": 8
+  },
+  {
+    "slug": "chief-vahujg",
+    "technological_implementation": 4,
+    "design": 5,
+    "potential_impact": 6,
+    "quality_of_idea": 4
+  },
+  {
+    "slug": "cloudfolks-kubementor-ai",
+    "technological_implementation": 3,
+    "design": 2,
+    "potential_impact": 3,
+    "quality_of_idea": 2
+  },
+  {
+    "slug": "jobassist-wa42vg",
+    "technological_implementation": 7,
+    "design": 7,
+    "potential_impact": 7,
+    "quality_of_idea": 5
+  },
+  {
+    "slug": "codex-level",
+    "technological_implementation": 4,
+    "design": 5,
+    "potential_impact": 3,
+    "quality_of_idea": 3
+  },
+  {
+    "slug": "perkcommons",
+    "technological_implementation": 8,
+    "design": 7,
+    "potential_impact": 8,
+    "quality_of_idea": 6
+  },
+  {
+    "slug": "argus-k8s",
+    "technological_implementation": 8,
+    "design": 6,
+    "potential_impact": 8,
+    "quality_of_idea": 7
+  },
+  {
+    "slug": "think-outside-the-bots",
+    "technological_implementation": 5,
+    "design": 6,
+    "potential_impact": 6,
+    "quality_of_idea": 6
+  },
+  {
+    "slug": "axon-cisvwo",
+    "technological_implementation": 8,
+    "design": 7,
+    "potential_impact": 7,
+    "quality_of_idea": 7
+  },
+  {
+    "slug": "wever-labs-commerce-proof",
+    "technological_implementation": 8,
+    "design": 7,
+    "potential_impact": 6,
+    "quality_of_idea": 7
+  },
+  {
+    "slug": "gesto",
+    "technological_implementation": 7,
+    "design": 6,
+    "potential_impact": 4,
+    "quality_of_idea": 4
+  },
+  {
+    "slug": "sphere-orbis",
+    "technological_implementation": 9,
+    "design": 8,
+    "potential_impact": 7,
+    "quality_of_idea": 8
+  }
+]

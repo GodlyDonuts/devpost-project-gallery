@@ -1,0 +1,107 @@
+[
+  {
+    "slug": "ai-orchestrated-intellilab",
+    "technological_implementation": 5,
+    "design": 5,
+    "potential_impact": 6,
+    "quality_of_idea": 5
+  },
+  {
+    "slug": "farito-app",
+    "technological_implementation": 8,
+    "design": 8,
+    "potential_impact": 8,
+    "quality_of_idea": 6
+  },
+  {
+    "slug": "local-app-kernel",
+    "technological_implementation": 8,
+    "design": 5,
+    "potential_impact": 7,
+    "quality_of_idea": 7
+  },
+  {
+    "slug": "agentic-trading",
+    "technological_implementation": 9,
+    "design": 8,
+    "potential_impact": 7,
+    "quality_of_idea": 7
+  },
+  {
+    "slug": "conference",
+    "technological_implementation": 5,
+    "design": 7,
+    "potential_impact": 7,
+    "quality_of_idea": 4
+  },
+  {
+    "slug": "concordance",
+    "technological_implementation": 2,
+    "design": 1,
+    "potential_impact": 2,
+    "quality_of_idea": 3
+  },
+  {
+    "slug": "memoralink-memory-studio",
+    "technological_implementation": 8,
+    "design": 8,
+    "potential_impact": 7,
+    "quality_of_idea": 7
+  },
+  {
+    "slug": "doomo",
+    "technological_implementation": 3,
+    "design": 3,
+    "potential_impact": 4,
+    "quality_of_idea": 3
+  },
+  {
+    "slug": "atlas-wxsj0v",
+    "technological_implementation": 6,
+    "design": 8,
+    "potential_impact": 7,
+    "quality_of_idea": 6
+  },
+  {
+    "slug": "situationos-ai-analytics-you-can-prove",
+    "technological_implementation": 7,
+    "design": 6,
+    "potential_impact": 7,
+    "quality_of_idea": 7
+  },
+  {
+    "slug": "churn-li",
+    "technological_implementation": 2,
+    "design": 2,
+    "potential_impact": 2,
+    "quality_of_idea": 2
+  },
+  {
+    "slug": "oysterun",
+    "technological_implementation": 7,
+    "design": 7,
+    "potential_impact": 7,
+    "quality_of_idea": 6
+  },
+  {
+    "slug": "porter-mhe8sx",
+    "technological_implementation": 6,
+    "design": 7,
+    "potential_impact": 8,
+    "quality_of_idea": 7
+  },
+  {
+    "slug": "openmanic",
+    "technological_implementation": 3,
+    "design": 3,
+    "potential_impact": 4,
+    "quality_of_idea": 3
+  },
+  {
+    "slug": "kateto",
+    "technological_implementation": 5,
+    "design": 4,
+    "potential_impact": 4,
+    "quality_of_idea": 5
+  }
+]

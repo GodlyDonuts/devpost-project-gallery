@@ -1,0 +1,107 @@
+[
+  {
+    "slug": "eudaimonia-capture-and-grow",
+    "technological_implementation": 6,
+    "design": 7,
+    "potential_impact": 5,
+    "quality_of_idea": 5
+  },
+  {
+    "slug": "presenter-v2kxa5",
+    "technological_implementation": 8,
+    "design": 8,
+    "potential_impact": 8,
+    "quality_of_idea": 6
+  },
+  {
+    "slug": "keemov-interview-learning-loop",
+    "technological_implementation": 2,
+    "design": 2,
+    "potential_impact": 2,
+    "quality_of_idea": 2
+  },
+  {
+    "slug": "threatlens-0u12te",
+    "technological_implementation": 8,
+    "design": 7,
+    "potential_impact": 8,
+    "quality_of_idea": 6
+  },
+  {
+    "slug": "matma",
+    "technological_implementation": 9,
+    "design": 7,
+    "potential_impact": 7,
+    "quality_of_idea": 8
+  },
+  {
+    "slug": "codex-guard",
+    "technological_implementation": 9,
+    "design": 6,
+    "potential_impact": 7,
+    "quality_of_idea": 9
+  },
+  {
+    "slug": "cosmocoach",
+    "technological_implementation": 8,
+    "design": 8,
+    "potential_impact": 6,
+    "quality_of_idea": 6
+  },
+  {
+    "slug": "researchorchestrator",
+    "technological_implementation": 4,
+    "design": 4,
+    "potential_impact": 4,
+    "quality_of_idea": 5
+  },
+  {
+    "slug": "strideos-dj2owr",
+    "technological_implementation": 6,
+    "design": 6,
+    "potential_impact": 5,
+    "quality_of_idea": 4
+  },
+  {
+    "slug": "custodia-rx59gh",
+    "technological_implementation": 8,
+    "design": 6,
+    "potential_impact": 8,
+    "quality_of_idea": 6
+  },
+  {
+    "slug": "taxgraph-for-software-ai-services",
+    "technological_implementation": 8,
+    "design": 7,
+    "potential_impact": 8,
+    "quality_of_idea": 8
+  },
+  {
+    "slug": "codex-org",
+    "technological_implementation": 7,
+    "design": 7,
+    "potential_impact": 4,
+    "quality_of_idea": 7
+  },
+  {
+    "slug": "gameengine2d-pro",
+    "technological_implementation": 8,
+    "design": 8,
+    "potential_impact": 5,
+    "quality_of_idea": 4
+  },
+  {
+    "slug": "bastion-uk3l6y",
+    "technological_implementation": 9,
+    "design": 7,
+    "potential_impact": 8,
+    "quality_of_idea": 8
+  },
+  {
+    "slug": "ai-decision-to-action-companion",
+    "technological_implementation": 6,
+    "design": 7,
+    "potential_impact": 5,
+    "quality_of_idea": 4
+  }
+]
