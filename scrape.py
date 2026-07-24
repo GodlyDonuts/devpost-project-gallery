@@ -235,6 +235,19 @@ def parse_project(html, slug, categories, hackathon_name):
     text = soup.get_text(" ", strip=True)
     submitted_here = hackathon_name.lower() in text.lower()
 
+    # Keep the public project write-up separately from the short OpenGraph
+    # description.  It is useful for classification and is already present on
+    # the page we fetched to verify the submission.
+    about = ""
+    details = soup.select_one("#app-details-left")
+    if details:
+        for section in details.find_all("div", recursive=False):
+            if section.get("id") == "gallery" or "built-with" in (section.get("class") or []):
+                continue
+            if section.find(["h2", "h3"]):
+                about = section.get_text(" ", strip=True)
+                break
+
     category = None  # track labels aren't on public pages; filled in manually later
     for c in categories:
         if re.search(r"\b" + re.escape(c) + r"\b", text, re.I):
@@ -254,6 +267,7 @@ def parse_project(html, slug, categories, hackathon_name):
         "slug": slug,
         "title": title,
         "description": desc,
+        "about": about,
         "image": image,
         "category": category if submitted_here else None,
         "submitted_to_hackathon": submitted_here,
