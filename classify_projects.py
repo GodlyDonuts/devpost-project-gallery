@@ -278,6 +278,45 @@ def publish_scores(prefix):
     print(f"published {len(scores)} validated scorecards to {output}")
 
 
+def publish_scores_partial(prefix):
+    """Publish complete individual score batches while the run is ongoing."""
+    base, input_path, _ = paths(prefix)
+    expected = {record["slug"] for record in load_json(input_path)}
+    scores = {}
+    for output in sorted((base / "outputs").glob("batch-*.json")):
+        try:
+            items = parse_output(output.read_text())
+        except ValueError:
+            continue
+        batch = {}
+        valid = True
+        for item in items:
+            slug_value = item.get("slug")
+            values = {field: item.get(field) for field in SCORE_FIELDS}
+            if slug_value not in expected or slug_value in batch or any(type(value) is not int or value < 0 or value > 10 for value in values.values()):
+                valid = False
+                break
+            batch[slug_value] = {**values, "total": sum(values.values())}
+        if not valid or not batch:
+            continue
+        for slug_value, score in batch.items():
+            if slug_value in scores and scores[slug_value] != score:
+                valid = False
+                break
+            scores[slug_value] = score
+        if not valid:
+            for slug_value in batch:
+                scores.pop(slug_value, None)
+    output = ROOT / "data" / "openai-build-week-scores.json"
+    atomic_json(output, {
+        "generated_at": datetime.now(timezone.utc).isoformat(),
+        "count": len(scores),
+        "complete": len(scores) == len(expected),
+        "scores": scores,
+    })
+    print(f"published {len(scores)} complete batch scorecards to {output}")
+
+
 def run_batches(slug, workers):
     """Run independent, fresh-context Hy3 calls over prepared prompt files."""
     base, _, _ = paths(slug)
@@ -366,7 +405,7 @@ def publish(slug):
 def main():
     parser = argparse.ArgumentParser()
     parser.add_argument("slug")
-    parser.add_argument("action", choices=("prepare", "batches", "score-batches", "run", "validate", "score-validate", "publish", "score-publish", "merge"))
+    parser.add_argument("action", choices=("prepare", "batches", "score-batches", "run", "validate", "score-validate", "publish", "score-publish", "score-partial-publish", "merge"))
     parser.add_argument("--delay", type=float, default=0.4)
     parser.add_argument("--batch-size", type=int, default=20)
     parser.add_argument("--workers", type=int, default=10)
@@ -386,6 +425,8 @@ def main():
         sys.exit(0 if validate_scores(args.slug) else 1)
     elif args.action == "score-publish":
         publish_scores(args.slug)
+    elif args.action == "score-partial-publish":
+        publish_scores_partial(args.slug)
     elif args.action == "publish":
         publish(args.slug)
     else:
