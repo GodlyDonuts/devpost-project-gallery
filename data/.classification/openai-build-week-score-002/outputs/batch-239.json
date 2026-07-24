@@ -1,0 +1,44 @@
+[
+  {
+    "slug": "echocards-8u6rx7",
+    "technological_implementation": 8,
+    "design": 7,
+    "potential_impact": 7,
+    "quality_of_idea": 6
+  },
+  {
+    "slug": "mei-tra",
+    "technological_implementation": 6,
+    "design": 8,
+    "potential_impact": 6,
+    "quality_of_idea": 5
+  },
+  {
+    "slug": "dhurandhar-ai-agents-that-show-receipts",
+    "technological_implementation": 9,
+    "design": 6,
+    "potential_impact": 8,
+    "quality_of_idea": 9
+  },
+  {
+    "slug": "cartcause",
+    "technological_implementation": 5,
+    "design": 7,
+    "potential_impact": 7,
+    "quality_of_idea": 6
+  },
+  {
+    "slug": "hippo-homes",
+    "technological_implementation": 7,
+    "design": 7,
+    "potential_impact": 6,
+    "quality_of_idea": 5
+  },
+  {
+    "slug": "nyx-persona",
+    "technological_implementation": 9,
+    "design": 8,
+    "potential_impact": 8,
+    "quality_of_idea": 8
+  }
+]

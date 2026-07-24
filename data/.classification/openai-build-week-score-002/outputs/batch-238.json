@@ -1,0 +1,17 @@
+[
+  {"slug": "chatting-nexus", "technological_implementation": 3, "design": 4, "potential_impact": 5, "quality_of_idea": 3},
+  {"slug": "firework-sa8h0p", "technological_implementation": 8, "design": 5, "potential_impact": 7, "quality_of_idea": 6},
+  {"slug": "studyflow-b18xqt", "technological_implementation": 9, "design": 7, "potential_impact": 7, "quality_of_idea": 7},
+  {"slug": "main-yu0c5r", "technological_implementation": 1, "design": 1, "potential_impact": 1, "quality_of_idea": 1},
+  {"slug": "resonance-switch-agent-recovery-lab", "technological_implementation": 8, "design": 4, "potential_impact": 5, "quality_of_idea": 6},
+  {"slug": "aida-personal-agents-for-human-coordination", "technological_implementation": 7, "design": 8, "potential_impact": 8, "quality_of_idea": 8},
+  {"slug": "musixquare", "technological_implementation": 9, "design": 8, "potential_impact": 6, "quality_of_idea": 7},
+  {"slug": "lucia-s-dictionary-classroom-relay", "technological_implementation": 6, "design": 7, "potential_impact": 7, "quality_of_idea": 7},
+  {"slug": "english-life", "technological_implementation": 7, "design": 7, "potential_impact": 6, "quality_of_idea": 5},
+  {"slug": "kaiwa-ai-japanese-conversation-coach", "technological_implementation": 6, "design": 6, "potential_impact": 6, "quality_of_idea": 4},
+  {"slug": "codex-agent-studio", "technological_implementation": 8, "design": 7, "potential_impact": 6, "quality_of_idea": 6},
+  {"slug": "emaki-kanji-as-pictures-with-a-gpt-5-6-tutor", "technological_implementation": 8, "design": 7, "potential_impact": 7, "quality_of_idea": 8},
+  {"slug": "admitpulse", "technological_implementation": 7, "design": 6, "potential_impact": 7, "quality_of_idea": 5},
+  {"slug": "outlier-fn3myi", "technological_implementation": 7, "design": 5, "potential_impact": 7, "quality_of_idea": 8},
+  {"slug": "phonescape", "technological_implementation": 7, "design": 8, "potential_impact": 7, "quality_of_idea": 8}
+]
