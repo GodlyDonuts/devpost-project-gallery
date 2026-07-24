@@ -1,0 +1,17 @@
+[
+  {"slug": "standsip-rewards", "technological_implementation": 2, "design": 2, "potential_impact": 3, "quality_of_idea": 2},
+  {"slug": "pocket-site", "technological_implementation": 8, "design": 8, "potential_impact": 8, "quality_of_idea": 7},
+  {"slug": "devsleuthagent", "technological_implementation": 9, "design": 8, "potential_impact": 8, "quality_of_idea": 7},
+  {"slug": "wakedot", "technological_implementation": 8, "design": 9, "potential_impact": 8, "quality_of_idea": 7},
+  {"slug": "fingoal-agentic-budgeting-reimagined", "technological_implementation": 7, "design": 7, "potential_impact": 6, "quality_of_idea": 5},
+  {"slug": "trial-zero", "technological_implementation": 9, "design": 8, "potential_impact": 9, "quality_of_idea": 8},
+  {"slug": "slo-guardian", "technological_implementation": 9, "design": 8, "potential_impact": 8, "quality_of_idea": 7},
+  {"slug": "personal-diary", "technological_implementation": 3, "design": 3, "potential_impact": 3, "quality_of_idea": 2},
+  {"slug": "arenaos-ai-intelligent-digital-twin-for-smart-stadiums", "technological_implementation": 2, "design": 2, "potential_impact": 3, "quality_of_idea": 3},
+  {"slug": "don-t-be-a-stranger", "technological_implementation": 5, "design": 6, "potential_impact": 6, "quality_of_idea": 6},
+  {"slug": "personal-portfolio-website-8rtis1", "technological_implementation": 3, "design": 3, "potential_impact": 2, "quality_of_idea": 2},
+  {"slug": "skyhub-nexus", "technological_implementation": 2, "design": 2, "potential_impact": 3, "quality_of_idea": 3},
+  {"slug": "socratic-sandbox-r412bx", "technological_implementation": 8, "design": 9, "potential_impact": 9, "quality_of_idea": 9},
+  {"slug": "road-speed-calibrator", "technological_implementation": 9, "design": 8, "potential_impact": 8, "quality_of_idea": 7},
+  {"slug": "aegisforge", "technological_implementation": 6, "design": 7, "potential_impact": 6, "quality_of_idea": 5}
+]

@@ -1,0 +1,107 @@
+[
+  {
+    "slug": "octogee",
+    "technological_implementation": 9,
+    "design": 8,
+    "potential_impact": 7,
+    "quality_of_idea": 6
+  },
+  {
+    "slug": "agentworkbench-arena",
+    "technological_implementation": 3,
+    "design": 2,
+    "potential_impact": 4,
+    "quality_of_idea": 6
+  },
+  {
+    "slug": "wattle-z9t4vs",
+    "technological_implementation": 6,
+    "design": 6,
+    "potential_impact": 7,
+    "quality_of_idea": 5
+  },
+  {
+    "slug": "economics-peer-review-app",
+    "technological_implementation": 2,
+    "design": 2,
+    "potential_impact": 4,
+    "quality_of_idea": 4
+  },
+  {
+    "slug": "agentos-by-prime",
+    "technological_implementation": 5,
+    "design": 4,
+    "potential_impact": 6,
+    "quality_of_idea": 5
+  },
+  {
+    "slug": "oscar-nutricao-nutritional-intelligence",
+    "technological_implementation": 4,
+    "design": 4,
+    "potential_impact": 6,
+    "quality_of_idea": 4
+  },
+  {
+    "slug": "vizkit",
+    "technological_implementation": 8,
+    "design": 8,
+    "potential_impact": 7,
+    "quality_of_idea": 7
+  },
+  {
+    "slug": "wen-studio",
+    "technological_implementation": 7,
+    "design": 7,
+    "potential_impact": 7,
+    "quality_of_idea": 7
+  },
+  {
+    "slug": "t3-research-intelligence",
+    "technological_implementation": 9,
+    "design": 7,
+    "potential_impact": 7,
+    "quality_of_idea": 7
+  },
+  {
+    "slug": "sw-73wukm",
+    "technological_implementation": 1,
+    "design": 1,
+    "potential_impact": 2,
+    "quality_of_idea": 2
+  },
+  {
+    "slug": "lifeflow-your-daily-opportunity-os",
+    "technological_implementation": 5,
+    "design": 6,
+    "potential_impact": 5,
+    "quality_of_idea": 5
+  },
+  {
+    "slug": "mitsu-hand-and-voice-gesture-control-for-the-desktop",
+    "technological_implementation": 9,
+    "design": 7,
+    "potential_impact": 7,
+    "quality_of_idea": 7
+  },
+  {
+    "slug": "handfree",
+    "technological_implementation": 2,
+    "design": 2,
+    "potential_impact": 4,
+    "quality_of_idea": 4
+  },
+  {
+    "slug": "carecompass-kids",
+    "technological_implementation": 8,
+    "design": 8,
+    "potential_impact": 8,
+    "quality_of_idea": 8
+  },
+  {
+    "slug": "argus-autonomous-market-intelligence-trade-governance",
+    "technological_implementation": 8,
+    "design": 7,
+    "potential_impact": 6,
+    "quality_of_idea": 7
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {"slug": "any-spit", "technological_implementation": 1, "design": 1, "potential_impact": 1, "quality_of_idea": 1},
+  {"slug": "mecklink", "technological_implementation": 4, "design": 3, "potential_impact": 6, "quality_of_idea": 3},
+  {"slug": "neja-ready", "technological_implementation": 8, "design": 7, "potential_impact": 7, "quality_of_idea": 7},
+  {"slug": "lessonproof", "technological_implementation": 8, "design": 7, "potential_impact": 6, "quality_of_idea": 7},
+  {"slug": "ai-pos-by-toy", "technological_implementation": 2, "design": 2, "potential_impact": 5, "quality_of_idea": 3},
+  {"slug": "rag-assistant", "technological_implementation": 6, "design": 5, "potential_impact": 6, "quality_of_idea": 4},
+  {"slug": "visionloop", "technological_implementation": 8, "design": 8, "potential_impact": 8, "quality_of_idea": 9},
+  {"slug": "lazybug-jw425u", "technological_implementation": 9, "design": 8, "potential_impact": 8, "quality_of_idea": 8},
+  {"slug": "codequest-sk9gf6", "technological_implementation": 7, "design": 8, "potential_impact": 7, "quality_of_idea": 8},
+  {"slug": "evidence-wiki", "technological_implementation": 6, "design": 5, "potential_impact": 7, "quality_of_idea": 7},
+  {"slug": "nurselist", "technological_implementation": 2, "design": 1, "potential_impact": 4, "quality_of_idea": 3},
+  {"slug": "help2repair", "technological_implementation": 8, "design": 8, "potential_impact": 8, "quality_of_idea": 6},
+  {"slug": "poruch", "technological_implementation": 6, "design": 6, "potential_impact": 7, "quality_of_idea": 6},
+  {"slug": "redev", "technological_implementation": 4, "design": 5, "potential_impact": 6, "quality_of_idea": 5},
+  {"slug": "mamacare-vht-co-pilot", "technological_implementation": 8, "design": 7, "potential_impact": 8, "quality_of_idea": 7}
+]

@@ -1,0 +1,107 @@
+[
+  {
+    "slug": "refyn-xv6ft2",
+    "technological_implementation": 8,
+    "design": 7,
+    "potential_impact": 7,
+    "quality_of_idea": 6
+  },
+  {
+    "slug": "babynest-timeline-babytale",
+    "technological_implementation": 7,
+    "design": 6,
+    "potential_impact": 7,
+    "quality_of_idea": 5
+  },
+  {
+    "slug": "soulsynce",
+    "technological_implementation": 5,
+    "design": 5,
+    "potential_impact": 4,
+    "quality_of_idea": 3
+  },
+  {
+    "slug": "alumnia360-from-absence-to-action",
+    "technological_implementation": 6,
+    "design": 7,
+    "potential_impact": 9,
+    "quality_of_idea": 8
+  },
+  {
+    "slug": "codex-6e2j4u",
+    "technological_implementation": 3,
+    "design": 3,
+    "potential_impact": 3,
+    "quality_of_idea": 2
+  },
+  {
+    "slug": "rust-bqwmi1",
+    "technological_implementation": 1,
+    "design": 1,
+    "potential_impact": 1,
+    "quality_of_idea": 2
+  },
+  {
+    "slug": "chargeassist",
+    "technological_implementation": 6,
+    "design": 7,
+    "potential_impact": 6,
+    "quality_of_idea": 5
+  },
+  {
+    "slug": "nextbranch",
+    "technological_implementation": 9,
+    "design": 8,
+    "potential_impact": 8,
+    "quality_of_idea": 9
+  },
+  {
+    "slug": "atlas-memory-engine",
+    "technological_implementation": 7,
+    "design": 6,
+    "potential_impact": 6,
+    "quality_of_idea": 5
+  },
+  {
+    "slug": "outrider",
+    "technological_implementation": 9,
+    "design": 7,
+    "potential_impact": 8,
+    "quality_of_idea": 8
+  },
+  {
+    "slug": "interactive-memoirs-digital-legacy-preservation",
+    "technological_implementation": 2,
+    "design": 3,
+    "potential_impact": 4,
+    "quality_of_idea": 5
+  },
+  {
+    "slug": "personal-pattern-lab",
+    "technological_implementation": 8,
+    "design": 7,
+    "potential_impact": 6,
+    "quality_of_idea": 7
+  },
+  {
+    "slug": "dmt-semantic-theme-editor-for-ableton-live",
+    "technological_implementation": 9,
+    "design": 8,
+    "potential_impact": 6,
+    "quality_of_idea": 9
+  },
+  {
+    "slug": "cardpricelab",
+    "technological_implementation": 8,
+    "design": 7,
+    "potential_impact": 7,
+    "quality_of_idea": 7
+  },
+  {
+    "slug": "text-unlocked",
+    "technological_implementation": 8,
+    "design": 7,
+    "potential_impact": 6,
+    "quality_of_idea": 5
+  }
+]

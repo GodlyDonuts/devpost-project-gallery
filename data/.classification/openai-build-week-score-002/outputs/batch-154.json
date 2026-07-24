@@ -1,0 +1,107 @@
+[
+  {
+    "slug": "human-guided-ai-marc-review",
+    "technological_implementation": 9,
+    "design": 8,
+    "potential_impact": 8,
+    "quality_of_idea": 8
+  },
+  {
+    "slug": "reconc",
+    "technological_implementation": 9,
+    "design": 6,
+    "potential_impact": 8,
+    "quality_of_idea": 8
+  },
+  {
+    "slug": "sweet-salty-ai-feedback",
+    "technological_implementation": 3,
+    "design": 3,
+    "potential_impact": 3,
+    "quality_of_idea": 3
+  },
+  {
+    "slug": "ai-design-team",
+    "technological_implementation": 5,
+    "design": 5,
+    "potential_impact": 5,
+    "quality_of_idea": 7
+  },
+  {
+    "slug": "marketlens-20k9qg",
+    "technological_implementation": 8,
+    "design": 7,
+    "potential_impact": 7,
+    "quality_of_idea": 5
+  },
+  {
+    "slug": "patient-intake-assistant",
+    "technological_implementation": 8,
+    "design": 7,
+    "potential_impact": 8,
+    "quality_of_idea": 7
+  },
+  {
+    "slug": "hacktrack-tegsfo",
+    "technological_implementation": 4,
+    "design": 4,
+    "potential_impact": 4,
+    "quality_of_idea": 3
+  },
+  {
+    "slug": "wattch",
+    "technological_implementation": 10,
+    "design": 7,
+    "potential_impact": 8,
+    "quality_of_idea": 9
+  },
+  {
+    "slug": "agent-payment-redteam",
+    "technological_implementation": 3,
+    "design": 2,
+    "potential_impact": 3,
+    "quality_of_idea": 4
+  },
+  {
+    "slug": "project-mainstage",
+    "technological_implementation": 4,
+    "design": 6,
+    "potential_impact": 6,
+    "quality_of_idea": 7
+  },
+  {
+    "slug": "veil-0ch38s",
+    "technological_implementation": 2,
+    "design": 2,
+    "potential_impact": 3,
+    "quality_of_idea": 4
+  },
+  {
+    "slug": "pr-guardian-ai",
+    "technological_implementation": 9,
+    "design": 7,
+    "potential_impact": 8,
+    "quality_of_idea": 7
+  },
+  {
+    "slug": "workos-ai",
+    "technological_implementation": 2,
+    "design": 2,
+    "potential_impact": 2,
+    "quality_of_idea": 3
+  },
+  {
+    "slug": "pandya-ai",
+    "technological_implementation": 4,
+    "design": 4,
+    "potential_impact": 5,
+    "quality_of_idea": 5
+  },
+  {
+    "slug": "vertex-palace",
+    "technological_implementation": 9,
+    "design": 6,
+    "potential_impact": 8,
+    "quality_of_idea": 9
+  }
+]

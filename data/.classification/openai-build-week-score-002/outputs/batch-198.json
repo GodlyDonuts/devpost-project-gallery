@@ -1,0 +1,107 @@
+[
+  {
+    "slug": "truthcon-the-congressional-intelligence-engine",
+    "technological_implementation": 8,
+    "design": 7,
+    "potential_impact": 8,
+    "quality_of_idea": 7
+  },
+  {
+    "slug": "ellistrip",
+    "technological_implementation": 4,
+    "design": 3,
+    "potential_impact": 3,
+    "quality_of_idea": 5
+  },
+  {
+    "slug": "developer-copilot-workspace",
+    "technological_implementation": 8,
+    "design": 7,
+    "potential_impact": 8,
+    "quality_of_idea": 5
+  },
+  {
+    "slug": "tofufukitchen",
+    "technological_implementation": 9,
+    "design": 8,
+    "potential_impact": 8,
+    "quality_of_idea": 7
+  },
+  {
+    "slug": "spotz",
+    "technological_implementation": 2,
+    "design": 2,
+    "potential_impact": 3,
+    "quality_of_idea": 3
+  },
+  {
+    "slug": "knowy-ai",
+    "technological_implementation": 2,
+    "design": 1,
+    "potential_impact": 2,
+    "quality_of_idea": 2
+  },
+  {
+    "slug": "visainterview-ai",
+    "technological_implementation": 8,
+    "design": 8,
+    "potential_impact": 9,
+    "quality_of_idea": 7
+  },
+  {
+    "slug": "codey-2wgzdu",
+    "technological_implementation": 8,
+    "design": 8,
+    "potential_impact": 6,
+    "quality_of_idea": 6
+  },
+  {
+    "slug": "qanvaz",
+    "technological_implementation": 6,
+    "design": 7,
+    "potential_impact": 6,
+    "quality_of_idea": 6
+  },
+  {
+    "slug": "mystery-of-ancient-darkness",
+    "technological_implementation": 9,
+    "design": 9,
+    "potential_impact": 7,
+    "quality_of_idea": 8
+  },
+  {
+    "slug": "meet-liv-the-living-governance-companion",
+    "technological_implementation": 5,
+    "design": 6,
+    "potential_impact": 5,
+    "quality_of_idea": 6
+  },
+  {
+    "slug": "sihogar-asistente-ia-para-el-hogar",
+    "technological_implementation": 5,
+    "design": 5,
+    "potential_impact": 6,
+    "quality_of_idea": 5
+  },
+  {
+    "slug": "voltquote-ai-electrical-quotation-autopilot",
+    "technological_implementation": 8,
+    "design": 7,
+    "potential_impact": 8,
+    "quality_of_idea": 7
+  },
+  {
+    "slug": "nimbus-xfpwsy",
+    "technological_implementation": 2,
+    "design": 3,
+    "potential_impact": 3,
+    "quality_of_idea": 3
+  },
+  {
+    "slug": "pharmasist",
+    "technological_implementation": 8,
+    "design": 7,
+    "potential_impact": 8,
+    "quality_of_idea": 7
+  }
+]

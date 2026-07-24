@@ -1,0 +1,107 @@
+[
+  {
+    "slug": "aether-lens",
+    "technological_implementation": 9,
+    "design": 8,
+    "potential_impact": 7,
+    "quality_of_idea": 8
+  },
+  {
+    "slug": "mnemo-ai-tutor-that-remembers-you-across-platforms",
+    "technological_implementation": 7,
+    "design": 8,
+    "potential_impact": 8,
+    "quality_of_idea": 8
+  },
+  {
+    "slug": "polisconnect",
+    "technological_implementation": 7,
+    "design": 7,
+    "potential_impact": 8,
+    "quality_of_idea": 6
+  },
+  {
+    "slug": "edumiscon-ai-socratic-student-error-diagnostician",
+    "technological_implementation": 6,
+    "design": 5,
+    "potential_impact": 6,
+    "quality_of_idea": 5
+  },
+  {
+    "slug": "strepitus-silvae",
+    "technological_implementation": 3,
+    "design": 3,
+    "potential_impact": 4,
+    "quality_of_idea": 4
+  },
+  {
+    "slug": "supportdeskhelper-resolveloop",
+    "technological_implementation": 7,
+    "design": 7,
+    "potential_impact": 8,
+    "quality_of_idea": 8
+  },
+  {
+    "slug": "spark-i4o3uf",
+    "technological_implementation": 8,
+    "design": 6,
+    "potential_impact": 6,
+    "quality_of_idea": 8
+  },
+  {
+    "slug": "tekmerion-proof-surface-compiler",
+    "technological_implementation": 9,
+    "design": 6,
+    "potential_impact": 7,
+    "quality_of_idea": 9
+  },
+  {
+    "slug": "auralis-jn26um",
+    "technological_implementation": 4,
+    "design": 5,
+    "potential_impact": 6,
+    "quality_of_idea": 6
+  },
+  {
+    "slug": "snap-lxucnz",
+    "technological_implementation": 1,
+    "design": 1,
+    "potential_impact": 1,
+    "quality_of_idea": 1
+  },
+  {
+    "slug": "cognition-runtime",
+    "technological_implementation": 2,
+    "design": 1,
+    "potential_impact": 2,
+    "quality_of_idea": 2
+  },
+  {
+    "slug": "vivagraph",
+    "technological_implementation": 7,
+    "design": 8,
+    "potential_impact": 8,
+    "quality_of_idea": 8
+  },
+  {
+    "slug": "signaldesk-ldvkja",
+    "technological_implementation": 7,
+    "design": 6,
+    "potential_impact": 7,
+    "quality_of_idea": 6
+  },
+  {
+    "slug": "systems-studio-evidence-node",
+    "technological_implementation": 6,
+    "design": 6,
+    "potential_impact": 6,
+    "quality_of_idea": 5
+  },
+  {
+    "slug": "rootline-4d0hqo",
+    "technological_implementation": 9,
+    "design": 7,
+    "potential_impact": 7,
+    "quality_of_idea": 8
+  }
+]

@@ -1,0 +1,107 @@
+[
+  {
+    "slug": "emberflame-workshop",
+    "technological_implementation": 8,
+    "design": 7,
+    "potential_impact": 7,
+    "quality_of_idea": 6
+  },
+  {
+    "slug": "klipcut-io",
+    "technological_implementation": 8,
+    "design": 7,
+    "potential_impact": 8,
+    "quality_of_idea": 7
+  },
+  {
+    "slug": "real-learning-k1u7fr",
+    "technological_implementation": 4,
+    "design": 5,
+    "potential_impact": 5,
+    "quality_of_idea": 4
+  },
+  {
+    "slug": "dadrock-tabs-multilingual-guitar-and-bass-lessons",
+    "technological_implementation": 2,
+    "design": 2,
+    "potential_impact": 3,
+    "quality_of_idea": 3
+  },
+  {
+    "slug": "pasoclaro-ai",
+    "technological_implementation": 3,
+    "design": 4,
+    "potential_impact": 6,
+    "quality_of_idea": 7
+  },
+  {
+    "slug": "automoney",
+    "technological_implementation": 2,
+    "design": 1,
+    "potential_impact": 2,
+    "quality_of_idea": 2
+  },
+  {
+    "slug": "never-miss-an-idea",
+    "technological_implementation": 5,
+    "design": 5,
+    "potential_impact": 5,
+    "quality_of_idea": 4
+  },
+  {
+    "slug": "codex-atom",
+    "technological_implementation": 9,
+    "design": 7,
+    "potential_impact": 5,
+    "quality_of_idea": 6
+  },
+  {
+    "slug": "fabyield-pm",
+    "technological_implementation": 9,
+    "design": 7,
+    "potential_impact": 8,
+    "quality_of_idea": 8
+  },
+  {
+    "slug": "cordoba-connect-smart-multimodal-mobility",
+    "technological_implementation": 8,
+    "design": 7,
+    "potential_impact": 7,
+    "quality_of_idea": 6
+  },
+  {
+    "slug": "piestukas",
+    "technological_implementation": 7,
+    "design": 8,
+    "potential_impact": 6,
+    "quality_of_idea": 5
+  },
+  {
+    "slug": "apie-ai-powered-interactive-education-djw63l",
+    "technological_implementation": 7,
+    "design": 7,
+    "potential_impact": 8,
+    "quality_of_idea": 6
+  },
+  {
+    "slug": "twitch-clone-for-streamer-university-2026",
+    "technological_implementation": 7,
+    "design": 8,
+    "potential_impact": 7,
+    "quality_of_idea": 5
+  },
+  {
+    "slug": "fixit-7r50sy",
+    "technological_implementation": 3,
+    "design": 3,
+    "potential_impact": 4,
+    "quality_of_idea": 3
+  },
+  {
+    "slug": "burmese",
+    "technological_implementation": 5,
+    "design": 6,
+    "potential_impact": 5,
+    "quality_of_idea": 6
+  }
+]

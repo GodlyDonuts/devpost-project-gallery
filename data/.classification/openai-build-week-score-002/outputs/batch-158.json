@@ -1,0 +1,107 @@
+[
+  {
+    "slug": "biomechanic-analysis",
+    "technological_implementation": 3,
+    "design": 4,
+    "potential_impact": 6,
+    "quality_of_idea": 4
+  },
+  {
+    "slug": "aigo-ab4oel",
+    "technological_implementation": 8,
+    "design": 8,
+    "potential_impact": 7,
+    "quality_of_idea": 7
+  },
+  {
+    "slug": "groundloop-controlfirst",
+    "technological_implementation": 9,
+    "design": 7,
+    "potential_impact": 8,
+    "quality_of_idea": 9
+  },
+  {
+    "slug": "where-did-i-put-it-s25it8",
+    "technological_implementation": 6,
+    "design": 7,
+    "potential_impact": 6,
+    "quality_of_idea": 5
+  },
+  {
+    "slug": "lazy-skill-router",
+    "technological_implementation": 8,
+    "design": 5,
+    "potential_impact": 5,
+    "quality_of_idea": 7
+  },
+  {
+    "slug": "control-surface",
+    "technological_implementation": 8,
+    "design": 7,
+    "potential_impact": 7,
+    "quality_of_idea": 7
+  },
+  {
+    "slug": "nudge-71ymu2",
+    "technological_implementation": 5,
+    "design": 7,
+    "potential_impact": 5,
+    "quality_of_idea": 6
+  },
+  {
+    "slug": "breifly",
+    "technological_implementation": 8,
+    "design": 8,
+    "potential_impact": 7,
+    "quality_of_idea": 7
+  },
+  {
+    "slug": "quarrylings",
+    "technological_implementation": 9,
+    "design": 8,
+    "potential_impact": 5,
+    "quality_of_idea": 7
+  },
+  {
+    "slug": "xmover",
+    "technological_implementation": 8,
+    "design": 8,
+    "potential_impact": 7,
+    "quality_of_idea": 5
+  },
+  {
+    "slug": "relic-abix41",
+    "technological_implementation": 4,
+    "design": 4,
+    "potential_impact": 5,
+    "quality_of_idea": 5
+  },
+  {
+    "slug": "mate-e",
+    "technological_implementation": 6,
+    "design": 6,
+    "potential_impact": 4,
+    "quality_of_idea": 4
+  },
+  {
+    "slug": "singsong-e",
+    "technological_implementation": 3,
+    "design": 4,
+    "potential_impact": 4,
+    "quality_of_idea": 3
+  },
+  {
+    "slug": "quickstud-e",
+    "technological_implementation": 6,
+    "design": 6,
+    "potential_impact": 6,
+    "quality_of_idea": 4
+  },
+  {
+    "slug": "changetrace",
+    "technological_implementation": 9,
+    "design": 8,
+    "potential_impact": 7,
+    "quality_of_idea": 7
+  }
+]

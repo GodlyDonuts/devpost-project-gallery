@@ -1,0 +1,107 @@
+[
+  {
+    "slug": "stradviso-business-os",
+    "technological_implementation": 5,
+    "design": 5,
+    "potential_impact": 6,
+    "quality_of_idea": 5
+  },
+  {
+    "slug": "ndotonic-gzclyn",
+    "technological_implementation": 5,
+    "design": 7,
+    "potential_impact": 8,
+    "quality_of_idea": 7
+  },
+  {
+    "slug": "accesspilot-dxql6n",
+    "technological_implementation": 4,
+    "design": 3,
+    "potential_impact": 5,
+    "quality_of_idea": 6
+  },
+  {
+    "slug": "eudr-copilot",
+    "technological_implementation": 9,
+    "design": 7,
+    "potential_impact": 9,
+    "quality_of_idea": 8
+  },
+  {
+    "slug": "nametags",
+    "technological_implementation": 7,
+    "design": 7,
+    "potential_impact": 7,
+    "quality_of_idea": 6
+  },
+  {
+    "slug": "ariane-9ecfh4",
+    "technological_implementation": 8,
+    "design": 8,
+    "potential_impact": 8,
+    "quality_of_idea": 6
+  },
+  {
+    "slug": "placeholder-sd5rut",
+    "technological_implementation": 6,
+    "design": 4,
+    "potential_impact": 5,
+    "quality_of_idea": 5
+  },
+  {
+    "slug": "poterne",
+    "technological_implementation": 9,
+    "design": 7,
+    "potential_impact": 8,
+    "quality_of_idea": 8
+  },
+  {
+    "slug": "atomic-rebels-of-truth",
+    "technological_implementation": 6,
+    "design": 6,
+    "potential_impact": 5,
+    "quality_of_idea": 5
+  },
+  {
+    "slug": "3d-website-templates",
+    "technological_implementation": 2,
+    "design": 2,
+    "potential_impact": 3,
+    "quality_of_idea": 3
+  },
+  {
+    "slug": "reverse-push",
+    "technological_implementation": 8,
+    "design": 7,
+    "potential_impact": 7,
+    "quality_of_idea": 7
+  },
+  {
+    "slug": "deepfield",
+    "technological_implementation": 8,
+    "design": 7,
+    "potential_impact": 7,
+    "quality_of_idea": 6
+  },
+  {
+    "slug": "makondo-ai-manager",
+    "technological_implementation": 3,
+    "design": 3,
+    "potential_impact": 3,
+    "quality_of_idea": 3
+  },
+  {
+    "slug": "global-human-resilience-operating-system",
+    "technological_implementation": 6,
+    "design": 7,
+    "potential_impact": 9,
+    "quality_of_idea": 6
+  },
+  {
+    "slug": "soul-card-the-atlas-of-inner-skies",
+    "technological_implementation": 8,
+    "design": 8,
+    "potential_impact": 6,
+    "quality_of_idea": 7
+  }
+]

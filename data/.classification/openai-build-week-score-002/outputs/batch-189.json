@@ -1,0 +1,17 @@
+[
+  {"slug": "canoryn", "technological_implementation": 8, "design": 7, "potential_impact": 7, "quality_of_idea": 7},
+  {"slug": "prism-zmi4af", "technological_implementation": 7, "design": 8, "potential_impact": 7, "quality_of_idea": 7},
+  {"slug": "little-control-room", "technological_implementation": 7, "design": 6, "potential_impact": 6, "quality_of_idea": 6},
+  {"slug": "duselang-vm2lj1", "technological_implementation": 9, "design": 6, "potential_impact": 7, "quality_of_idea": 7},
+  {"slug": "learnflow-ai-hefs1r", "technological_implementation": 5, "design": 4, "potential_impact": 6, "quality_of_idea": 5},
+  {"slug": "medimind-cwzqb9", "technological_implementation": 2, "design": 1, "potential_impact": 2, "quality_of_idea": 2},
+  {"slug": "lineagereceipt", "technological_implementation": 8, "design": 7, "potential_impact": 7, "quality_of_idea": 7},
+  {"slug": "playreceipt", "technological_implementation": 9, "design": 8, "potential_impact": 7, "quality_of_idea": 8},
+  {"slug": "cortesol-sp06ab", "technological_implementation": 9, "design": 7, "potential_impact": 7, "quality_of_idea": 8},
+  {"slug": "codex-clinical-form-studio", "technological_implementation": 8, "design": 7, "potential_impact": 7, "quality_of_idea": 7},
+  {"slug": "zahraa-ai-think-before-you-generate", "technological_implementation": 5, "design": 6, "potential_impact": 6, "quality_of_idea": 5},
+  {"slug": "magifab", "technological_implementation": 4, "design": 5, "potential_impact": 5, "quality_of_idea": 6},
+  {"slug": "engineer-copilot-0kmqco", "technological_implementation": 7, "design": 7, "potential_impact": 6, "quality_of_idea": 6},
+  {"slug": "sofon-from-scientific-intuition-to-testable-hypothesis", "technological_implementation": 4, "design": 5, "potential_impact": 5, "quality_of_idea": 5},
+  {"slug": "re-forge", "technological_implementation": 5, "design": 4, "potential_impact": 5, "quality_of_idea": 6}
+]

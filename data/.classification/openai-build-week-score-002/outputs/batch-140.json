@@ -1,0 +1,107 @@
+[
+  {
+    "slug": "travsec",
+    "technological_implementation": 7,
+    "design": 6,
+    "potential_impact": 7,
+    "quality_of_idea": 7
+  },
+  {
+    "slug": "voxly-kpa7j3",
+    "technological_implementation": 6,
+    "design": 6,
+    "potential_impact": 6,
+    "quality_of_idea": 5
+  },
+  {
+    "slug": "changeproof",
+    "technological_implementation": 8,
+    "design": 8,
+    "potential_impact": 8,
+    "quality_of_idea": 8
+  },
+  {
+    "slug": "healthkeep",
+    "technological_implementation": 3,
+    "design": 6,
+    "potential_impact": 6,
+    "quality_of_idea": 4
+  },
+  {
+    "slug": "foldforge-exrnl7",
+    "technological_implementation": 9,
+    "design": 8,
+    "potential_impact": 7,
+    "quality_of_idea": 9
+  },
+  {
+    "slug": "jarvis-the-adaptive-student-operating-system",
+    "technological_implementation": 7,
+    "design": 6,
+    "potential_impact": 6,
+    "quality_of_idea": 5
+  },
+  {
+    "slug": "smartwork-ai",
+    "technological_implementation": 1,
+    "design": 1,
+    "potential_impact": 1,
+    "quality_of_idea": 2
+  },
+  {
+    "slug": "flowstate-ai-x4rba8",
+    "technological_implementation": 6,
+    "design": 7,
+    "potential_impact": 7,
+    "quality_of_idea": 6
+  },
+  {
+    "slug": "devpilot-ai-p76svt",
+    "technological_implementation": 5,
+    "design": 6,
+    "potential_impact": 5,
+    "quality_of_idea": 3
+  },
+  {
+    "slug": "workship-ai",
+    "technological_implementation": 1,
+    "design": 1,
+    "potential_impact": 1,
+    "quality_of_idea": 2
+  },
+  {
+    "slug": "california-school-explorer",
+    "technological_implementation": 9,
+    "design": 8,
+    "potential_impact": 9,
+    "quality_of_idea": 8
+  },
+  {
+    "slug": "3c-trix-x-alphavote-content-to-consensus",
+    "technological_implementation": 7,
+    "design": 7,
+    "potential_impact": 5,
+    "quality_of_idea": 6
+  },
+  {
+    "slug": "judgment-mirror",
+    "technological_implementation": 8,
+    "design": 7,
+    "potential_impact": 5,
+    "quality_of_idea": 8
+  },
+  {
+    "slug": "raiflow-ai-colour-intelligence-tcoyrd",
+    "technological_implementation": 6,
+    "design": 7,
+    "potential_impact": 6,
+    "quality_of_idea": 5
+  },
+  {
+    "slug": "raiflow-ai-colour-intelligence",
+    "technological_implementation": 6,
+    "design": 7,
+    "potential_impact": 6,
+    "quality_of_idea": 5
+  }
+]

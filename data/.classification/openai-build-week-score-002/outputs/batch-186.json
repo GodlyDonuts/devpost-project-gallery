@@ -1,0 +1,17 @@
+[
+  {"slug": "knowledgeos", "technological_implementation": 9, "design": 8, "potential_impact": 8, "quality_of_idea": 7},
+  {"slug": "aura-whisper", "technological_implementation": 3, "design": 2, "potential_impact": 3, "quality_of_idea": 2},
+  {"slug": "infinite-wall", "technological_implementation": 6, "design": 6, "potential_impact": 4, "quality_of_idea": 4},
+  {"slug": "operator-method-for-codex", "technological_implementation": 7, "design": 4, "potential_impact": 7, "quality_of_idea": 8},
+  {"slug": "first-90", "technological_implementation": 8, "design": 8, "potential_impact": 8, "quality_of_idea": 7},
+  {"slug": "take-my-money", "technological_implementation": 8, "design": 7, "potential_impact": 8, "quality_of_idea": 7},
+  {"slug": "agentic-coding-agent", "technological_implementation": 5, "design": 6, "potential_impact": 6, "quality_of_idea": 5},
+  {"slug": "research-os-1zp6fm", "technological_implementation": 2, "design": 2, "potential_impact": 2, "quality_of_idea": 2},
+  {"slug": "onehorizons-sense-civic-signal", "technological_implementation": 2, "design": 2, "potential_impact": 3, "quality_of_idea": 3},
+  {"slug": "us-employer-health-plan-pricing-for-ai-agents", "technological_implementation": 9, "design": 5, "potential_impact": 9, "quality_of_idea": 8},
+  {"slug": "liiia-bigcompta", "technological_implementation": 8, "design": 7, "potential_impact": 8, "quality_of_idea": 7},
+  {"slug": "the-meeting-room", "technological_implementation": 6, "design": 7, "potential_impact": 7, "quality_of_idea": 8},
+  {"slug": "yinlu-retail-copilot", "technological_implementation": 8, "design": 8, "potential_impact": 7, "quality_of_idea": 7},
+  {"slug": "sentor", "technological_implementation": 8, "design": 6, "potential_impact": 6, "quality_of_idea": 7},
+  {"slug": "mytimebank", "technological_implementation": 4, "design": 5, "potential_impact": 4, "quality_of_idea": 3}
+]

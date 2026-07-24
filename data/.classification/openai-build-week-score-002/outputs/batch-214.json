@@ -1,0 +1,107 @@
+[
+  {
+    "slug": "timeless-harness",
+    "technological_implementation": 9,
+    "design": 6,
+    "potential_impact": 6,
+    "quality_of_idea": 9
+  },
+  {
+    "slug": "hyperxosist-agent-feedback-to-fix-mcp",
+    "technological_implementation": 6,
+    "design": 5,
+    "potential_impact": 6,
+    "quality_of_idea": 5
+  },
+  {
+    "slug": "moci-app",
+    "technological_implementation": 2,
+    "design": 2,
+    "potential_impact": 3,
+    "quality_of_idea": 2
+  },
+  {
+    "slug": "kpath-ai",
+    "technological_implementation": 7,
+    "design": 7,
+    "potential_impact": 6,
+    "quality_of_idea": 7
+  },
+  {
+    "slug": "ooo-squirrel",
+    "technological_implementation": 8,
+    "design": 5,
+    "potential_impact": 6,
+    "quality_of_idea": 9
+  },
+  {
+    "slug": "linelens-evidence-backed-factory-flow-decision-tool",
+    "technological_implementation": 7,
+    "design": 7,
+    "potential_impact": 6,
+    "quality_of_idea": 5
+  },
+  {
+    "slug": "faultline-4ru6fz",
+    "technological_implementation": 6,
+    "design": 7,
+    "potential_impact": 7,
+    "quality_of_idea": 6
+  },
+  {
+    "slug": "the-word-that-walked",
+    "technological_implementation": 6,
+    "design": 7,
+    "potential_impact": 5,
+    "quality_of_idea": 7
+  },
+  {
+    "slug": "tailspair",
+    "technological_implementation": 4,
+    "design": 6,
+    "potential_impact": 5,
+    "quality_of_idea": 6
+  },
+  {
+    "slug": "admissible",
+    "technological_implementation": 9,
+    "design": 7,
+    "potential_impact": 8,
+    "quality_of_idea": 8
+  },
+  {
+    "slug": "phonon-fermion",
+    "technological_implementation": 9,
+    "design": 6,
+    "potential_impact": 6,
+    "quality_of_idea": 9
+  },
+  {
+    "slug": "talkcheck-verified-agent",
+    "technological_implementation": 8,
+    "design": 7,
+    "potential_impact": 7,
+    "quality_of_idea": 7
+  },
+  {
+    "slug": "muselog",
+    "technological_implementation": 3,
+    "design": 4,
+    "potential_impact": 4,
+    "quality_of_idea": 4
+  },
+  {
+    "slug": "evidence-gate",
+    "technological_implementation": 6,
+    "design": 6,
+    "potential_impact": 6,
+    "quality_of_idea": 6
+  },
+  {
+    "slug": "mantarot",
+    "technological_implementation": 7,
+    "design": 7,
+    "potential_impact": 5,
+    "quality_of_idea": 4
+  }
+]

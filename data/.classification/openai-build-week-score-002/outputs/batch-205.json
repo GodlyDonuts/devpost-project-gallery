@@ -1,0 +1,17 @@
+[
+  {"slug": "repo-surgeon", "technological_implementation": 9, "design": 7, "potential_impact": 8, "quality_of_idea": 7},
+  {"slug": "effectscope", "technological_implementation": 9, "design": 9, "potential_impact": 8, "quality_of_idea": 8},
+  {"slug": "processmicroscope", "technological_implementation": 7, "design": 7, "potential_impact": 8, "quality_of_idea": 6},
+  {"slug": "protocolos-ai", "technological_implementation": 5, "design": 5, "potential_impact": 6, "quality_of_idea": 5},
+  {"slug": "vera-review-first-ai-for-accounting-practices", "technological_implementation": 7, "design": 6, "potential_impact": 7, "quality_of_idea": 7},
+  {"slug": "fabshop", "technological_implementation": 4, "design": 5, "potential_impact": 4, "quality_of_idea": 3},
+  {"slug": "surgestic", "technological_implementation": 7, "design": 6, "potential_impact": 6, "quality_of_idea": 6},
+  {"slug": "universal-program-translator", "technological_implementation": 2, "design": 1, "potential_impact": 3, "quality_of_idea": 4},
+  {"slug": "deltaforcehud", "technological_implementation": 6, "design": 6, "potential_impact": 5, "quality_of_idea": 5},
+  {"slug": "casper-the-heliostat", "technological_implementation": 6, "design": 6, "potential_impact": 6, "quality_of_idea": 6},
+  {"slug": "gje-guardian-judgment-execution", "technological_implementation": 2, "design": 1, "potential_impact": 3, "quality_of_idea": 4},
+  {"slug": "student-analytics-dashboard", "technological_implementation": 5, "design": 6, "potential_impact": 5, "quality_of_idea": 3},
+  {"slug": "diagramlens", "technological_implementation": 5, "design": 6, "potential_impact": 5, "quality_of_idea": 5},
+  {"slug": "helpdek", "technological_implementation": 4, "design": 5, "potential_impact": 4, "quality_of_idea": 4},
+  {"slug": "fistt-the-ai-assistant-that-plans-for-you", "technological_implementation": 5, "design": 6, "potential_impact": 4, "quality_of_idea": 3}
+]

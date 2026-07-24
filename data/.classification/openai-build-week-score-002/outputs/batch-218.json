@@ -1,0 +1,107 @@
+[
+  {
+    "slug": "mybondnow",
+    "technological_implementation": 8,
+    "design": 7,
+    "potential_impact": 7,
+    "quality_of_idea": 8
+  },
+  {
+    "slug": "gpt-english-for-experts",
+    "technological_implementation": 3,
+    "design": 3,
+    "potential_impact": 4,
+    "quality_of_idea": 3
+  },
+  {
+    "slug": "feedbackpro-wkpj1t",
+    "technological_implementation": 8,
+    "design": 7,
+    "potential_impact": 7,
+    "quality_of_idea": 5
+  },
+  {
+    "slug": "depgaze-dependency-execution-intelligence",
+    "technological_implementation": 9,
+    "design": 6,
+    "potential_impact": 8,
+    "quality_of_idea": 8
+  },
+  {
+    "slug": "junto-9ztauv",
+    "technological_implementation": 8,
+    "design": 8,
+    "potential_impact": 7,
+    "quality_of_idea": 7
+  },
+  {
+    "slug": "nexusdesk",
+    "technological_implementation": 7,
+    "design": 7,
+    "potential_impact": 6,
+    "quality_of_idea": 5
+  },
+  {
+    "slug": "thunderhawk-stat-mcp",
+    "technological_implementation": 8,
+    "design": 6,
+    "potential_impact": 7,
+    "quality_of_idea": 6
+  },
+  {
+    "slug": "codexgpt",
+    "technological_implementation": 1,
+    "design": 1,
+    "potential_impact": 1,
+    "quality_of_idea": 1
+  },
+  {
+    "slug": "slate-up",
+    "technological_implementation": 8,
+    "design": 8,
+    "potential_impact": 8,
+    "quality_of_idea": 8
+  },
+  {
+    "slug": "canvas-mds-process-centered-course-design-with-ai",
+    "technological_implementation": 7,
+    "design": 7,
+    "potential_impact": 7,
+    "quality_of_idea": 8
+  },
+  {
+    "slug": "learnix-j7erph",
+    "technological_implementation": 7,
+    "design": 5,
+    "potential_impact": 5,
+    "quality_of_idea": 4
+  },
+  {
+    "slug": "agent-onboarding-protocol",
+    "technological_implementation": 4,
+    "design": 5,
+    "potential_impact": 6,
+    "quality_of_idea": 6
+  },
+  {
+    "slug": "booktrail-one-book-leads-to-another",
+    "technological_implementation": 4,
+    "design": 5,
+    "potential_impact": 5,
+    "quality_of_idea": 5
+  },
+  {
+    "slug": "baseborn",
+    "technological_implementation": 9,
+    "design": 8,
+    "potential_impact": 6,
+    "quality_of_idea": 5
+  },
+  {
+    "slug": "wali-tahfiz",
+    "technological_implementation": 6,
+    "design": 7,
+    "potential_impact": 6,
+    "quality_of_idea": 5
+  }
+]

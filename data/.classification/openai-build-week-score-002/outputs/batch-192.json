@@ -1,0 +1,107 @@
+[
+  {
+    "slug": "excubiae-ai-pacsgl",
+    "technological_implementation": 7,
+    "design": 6,
+    "potential_impact": 6,
+    "quality_of_idea": 4
+  },
+  {
+    "slug": "ai-advocate-for-the-poor",
+    "technological_implementation": 8,
+    "design": 7,
+    "potential_impact": 6,
+    "quality_of_idea": 7
+  },
+  {
+    "slug": "techbeast-data-capture-suite",
+    "technological_implementation": 5,
+    "design": 5,
+    "potential_impact": 5,
+    "quality_of_idea": 5
+  },
+  {
+    "slug": "duke-nvim",
+    "technological_implementation": 8,
+    "design": 7,
+    "potential_impact": 6,
+    "quality_of_idea": 6
+  },
+  {
+    "slug": "hireup-0i4mdg",
+    "technological_implementation": 5,
+    "design": 5,
+    "potential_impact": 5,
+    "quality_of_idea": 4
+  },
+  {
+    "slug": "nerscare-icu",
+    "technological_implementation": 6,
+    "design": 6,
+    "potential_impact": 5,
+    "quality_of_idea": 4
+  },
+  {
+    "slug": "threads-ty5x2q",
+    "technological_implementation": 4,
+    "design": 3,
+    "potential_impact": 5,
+    "quality_of_idea": 5
+  },
+  {
+    "slug": "unreal-engine-visual-effects-designer-for-ai-game-developers",
+    "technological_implementation": 3,
+    "design": 2,
+    "potential_impact": 5,
+    "quality_of_idea": 6
+  },
+  {
+    "slug": "spec-to-code-intelligence-platform",
+    "technological_implementation": 7,
+    "design": 7,
+    "potential_impact": 6,
+    "quality_of_idea": 6
+  },
+  {
+    "slug": "apparat",
+    "technological_implementation": 8,
+    "design": 7,
+    "potential_impact": 7,
+    "quality_of_idea": 5
+  },
+  {
+    "slug": "code-blue-emy8nc",
+    "technological_implementation": 9,
+    "design": 6,
+    "potential_impact": 6,
+    "quality_of_idea": 7
+  },
+  {
+    "slug": "real-estate-local-llm",
+    "technological_implementation": 1,
+    "design": 1,
+    "potential_impact": 1,
+    "quality_of_idea": 1
+  },
+  {
+    "slug": "scaffolding-for-taste-a-portfolio-with-design-memory",
+    "technological_implementation": 7,
+    "design": 8,
+    "potential_impact": 6,
+    "quality_of_idea": 7
+  },
+  {
+    "slug": "mechanarium",
+    "technological_implementation": 9,
+    "design": 8,
+    "potential_impact": 8,
+    "quality_of_idea": 7
+  },
+  {
+    "slug": "storydna-studio",
+    "technological_implementation": 6,
+    "design": 7,
+    "potential_impact": 6,
+    "quality_of_idea": 6
+  }
+]

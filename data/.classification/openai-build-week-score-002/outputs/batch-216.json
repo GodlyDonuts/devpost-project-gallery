@@ -1,0 +1,107 @@
+[
+  {
+    "slug": "aegis-security",
+    "technological_implementation": 3,
+    "design": 3,
+    "potential_impact": 5,
+    "quality_of_idea": 4
+  },
+  {
+    "slug": "parametric-road-design-for-practical-road-construction",
+    "technological_implementation": 8,
+    "design": 7,
+    "potential_impact": 7,
+    "quality_of_idea": 6
+  },
+  {
+    "slug": "stocky-o1m4hk",
+    "technological_implementation": 2,
+    "design": 2,
+    "potential_impact": 3,
+    "quality_of_idea": 2
+  },
+  {
+    "slug": "a-conversational-ai-copilot-for-on-call-and-sre",
+    "technological_implementation": 9,
+    "design": 8,
+    "potential_impact": 8,
+    "quality_of_idea": 7
+  },
+  {
+    "slug": "remotectrl",
+    "technological_implementation": 8,
+    "design": 8,
+    "potential_impact": 8,
+    "quality_of_idea": 8
+  },
+  {
+    "slug": "neutra-lend",
+    "technological_implementation": 5,
+    "design": 6,
+    "potential_impact": 5,
+    "quality_of_idea": 4
+  },
+  {
+    "slug": "simplex-adaptive-reading-companion",
+    "technological_implementation": 7,
+    "design": 7,
+    "potential_impact": 7,
+    "quality_of_idea": 6
+  },
+  {
+    "slug": "nexus-o7tgqh",
+    "technological_implementation": 4,
+    "design": 4,
+    "potential_impact": 3,
+    "quality_of_idea": 3
+  },
+  {
+    "slug": "chanlun",
+    "technological_implementation": 6,
+    "design": 3,
+    "potential_impact": 3,
+    "quality_of_idea": 4
+  },
+  {
+    "slug": "v6pfxnatd",
+    "technological_implementation": 8,
+    "design": 5,
+    "potential_impact": 5,
+    "quality_of_idea": 6
+  },
+  {
+    "slug": "applyfree",
+    "technological_implementation": 8,
+    "design": 7,
+    "potential_impact": 7,
+    "quality_of_idea": 7
+  },
+  {
+    "slug": "pintag-spatial-campaign-copilot-nkcgyl",
+    "technological_implementation": 6,
+    "design": 7,
+    "potential_impact": 6,
+    "quality_of_idea": 6
+  },
+  {
+    "slug": "escena-viva",
+    "technological_implementation": 3,
+    "design": 4,
+    "potential_impact": 4,
+    "quality_of_idea": 3
+  },
+  {
+    "slug": "negotiator-ai",
+    "technological_implementation": 8,
+    "design": 7,
+    "potential_impact": 7,
+    "quality_of_idea": 7
+  },
+  {
+    "slug": "support-gap-radar",
+    "technological_implementation": 9,
+    "design": 8,
+    "potential_impact": 8,
+    "quality_of_idea": 8
+  }
+]

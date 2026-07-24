@@ -1,0 +1,107 @@
+[
+  {
+    "slug": "medical-inventory-management-software-with-ai-assistant",
+    "technological_implementation": 4,
+    "design": 4,
+    "potential_impact": 4,
+    "quality_of_idea": 3
+  },
+  {
+    "slug": "ati",
+    "technological_implementation": 1,
+    "design": 1,
+    "potential_impact": 1,
+    "quality_of_idea": 1
+  },
+  {
+    "slug": "ovm-open-version-manager",
+    "technological_implementation": 7,
+    "design": 5,
+    "potential_impact": 6,
+    "quality_of_idea": 6
+  },
+  {
+    "slug": "local-ai-chat-cat",
+    "technological_implementation": 7,
+    "design": 5,
+    "potential_impact": 5,
+    "quality_of_idea": 4
+  },
+  {
+    "slug": "chatproofs-b6ygw8",
+    "technological_implementation": 9,
+    "design": 6,
+    "potential_impact": 7,
+    "quality_of_idea": 8
+  },
+  {
+    "slug": "aria-journey",
+    "technological_implementation": 8,
+    "design": 7,
+    "potential_impact": 7,
+    "quality_of_idea": 8
+  },
+  {
+    "slug": "dry-validation-rust",
+    "technological_implementation": 9,
+    "design": 4,
+    "potential_impact": 6,
+    "quality_of_idea": 7
+  },
+  {
+    "slug": "atiqlearn-ai-powered-adaptive-learning-platform",
+    "technological_implementation": 5,
+    "design": 5,
+    "potential_impact": 4,
+    "quality_of_idea": 3
+  },
+  {
+    "slug": "proofmode",
+    "technological_implementation": 4,
+    "design": 3,
+    "potential_impact": 4,
+    "quality_of_idea": 5
+  },
+  {
+    "slug": "voiceshield-sdk",
+    "technological_implementation": 6,
+    "design": 6,
+    "potential_impact": 6,
+    "quality_of_idea": 5
+  },
+  {
+    "slug": "siteops-ai",
+    "technological_implementation": 7,
+    "design": 6,
+    "potential_impact": 7,
+    "quality_of_idea": 5
+  },
+  {
+    "slug": "ai-service-assistant",
+    "technological_implementation": 7,
+    "design": 7,
+    "potential_impact": 7,
+    "quality_of_idea": 6
+  },
+  {
+    "slug": "evolastra-codex-agents-visualized-in-a-space-rts",
+    "technological_implementation": 6,
+    "design": 5,
+    "potential_impact": 4,
+    "quality_of_idea": 7
+  },
+  {
+    "slug": "the-world-of-leon-an-ai-adventure",
+    "technological_implementation": 5,
+    "design": 6,
+    "potential_impact": 6,
+    "quality_of_idea": 7
+  },
+  {
+    "slug": "ares-cyber-decision-engine",
+    "technological_implementation": 9,
+    "design": 7,
+    "potential_impact": 7,
+    "quality_of_idea": 7
+  }
+]

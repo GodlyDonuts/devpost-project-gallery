@@ -1,0 +1,107 @@
+[
+  {
+    "slug": "dungeon-hunter",
+    "technological_implementation": 8,
+    "design": 8,
+    "potential_impact": 4,
+    "quality_of_idea": 4
+  },
+  {
+    "slug": "ai-phone-case-studio",
+    "technological_implementation": 6,
+    "design": 7,
+    "potential_impact": 6,
+    "quality_of_idea": 5
+  },
+  {
+    "slug": "local-human-intent-controller-lhic",
+    "technological_implementation": 8,
+    "design": 5,
+    "potential_impact": 7,
+    "quality_of_idea": 7
+  },
+  {
+    "slug": "guidanceweave",
+    "technological_implementation": 5,
+    "design": 5,
+    "potential_impact": 7,
+    "quality_of_idea": 6
+  },
+  {
+    "slug": "buildmatch-bc-tender-to-bid-copilot",
+    "technological_implementation": 6,
+    "design": 6,
+    "potential_impact": 8,
+    "quality_of_idea": 7
+  },
+  {
+    "slug": "gamedevagent",
+    "technological_implementation": 3,
+    "design": 2,
+    "potential_impact": 3,
+    "quality_of_idea": 4
+  },
+  {
+    "slug": "visual-prompt-atlas",
+    "technological_implementation": 3,
+    "design": 3,
+    "potential_impact": 4,
+    "quality_of_idea": 5
+  },
+  {
+    "slug": "lingoquest-qmhk9e",
+    "technological_implementation": 3,
+    "design": 4,
+    "potential_impact": 5,
+    "quality_of_idea": 4
+  },
+  {
+    "slug": "suixing",
+    "technological_implementation": 8,
+    "design": 7,
+    "potential_impact": 7,
+    "quality_of_idea": 7
+  },
+  {
+    "slug": "gestionsundarrayi",
+    "technological_implementation": 4,
+    "design": 3,
+    "potential_impact": 5,
+    "quality_of_idea": 3
+  },
+  {
+    "slug": "email-hub",
+    "technological_implementation": 6,
+    "design": 5,
+    "potential_impact": 6,
+    "quality_of_idea": 5
+  },
+  {
+    "slug": "vocoflo-moment-coach",
+    "technological_implementation": 6,
+    "design": 7,
+    "potential_impact": 7,
+    "quality_of_idea": 7
+  },
+  {
+    "slug": "pavitra-rishta-international",
+    "technological_implementation": 3,
+    "design": 3,
+    "potential_impact": 4,
+    "quality_of_idea": 2
+  },
+  {
+    "slug": "dopa-cart",
+    "technological_implementation": 5,
+    "design": 8,
+    "potential_impact": 5,
+    "quality_of_idea": 5
+  },
+  {
+    "slug": "patchpilot-ord9wl",
+    "technological_implementation": 9,
+    "design": 6,
+    "potential_impact": 8,
+    "quality_of_idea": 8
+  }
+]

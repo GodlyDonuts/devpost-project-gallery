@@ -1,0 +1,107 @@
+[
+  {
+    "slug": "portfolio-hub",
+    "technological_implementation": 4,
+    "design": 6,
+    "potential_impact": 3,
+    "quality_of_idea": 4
+  },
+  {
+    "slug": "bioprep-ai",
+    "technological_implementation": 8,
+    "design": 6,
+    "potential_impact": 7,
+    "quality_of_idea": 6
+  },
+  {
+    "slug": "appylearn-learn-by-prompting-books-you-run-not-read",
+    "technological_implementation": 6,
+    "design": 6,
+    "potential_impact": 6,
+    "quality_of_idea": 5
+  },
+  {
+    "slug": "laku-sitok",
+    "technological_implementation": 7,
+    "design": 6,
+    "potential_impact": 7,
+    "quality_of_idea": 6
+  },
+  {
+    "slug": "carerelay-ai-v27rda",
+    "technological_implementation": 8,
+    "design": 7,
+    "potential_impact": 6,
+    "quality_of_idea": 7
+  },
+  {
+    "slug": "continuum-lrgaqy",
+    "technological_implementation": 8,
+    "design": 6,
+    "potential_impact": 7,
+    "quality_of_idea": 7
+  },
+  {
+    "slug": "gridshatter",
+    "technological_implementation": 8,
+    "design": 7,
+    "potential_impact": 6,
+    "quality_of_idea": 7
+  },
+  {
+    "slug": "ai-powered-dependency-analyzer",
+    "technological_implementation": 6,
+    "design": 4,
+    "potential_impact": 6,
+    "quality_of_idea": 5
+  },
+  {
+    "slug": "nexus-ai-global-intelligence-command-center",
+    "technological_implementation": 4,
+    "design": 5,
+    "potential_impact": 3,
+    "quality_of_idea": 3
+  },
+  {
+    "slug": "robo-ctrl",
+    "technological_implementation": 1,
+    "design": 1,
+    "potential_impact": 1,
+    "quality_of_idea": 2
+  },
+  {
+    "slug": "viralab-ai",
+    "technological_implementation": 6,
+    "design": 6,
+    "potential_impact": 6,
+    "quality_of_idea": 5
+  },
+  {
+    "slug": "mizai",
+    "technological_implementation": 8,
+    "design": 7,
+    "potential_impact": 7,
+    "quality_of_idea": 8
+  },
+  {
+    "slug": "codex-contributor",
+    "technological_implementation": 9,
+    "design": 6,
+    "potential_impact": 7,
+    "quality_of_idea": 8
+  },
+  {
+    "slug": "pithypop",
+    "technological_implementation": 2,
+    "design": 2,
+    "potential_impact": 3,
+    "quality_of_idea": 3
+  },
+  {
+    "slug": "snackware",
+    "technological_implementation": 0,
+    "design": 0,
+    "potential_impact": 0,
+    "quality_of_idea": 0
+  }
+]

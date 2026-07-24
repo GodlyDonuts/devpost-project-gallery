@@ -1,0 +1,107 @@
+[
+  {
+    "slug": "data-analayst",
+    "technological_implementation": 0,
+    "design": 0,
+    "potential_impact": 0,
+    "quality_of_idea": 0
+  },
+  {
+    "slug": "grantback",
+    "technological_implementation": 9,
+    "design": 7,
+    "potential_impact": 8,
+    "quality_of_idea": 8
+  },
+  {
+    "slug": "ai-maestro",
+    "technological_implementation": 9,
+    "design": 5,
+    "potential_impact": 7,
+    "quality_of_idea": 7
+  },
+  {
+    "slug": "wishopai-ai-commerce-os",
+    "technological_implementation": 6,
+    "design": 8,
+    "potential_impact": 8,
+    "quality_of_idea": 5
+  },
+  {
+    "slug": "structure-search-and-understand-your-local-files",
+    "technological_implementation": 8,
+    "design": 5,
+    "potential_impact": 7,
+    "quality_of_idea": 6
+  },
+  {
+    "slug": "parking-anything",
+    "technological_implementation": 7,
+    "design": 7,
+    "potential_impact": 6,
+    "quality_of_idea": 7
+  },
+  {
+    "slug": "simcore-studio",
+    "technological_implementation": 8,
+    "design": 6,
+    "potential_impact": 7,
+    "quality_of_idea": 8
+  },
+  {
+    "slug": "studypilot-ai-43fxlj",
+    "technological_implementation": 7,
+    "design": 7,
+    "potential_impact": 6,
+    "quality_of_idea": 5
+  },
+  {
+    "slug": "our-place-5g69bu",
+    "technological_implementation": 8,
+    "design": 8,
+    "potential_impact": 8,
+    "quality_of_idea": 8
+  },
+  {
+    "slug": "canadian-retirement-intelligence",
+    "technological_implementation": 9,
+    "design": 7,
+    "potential_impact": 8,
+    "quality_of_idea": 7
+  },
+  {
+    "slug": "ngoding-lok",
+    "technological_implementation": 7,
+    "design": 7,
+    "potential_impact": 6,
+    "quality_of_idea": 5
+  },
+  {
+    "slug": "concourse-xgpq9h",
+    "technological_implementation": 2,
+    "design": 1,
+    "potential_impact": 2,
+    "quality_of_idea": 2
+  },
+  {
+    "slug": "surrounded-by-slop",
+    "technological_implementation": 7,
+    "design": 8,
+    "potential_impact": 8,
+    "quality_of_idea": 8
+  },
+  {
+    "slug": "aoa-session-memory",
+    "technological_implementation": 6,
+    "design": 4,
+    "potential_impact": 5,
+    "quality_of_idea": 6
+  },
+  {
+    "slug": "sema-the-semantic-governance-layer-for-ai-agents",
+    "technological_implementation": 8,
+    "design": 6,
+    "potential_impact": 7,
+    "quality_of_idea": 8
+  }
+]

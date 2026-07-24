@@ -1,0 +1,107 @@
+[
+  {
+    "slug": "scout-global",
+    "technological_implementation": 6,
+    "design": 5,
+    "potential_impact": 6,
+    "quality_of_idea": 5
+  },
+  {
+    "slug": "wholeway",
+    "technological_implementation": 2,
+    "design": 2,
+    "potential_impact": 3,
+    "quality_of_idea": 5
+  },
+  {
+    "slug": "bipolar-mood-companion",
+    "technological_implementation": 6,
+    "design": 6,
+    "potential_impact": 6,
+    "quality_of_idea": 4
+  },
+  {
+    "slug": "focus-on-culture-history-angle",
+    "technological_implementation": 4,
+    "design": 5,
+    "potential_impact": 4,
+    "quality_of_idea": 3
+  },
+  {
+    "slug": "quantum-uri6n8",
+    "technological_implementation": 8,
+    "design": 7,
+    "potential_impact": 8,
+    "quality_of_idea": 7
+  },
+  {
+    "slug": "fixmyworkflow",
+    "technological_implementation": 8,
+    "design": 7,
+    "potential_impact": 7,
+    "quality_of_idea": 6
+  },
+  {
+    "slug": "cre8tiv-jobs-board",
+    "technological_implementation": 7,
+    "design": 6,
+    "potential_impact": 6,
+    "quality_of_idea": 5
+  },
+  {
+    "slug": "cupsafe-codex-sentinel",
+    "technological_implementation": 6,
+    "design": 6,
+    "potential_impact": 7,
+    "quality_of_idea": 7
+  },
+  {
+    "slug": "prober-ai",
+    "technological_implementation": 7,
+    "design": 7,
+    "potential_impact": 7,
+    "quality_of_idea": 7
+  },
+  {
+    "slug": "theoryfall",
+    "technological_implementation": 8,
+    "design": 8,
+    "potential_impact": 6,
+    "quality_of_idea": 7
+  },
+  {
+    "slug": "abcde-skills",
+    "technological_implementation": 6,
+    "design": 5,
+    "potential_impact": 6,
+    "quality_of_idea": 6
+  },
+  {
+    "slug": "v2v-from-documents-to-an-interactive-knowledge-graph",
+    "technological_implementation": 8,
+    "design": 7,
+    "potential_impact": 6,
+    "quality_of_idea": 6
+  },
+  {
+    "slug": "uhuru-eyes-of-the-land",
+    "technological_implementation": 3,
+    "design": 3,
+    "potential_impact": 3,
+    "quality_of_idea": 4
+  },
+  {
+    "slug": "planix-x56wpe",
+    "technological_implementation": 3,
+    "design": 2,
+    "potential_impact": 5,
+    "quality_of_idea": 5
+  },
+  {
+    "slug": "wazify-whatsapp",
+    "technological_implementation": 6,
+    "design": 6,
+    "potential_impact": 8,
+    "quality_of_idea": 7
+  }
+]

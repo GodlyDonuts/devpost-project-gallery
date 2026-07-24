@@ -1,0 +1,107 @@
+[
+  {
+    "slug": "workpaperos-audit-governed-evidence-sync",
+    "technological_implementation": 9,
+    "design": 8,
+    "potential_impact": 8,
+    "quality_of_idea": 8
+  },
+  {
+    "slug": "agentcourt",
+    "technological_implementation": 4,
+    "design": 3,
+    "potential_impact": 4,
+    "quality_of_idea": 4
+  },
+  {
+    "slug": "local-government-unit-chief-executive",
+    "technological_implementation": 3,
+    "design": 3,
+    "potential_impact": 5,
+    "quality_of_idea": 4
+  },
+  {
+    "slug": "they-chart",
+    "technological_implementation": 7,
+    "design": 7,
+    "potential_impact": 6,
+    "quality_of_idea": 7
+  },
+  {
+    "slug": "confession-source-explorer",
+    "technological_implementation": 7,
+    "design": 7,
+    "potential_impact": 7,
+    "quality_of_idea": 6
+  },
+  {
+    "slug": "ghostwell-ai",
+    "technological_implementation": 4,
+    "design": 3,
+    "potential_impact": 4,
+    "quality_of_idea": 5
+  },
+  {
+    "slug": "inertial-link-xr",
+    "technological_implementation": 9,
+    "design": 6,
+    "potential_impact": 6,
+    "quality_of_idea": 8
+  },
+  {
+    "slug": "roma-just-talk",
+    "technological_implementation": 7,
+    "design": 7,
+    "potential_impact": 7,
+    "quality_of_idea": 7
+  },
+  {
+    "slug": "carita-ip9sdl",
+    "technological_implementation": 7,
+    "design": 6,
+    "potential_impact": 5,
+    "quality_of_idea": 6
+  },
+  {
+    "slug": "machineflow",
+    "technological_implementation": 7,
+    "design": 6,
+    "potential_impact": 6,
+    "quality_of_idea": 6
+  },
+  {
+    "slug": "token-cart-tycoon",
+    "technological_implementation": 6,
+    "design": 7,
+    "potential_impact": 6,
+    "quality_of_idea": 7
+  },
+  {
+    "slug": "safety-intelligence",
+    "technological_implementation": 8,
+    "design": 7,
+    "potential_impact": 7,
+    "quality_of_idea": 6
+  },
+  {
+    "slug": "golive-sentinel-erp-master-data-health-check",
+    "technological_implementation": 8,
+    "design": 7,
+    "potential_impact": 8,
+    "quality_of_idea": 7
+  },
+  {
+    "slug": "investa",
+    "technological_implementation": 4,
+    "design": 3,
+    "potential_impact": 3,
+    "quality_of_idea": 3
+  },
+  {
+    "slug": "projectprobe",
+    "technological_implementation": 7,
+    "design": 6,
+    "potential_impact": 6,
+    "quality_of_idea": 5
+  }
+]

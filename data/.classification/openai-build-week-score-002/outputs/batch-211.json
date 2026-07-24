@@ -1,0 +1,107 @@
+[
+  {
+    "slug": "liquidimmo",
+    "technological_implementation": 8,
+    "design": 7,
+    "potential_impact": 8,
+    "quality_of_idea": 7
+  },
+  {
+    "slug": "easysudoku",
+    "technological_implementation": 9,
+    "design": 8,
+    "potential_impact": 7,
+    "quality_of_idea": 6
+  },
+  {
+    "slug": "mythos-agent",
+    "technological_implementation": 4,
+    "design": 4,
+    "potential_impact": 3,
+    "quality_of_idea": 3
+  },
+  {
+    "slug": "bunny-meow-life-antifragility-compass",
+    "technological_implementation": 5,
+    "design": 6,
+    "potential_impact": 6,
+    "quality_of_idea": 6
+  },
+  {
+    "slug": "clarity-for-x",
+    "technological_implementation": 7,
+    "design": 7,
+    "potential_impact": 7,
+    "quality_of_idea": 5
+  },
+  {
+    "slug": "promise-rader",
+    "technological_implementation": 5,
+    "design": 4,
+    "potential_impact": 5,
+    "quality_of_idea": 6
+  },
+  {
+    "slug": "gemini-geo-os",
+    "technological_implementation": 8,
+    "design": 6,
+    "potential_impact": 7,
+    "quality_of_idea": 6
+  },
+  {
+    "slug": "miraunity",
+    "technological_implementation": 5,
+    "design": 5,
+    "potential_impact": 4,
+    "quality_of_idea": 6
+  },
+  {
+    "slug": "indiamacro-ai-native-data-for-india-s-economy",
+    "technological_implementation": 8,
+    "design": 5,
+    "potential_impact": 8,
+    "quality_of_idea": 8
+  },
+  {
+    "slug": "outlier-4la7nf",
+    "technological_implementation": 7,
+    "design": 8,
+    "potential_impact": 7,
+    "quality_of_idea": 8
+  },
+  {
+    "slug": "masterlink-hiring-across-the-language-barrier",
+    "technological_implementation": 7,
+    "design": 7,
+    "potential_impact": 8,
+    "quality_of_idea": 6
+  },
+  {
+    "slug": "ku-heart-sutra-counsel",
+    "technological_implementation": 6,
+    "design": 8,
+    "potential_impact": 6,
+    "quality_of_idea": 6
+  },
+  {
+    "slug": "flownee",
+    "technological_implementation": 8,
+    "design": 8,
+    "potential_impact": 7,
+    "quality_of_idea": 7
+  },
+  {
+    "slug": "vesseldelta",
+    "technological_implementation": 9,
+    "design": 8,
+    "potential_impact": 8,
+    "quality_of_idea": 8
+  },
+  {
+    "slug": "keblo-explainable-persistent-memory",
+    "technological_implementation": 4,
+    "design": 3,
+    "potential_impact": 3,
+    "quality_of_idea": 4
+  }
+]

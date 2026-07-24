@@ -1,0 +1,107 @@
+[
+  {
+    "slug": "swai-ai",
+    "technological_implementation": 3,
+    "design": 3,
+    "potential_impact": 5,
+    "quality_of_idea": 4
+  },
+  {
+    "slug": "tiktok-influencer-acquisition-assistant",
+    "technological_implementation": 5,
+    "design": 4,
+    "potential_impact": 6,
+    "quality_of_idea": 5
+  },
+  {
+    "slug": "agentville",
+    "technological_implementation": 3,
+    "design": 3,
+    "potential_impact": 4,
+    "quality_of_idea": 5
+  },
+  {
+    "slug": "studymate-ai-aw2ezi",
+    "technological_implementation": 2,
+    "design": 2,
+    "potential_impact": 3,
+    "quality_of_idea": 2
+  },
+  {
+    "slug": "volkererp",
+    "technological_implementation": 8,
+    "design": 6,
+    "potential_impact": 7,
+    "quality_of_idea": 6
+  },
+  {
+    "slug": "discover-and-cmdb-for-govern-ai-agents-models-prompts",
+    "technological_implementation": 7,
+    "design": 5,
+    "potential_impact": 6,
+    "quality_of_idea": 6
+  },
+  {
+    "slug": "conceptlab-ai",
+    "technological_implementation": 7,
+    "design": 7,
+    "potential_impact": 6,
+    "quality_of_idea": 7
+  },
+  {
+    "slug": "pemi-ai-pet-minder-reader",
+    "technological_implementation": 8,
+    "design": 8,
+    "potential_impact": 5,
+    "quality_of_idea": 5
+  },
+  {
+    "slug": "release-guardian-ai",
+    "technological_implementation": 7,
+    "design": 7,
+    "potential_impact": 7,
+    "quality_of_idea": 6
+  },
+  {
+    "slug": "mind-dojo-7obt94",
+    "technological_implementation": 9,
+    "design": 8,
+    "potential_impact": 7,
+    "quality_of_idea": 8
+  },
+  {
+    "slug": "liveforever",
+    "technological_implementation": 8,
+    "design": 6,
+    "potential_impact": 6,
+    "quality_of_idea": 7
+  },
+  {
+    "slug": "anything-vw3dho",
+    "technological_implementation": 0,
+    "design": 0,
+    "potential_impact": 0,
+    "quality_of_idea": 0
+  },
+  {
+    "slug": "5-minutes-mobil-real-time-strategy-game",
+    "technological_implementation": 5,
+    "design": 6,
+    "potential_impact": 5,
+    "quality_of_idea": 6
+  },
+  {
+    "slug": "ghaz",
+    "technological_implementation": 7,
+    "design": 7,
+    "potential_impact": 6,
+    "quality_of_idea": 6
+  },
+  {
+    "slug": "conversate-confirm",
+    "technological_implementation": 8,
+    "design": 7,
+    "potential_impact": 7,
+    "quality_of_idea": 7
+  }
+]

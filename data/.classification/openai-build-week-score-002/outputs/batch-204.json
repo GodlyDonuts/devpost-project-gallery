@@ -1,0 +1,107 @@
+[
+  {
+    "slug": "ahp-traceos",
+    "technological_implementation": 8,
+    "design": 7,
+    "potential_impact": 7,
+    "quality_of_idea": 8
+  },
+  {
+    "slug": "tm-26",
+    "technological_implementation": 6,
+    "design": 8,
+    "potential_impact": 6,
+    "quality_of_idea": 7
+  },
+  {
+    "slug": "evocontext-xvrt4y",
+    "technological_implementation": 3,
+    "design": 3,
+    "potential_impact": 5,
+    "quality_of_idea": 5
+  },
+  {
+    "slug": "relay-y27g40",
+    "technological_implementation": 4,
+    "design": 7,
+    "potential_impact": 7,
+    "quality_of_idea": 7
+  },
+  {
+    "slug": "reisioval",
+    "technological_implementation": 6,
+    "design": 7,
+    "potential_impact": 8,
+    "quality_of_idea": 7
+  },
+  {
+    "slug": "tiwi",
+    "technological_implementation": 3,
+    "design": 3,
+    "potential_impact": 5,
+    "quality_of_idea": 4
+  },
+  {
+    "slug": "exhibition-data-analysis",
+    "technological_implementation": 6,
+    "design": 6,
+    "potential_impact": 6,
+    "quality_of_idea": 5
+  },
+  {
+    "slug": "roomeyfinder",
+    "technological_implementation": 7,
+    "design": 7,
+    "potential_impact": 7,
+    "quality_of_idea": 5
+  },
+  {
+    "slug": "lifeinbox",
+    "technological_implementation": 3,
+    "design": 2,
+    "potential_impact": 4,
+    "quality_of_idea": 4
+  },
+  {
+    "slug": "fleet-t8uwi3",
+    "technological_implementation": 5,
+    "design": 4,
+    "potential_impact": 4,
+    "quality_of_idea": 6
+  },
+  {
+    "slug": "quotaswatcher",
+    "technological_implementation": 8,
+    "design": 7,
+    "potential_impact": 5,
+    "quality_of_idea": 5
+  },
+  {
+    "slug": "context-mri-o2hzyk",
+    "technological_implementation": 9,
+    "design": 7,
+    "potential_impact": 8,
+    "quality_of_idea": 9
+  },
+  {
+    "slug": "livelab",
+    "technological_implementation": 7,
+    "design": 8,
+    "potential_impact": 7,
+    "quality_of_idea": 8
+  },
+  {
+    "slug": "dialogues",
+    "technological_implementation": 6,
+    "design": 6,
+    "potential_impact": 5,
+    "quality_of_idea": 5
+  },
+  {
+    "slug": "noorpath",
+    "technological_implementation": 6,
+    "design": 7,
+    "potential_impact": 7,
+    "quality_of_idea": 7
+  }
+]

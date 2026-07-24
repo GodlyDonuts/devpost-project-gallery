@@ -1,0 +1,17 @@
+[
+  {"slug": "bookmyhalwai-com", "technological_implementation": 3, "design": 3, "potential_impact": 5, "quality_of_idea": 4},
+  {"slug": "telecodex", "technological_implementation": 8, "design": 7, "potential_impact": 7, "quality_of_idea": 6},
+  {"slug": "ownyourcode", "technological_implementation": 8, "design": 7, "potential_impact": 7, "quality_of_idea": 7},
+  {"slug": "le-dernier-emploi", "technological_implementation": 5, "design": 7, "potential_impact": 6, "quality_of_idea": 6},
+  {"slug": "career-intelligence-platform", "technological_implementation": 7, "design": 7, "potential_impact": 6, "quality_of_idea": 5},
+  {"slug": "plavendo", "technological_implementation": 3, "design": 4, "potential_impact": 5, "quality_of_idea": 4},
+  {"slug": "topicforge", "technological_implementation": 5, "design": 6, "potential_impact": 6, "quality_of_idea": 4},
+  {"slug": "halide", "technological_implementation": 8, "design": 7, "potential_impact": 6, "quality_of_idea": 7},
+  {"slug": "legacyos", "technological_implementation": 4, "design": 5, "potential_impact": 5, "quality_of_idea": 5},
+  {"slug": "local-password-manager-vagz3e", "technological_implementation": 6, "design": 4, "potential_impact": 5, "quality_of_idea": 3},
+  {"slug": "oplanner", "technological_implementation": 8, "design": 7, "potential_impact": 8, "quality_of_idea": 5},
+  {"slug": "promptpro-ai-multilingual-prompt-builder", "technological_implementation": 5, "design": 6, "potential_impact": 5, "quality_of_idea": 3},
+  {"slug": "forgeai-smart-erp-for-precision-machining", "technological_implementation": 7, "design": 6, "potential_impact": 7, "quality_of_idea": 6},
+  {"slug": "chimera-vanguard-the-autonomous-zero-day-immune-system", "technological_implementation": 3, "design": 2, "potential_impact": 5, "quality_of_idea": 5},
+  {"slug": "unimentor-ai", "technological_implementation": 6, "design": 6, "potential_impact": 6, "quality_of_idea": 4}
+]

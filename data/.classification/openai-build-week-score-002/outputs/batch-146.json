@@ -1,0 +1,107 @@
+[
+  {
+    "slug": "magicometry",
+    "technological_implementation": 9,
+    "design": 8,
+    "potential_impact": 6,
+    "quality_of_idea": 8
+  },
+  {
+    "slug": "equalvoice-zvqnsg",
+    "technological_implementation": 4,
+    "design": 4,
+    "potential_impact": 6,
+    "quality_of_idea": 7
+  },
+  {
+    "slug": "proofline-51e43c",
+    "technological_implementation": 9,
+    "design": 8,
+    "potential_impact": 7,
+    "quality_of_idea": 8
+  },
+  {
+    "slug": "leaflet-8aqdoc",
+    "technological_implementation": 8,
+    "design": 8,
+    "potential_impact": 6,
+    "quality_of_idea": 6
+  },
+  {
+    "slug": "anteroom",
+    "technological_implementation": 7,
+    "design": 6,
+    "potential_impact": 8,
+    "quality_of_idea": 7
+  },
+  {
+    "slug": "epicode-bench",
+    "technological_implementation": 2,
+    "design": 2,
+    "potential_impact": 4,
+    "quality_of_idea": 4
+  },
+  {
+    "slug": "airspec",
+    "technological_implementation": 9,
+    "design": 8,
+    "potential_impact": 8,
+    "quality_of_idea": 9
+  },
+  {
+    "slug": "tell-bella-powered-by-briai",
+    "technological_implementation": 2,
+    "design": 2,
+    "potential_impact": 2,
+    "quality_of_idea": 2
+  },
+  {
+    "slug": "geckoos-live-intervention",
+    "technological_implementation": 3,
+    "design": 3,
+    "potential_impact": 4,
+    "quality_of_idea": 5
+  },
+  {
+    "slug": "phq-personal-health-questionnaire",
+    "technological_implementation": 5,
+    "design": 5,
+    "potential_impact": 7,
+    "quality_of_idea": 6
+  },
+  {
+    "slug": "susurro",
+    "technological_implementation": 7,
+    "design": 7,
+    "potential_impact": 6,
+    "quality_of_idea": 6
+  },
+  {
+    "slug": "sara-smartest-speaker",
+    "technological_implementation": 7,
+    "design": 6,
+    "potential_impact": 5,
+    "quality_of_idea": 7
+  },
+  {
+    "slug": "personal-cfo-w6n47r",
+    "technological_implementation": 8,
+    "design": 8,
+    "potential_impact": 8,
+    "quality_of_idea": 8
+  },
+  {
+    "slug": "wek-for-e-commerce",
+    "technological_implementation": 4,
+    "design": 4,
+    "potential_impact": 6,
+    "quality_of_idea": 5
+  },
+  {
+    "slug": "check-in-wo0phk",
+    "technological_implementation": 4,
+    "design": 5,
+    "potential_impact": 5,
+    "quality_of_idea": 4
+  }
+]

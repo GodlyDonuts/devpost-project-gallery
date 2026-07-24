@@ -1,0 +1,107 @@
+[
+  {
+    "slug": "clearpath-ai-s1whmc",
+    "technological_implementation": 4,
+    "design": 6,
+    "potential_impact": 6,
+    "quality_of_idea": 4
+  },
+  {
+    "slug": "codexcandoit",
+    "technological_implementation": 9,
+    "design": 3,
+    "potential_impact": 6,
+    "quality_of_idea": 6
+  },
+  {
+    "slug": "dispatchai-abj20d",
+    "technological_implementation": 8,
+    "design": 7,
+    "potential_impact": 7,
+    "quality_of_idea": 6
+  },
+  {
+    "slug": "ai-infra",
+    "technological_implementation": 2,
+    "design": 1,
+    "potential_impact": 1,
+    "quality_of_idea": 1
+  },
+  {
+    "slug": "rex-signal-to-action-engine",
+    "technological_implementation": 5,
+    "design": 7,
+    "potential_impact": 7,
+    "quality_of_idea": 6
+  },
+  {
+    "slug": "odeya",
+    "technological_implementation": 10,
+    "design": 4,
+    "potential_impact": 6,
+    "quality_of_idea": 9
+  },
+  {
+    "slug": "gpt-wallet-aifinpay",
+    "technological_implementation": 8,
+    "design": 7,
+    "potential_impact": 7,
+    "quality_of_idea": 7
+  },
+  {
+    "slug": "hotseat",
+    "technological_implementation": 9,
+    "design": 8,
+    "potential_impact": 8,
+    "quality_of_idea": 7
+  },
+  {
+    "slug": "reellearn",
+    "technological_implementation": 8,
+    "design": 8,
+    "potential_impact": 7,
+    "quality_of_idea": 7
+  },
+  {
+    "slug": "word-cards",
+    "technological_implementation": 4,
+    "design": 5,
+    "potential_impact": 4,
+    "quality_of_idea": 5
+  },
+  {
+    "slug": "poopi",
+    "technological_implementation": 2,
+    "design": 2,
+    "potential_impact": 2,
+    "quality_of_idea": 2
+  },
+  {
+    "slug": "quick-6wm74i",
+    "technological_implementation": 2,
+    "design": 2,
+    "potential_impact": 2,
+    "quality_of_idea": 2
+  },
+  {
+    "slug": "curio-l052x6",
+    "technological_implementation": 6,
+    "design": 7,
+    "potential_impact": 6,
+    "quality_of_idea": 7
+  },
+  {
+    "slug": "tagdrop-the-price-tracking-agent-for-everyday-life",
+    "technological_implementation": 7,
+    "design": 7,
+    "potential_impact": 7,
+    "quality_of_idea": 5
+  },
+  {
+    "slug": "midnight-harbor",
+    "technological_implementation": 3,
+    "design": 4,
+    "potential_impact": 3,
+    "quality_of_idea": 3
+  }
+]

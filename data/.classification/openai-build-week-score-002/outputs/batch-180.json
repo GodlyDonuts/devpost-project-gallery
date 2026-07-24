@@ -1,0 +1,107 @@
+[
+  {
+    "slug": "northstar-5sdfv6",
+    "technological_implementation": 8,
+    "design": 7,
+    "potential_impact": 7,
+    "quality_of_idea": 6
+  },
+  {
+    "slug": "torinlabs-sentinel-ai",
+    "technological_implementation": 7,
+    "design": 7,
+    "potential_impact": 7,
+    "quality_of_idea": 7
+  },
+  {
+    "slug": "pantry-pilot-2q3mr4",
+    "technological_implementation": 4,
+    "design": 4,
+    "potential_impact": 4,
+    "quality_of_idea": 3
+  },
+  {
+    "slug": "rubien",
+    "technological_implementation": 8,
+    "design": 7,
+    "potential_impact": 8,
+    "quality_of_idea": 8
+  },
+  {
+    "slug": "kgmd",
+    "technological_implementation": 7,
+    "design": 6,
+    "potential_impact": 7,
+    "quality_of_idea": 7
+  },
+  {
+    "slug": "cortex-r6fptn",
+    "technological_implementation": 7,
+    "design": 7,
+    "potential_impact": 7,
+    "quality_of_idea": 7
+  },
+  {
+    "slug": "lingohan",
+    "technological_implementation": 5,
+    "design": 6,
+    "potential_impact": 6,
+    "quality_of_idea": 5
+  },
+  {
+    "slug": "motivatoro",
+    "technological_implementation": 5,
+    "design": 5,
+    "potential_impact": 5,
+    "quality_of_idea": 6
+  },
+  {
+    "slug": "tradeeek",
+    "technological_implementation": 5,
+    "design": 5,
+    "potential_impact": 6,
+    "quality_of_idea": 5
+  },
+  {
+    "slug": "schoolvault-ai",
+    "technological_implementation": 7,
+    "design": 7,
+    "potential_impact": 7,
+    "quality_of_idea": 5
+  },
+  {
+    "slug": "verification-4r1j0f",
+    "technological_implementation": 1,
+    "design": 1,
+    "potential_impact": 1,
+    "quality_of_idea": 1
+  },
+  {
+    "slug": "tang",
+    "technological_implementation": 5,
+    "design": 4,
+    "potential_impact": 4,
+    "quality_of_idea": 6
+  },
+  {
+    "slug": "trustdna-ai",
+    "technological_implementation": 2,
+    "design": 2,
+    "potential_impact": 3,
+    "quality_of_idea": 4
+  },
+  {
+    "slug": "shruthi-ai-ai-operating-system-for-arts-heritage",
+    "technological_implementation": 6,
+    "design": 6,
+    "potential_impact": 7,
+    "quality_of_idea": 7
+  },
+  {
+    "slug": "nova-ai-djgv6s",
+    "technological_implementation": 5,
+    "design": 4,
+    "potential_impact": 5,
+    "quality_of_idea": 4
+  }
+]

@@ -1,0 +1,107 @@
+[
+  {
+    "slug": "first-light-terra",
+    "technological_implementation": 3,
+    "design": 3,
+    "potential_impact": 2,
+    "quality_of_idea": 2
+  },
+  {
+    "slug": "frankie-a-roborock-s5-with-an-ai-layer",
+    "technological_implementation": 8,
+    "design": 7,
+    "potential_impact": 6,
+    "quality_of_idea": 6
+  },
+  {
+    "slug": "lumiris-light-based-measurement-research-insight-system",
+    "technological_implementation": 8,
+    "design": 7,
+    "potential_impact": 8,
+    "quality_of_idea": 8
+  },
+  {
+    "slug": "fv-tax-engine-ia-fiscal-para-odoo",
+    "technological_implementation": 6,
+    "design": 5,
+    "potential_impact": 7,
+    "quality_of_idea": 5
+  },
+  {
+    "slug": "opportunitymap-uqpifg",
+    "technological_implementation": 6,
+    "design": 7,
+    "potential_impact": 7,
+    "quality_of_idea": 6
+  },
+  {
+    "slug": "connectproia",
+    "technological_implementation": 4,
+    "design": 5,
+    "potential_impact": 6,
+    "quality_of_idea": 4
+  },
+  {
+    "slug": "surgemetry",
+    "technological_implementation": 9,
+    "design": 7,
+    "potential_impact": 7,
+    "quality_of_idea": 7
+  },
+  {
+    "slug": "the-digital-hearth",
+    "technological_implementation": 4,
+    "design": 6,
+    "potential_impact": 3,
+    "quality_of_idea": 4
+  },
+  {
+    "slug": "urba-express-ai",
+    "technological_implementation": 6,
+    "design": 7,
+    "potential_impact": 7,
+    "quality_of_idea": 5
+  },
+  {
+    "slug": "triptrace-research",
+    "technological_implementation": 9,
+    "design": 8,
+    "potential_impact": 8,
+    "quality_of_idea": 8
+  },
+  {
+    "slug": "koda-codex",
+    "technological_implementation": 7,
+    "design": 6,
+    "potential_impact": 6,
+    "quality_of_idea": 7
+  },
+  {
+    "slug": "extreamweather",
+    "technological_implementation": 8,
+    "design": 7,
+    "potential_impact": 6,
+    "quality_of_idea": 7
+  },
+  {
+    "slug": "cubi-estate",
+    "technological_implementation": 7,
+    "design": 7,
+    "potential_impact": 7,
+    "quality_of_idea": 6
+  },
+  {
+    "slug": "signal-delay",
+    "technological_implementation": 6,
+    "design": 6,
+    "potential_impact": 6,
+    "quality_of_idea": 7
+  },
+  {
+    "slug": "transcribenya",
+    "technological_implementation": 9,
+    "design": 7,
+    "potential_impact": 7,
+    "quality_of_idea": 8
+  }
+]
