@@ -1,0 +1,22 @@
+[
+  {"slug": "forvix-options-research-os", "category": "Apps for Your Life", "confidence": 70},
+  {"slug": "teachmap", "category": "Education", "confidence": 92},
+  {"slug": "tabtrace", "category": "Developer Tools", "confidence": 95},
+  {"slug": "uzel", "category": "Work & Productivity", "confidence": 88},
+  {"slug": "coderedox", "category": "Developer Tools", "confidence": 95},
+  {"slug": "llmeeting", "category": "Apps for Your Life", "confidence": 78},
+  {"slug": "proseed-global", "category": "Apps for Your Life", "confidence": 72},
+  {"slug": "localtwin", "category": "Work & Productivity", "confidence": 66},
+  {"slug": "openstreamgrid", "category": "Apps for Your Life", "confidence": 25},
+  {"slug": "3d-connect6", "category": "Apps for Your Life", "confidence": 90},
+  {"slug": "agent-economy-platform", "category": "Work & Productivity", "confidence": 70},
+  {"slug": "gpt-5-6-field-guide", "category": "Apps for Your Life", "confidence": 52},
+  {"slug": "openrelease-ai", "category": "Developer Tools", "confidence": 95},
+  {"slug": "security-privacy-auxiliary-device", "category": "Apps for Your Life", "confidence": 85},
+  {"slug": "wantong", "category": "Apps for Your Life", "confidence": 90},
+  {"slug": "coursepilot-ai", "category": "Education", "confidence": 65},
+  {"slug": "luminote", "category": "Apps for Your Life", "confidence": 35},
+  {"slug": "harness-workspace", "category": "Developer Tools", "confidence": 95},
+  {"slug": "sonata-modern-cli-xp-designed-for-builder-design-eng", "category": "Developer Tools", "confidence": 95},
+  {"slug": "oceaneye-y0i4pj", "category": "Education", "confidence": 62}
+]

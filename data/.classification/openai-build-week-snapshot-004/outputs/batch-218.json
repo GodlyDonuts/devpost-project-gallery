@@ -1,0 +1,102 @@
+[
+  {
+    "slug": "paradoxe-archive-riddle",
+    "category": "Apps for Your Life",
+    "confidence": 85
+  },
+  {
+    "slug": "ros-trace-ai",
+    "category": "Developer Tools",
+    "confidence": 90
+  },
+  {
+    "slug": "termstrail",
+    "category": "Apps for Your Life",
+    "confidence": 80
+  },
+  {
+    "slug": "moosie-learning-operations-copilot",
+    "category": "Education",
+    "confidence": 75
+  },
+  {
+    "slug": "topiary",
+    "category": "Developer Tools",
+    "confidence": 90
+  },
+  {
+    "slug": "xmemo",
+    "category": "Apps for Your Life",
+    "confidence": 90
+  },
+  {
+    "slug": "cell-bound",
+    "category": "Education",
+    "confidence": 90
+  },
+  {
+    "slug": "ai-incident-investigation-assistant",
+    "category": "Developer Tools",
+    "confidence": 85
+  },
+  {
+    "slug": "future-paths-learning-path-simulator",
+    "category": "Education",
+    "confidence": 90
+  },
+  {
+    "slug": "planificateur",
+    "category": "Work & Productivity",
+    "confidence": 30
+  },
+  {
+    "slug": "signalos-the-ai-attention-control-plane",
+    "category": "Developer Tools",
+    "confidence": 85
+  },
+  {
+    "slug": "evidenceops",
+    "category": "Work & Productivity",
+    "confidence": 85
+  },
+  {
+    "slug": "speakwise-i9zua2",
+    "category": "Apps for Your Life",
+    "confidence": 90
+  },
+  {
+    "slug": "loom-7a2dt3",
+    "category": "Developer Tools",
+    "confidence": 90
+  },
+  {
+    "slug": "reality-quest",
+    "category": "Apps for Your Life",
+    "confidence": 90
+  },
+  {
+    "slug": "gitink",
+    "category": "Developer Tools",
+    "confidence": 95
+  },
+  {
+    "slug": "npa-lean-exporter",
+    "category": "Developer Tools",
+    "confidence": 80
+  },
+  {
+    "slug": "afterschool-on-ai-after-school-care-platform",
+    "category": "Education",
+    "confidence": 75
+  },
+  {
+    "slug": "issue-memory",
+    "category": "Developer Tools",
+    "confidence": 85
+  },
+  {
+    "slug": "synthrisk",
+    "category": "Developer Tools",
+    "confidence": 90
+  }
+]

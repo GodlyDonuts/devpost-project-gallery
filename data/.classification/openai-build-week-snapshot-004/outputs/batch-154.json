@@ -1,0 +1,22 @@
+[
+  {"slug": "test-h1-salam-h1", "category": "Apps for Your Life", "confidence": 10},
+  {"slug": "aperture-02tve5", "category": "Education", "confidence": 80},
+  {"slug": "project-u208tfmdrb4c", "category": "Apps for Your Life", "confidence": 85},
+  {"slug": "chess-with-me", "category": "Education", "confidence": 70},
+  {"slug": "storykids-ai", "category": "Education", "confidence": 95},
+  {"slug": "justdothings", "category": "Apps for Your Life", "confidence": 75},
+  {"slug": "codexforge-sokwbz", "category": "Developer Tools", "confidence": 90},
+  {"slug": "benefitbridge-ai", "category": "Apps for Your Life", "confidence": 90},
+  {"slug": "maxwell-studyclaim-gate", "category": "Work & Productivity", "confidence": 90},
+  {"slug": "e-library-btf43j", "category": "Apps for Your Life", "confidence": 85},
+  {"slug": "stringiq", "category": "Education", "confidence": 90},
+  {"slug": "rental-apply-mate", "category": "Apps for Your Life", "confidence": 90},
+  {"slug": "wikidocs", "category": "Work & Productivity", "confidence": 65},
+  {"slug": "conn", "category": "Developer Tools", "confidence": 90},
+  {"slug": "construction-bim-academy", "category": "Education", "confidence": 75},
+  {"slug": "darahum-ai-financial-copilot", "category": "Work & Productivity", "confidence": 90},
+  {"slug": "locallifeos", "category": "Apps for Your Life", "confidence": 90},
+  {"slug": "anygpt", "category": "Apps for Your Life", "confidence": 90},
+  {"slug": "dolayanga-ai", "category": "Apps for Your Life", "confidence": 90},
+  {"slug": "plan-once-shop-once", "category": "Apps for Your Life", "confidence": 90}
+]

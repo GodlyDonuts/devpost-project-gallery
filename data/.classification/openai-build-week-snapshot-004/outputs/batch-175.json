@@ -1,0 +1,22 @@
+[
+  {"slug": "rii-flow", "category": "Apps for Your Life", "confidence": 80},
+  {"slug": "bizinbox", "category": "Work & Productivity", "confidence": 65},
+  {"slug": "bedrock-blueprint", "category": "Apps for Your Life", "confidence": 60},
+  {"slug": "calqen-ai-wardrobe-stylist", "category": "Apps for Your Life", "confidence": 90},
+  {"slug": "proofrun-for-codex", "category": "Developer Tools", "confidence": 92},
+  {"slug": "football-ai-inspector", "category": "Developer Tools", "confidence": 80},
+  {"slug": "harmony-play-social", "category": "Apps for Your Life", "confidence": 90},
+  {"slug": "softmotion-tts", "category": "Apps for Your Life", "confidence": 65},
+  {"slug": "grimoire-21qbc5", "category": "Apps for Your Life", "confidence": 70},
+  {"slug": "pass-forward", "category": "Apps for Your Life", "confidence": 80},
+  {"slug": "nuclear-power-plant-digital-twin-demonstration-platform", "category": "Work & Productivity", "confidence": 65},
+  {"slug": "socraticschool", "category": "Education", "confidence": 95},
+  {"slug": "sadclaw-a-gentler-kind-of-company", "category": "Apps for Your Life", "confidence": 88},
+  {"slug": "appatlas", "category": "Developer Tools", "confidence": 88},
+  {"slug": "signalloop", "category": "Work & Productivity", "confidence": 72},
+  {"slug": "prooflayer-aijn09", "category": "Developer Tools", "confidence": 88},
+  {"slug": "token-saver", "category": "Developer Tools", "confidence": 90},
+  {"slug": "streetbite-mz5cb4", "category": "Apps for Your Life", "confidence": 70},
+  {"slug": "resumepilot", "category": "Apps for Your Life", "confidence": 75},
+  {"slug": "demandforge", "category": "Work & Productivity", "confidence": 85}
+]
