@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-24T21:10:52.167813+00:00",
-  "count": 3223,
+  "generated_at": "2026-07-24T21:12:54.449819+00:00",
+  "count": 3484,
   "complete": false,
   "scores": {
     "gosu-go-trainer": {
@@ -22563,6 +22563,1833 @@
       "potential_impact": 6,
       "quality_of_idea": 7,
       "total": 28
+    },
+    "moov-yfst7p": {
+      "technological_implementation": 8,
+      "design": 7,
+      "potential_impact": 7,
+      "quality_of_idea": 5,
+      "total": 27
+    },
+    "address-atlas": {
+      "technological_implementation": 9,
+      "design": 8,
+      "potential_impact": 8,
+      "quality_of_idea": 6,
+      "total": 31
+    },
+    "ace-decision-studio": {
+      "technological_implementation": 4,
+      "design": 4,
+      "potential_impact": 6,
+      "quality_of_idea": 5,
+      "total": 19
+    },
+    "monsieurdavid-product-opportunity-studio": {
+      "technological_implementation": 8,
+      "design": 8,
+      "potential_impact": 8,
+      "quality_of_idea": 7,
+      "total": 31
+    },
+    "sagesearch": {
+      "technological_implementation": 7,
+      "design": 6,
+      "potential_impact": 6,
+      "quality_of_idea": 5,
+      "total": 24
+    },
+    "mimetry": {
+      "technological_implementation": 7,
+      "design": 7,
+      "potential_impact": 6,
+      "quality_of_idea": 8,
+      "total": 28
+    },
+    "guillaume-lab": {
+      "technological_implementation": 3,
+      "design": 3,
+      "potential_impact": 4,
+      "quality_of_idea": 5,
+      "total": 15
+    },
+    "burhan": {
+      "technological_implementation": 2,
+      "design": 2,
+      "potential_impact": 3,
+      "quality_of_idea": 4,
+      "total": 11
+    },
+    "arcovia": {
+      "technological_implementation": 9,
+      "design": 7,
+      "potential_impact": 8,
+      "quality_of_idea": 8,
+      "total": 32
+    },
+    "power-seracher": {
+      "technological_implementation": 9,
+      "design": 7,
+      "potential_impact": 6,
+      "quality_of_idea": 5,
+      "total": 27
+    },
+    "engineering-toolkit": {
+      "technological_implementation": 3,
+      "design": 2,
+      "potential_impact": 3,
+      "quality_of_idea": 2,
+      "total": 10
+    },
+    "kith-ai-care-navigation-for-families": {
+      "technological_implementation": 8,
+      "design": 8,
+      "potential_impact": 8,
+      "quality_of_idea": 7,
+      "total": 31
+    },
+    "petshare": {
+      "technological_implementation": 9,
+      "design": 8,
+      "potential_impact": 7,
+      "quality_of_idea": 7,
+      "total": 31
+    },
+    "shufflow": {
+      "technological_implementation": 5,
+      "design": 7,
+      "potential_impact": 6,
+      "quality_of_idea": 6,
+      "total": 24
+    },
+    "mithra": {
+      "technological_implementation": 7,
+      "design": 7,
+      "potential_impact": 6,
+      "quality_of_idea": 5,
+      "total": 25
+    },
+    "vitrine-ai-recover-and-finish-your-ai-built-projects": {
+      "technological_implementation": 9,
+      "design": 8,
+      "potential_impact": 8,
+      "quality_of_idea": 8,
+      "total": 33
+    },
+    "elaiynx-enterprisee-intelligence-governance-platform": {
+      "technological_implementation": 8,
+      "design": 8,
+      "potential_impact": 8,
+      "quality_of_idea": 7,
+      "total": 31
+    },
+    "soruno-go": {
+      "technological_implementation": 9,
+      "design": 8,
+      "potential_impact": 8,
+      "quality_of_idea": 8,
+      "total": 33
+    },
+    "muana": {
+      "technological_implementation": 8,
+      "design": 8,
+      "potential_impact": 8,
+      "quality_of_idea": 8,
+      "total": 32
+    },
+    "gloxwallpaper": {
+      "technological_implementation": 3,
+      "design": 5,
+      "potential_impact": 4,
+      "quality_of_idea": 3,
+      "total": 15
+    },
+    "maanvi": {
+      "technological_implementation": 5,
+      "design": 6,
+      "potential_impact": 7,
+      "quality_of_idea": 6,
+      "total": 24
+    },
+    "birthdaystop": {
+      "technological_implementation": 2,
+      "design": 2,
+      "potential_impact": 3,
+      "quality_of_idea": 3,
+      "total": 10
+    },
+    "om-e4hv82": {
+      "technological_implementation": 6,
+      "design": 8,
+      "potential_impact": 5,
+      "quality_of_idea": 7,
+      "total": 26
+    },
+    "officegame": {
+      "technological_implementation": 4,
+      "design": 5,
+      "potential_impact": 3,
+      "quality_of_idea": 4,
+      "total": 16
+    },
+    "mali-vt2aj6": {
+      "technological_implementation": 7,
+      "design": 7,
+      "potential_impact": 6,
+      "quality_of_idea": 7,
+      "total": 27
+    },
+    "dataharvest": {
+      "technological_implementation": 9,
+      "design": 7,
+      "potential_impact": 8,
+      "quality_of_idea": 8,
+      "total": 32
+    },
+    "shengji": {
+      "technological_implementation": 1,
+      "design": 2,
+      "potential_impact": 2,
+      "quality_of_idea": 2,
+      "total": 7
+    },
+    "fabric-verified-ai-composed-interfaces": {
+      "technological_implementation": 9,
+      "design": 8,
+      "potential_impact": 8,
+      "quality_of_idea": 9,
+      "total": 34
+    },
+    "project-formalization": {
+      "technological_implementation": 7,
+      "design": 4,
+      "potential_impact": 7,
+      "quality_of_idea": 8,
+      "total": 26
+    },
+    "kairsun": {
+      "technological_implementation": 7,
+      "design": 7,
+      "potential_impact": 5,
+      "quality_of_idea": 5,
+      "total": 24
+    },
+    "aquasentinel-lf95px": {
+      "technological_implementation": 5,
+      "design": 6,
+      "potential_impact": 6,
+      "quality_of_idea": 5,
+      "total": 22
+    },
+    "sapalens-forge": {
+      "technological_implementation": 7,
+      "design": 6,
+      "potential_impact": 7,
+      "quality_of_idea": 6,
+      "total": 26
+    },
+    "match2-ai-recruitment-agent": {
+      "technological_implementation": 7,
+      "design": 6,
+      "potential_impact": 7,
+      "quality_of_idea": 5,
+      "total": 25
+    },
+    "ai-cinema-continuity-director": {
+      "technological_implementation": 8,
+      "design": 7,
+      "potential_impact": 7,
+      "quality_of_idea": 8,
+      "total": 30
+    },
+    "project-t2po61z8k9vd": {
+      "technological_implementation": 2,
+      "design": 2,
+      "potential_impact": 3,
+      "quality_of_idea": 3,
+      "total": 10
+    },
+    "living-memory-jsrtf9": {
+      "technological_implementation": 8,
+      "design": 6,
+      "potential_impact": 7,
+      "quality_of_idea": 7,
+      "total": 28
+    },
+    "pocket-apps": {
+      "technological_implementation": 9,
+      "design": 8,
+      "potential_impact": 8,
+      "quality_of_idea": 8,
+      "total": 33
+    },
+    "fresh-and-fold": {
+      "technological_implementation": 8,
+      "design": 8,
+      "potential_impact": 7,
+      "quality_of_idea": 6,
+      "total": 29
+    },
+    "ice-safe-guardian": {
+      "technological_implementation": 7,
+      "design": 7,
+      "potential_impact": 6,
+      "quality_of_idea": 6,
+      "total": 26
+    },
+    "glorymap": {
+      "technological_implementation": 8,
+      "design": 8,
+      "potential_impact": 7,
+      "quality_of_idea": 7,
+      "total": 30
+    },
+    "shogunai": {
+      "technological_implementation": 2,
+      "design": 2,
+      "potential_impact": 3,
+      "quality_of_idea": 3,
+      "total": 10
+    },
+    "ai-billing-automation": {
+      "technological_implementation": 5,
+      "design": 6,
+      "potential_impact": 6,
+      "quality_of_idea": 5,
+      "total": 22
+    },
+    "donna-1sruk0": {
+      "technological_implementation": 5,
+      "design": 6,
+      "potential_impact": 5,
+      "quality_of_idea": 6,
+      "total": 22
+    },
+    "bander": {
+      "technological_implementation": 9,
+      "design": 8,
+      "potential_impact": 8,
+      "quality_of_idea": 8,
+      "total": 33
+    },
+    "storybook-indian-empires": {
+      "technological_implementation": 7,
+      "design": 7,
+      "potential_impact": 7,
+      "quality_of_idea": 6,
+      "total": 27
+    },
+    "mg-hub-kaelii-ai": {
+      "technological_implementation": 5,
+      "design": 6,
+      "potential_impact": 6,
+      "quality_of_idea": 5,
+      "total": 22
+    },
+    "ai-analysis-of-chat-software-task-assignments": {
+      "technological_implementation": 3,
+      "design": 3,
+      "potential_impact": 4,
+      "quality_of_idea": 3,
+      "total": 13
+    },
+    "algorythmic-bot": {
+      "technological_implementation": 1,
+      "design": 0,
+      "potential_impact": 0,
+      "quality_of_idea": 0,
+      "total": 1
+    },
+    "demand-genie": {
+      "technological_implementation": 5,
+      "design": 6,
+      "potential_impact": 7,
+      "quality_of_idea": 6,
+      "total": 24
+    },
+    "lineage-nook": {
+      "technological_implementation": 9,
+      "design": 6,
+      "potential_impact": 6,
+      "quality_of_idea": 7,
+      "total": 28
+    },
+    "visible-thinking-designer": {
+      "technological_implementation": 6,
+      "design": 8,
+      "potential_impact": 7,
+      "quality_of_idea": 8,
+      "total": 29
+    },
+    "loverace": {
+      "technological_implementation": 5,
+      "design": 7,
+      "potential_impact": 5,
+      "quality_of_idea": 7,
+      "total": 24
+    },
+    "what-s-to-do-the-procedure-mill": {
+      "technological_implementation": 3,
+      "design": 2,
+      "potential_impact": 3,
+      "quality_of_idea": 3,
+      "total": 11
+    },
+    "trailsense-3minl5": {
+      "technological_implementation": 4,
+      "design": 3,
+      "potential_impact": 4,
+      "quality_of_idea": 4,
+      "total": 15
+    },
+    "mastery-twin": {
+      "technological_implementation": 7,
+      "design": 6,
+      "potential_impact": 7,
+      "quality_of_idea": 8,
+      "total": 28
+    },
+    "field-progress-copilot": {
+      "technological_implementation": 9,
+      "design": 7,
+      "potential_impact": 8,
+      "quality_of_idea": 7,
+      "total": 31
+    },
+    "green-spider-tcg": {
+      "technological_implementation": 6,
+      "design": 7,
+      "potential_impact": 7,
+      "quality_of_idea": 7,
+      "total": 27
+    },
+    "yuerschool-ai": {
+      "technological_implementation": 8,
+      "design": 7,
+      "potential_impact": 7,
+      "quality_of_idea": 7,
+      "total": 29
+    },
+    "spartan-physique-tracker": {
+      "technological_implementation": 9,
+      "design": 7,
+      "potential_impact": 5,
+      "quality_of_idea": 7,
+      "total": 28
+    },
+    "hottrace": {
+      "technological_implementation": 9,
+      "design": 5,
+      "potential_impact": 5,
+      "quality_of_idea": 7,
+      "total": 26
+    },
+    "ava-ai-coach": {
+      "technological_implementation": 6,
+      "design": 4,
+      "potential_impact": 5,
+      "quality_of_idea": 4,
+      "total": 19
+    },
+    "route-lab-by-chess-true": {
+      "technological_implementation": 7,
+      "design": 6,
+      "potential_impact": 5,
+      "quality_of_idea": 7,
+      "total": 25
+    },
+    "id-paper": {
+      "technological_implementation": 6,
+      "design": 6,
+      "potential_impact": 7,
+      "quality_of_idea": 6,
+      "total": 25
+    },
+    "scheduleproof": {
+      "technological_implementation": 9,
+      "design": 7,
+      "potential_impact": 8,
+      "quality_of_idea": 8,
+      "total": 32
+    },
+    "neogreg-engineering-administrative-document-generator": {
+      "technological_implementation": 3,
+      "design": 4,
+      "potential_impact": 5,
+      "quality_of_idea": 3,
+      "total": 15
+    },
+    "shiksha-saathi-ai-co-teacher-for-every-classroom": {
+      "technological_implementation": 7,
+      "design": 7,
+      "potential_impact": 7,
+      "quality_of_idea": 6,
+      "total": 27
+    },
+    "em-assist": {
+      "technological_implementation": 9,
+      "design": 7,
+      "potential_impact": 7,
+      "quality_of_idea": 9,
+      "total": 32
+    },
+    "wellgreat": {
+      "technological_implementation": 2,
+      "design": 2,
+      "potential_impact": 3,
+      "quality_of_idea": 2,
+      "total": 9
+    },
+    "saferecall": {
+      "technological_implementation": 7,
+      "design": 7,
+      "potential_impact": 7,
+      "quality_of_idea": 6,
+      "total": 27
+    },
+    "pathpilot-ai-0hcgfy": {
+      "technological_implementation": 6,
+      "design": 6,
+      "potential_impact": 7,
+      "quality_of_idea": 6,
+      "total": 25
+    },
+    "forge-uajer9": {
+      "technological_implementation": 3,
+      "design": 3,
+      "potential_impact": 3,
+      "quality_of_idea": 3,
+      "total": 12
+    },
+    "the-utopian-society": {
+      "technological_implementation": 7,
+      "design": 7,
+      "potential_impact": 5,
+      "quality_of_idea": 7,
+      "total": 26
+    },
+    "h4cker": {
+      "technological_implementation": 8,
+      "design": 7,
+      "potential_impact": 6,
+      "quality_of_idea": 7,
+      "total": 28
+    },
+    "codex-submission-doctor": {
+      "technological_implementation": 5,
+      "design": 3,
+      "potential_impact": 4,
+      "quality_of_idea": 4,
+      "total": 16
+    },
+    "yumiko-expedition-control-room": {
+      "technological_implementation": 6,
+      "design": 7,
+      "potential_impact": 5,
+      "quality_of_idea": 7,
+      "total": 25
+    },
+    "tracelca": {
+      "technological_implementation": 8,
+      "design": 7,
+      "potential_impact": 8,
+      "quality_of_idea": 8,
+      "total": 31
+    },
+    "western-strings-practice-diagnostics": {
+      "technological_implementation": 1,
+      "design": 1,
+      "potential_impact": 2,
+      "quality_of_idea": 2,
+      "total": 6
+    },
+    "newstune-team-reporter": {
+      "technological_implementation": 8,
+      "design": 7,
+      "potential_impact": 7,
+      "quality_of_idea": 6,
+      "total": 28
+    },
+    "page-play": {
+      "technological_implementation": 6,
+      "design": 7,
+      "potential_impact": 6,
+      "quality_of_idea": 5,
+      "total": 24
+    },
+    "private-universe": {
+      "technological_implementation": 8,
+      "design": 8,
+      "potential_impact": 8,
+      "quality_of_idea": 9,
+      "total": 33
+    },
+    "exxcelencia-academy": {
+      "technological_implementation": 4,
+      "design": 4,
+      "potential_impact": 4,
+      "quality_of_idea": 3,
+      "total": 15
+    },
+    "the-protocol-governed-continuity-for-ai-companions": {
+      "technological_implementation": 3,
+      "design": 4,
+      "potential_impact": 6,
+      "quality_of_idea": 7,
+      "total": 20
+    },
+    "traceguard-lab": {
+      "technological_implementation": 9,
+      "design": 7,
+      "potential_impact": 7,
+      "quality_of_idea": 7,
+      "total": 30
+    },
+    "signal-lf9q4c": {
+      "technological_implementation": 3,
+      "design": 2,
+      "potential_impact": 3,
+      "quality_of_idea": 4,
+      "total": 12
+    },
+    "vigi-vision": {
+      "technological_implementation": 3,
+      "design": 2,
+      "potential_impact": 3,
+      "quality_of_idea": 4,
+      "total": 12
+    },
+    "merchant-insigh": {
+      "technological_implementation": 7,
+      "design": 6,
+      "potential_impact": 7,
+      "quality_of_idea": 5,
+      "total": 25
+    },
+    "repairloop-iug6w8": {
+      "technological_implementation": 7,
+      "design": 5,
+      "potential_impact": 6,
+      "quality_of_idea": 6,
+      "total": 24
+    },
+    "givemefive": {
+      "technological_implementation": 1,
+      "design": 1,
+      "potential_impact": 2,
+      "quality_of_idea": 2,
+      "total": 6
+    },
+    "life-navigator-kezx8s": {
+      "technological_implementation": 7,
+      "design": 7,
+      "potential_impact": 7,
+      "quality_of_idea": 7,
+      "total": 28
+    },
+    "clawphone": {
+      "technological_implementation": 5,
+      "design": 5,
+      "potential_impact": 4,
+      "quality_of_idea": 4,
+      "total": 18
+    },
+    "maria-mail": {
+      "technological_implementation": 6,
+      "design": 7,
+      "potential_impact": 7,
+      "quality_of_idea": 8,
+      "total": 28
+    },
+    "qualiagent": {
+      "technological_implementation": 8,
+      "design": 7,
+      "potential_impact": 7,
+      "quality_of_idea": 6,
+      "total": 28
+    },
+    "sourceful-hu1lop": {
+      "technological_implementation": 3,
+      "design": 3,
+      "potential_impact": 4,
+      "quality_of_idea": 6,
+      "total": 16
+    },
+    "dsm-neuro-pharm-explorer": {
+      "technological_implementation": 5,
+      "design": 6,
+      "potential_impact": 6,
+      "quality_of_idea": 5,
+      "total": 22
+    },
+    "jjjj-uxhnef": {
+      "technological_implementation": 4,
+      "design": 4,
+      "potential_impact": 6,
+      "quality_of_idea": 5,
+      "total": 19
+    },
+    "memory-court": {
+      "technological_implementation": 9,
+      "design": 8,
+      "potential_impact": 7,
+      "quality_of_idea": 8,
+      "total": 32
+    },
+    "lingualive-2sbz7h": {
+      "technological_implementation": 4,
+      "design": 5,
+      "potential_impact": 6,
+      "quality_of_idea": 4,
+      "total": 19
+    },
+    "characteros-ai-beings-that-evolve": {
+      "technological_implementation": 5,
+      "design": 4,
+      "potential_impact": 4,
+      "quality_of_idea": 6,
+      "total": 19
+    },
+    "applique-ai-gq17en": {
+      "technological_implementation": 7,
+      "design": 7,
+      "potential_impact": 8,
+      "quality_of_idea": 7,
+      "total": 29
+    },
+    "uncall": {
+      "technological_implementation": 9,
+      "design": 8,
+      "potential_impact": 6,
+      "quality_of_idea": 8,
+      "total": 31
+    },
+    "datart": {
+      "technological_implementation": 6,
+      "design": 7,
+      "potential_impact": 7,
+      "quality_of_idea": 5,
+      "total": 25
+    },
+    "runready": {
+      "technological_implementation": 8,
+      "design": 7,
+      "potential_impact": 8,
+      "quality_of_idea": 8,
+      "total": 31
+    },
+    "mneme-q2euw6": {
+      "technological_implementation": 8,
+      "design": 7,
+      "potential_impact": 8,
+      "quality_of_idea": 8,
+      "total": 31
+    },
+    "mneme-osie2z": {
+      "technological_implementation": 8,
+      "design": 7,
+      "potential_impact": 8,
+      "quality_of_idea": 8,
+      "total": 31
+    },
+    "easy-manage-school-ai-success-copilot": {
+      "technological_implementation": 2,
+      "design": 1,
+      "potential_impact": 2,
+      "quality_of_idea": 2,
+      "total": 7
+    },
+    "sitekapinda": {
+      "technological_implementation": 8,
+      "design": 7,
+      "potential_impact": 8,
+      "quality_of_idea": 8,
+      "total": 31
+    },
+    "singlink": {
+      "technological_implementation": 6,
+      "design": 6,
+      "potential_impact": 5,
+      "quality_of_idea": 5,
+      "total": 22
+    },
+    "remember-2fnq3e": {
+      "technological_implementation": 2,
+      "design": 1,
+      "potential_impact": 2,
+      "quality_of_idea": 2,
+      "total": 7
+    },
+    "ai-powered-lms-rg38ex": {
+      "technological_implementation": 7,
+      "design": 6,
+      "potential_impact": 6,
+      "quality_of_idea": 4,
+      "total": 23
+    },
+    "eduguard-ai-smart-exam-integrity-platform": {
+      "technological_implementation": 7,
+      "design": 6,
+      "potential_impact": 7,
+      "quality_of_idea": 5,
+      "total": 25
+    },
+    "pathmark": {
+      "technological_implementation": 9,
+      "design": 6,
+      "potential_impact": 7,
+      "quality_of_idea": 7,
+      "total": 29
+    },
+    "promised": {
+      "technological_implementation": 7,
+      "design": 7,
+      "potential_impact": 7,
+      "quality_of_idea": 6,
+      "total": 27
+    },
+    "test-5cmfzo": {
+      "technological_implementation": 1,
+      "design": 1,
+      "potential_impact": 1,
+      "quality_of_idea": 1,
+      "total": 4
+    },
+    "relay-30cpd8": {
+      "technological_implementation": 2,
+      "design": 2,
+      "potential_impact": 3,
+      "quality_of_idea": 3,
+      "total": 10
+    },
+    "wf-project": {
+      "technological_implementation": 2,
+      "design": 2,
+      "potential_impact": 2,
+      "quality_of_idea": 2,
+      "total": 8
+    },
+    "evidence-backed-exposure-mapping-for-sec-filings": {
+      "technological_implementation": 9,
+      "design": 8,
+      "potential_impact": 8,
+      "quality_of_idea": 8,
+      "total": 33
+    },
+    "john-ceo-8dj0qg": {
+      "technological_implementation": 9,
+      "design": 6,
+      "potential_impact": 7,
+      "quality_of_idea": 9,
+      "total": 31
+    },
+    "quiz-pulse": {
+      "technological_implementation": 5,
+      "design": 5,
+      "potential_impact": 5,
+      "quality_of_idea": 3,
+      "total": 18
+    },
+    "shorty-i3y9dm": {
+      "technological_implementation": 9,
+      "design": 8,
+      "potential_impact": 8,
+      "quality_of_idea": 8,
+      "total": 33
+    },
+    "psx-war-room": {
+      "technological_implementation": 7,
+      "design": 6,
+      "potential_impact": 7,
+      "quality_of_idea": 8,
+      "total": 28
+    },
+    "forgeflow-eiftcq": {
+      "technological_implementation": 9,
+      "design": 8,
+      "potential_impact": 8,
+      "quality_of_idea": 7,
+      "total": 32
+    },
+    "masarfy": {
+      "technological_implementation": 5,
+      "design": 4,
+      "potential_impact": 4,
+      "quality_of_idea": 3,
+      "total": 16
+    },
+    "learnchinese-ai": {
+      "technological_implementation": 6,
+      "design": 8,
+      "potential_impact": 7,
+      "quality_of_idea": 6,
+      "total": 27
+    },
+    "whatsapp-assistant-n6d4z9": {
+      "technological_implementation": 3,
+      "design": 2,
+      "potential_impact": 3,
+      "quality_of_idea": 3,
+      "total": 11
+    },
+    "uuyiuyiuyiyiu": {
+      "technological_implementation": 6,
+      "design": 6,
+      "potential_impact": 5,
+      "quality_of_idea": 4,
+      "total": 21
+    },
+    "medisync-evtujd": {
+      "technological_implementation": 4,
+      "design": 5,
+      "potential_impact": 5,
+      "quality_of_idea": 4,
+      "total": 18
+    },
+    "tako-vr1n7c": {
+      "technological_implementation": 9,
+      "design": 7,
+      "potential_impact": 7,
+      "quality_of_idea": 9,
+      "total": 32
+    },
+    "hala-impact-ai": {
+      "technological_implementation": 7,
+      "design": 7,
+      "potential_impact": 7,
+      "quality_of_idea": 6,
+      "total": 27
+    },
+    "language-cafe-8iucqp": {
+      "technological_implementation": 7,
+      "design": 7,
+      "potential_impact": 7,
+      "quality_of_idea": 7,
+      "total": 28
+    },
+    "darkmanus-evidence-console": {
+      "technological_implementation": 8,
+      "design": 5,
+      "potential_impact": 4,
+      "quality_of_idea": 5,
+      "total": 22
+    },
+    "questcoin-kids-family-challange": {
+      "technological_implementation": 5,
+      "design": 6,
+      "potential_impact": 5,
+      "quality_of_idea": 4,
+      "total": 20
+    },
+    "soleissaai": {
+      "technological_implementation": 4,
+      "design": 4,
+      "potential_impact": 4,
+      "quality_of_idea": 3,
+      "total": 15
+    },
+    "medical-tracker-89ip6s": {
+      "technological_implementation": 5,
+      "design": 6,
+      "potential_impact": 7,
+      "quality_of_idea": 5,
+      "total": 23
+    },
+    "legacykeeper-the-intelligent-family-memory-vault": {
+      "technological_implementation": 8,
+      "design": 7,
+      "potential_impact": 6,
+      "quality_of_idea": 7,
+      "total": 28
+    },
+    "mindmappr-084ofr": {
+      "technological_implementation": 7,
+      "design": 7,
+      "potential_impact": 6,
+      "quality_of_idea": 6,
+      "total": 26
+    },
+    "bindery": {
+      "technological_implementation": 8,
+      "design": 7,
+      "potential_impact": 8,
+      "quality_of_idea": 5,
+      "total": 28
+    },
+    "hash-table-inspector": {
+      "technological_implementation": 9,
+      "design": 6,
+      "potential_impact": 4,
+      "quality_of_idea": 7,
+      "total": 26
+    },
+    "codex-foundry": {
+      "technological_implementation": 7,
+      "design": 6,
+      "potential_impact": 6,
+      "quality_of_idea": 8,
+      "total": 27
+    },
+    "csv-whisperer": {
+      "technological_implementation": 8,
+      "design": 7,
+      "potential_impact": 7,
+      "quality_of_idea": 5,
+      "total": 27
+    },
+    "suraspark": {
+      "technological_implementation": 6,
+      "design": 7,
+      "potential_impact": 7,
+      "quality_of_idea": 7,
+      "total": 27
+    },
+    "i-learn-u8ahb1": {
+      "technological_implementation": 9,
+      "design": 8,
+      "potential_impact": 8,
+      "quality_of_idea": 7,
+      "total": 32
+    },
+    "codex-app-loopcrew": {
+      "technological_implementation": 8,
+      "design": 6,
+      "potential_impact": 6,
+      "quality_of_idea": 8,
+      "total": 28
+    },
+    "easy-mode-agency-drift": {
+      "technological_implementation": 7,
+      "design": 8,
+      "potential_impact": 6,
+      "quality_of_idea": 9,
+      "total": 30
+    },
+    "agent-ground-control": {
+      "technological_implementation": 9,
+      "design": 8,
+      "potential_impact": 7,
+      "quality_of_idea": 7,
+      "total": 31
+    },
+    "anchor-epi2cr": {
+      "technological_implementation": 5,
+      "design": 6,
+      "potential_impact": 5,
+      "quality_of_idea": 4,
+      "total": 20
+    },
+    "first-move-9vw83e": {
+      "technological_implementation": 7,
+      "design": 8,
+      "potential_impact": 7,
+      "quality_of_idea": 7,
+      "total": 29
+    },
+    "941": {
+      "technological_implementation": 3,
+      "design": 2,
+      "potential_impact": 2,
+      "quality_of_idea": 2,
+      "total": 9
+    },
+    "clario-cfo": {
+      "technological_implementation": 7,
+      "design": 7,
+      "potential_impact": 8,
+      "quality_of_idea": 7,
+      "total": 29
+    },
+    "household-ops-agent": {
+      "technological_implementation": 7,
+      "design": 7,
+      "potential_impact": 6,
+      "quality_of_idea": 6,
+      "total": 26
+    },
+    "shelby-chibi-pet": {
+      "technological_implementation": 7,
+      "design": 7,
+      "potential_impact": 4,
+      "quality_of_idea": 4,
+      "total": 22
+    },
+    "magister-0tf21x": {
+      "technological_implementation": 7,
+      "design": 6,
+      "potential_impact": 7,
+      "quality_of_idea": 5,
+      "total": 25
+    },
+    "understudy-g5xdab": {
+      "technological_implementation": 8,
+      "design": 8,
+      "potential_impact": 8,
+      "quality_of_idea": 8,
+      "total": 32
+    },
+    "studypals-every-child-deserves-a-learning-companion": {
+      "technological_implementation": 4,
+      "design": 5,
+      "potential_impact": 5,
+      "quality_of_idea": 4,
+      "total": 18
+    },
+    "hack-vs9h1k": {
+      "technological_implementation": 1,
+      "design": 1,
+      "potential_impact": 1,
+      "quality_of_idea": 1,
+      "total": 4
+    },
+    "hzm": {
+      "technological_implementation": 4,
+      "design": 4,
+      "potential_impact": 4,
+      "quality_of_idea": 3,
+      "total": 15
+    },
+    "camera-01": {
+      "technological_implementation": 7,
+      "design": 8,
+      "potential_impact": 6,
+      "quality_of_idea": 7,
+      "total": 28
+    },
+    "nobs-vatqof": {
+      "technological_implementation": 8,
+      "design": 7,
+      "potential_impact": 7,
+      "quality_of_idea": 6,
+      "total": 28
+    },
+    "macro-and-property-market-tracker": {
+      "technological_implementation": 3,
+      "design": 3,
+      "potential_impact": 4,
+      "quality_of_idea": 3,
+      "total": 13
+    },
+    "build1": {
+      "technological_implementation": 4,
+      "design": 3,
+      "potential_impact": 3,
+      "quality_of_idea": 3,
+      "total": 13
+    },
+    "global-build-week-6": {
+      "technological_implementation": 9,
+      "design": 8,
+      "potential_impact": 9,
+      "quality_of_idea": 9,
+      "total": 35
+    },
+    "ghost-push-hunter": {
+      "technological_implementation": 8,
+      "design": 8,
+      "potential_impact": 8,
+      "quality_of_idea": 8,
+      "total": 32
+    },
+    "smartcart-intelligent-product-recommendation-system-y9xjtq": {
+      "technological_implementation": 1,
+      "design": 1,
+      "potential_impact": 1,
+      "quality_of_idea": 1,
+      "total": 4
+    },
+    "pluck": {
+      "technological_implementation": 9,
+      "design": 8,
+      "potential_impact": 7,
+      "quality_of_idea": 8,
+      "total": 32
+    },
+    "ai-based-alloy-optimization": {
+      "technological_implementation": 3,
+      "design": 2,
+      "potential_impact": 3,
+      "quality_of_idea": 3,
+      "total": 11
+    },
+    "nexa-proofgate": {
+      "technological_implementation": 9,
+      "design": 8,
+      "potential_impact": 8,
+      "quality_of_idea": 8,
+      "total": 33
+    },
+    "student-helper-bot": {
+      "technological_implementation": 2,
+      "design": 2,
+      "potential_impact": 3,
+      "quality_of_idea": 1,
+      "total": 8
+    },
+    "devpulse-c7bmty": {
+      "technological_implementation": 2,
+      "design": 1,
+      "potential_impact": 2,
+      "quality_of_idea": 2,
+      "total": 7
+    },
+    "national-police-hospital-1q4ap7": {
+      "technological_implementation": 3,
+      "design": 5,
+      "potential_impact": 4,
+      "quality_of_idea": 2,
+      "total": 14
+    },
+    "twist-code": {
+      "technological_implementation": 8,
+      "design": 7,
+      "potential_impact": 6,
+      "quality_of_idea": 8,
+      "total": 29
+    },
+    "proofreview-ai": {
+      "technological_implementation": 4,
+      "design": 2,
+      "potential_impact": 4,
+      "quality_of_idea": 5,
+      "total": 15
+    },
+    "codebus": {
+      "technological_implementation": 8,
+      "design": 6,
+      "potential_impact": 6,
+      "quality_of_idea": 7,
+      "total": 27
+    },
+    "wizard-b2lkh1": {
+      "technological_implementation": 7,
+      "design": 6,
+      "potential_impact": 5,
+      "quality_of_idea": 6,
+      "total": 24
+    },
+    "talkpoetry": {
+      "technological_implementation": 3,
+      "design": 3,
+      "potential_impact": 4,
+      "quality_of_idea": 5,
+      "total": 15
+    },
+    "apply-or-not": {
+      "technological_implementation": 7,
+      "design": 7,
+      "potential_impact": 7,
+      "quality_of_idea": 6,
+      "total": 27
+    },
+    "trace-kernel": {
+      "technological_implementation": 8,
+      "design": 8,
+      "potential_impact": 7,
+      "quality_of_idea": 7,
+      "total": 30
+    },
+    "bhartiya-abhilekhan": {
+      "technological_implementation": 1,
+      "design": 1,
+      "potential_impact": 1,
+      "quality_of_idea": 1,
+      "total": 4
+    },
+    "quantum-classroom": {
+      "technological_implementation": 4,
+      "design": 7,
+      "potential_impact": 6,
+      "quality_of_idea": 6,
+      "total": 23
+    },
+    "datalens-ai-data-analyst": {
+      "technological_implementation": 5,
+      "design": 5,
+      "potential_impact": 5,
+      "quality_of_idea": 3,
+      "total": 18
+    },
+    "taptrack-privacy-first-nfc-attendance-for-schools": {
+      "technological_implementation": 7,
+      "design": 6,
+      "potential_impact": 6,
+      "quality_of_idea": 6,
+      "total": 25
+    },
+    "dreamscroll": {
+      "technological_implementation": 2,
+      "design": 3,
+      "potential_impact": 4,
+      "quality_of_idea": 4,
+      "total": 13
+    },
+    "eduforge-ai-uhx8li": {
+      "technological_implementation": 2,
+      "design": 2,
+      "potential_impact": 3,
+      "quality_of_idea": 3,
+      "total": 10
+    },
+    "war-room-ai-incident-response": {
+      "technological_implementation": 9,
+      "design": 8,
+      "potential_impact": 8,
+      "quality_of_idea": 8,
+      "total": 33
+    },
+    "gitship-ikg2wq": {
+      "technological_implementation": 7,
+      "design": 7,
+      "potential_impact": 6,
+      "quality_of_idea": 5,
+      "total": 25
+    },
+    "raceproof": {
+      "technological_implementation": 3,
+      "design": 2,
+      "potential_impact": 3,
+      "quality_of_idea": 4,
+      "total": 12
+    },
+    "genecourt": {
+      "technological_implementation": 8,
+      "design": 8,
+      "potential_impact": 7,
+      "quality_of_idea": 8,
+      "total": 31
+    },
+    "abc-8o1wkh": {
+      "technological_implementation": 7,
+      "design": 7,
+      "potential_impact": 7,
+      "quality_of_idea": 7,
+      "total": 28
+    },
+    "2talk": {
+      "technological_implementation": 6,
+      "design": 6,
+      "potential_impact": 5,
+      "quality_of_idea": 5,
+      "total": 22
+    },
+    "architect-wl0iz8": {
+      "technological_implementation": 9,
+      "design": 6,
+      "potential_impact": 8,
+      "quality_of_idea": 9,
+      "total": 32
+    },
+    "everbook-lightkeeper": {
+      "technological_implementation": 4,
+      "design": 5,
+      "potential_impact": 4,
+      "quality_of_idea": 4,
+      "total": 17
+    },
+    "xdd-website": {
+      "technological_implementation": 2,
+      "design": 2,
+      "potential_impact": 1,
+      "quality_of_idea": 1,
+      "total": 6
+    },
+    "solarplexus-mobius": {
+      "technological_implementation": 3,
+      "design": 2,
+      "potential_impact": 3,
+      "quality_of_idea": 3,
+      "total": 11
+    },
+    "opencanvas-ai-trace": {
+      "technological_implementation": 8,
+      "design": 8,
+      "potential_impact": 7,
+      "quality_of_idea": 8,
+      "total": 31
+    },
+    "personalized-learning-steps": {
+      "technological_implementation": 8,
+      "design": 7,
+      "potential_impact": 6,
+      "quality_of_idea": 6,
+      "total": 27
+    },
+    "pontabi": {
+      "technological_implementation": 7,
+      "design": 7,
+      "potential_impact": 6,
+      "quality_of_idea": 5,
+      "total": 25
+    },
+    "sheeptrip": {
+      "technological_implementation": 5,
+      "design": 5,
+      "potential_impact": 5,
+      "quality_of_idea": 3,
+      "total": 18
+    },
+    "scopepatch": {
+      "technological_implementation": 8,
+      "design": 7,
+      "potential_impact": 7,
+      "quality_of_idea": 8,
+      "total": 30
+    },
+    "astralis-seiaf5": {
+      "technological_implementation": 7,
+      "design": 8,
+      "potential_impact": 6,
+      "quality_of_idea": 5,
+      "total": 26
+    },
+    "dremads": {
+      "technological_implementation": 7,
+      "design": 7,
+      "potential_impact": 6,
+      "quality_of_idea": 5,
+      "total": 25
+    },
+    "ravencry-2qeh30": {
+      "technological_implementation": 9,
+      "design": 7,
+      "potential_impact": 8,
+      "quality_of_idea": 8,
+      "total": 32
+    },
+    "ariad-breast": {
+      "technological_implementation": 8,
+      "design": 7,
+      "potential_impact": 8,
+      "quality_of_idea": 7,
+      "total": 30
+    },
+    "arxiv": {
+      "technological_implementation": 5,
+      "design": 5,
+      "potential_impact": 5,
+      "quality_of_idea": 5,
+      "total": 20
+    },
+    "medicaltouragent": {
+      "technological_implementation": 6,
+      "design": 6,
+      "potential_impact": 6,
+      "quality_of_idea": 5,
+      "total": 23
+    },
+    "1-4ck5uj": {
+      "technological_implementation": 0,
+      "design": 0,
+      "potential_impact": 0,
+      "quality_of_idea": 0,
+      "total": 0
+    },
+    "shipit-sgmth2": {
+      "technological_implementation": 8,
+      "design": 6,
+      "potential_impact": 7,
+      "quality_of_idea": 6,
+      "total": 27
+    },
+    "forget": {
+      "technological_implementation": 8,
+      "design": 6,
+      "potential_impact": 7,
+      "quality_of_idea": 8,
+      "total": 29
+    },
+    "your-favorite-place-in-2036": {
+      "technological_implementation": 7,
+      "design": 7,
+      "potential_impact": 5,
+      "quality_of_idea": 7,
+      "total": 26
+    },
+    "runtimespy": {
+      "technological_implementation": 8,
+      "design": 6,
+      "potential_impact": 7,
+      "quality_of_idea": 7,
+      "total": 28
+    },
+    "leaseflow-copilot": {
+      "technological_implementation": 7,
+      "design": 7,
+      "potential_impact": 7,
+      "quality_of_idea": 6,
+      "total": 27
+    },
+    "crossready": {
+      "technological_implementation": 8,
+      "design": 6,
+      "potential_impact": 7,
+      "quality_of_idea": 7,
+      "total": 28
+    },
+    "ai-assisted-academic-integrity-review-workflow": {
+      "technological_implementation": 4,
+      "design": 4,
+      "potential_impact": 5,
+      "quality_of_idea": 4,
+      "total": 17
+    },
+    "codexos": {
+      "technological_implementation": 9,
+      "design": 7,
+      "potential_impact": 5,
+      "quality_of_idea": 6,
+      "total": 27
+    },
+    "veritylane": {
+      "technological_implementation": 8,
+      "design": 7,
+      "potential_impact": 8,
+      "quality_of_idea": 8,
+      "total": 31
+    },
+    "cosu": {
+      "technological_implementation": 5,
+      "design": 6,
+      "potential_impact": 6,
+      "quality_of_idea": 7,
+      "total": 24
+    },
+    "aegis-by-voco": {
+      "technological_implementation": 2,
+      "design": 2,
+      "potential_impact": 3,
+      "quality_of_idea": 2,
+      "total": 9
+    },
+    "swarm-mp5e4o": {
+      "technological_implementation": 8,
+      "design": 7,
+      "potential_impact": 7,
+      "quality_of_idea": 6,
+      "total": 28
+    },
+    "tb-303-vibe": {
+      "technological_implementation": 7,
+      "design": 7,
+      "potential_impact": 5,
+      "quality_of_idea": 5,
+      "total": 24
+    },
+    "carryforward-gzkx6r": {
+      "technological_implementation": 7,
+      "design": 7,
+      "potential_impact": 7,
+      "quality_of_idea": 6,
+      "total": 27
+    },
+    "fair-8le0xz": {
+      "technological_implementation": 2,
+      "design": 2,
+      "potential_impact": 3,
+      "quality_of_idea": 2,
+      "total": 9
+    },
+    "journey-os": {
+      "technological_implementation": 7,
+      "design": 7,
+      "potential_impact": 7,
+      "quality_of_idea": 7,
+      "total": 28
+    },
+    "smart-finance-8o0dnf": {
+      "technological_implementation": 9,
+      "design": 8,
+      "potential_impact": 8,
+      "quality_of_idea": 7,
+      "total": 32
+    },
+    "socmate-ai": {
+      "technological_implementation": 5,
+      "design": 6,
+      "potential_impact": 6,
+      "quality_of_idea": 4,
+      "total": 21
+    },
+    "agentcommerce-ai": {
+      "technological_implementation": 8,
+      "design": 7,
+      "potential_impact": 7,
+      "quality_of_idea": 7,
+      "total": 29
+    },
+    "clock-tzs89j": {
+      "technological_implementation": 6,
+      "design": 6,
+      "potential_impact": 6,
+      "quality_of_idea": 6,
+      "total": 24
+    },
+    "today-x": {
+      "technological_implementation": 8,
+      "design": 8,
+      "potential_impact": 6,
+      "quality_of_idea": 7,
+      "total": 29
+    },
+    "tukang-xpsru5": {
+      "technological_implementation": 6,
+      "design": 6,
+      "potential_impact": 6,
+      "quality_of_idea": 6,
+      "total": 24
+    },
+    "customex": {
+      "technological_implementation": 8,
+      "design": 8,
+      "potential_impact": 8,
+      "quality_of_idea": 8,
+      "total": 32
+    },
+    "gorest-2d-animation-spritesheet-generator": {
+      "technological_implementation": 6,
+      "design": 5,
+      "potential_impact": 6,
+      "quality_of_idea": 5,
+      "total": 22
+    },
+    "intentchord": {
+      "technological_implementation": 8,
+      "design": 7,
+      "potential_impact": 8,
+      "quality_of_idea": 8,
+      "total": 31
+    },
+    "weld-ti4yr5": {
+      "technological_implementation": 7,
+      "design": 8,
+      "potential_impact": 7,
+      "quality_of_idea": 8,
+      "total": 30
+    },
+    "kenzie-deskclerk": {
+      "technological_implementation": 3,
+      "design": 3,
+      "potential_impact": 4,
+      "quality_of_idea": 3,
+      "total": 13
+    },
+    "woofle": {
+      "technological_implementation": 4,
+      "design": 3,
+      "potential_impact": 5,
+      "quality_of_idea": 4,
+      "total": 16
+    },
+    "mushroom-collector": {
+      "technological_implementation": 5,
+      "design": 8,
+      "potential_impact": 6,
+      "quality_of_idea": 7,
+      "total": 26
+    },
+    "heyeddi-ci": {
+      "technological_implementation": 9,
+      "design": 8,
+      "potential_impact": 8,
+      "quality_of_idea": 7,
+      "total": 32
+    },
+    "waylight": {
+      "technological_implementation": 9,
+      "design": 8,
+      "potential_impact": 9,
+      "quality_of_idea": 8,
+      "total": 34
+    },
+    "mtsyes": {
+      "technological_implementation": 8,
+      "design": 7,
+      "potential_impact": 8,
+      "quality_of_idea": 8,
+      "total": 31
+    },
+    "lurnr": {
+      "technological_implementation": 9,
+      "design": 8,
+      "potential_impact": 8,
+      "quality_of_idea": 9,
+      "total": 34
+    },
+    "verity-proof-carrying-release-gates": {
+      "technological_implementation": 8,
+      "design": 7,
+      "potential_impact": 8,
+      "quality_of_idea": 8,
+      "total": 31
+    },
+    "osgb-ai-pro-occupational-safety-inspection-copilot": {
+      "technological_implementation": 7,
+      "design": 5,
+      "potential_impact": 7,
+      "quality_of_idea": 6,
+      "total": 25
+    },
+    "erqwr": {
+      "technological_implementation": 0,
+      "design": 0,
+      "potential_impact": 0,
+      "quality_of_idea": 0,
+      "total": 0
+    },
+    "h5-debug": {
+      "technological_implementation": 5,
+      "design": 4,
+      "potential_impact": 7,
+      "quality_of_idea": 7,
+      "total": 23
+    },
+    "chatting-nexus": {
+      "technological_implementation": 3,
+      "design": 4,
+      "potential_impact": 5,
+      "quality_of_idea": 3,
+      "total": 15
+    },
+    "firework-sa8h0p": {
+      "technological_implementation": 8,
+      "design": 5,
+      "potential_impact": 7,
+      "quality_of_idea": 6,
+      "total": 26
+    },
+    "studyflow-b18xqt": {
+      "technological_implementation": 9,
+      "design": 7,
+      "potential_impact": 7,
+      "quality_of_idea": 7,
+      "total": 30
+    },
+    "main-yu0c5r": {
+      "technological_implementation": 1,
+      "design": 1,
+      "potential_impact": 1,
+      "quality_of_idea": 1,
+      "total": 4
+    },
+    "resonance-switch-agent-recovery-lab": {
+      "technological_implementation": 8,
+      "design": 4,
+      "potential_impact": 5,
+      "quality_of_idea": 6,
+      "total": 23
+    },
+    "aida-personal-agents-for-human-coordination": {
+      "technological_implementation": 7,
+      "design": 8,
+      "potential_impact": 8,
+      "quality_of_idea": 8,
+      "total": 31
+    },
+    "musixquare": {
+      "technological_implementation": 9,
+      "design": 8,
+      "potential_impact": 6,
+      "quality_of_idea": 7,
+      "total": 30
+    },
+    "lucia-s-dictionary-classroom-relay": {
+      "technological_implementation": 6,
+      "design": 7,
+      "potential_impact": 7,
+      "quality_of_idea": 7,
+      "total": 27
+    },
+    "english-life": {
+      "technological_implementation": 7,
+      "design": 7,
+      "potential_impact": 6,
+      "quality_of_idea": 5,
+      "total": 25
+    },
+    "kaiwa-ai-japanese-conversation-coach": {
+      "technological_implementation": 6,
+      "design": 6,
+      "potential_impact": 6,
+      "quality_of_idea": 4,
+      "total": 22
+    },
+    "codex-agent-studio": {
+      "technological_implementation": 8,
+      "design": 7,
+      "potential_impact": 6,
+      "quality_of_idea": 6,
+      "total": 27
+    },
+    "emaki-kanji-as-pictures-with-a-gpt-5-6-tutor": {
+      "technological_implementation": 8,
+      "design": 7,
+      "potential_impact": 7,
+      "quality_of_idea": 8,
+      "total": 30
+    },
+    "admitpulse": {
+      "technological_implementation": 7,
+      "design": 6,
+      "potential_impact": 7,
+      "quality_of_idea": 5,
+      "total": 25
+    },
+    "outlier-fn3myi": {
+      "technological_implementation": 7,
+      "design": 5,
+      "potential_impact": 7,
+      "quality_of_idea": 8,
+      "total": 27
+    },
+    "phonescape": {
+      "technological_implementation": 7,
+      "design": 8,
+      "potential_impact": 7,
+      "quality_of_idea": 8,
+      "total": 30
+    },
+    "echocards-8u6rx7": {
+      "technological_implementation": 8,
+      "design": 7,
+      "potential_impact": 7,
+      "quality_of_idea": 6,
+      "total": 28
+    },
+    "mei-tra": {
+      "technological_implementation": 6,
+      "design": 8,
+      "potential_impact": 6,
+      "quality_of_idea": 5,
+      "total": 25
+    },
+    "dhurandhar-ai-agents-that-show-receipts": {
+      "technological_implementation": 9,
+      "design": 6,
+      "potential_impact": 8,
+      "quality_of_idea": 9,
+      "total": 32
+    },
+    "cartcause": {
+      "technological_implementation": 5,
+      "design": 7,
+      "potential_impact": 7,
+      "quality_of_idea": 6,
+      "total": 25
+    },
+    "hippo-homes": {
+      "technological_implementation": 7,
+      "design": 7,
+      "potential_impact": 6,
+      "quality_of_idea": 5,
+      "total": 25
+    },
+    "nyx-persona": {
+      "technological_implementation": 9,
+      "design": 8,
+      "potential_impact": 8,
+      "quality_of_idea": 8,
+      "total": 33
     }
   }
 }
