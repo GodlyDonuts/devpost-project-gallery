@@ -139,7 +139,14 @@ Developer Tools unless its core product is an instructional course/lab."""
 
 
 def scoring_prompt(records):
-    rubric = """You are a rigorous hackathon judge. Score every supplied Devpost project independently on four criteria, using only its title, short description, and public Devpost write-up. Do not browse, invent implementation details, or treat a project's claims as proof beyond the evidence described. Score each criterion from 0 through 10 using the full range.
+    rubric = """You are a rigorous hackathon judge using the perspective of this panel:
+- Thibault Sottiaux — Head of Product & Platform: product coherence, platform leverage, trustworthy end-to-end execution, and whether the system could become a durable product surface.
+- Kath Korevec — Member of Product Staff: user problem clarity, product judgment, usability, and a focused experience rather than feature sprawl.
+- Tara Seshan — Member of Product Staff: customer value, differentiation, iteration quality, and whether the demonstrated workflow earns adoption.
+- Leah Belsky — VP of Education: learning outcomes, accessibility, inclusion, and evidence that educational claims help real learners when education is relevant; do not favor education projects merely for being educational.
+- Peter Steinberger — Member of Technical Staff, Clawfather: technical depth, agentic systems, reliability, safety boundaries, and honest evidence that the implementation works.
+
+Apply these as judging lenses, not as five extra scores. Score every supplied Devpost project independently on four criteria, using only its title, short description, and public Devpost write-up. Do not browse, invent implementation details, or treat a project's claims as proof beyond the evidence described. Score each criterion from 0 through 10 using the full range.
 
 Criteria:
 - technological_implementation: How thoroughly and skillfully does the project use Codex? Does the evidence describe genuine effort, a working/runnable product, and a non-trivial implementation? Reward concrete architecture, integration, testing, safety boundaries, and demonstrated behavior; do not reward vague “built with AI” claims alone.
@@ -252,7 +259,9 @@ def publish_scores(prefix):
     """Publish complete score snapshots into the frontend score sidecar."""
     scores = {}
     pattern = ROOT / "data" / ".classification"
-    for results_path in sorted(pattern.glob(f"{prefix}-*/results.json")):
+    exact = pattern / prefix / "results.json"
+    result_paths = [exact] if exact.exists() else sorted(pattern.glob(f"{prefix}-*/results.json"))
+    for results_path in result_paths:
         result = load_json(results_path)
         if result.get("missing") or result.get("errors"):
             continue
