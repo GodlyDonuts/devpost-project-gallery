@@ -2,14 +2,14 @@
   "slug": "openai-build-week",
   "name": "OpenAI Build Week",
   "hackathon_id": "30223",
-  "generated_at": "2026-07-24T10:29:56.015683+00:00",
+  "generated_at": "2026-07-24T10:30:21.830248+00:00",
   "categories": [
     "Apps for Your Life",
     "Work & Productivity",
     "Developer Tools",
     "Education"
   ],
-  "count": 2189,
+  "count": 2200,
   "projects": [
     {
       "slug": "gosu-go-trainer",
@@ -41917,6 +41917,213 @@
       ],
       "url": "https://devpost.com/software/wek-for-e-commerce",
       "repo_url": null,
+      "demo_url": null
+    },
+    {
+      "slug": "check-in-wo0phk",
+      "title": "Check-In",
+      "description": "Make money conversations fun and productive for couples.",
+      "image": "https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/005/007/437/datas/medium.png",
+      "category": null,
+      "members": [
+        {
+          "handle": "brocusio",
+          "name": "brocusio",
+          "url": "https://devpost.com/brocusio"
+        }
+      ],
+      "url": "https://devpost.com/software/check-in-wo0phk",
+      "repo_url": "https://github.com/brocusio/check-in-money",
+      "demo_url": null
+    },
+    {
+      "slug": "llna-pro-low-latency-mobile-audio-framework-for-unity",
+      "title": "LLNA PRO – Low-Latency Mobile Audio Framework for Unity",
+      "description": "A Unity Asset Store package that brings native low-latency audio to Android and iOS, with a real-time synth, sampler, sequencer, native playback, and WAV export for mobile music apps.",
+      "image": "https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/984/814/datas/medium.png",
+      "category": null,
+      "members": [
+        {
+          "handle": "brsbltkn",
+          "name": "brsbltkn",
+          "url": "https://devpost.com/brsbltkn"
+        }
+      ],
+      "url": "https://devpost.com/software/llna-pro-low-latency-mobile-audio-framework-for-unity",
+      "repo_url": null,
+      "demo_url": null
+    },
+    {
+      "slug": "constitutional-runtime-for-autonomous-systems-cras",
+      "title": "Constitutional Runtime for Autonomous Systems (CRAS)",
+      "description": "A pre-execution authorization runtime that requires evidence before autonomous action. Deterministic protocols, not AI model outputs, govern whether an endpoint may execute.",
+      "image": "https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/005/003/883/datas/medium.png",
+      "category": null,
+      "members": [
+        {
+          "handle": "brucetisler",
+          "name": "brucetisler",
+          "url": "https://devpost.com/brucetisler"
+        },
+        {
+          "handle": "emilytisler",
+          "name": "emilytisler",
+          "url": "https://devpost.com/emilytisler"
+        },
+        {
+          "handle": "taylorachris",
+          "name": "taylorachris",
+          "url": "https://devpost.com/taylorachris"
+        },
+        {
+          "handle": "will59payne",
+          "name": "will59payne",
+          "url": "https://devpost.com/will59payne"
+        }
+      ],
+      "url": "https://devpost.com/software/constitutional-runtime-for-autonomous-systems-cras",
+      "repo_url": "https://github.com/btisler-DS",
+      "demo_url": "https://nursing-assistant-demo.vercel.app/"
+    },
+    {
+      "slug": "skill-issue-4if309",
+      "title": "Skill Issue",
+      "description": "Stop blaming the model. It's always a skill issue.\r\nWe help you build superior agent skills and find the models that execute them effectively.",
+      "image": "https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/992/085/datas/medium.png",
+      "category": null,
+      "members": [
+        {
+          "handle": "bruntzcreative",
+          "name": "bruntzcreative",
+          "url": "https://devpost.com/bruntzcreative"
+        }
+      ],
+      "url": "https://devpost.com/software/skill-issue-4if309",
+      "repo_url": null,
+      "demo_url": null
+    },
+    {
+      "slug": "asos-control-room",
+      "title": "ASOS Control Room",
+      "description": "ASOS Control Room lets AI specialists investigate and propose solutions while deterministic governance blocks self-approval, unauthorized execution, and unverifiable work.",
+      "image": "https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/922/179/datas/medium.png",
+      "category": null,
+      "members": [
+        {
+          "handle": "bryan060807",
+          "name": "bryan060807",
+          "url": "https://devpost.com/bryan060807"
+        }
+      ],
+      "url": "https://devpost.com/software/asos-control-room",
+      "repo_url": null,
+      "demo_url": null
+    },
+    {
+      "slug": "aletheia-ody705",
+      "title": "Epos",
+      "description": "Living Historical Simulations with AI",
+      "image": "https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/992/223/datas/medium.png",
+      "category": "Education",
+      "members": [
+        {
+          "handle": "bryandhaniel123",
+          "name": "bryandhaniel123",
+          "url": "https://devpost.com/bryandhaniel123"
+        }
+      ],
+      "url": "https://devpost.com/software/aletheia-ody705",
+      "repo_url": null,
+      "demo_url": null
+    },
+    {
+      "slug": "studysnap-ai",
+      "title": "StudySnap Ai",
+      "description": "\"StudySnap AI — Turn any PDF into smart summaries, flashcards, and quizzes in seconds.\"",
+      "image": "https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/937/131/datas/medium.jpg",
+      "category": "Education",
+      "members": [
+        {
+          "handle": "bssandy392",
+          "name": "bssandy392",
+          "url": "https://devpost.com/bssandy392"
+        },
+        {
+          "handle": "humashankar032",
+          "name": "humashankar032",
+          "url": "https://devpost.com/humashankar032"
+        }
+      ],
+      "url": "https://devpost.com/software/studysnap-ai",
+      "repo_url": null,
+      "demo_url": null
+    },
+    {
+      "slug": "code-p1t78u",
+      "title": "code",
+      "description": "niubility'",
+      "image": "https://d2dmyh35ffsxbl.cloudfront.net/assets/shared/devpost_social_icon_200_200-f56e5af715a1d95e0209bb37e899b7c18c6e7e3b933a3c1f52456a6e2ee85d09.jpg",
+      "category": null,
+      "members": [
+        {
+          "handle": "bterigeng",
+          "name": "bterigeng",
+          "url": "https://devpost.com/bterigeng"
+        }
+      ],
+      "url": "https://devpost.com/software/code-p1t78u",
+      "repo_url": null,
+      "demo_url": null
+    },
+    {
+      "slug": "klio",
+      "title": "Klio",
+      "description": "A friendly AI assistant that tracks homeschool progress, gives feedback, and adjusts plans when life happens—so families can focus on learning together.",
+      "image": "https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/891/746/datas/medium.png",
+      "category": null,
+      "members": [
+        {
+          "handle": "btimofeyev",
+          "name": "btimofeyev",
+          "url": "https://devpost.com/btimofeyev"
+        }
+      ],
+      "url": "https://devpost.com/software/klio",
+      "repo_url": "https://github.com/btimofeyev/klio",
+      "demo_url": null
+    },
+    {
+      "slug": "travel-hospitality",
+      "title": "Travel & Hospitality",
+      "description": "We’re building a Tinder-style group travel app that helps friends quickly agree.",
+      "image": "https://d2dmyh35ffsxbl.cloudfront.net/assets/shared/devpost_social_icon_200_200-f56e5af715a1d95e0209bb37e899b7c18c6e7e3b933a3c1f52456a6e2ee85d09.jpg",
+      "category": null,
+      "members": [
+        {
+          "handle": "btv9200",
+          "name": "btv9200",
+          "url": "https://devpost.com/btv9200"
+        }
+      ],
+      "url": "https://devpost.com/software/travel-hospitality",
+      "repo_url": null,
+      "demo_url": null
+    },
+    {
+      "slug": "skill-loom",
+      "title": "Ship Real MVP",
+      "description": "Personalized Codex skills for turning vague ideas and visual references into working personal software.",
+      "image": "https://d2dmyh35ffsxbl.cloudfront.net/assets/shared/devpost_social_icon_200_200-f56e5af715a1d95e0209bb37e899b7c18c6e7e3b933a3c1f52456a6e2ee85d09.jpg",
+      "category": null,
+      "members": [
+        {
+          "handle": "bubbleviki404",
+          "name": "bubbleviki404",
+          "url": "https://devpost.com/bubbleviki404"
+        }
+      ],
+      "url": "https://devpost.com/software/skill-loom",
+      "repo_url": "https://github.com/bubbleviki404/ship-real-mvp",
       "demo_url": null
     }
   ]
