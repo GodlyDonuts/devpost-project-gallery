@@ -1,0 +1,107 @@
+[
+  {
+    "slug": "exai-c1zd9s",
+    "technological_implementation": 7,
+    "design": 6,
+    "potential_impact": 5,
+    "quality_of_idea": 5
+  },
+  {
+    "slug": "ai-for-investor",
+    "technological_implementation": 2,
+    "design": 2,
+    "potential_impact": 2,
+    "quality_of_idea": 2
+  },
+  {
+    "slug": "prepaste",
+    "technological_implementation": 6,
+    "design": 6,
+    "potential_impact": 7,
+    "quality_of_idea": 6
+  },
+  {
+    "slug": "draft-walk",
+    "technological_implementation": 8,
+    "design": 7,
+    "potential_impact": 7,
+    "quality_of_idea": 7
+  },
+  {
+    "slug": "credentia-6zqtua",
+    "technological_implementation": 7,
+    "design": 6,
+    "potential_impact": 7,
+    "quality_of_idea": 6
+  },
+  {
+    "slug": "phrase-dictionary-ai",
+    "technological_implementation": 6,
+    "design": 6,
+    "potential_impact": 6,
+    "quality_of_idea": 5
+  },
+  {
+    "slug": "project-8lh7u5sbqorz",
+    "technological_implementation": 6,
+    "design": 6,
+    "potential_impact": 6,
+    "quality_of_idea": 5
+  },
+  {
+    "slug": "project-tpxomfvqn875",
+    "technological_implementation": 7,
+    "design": 6,
+    "potential_impact": 6,
+    "quality_of_idea": 6
+  },
+  {
+    "slug": "glasshouse-xyik58",
+    "technological_implementation": 8,
+    "design": 7,
+    "potential_impact": 7,
+    "quality_of_idea": 8
+  },
+  {
+    "slug": "candrive-id",
+    "technological_implementation": 6,
+    "design": 6,
+    "potential_impact": 5,
+    "quality_of_idea": 5
+  },
+  {
+    "slug": "standpoint-ai-crowd-experience-simulator",
+    "technological_implementation": 7,
+    "design": 7,
+    "potential_impact": 8,
+    "quality_of_idea": 8
+  },
+  {
+    "slug": "did-you-know-6y9m8t",
+    "technological_implementation": 5,
+    "design": 6,
+    "potential_impact": 6,
+    "quality_of_idea": 5
+  },
+  {
+    "slug": "internpulse",
+    "technological_implementation": 3,
+    "design": 3,
+    "potential_impact": 3,
+    "quality_of_idea": 3
+  },
+  {
+    "slug": "plasmonic-coupling-simulator",
+    "technological_implementation": 8,
+    "design": 7,
+    "potential_impact": 7,
+    "quality_of_idea": 7
+  },
+  {
+    "slug": "graphene-decision-provenance-graph",
+    "technological_implementation": 8,
+    "design": 7,
+    "potential_impact": 7,
+    "quality_of_idea": 8
+  }
+]

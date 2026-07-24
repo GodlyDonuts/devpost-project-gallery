@@ -1,0 +1,107 @@
+[
+  {
+    "slug": "groundline",
+    "technological_implementation": 9,
+    "design": 6,
+    "potential_impact": 8,
+    "quality_of_idea": 8
+  },
+  {
+    "slug": "alpha-omega",
+    "technological_implementation": 7,
+    "design": 7,
+    "potential_impact": 6,
+    "quality_of_idea": 6
+  },
+  {
+    "slug": "la-linterna",
+    "technological_implementation": 8,
+    "design": 8,
+    "potential_impact": 7,
+    "quality_of_idea": 7
+  },
+  {
+    "slug": "real-rpg-project",
+    "technological_implementation": 9,
+    "design": 8,
+    "potential_impact": 6,
+    "quality_of_idea": 5
+  },
+  {
+    "slug": "agentpay-agents-that-pay",
+    "technological_implementation": 8,
+    "design": 7,
+    "potential_impact": 8,
+    "quality_of_idea": 8
+  },
+  {
+    "slug": "arc-coaching-for-the-long-run",
+    "technological_implementation": 7,
+    "design": 8,
+    "potential_impact": 7,
+    "quality_of_idea": 6
+  },
+  {
+    "slug": "runtime-hex-nobody-owns-the-signal",
+    "technological_implementation": 7,
+    "design": 9,
+    "potential_impact": 7,
+    "quality_of_idea": 8
+  },
+  {
+    "slug": "spatialmind-z4fw9r",
+    "technological_implementation": 9,
+    "design": 8,
+    "potential_impact": 7,
+    "quality_of_idea": 7
+  },
+  {
+    "slug": "cortex-tv",
+    "technological_implementation": 2,
+    "design": 2,
+    "potential_impact": 2,
+    "quality_of_idea": 2
+  },
+  {
+    "slug": "the-second-gate",
+    "technological_implementation": 9,
+    "design": 6,
+    "potential_impact": 8,
+    "quality_of_idea": 9
+  },
+  {
+    "slug": "travlr-ai",
+    "technological_implementation": 6,
+    "design": 7,
+    "potential_impact": 6,
+    "quality_of_idea": 5
+  },
+  {
+    "slug": "themeforge",
+    "technological_implementation": 6,
+    "design": 6,
+    "potential_impact": 6,
+    "quality_of_idea": 5
+  },
+  {
+    "slug": "reprobot",
+    "technological_implementation": 9,
+    "design": 8,
+    "potential_impact": 8,
+    "quality_of_idea": 8
+  },
+  {
+    "slug": "cairn-pet-contract-lab",
+    "technological_implementation": 7,
+    "design": 6,
+    "potential_impact": 5,
+    "quality_of_idea": 5
+  },
+  {
+    "slug": "aicompliance-buildweek",
+    "technological_implementation": 6,
+    "design": 6,
+    "potential_impact": 7,
+    "quality_of_idea": 6
+  }
+]

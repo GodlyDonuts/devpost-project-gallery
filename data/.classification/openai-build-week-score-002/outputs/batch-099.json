@@ -1,0 +1,107 @@
+[
+  {
+    "slug": "shelfcat-lens",
+    "technological_implementation": 5,
+    "design": 5,
+    "potential_impact": 6,
+    "quality_of_idea": 4
+  },
+  {
+    "slug": "collamn",
+    "technological_implementation": 8,
+    "design": 7,
+    "potential_impact": 7,
+    "quality_of_idea": 7
+  },
+  {
+    "slug": "inception-reality-engine",
+    "technological_implementation": 2,
+    "design": 1,
+    "potential_impact": 2,
+    "quality_of_idea": 4
+  },
+  {
+    "slug": "tor-arg-tornado-argentino",
+    "technological_implementation": 5,
+    "design": 4,
+    "potential_impact": 5,
+    "quality_of_idea": 4
+  },
+  {
+    "slug": "alsa-moonlit-research-engine",
+    "technological_implementation": 6,
+    "design": 7,
+    "potential_impact": 6,
+    "quality_of_idea": 6
+  },
+  {
+    "slug": "fast-sales-fb",
+    "technological_implementation": 5,
+    "design": 6,
+    "potential_impact": 6,
+    "quality_of_idea": 4
+  },
+  {
+    "slug": "team-agent-a-framework-for-teams-of-coding-agents",
+    "technological_implementation": 9,
+    "design": 5,
+    "potential_impact": 7,
+    "quality_of_idea": 8
+  },
+  {
+    "slug": "fake-qr-code-detector",
+    "technological_implementation": 6,
+    "design": 6,
+    "potential_impact": 6,
+    "quality_of_idea": 4
+  },
+  {
+    "slug": "meal-builder",
+    "technological_implementation": 6,
+    "design": 7,
+    "potential_impact": 6,
+    "quality_of_idea": 4
+  },
+  {
+    "slug": "real-time-video-generation",
+    "technological_implementation": 4,
+    "design": 1,
+    "potential_impact": 2,
+    "quality_of_idea": 3
+  },
+  {
+    "slug": "growlytics-ai-growth-intelligence-agent",
+    "technological_implementation": 9,
+    "design": 7,
+    "potential_impact": 8,
+    "quality_of_idea": 7
+  },
+  {
+    "slug": "retouchly",
+    "technological_implementation": 8,
+    "design": 8,
+    "potential_impact": 7,
+    "quality_of_idea": 7
+  },
+  {
+    "slug": "skill-society",
+    "technological_implementation": 8,
+    "design": 7,
+    "potential_impact": 7,
+    "quality_of_idea": 5
+  },
+  {
+    "slug": "ariadne-8zt063",
+    "technological_implementation": 7,
+    "design": 8,
+    "potential_impact": 8,
+    "quality_of_idea": 7
+  },
+  {
+    "slug": "drowai",
+    "technological_implementation": 5,
+    "design": 5,
+    "potential_impact": 6,
+    "quality_of_idea": 6
+  }
+]

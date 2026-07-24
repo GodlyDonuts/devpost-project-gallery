@@ -1,0 +1,107 @@
+[
+  {
+    "slug": "fvision",
+    "technological_implementation": 9,
+    "design": 7,
+    "potential_impact": 6,
+    "quality_of_idea": 8
+  },
+  {
+    "slug": "study-buddy-8iejz6",
+    "technological_implementation": 6,
+    "design": 6,
+    "potential_impact": 6,
+    "quality_of_idea": 4
+  },
+  {
+    "slug": "new-years-obby-2026",
+    "technological_implementation": 7,
+    "design": 7,
+    "potential_impact": 4,
+    "quality_of_idea": 3
+  },
+  {
+    "slug": "scoresync",
+    "technological_implementation": 7,
+    "design": 8,
+    "potential_impact": 7,
+    "quality_of_idea": 7
+  },
+  {
+    "slug": "oaset",
+    "technological_implementation": 1,
+    "design": 1,
+    "potential_impact": 1,
+    "quality_of_idea": 2
+  },
+  {
+    "slug": "mechanoscope-ywlogr",
+    "technological_implementation": 9,
+    "design": 8,
+    "potential_impact": 8,
+    "quality_of_idea": 9
+  },
+  {
+    "slug": "polycado",
+    "technological_implementation": 5,
+    "design": 7,
+    "potential_impact": 6,
+    "quality_of_idea": 5
+  },
+  {
+    "slug": "preuvance-instant-ai-assurance-evidence-by-evidence",
+    "technological_implementation": 8,
+    "design": 7,
+    "potential_impact": 7,
+    "quality_of_idea": 8
+  },
+  {
+    "slug": "esbiko-interactive-virtual-science-lab",
+    "technological_implementation": 6,
+    "design": 7,
+    "potential_impact": 6,
+    "quality_of_idea": 4
+  },
+  {
+    "slug": "simforge-evolve",
+    "technological_implementation": 9,
+    "design": 7,
+    "potential_impact": 7,
+    "quality_of_idea": 8
+  },
+  {
+    "slug": "aming-claw",
+    "technological_implementation": 8,
+    "design": 6,
+    "potential_impact": 6,
+    "quality_of_idea": 8
+  },
+  {
+    "slug": "takehome-studio-ai-without-outsourcing-judgment",
+    "technological_implementation": 5,
+    "design": 6,
+    "potential_impact": 6,
+    "quality_of_idea": 6
+  },
+  {
+    "slug": "nafas-postpartum-recovery-shared",
+    "technological_implementation": 8,
+    "design": 8,
+    "potential_impact": 8,
+    "quality_of_idea": 8
+  },
+  {
+    "slug": "multi-user-memory",
+    "technological_implementation": 9,
+    "design": 6,
+    "potential_impact": 7,
+    "quality_of_idea": 9
+  },
+  {
+    "slug": "cloudops-autopilot-learning-loop",
+    "technological_implementation": 6,
+    "design": 6,
+    "potential_impact": 7,
+    "quality_of_idea": 7
+  }
+]

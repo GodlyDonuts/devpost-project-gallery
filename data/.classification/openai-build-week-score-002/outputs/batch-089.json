@@ -1,0 +1,107 @@
+[
+  {
+    "slug": "mortiphi",
+    "technological_implementation": 8,
+    "design": 6,
+    "potential_impact": 6,
+    "quality_of_idea": 7
+  },
+  {
+    "slug": "prasams-ops",
+    "technological_implementation": 3,
+    "design": 2,
+    "potential_impact": 4,
+    "quality_of_idea": 5
+  },
+  {
+    "slug": "brain-drop",
+    "technological_implementation": 5,
+    "design": 6,
+    "potential_impact": 6,
+    "quality_of_idea": 4
+  },
+  {
+    "slug": "mourktherapy",
+    "technological_implementation": 4,
+    "design": 5,
+    "potential_impact": 6,
+    "quality_of_idea": 4
+  },
+  {
+    "slug": "navoice",
+    "technological_implementation": 7,
+    "design": 6,
+    "potential_impact": 6,
+    "quality_of_idea": 6
+  },
+  {
+    "slug": "core-medical-communication-console",
+    "technological_implementation": 5,
+    "design": 7,
+    "potential_impact": 6,
+    "quality_of_idea": 6
+  },
+  {
+    "slug": "aicenda",
+    "technological_implementation": 3,
+    "design": 4,
+    "potential_impact": 4,
+    "quality_of_idea": 4
+  },
+  {
+    "slug": "da-vinci-tribology-agent",
+    "technological_implementation": 9,
+    "design": 8,
+    "potential_impact": 8,
+    "quality_of_idea": 8
+  },
+  {
+    "slug": "ai-company-control-room",
+    "technological_implementation": 8,
+    "design": 7,
+    "potential_impact": 7,
+    "quality_of_idea": 8
+  },
+  {
+    "slug": "rei-lingo",
+    "technological_implementation": 4,
+    "design": 6,
+    "potential_impact": 4,
+    "quality_of_idea": 5
+  },
+  {
+    "slug": "1-hub-by-corion",
+    "technological_implementation": 3,
+    "design": 4,
+    "potential_impact": 4,
+    "quality_of_idea": 4
+  },
+  {
+    "slug": "the-committee-explainable-ai-paper-trading-lab",
+    "technological_implementation": 9,
+    "design": 9,
+    "potential_impact": 8,
+    "quality_of_idea": 8
+  },
+  {
+    "slug": "agm-ai-assisted-vehicle-transport-management",
+    "technological_implementation": 3,
+    "design": 3,
+    "potential_impact": 4,
+    "quality_of_idea": 3
+  },
+  {
+    "slug": "mcpauditorium",
+    "technological_implementation": 9,
+    "design": 7,
+    "potential_impact": 8,
+    "quality_of_idea": 8
+  },
+  {
+    "slug": "babylon-opl9zh",
+    "technological_implementation": 6,
+    "design": 6,
+    "potential_impact": 6,
+    "quality_of_idea": 6
+  }
+]

@@ -1,0 +1,107 @@
+[
+  {
+    "slug": "echostock",
+    "technological_implementation": 0,
+    "design": 0,
+    "potential_impact": 1,
+    "quality_of_idea": 1
+  },
+  {
+    "slug": "intentguard-1al8ob",
+    "technological_implementation": 8,
+    "design": 6,
+    "potential_impact": 8,
+    "quality_of_idea": 8
+  },
+  {
+    "slug": "talk-with-mimi-a-speech-adventure-for-children",
+    "technological_implementation": 8,
+    "design": 8,
+    "potential_impact": 8,
+    "quality_of_idea": 7
+  },
+  {
+    "slug": "vibehub-ljx39t",
+    "technological_implementation": 6,
+    "design": 7,
+    "potential_impact": 6,
+    "quality_of_idea": 6
+  },
+  {
+    "slug": "buildsops-copilot",
+    "technological_implementation": 8,
+    "design": 6,
+    "potential_impact": 7,
+    "quality_of_idea": 7
+  },
+  {
+    "slug": "among-demons-browser-game",
+    "technological_implementation": 7,
+    "design": 7,
+    "potential_impact": 4,
+    "quality_of_idea": 4
+  },
+  {
+    "slug": "kunthai",
+    "technological_implementation": 6,
+    "design": 6,
+    "potential_impact": 5,
+    "quality_of_idea": 3
+  },
+  {
+    "slug": "mariara-nexo-voice-real-time",
+    "technological_implementation": 8,
+    "design": 7,
+    "potential_impact": 8,
+    "quality_of_idea": 7
+  },
+  {
+    "slug": "nexoflow-ai-scheduling-real-time-vehicle-operations",
+    "technological_implementation": 8,
+    "design": 8,
+    "potential_impact": 8,
+    "quality_of_idea": 7
+  },
+  {
+    "slug": "helixtrace",
+    "technological_implementation": 9,
+    "design": 6,
+    "potential_impact": 6,
+    "quality_of_idea": 8
+  },
+  {
+    "slug": "lky-oracle",
+    "technological_implementation": 4,
+    "design": 5,
+    "potential_impact": 3,
+    "quality_of_idea": 4
+  },
+  {
+    "slug": "notemae",
+    "technological_implementation": 9,
+    "design": 8,
+    "potential_impact": 8,
+    "quality_of_idea": 8
+  },
+  {
+    "slug": "medico-ai-symptom-analyser-app",
+    "technological_implementation": 2,
+    "design": 2,
+    "potential_impact": 2,
+    "quality_of_idea": 2
+  },
+  {
+    "slug": "jacque",
+    "technological_implementation": 6,
+    "design": 6,
+    "potential_impact": 6,
+    "quality_of_idea": 5
+  },
+  {
+    "slug": "olinckbotai",
+    "technological_implementation": 3,
+    "design": 3,
+    "potential_impact": 4,
+    "quality_of_idea": 4
+  }
+]

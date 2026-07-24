@@ -1,0 +1,17 @@
+[
+  {"slug": "timewalk-bofu49", "technological_implementation": 1, "design": 1, "potential_impact": 2, "quality_of_idea": 3},
+  {"slug": "weatherwise-trip-guardian", "technological_implementation": 9, "design": 7, "potential_impact": 8, "quality_of_idea": 7},
+  {"slug": "cfo-intel", "technological_implementation": 8, "design": 7, "potential_impact": 8, "quality_of_idea": 7},
+  {"slug": "visual-contract", "technological_implementation": 10, "design": 8, "potential_impact": 8, "quality_of_idea": 9},
+  {"slug": "pear-cook", "technological_implementation": 9, "design": 8, "potential_impact": 7, "quality_of_idea": 7},
+  {"slug": "motivational-communication-assistant", "technological_implementation": 6, "design": 4, "potential_impact": 6, "quality_of_idea": 6},
+  {"slug": "homeos-family-action-inbox", "technological_implementation": 7, "design": 4, "potential_impact": 7, "quality_of_idea": 7},
+  {"slug": "sentinel-dev", "technological_implementation": 7, "design": 5, "potential_impact": 6, "quality_of_idea": 7},
+  {"slug": "pullkin", "technological_implementation": 8, "design": 8, "potential_impact": 4, "quality_of_idea": 6},
+  {"slug": "evidence-to-test", "technological_implementation": 9, "design": 7, "potential_impact": 7, "quality_of_idea": 8},
+  {"slug": "before-the-clue", "technological_implementation": 6, "design": 8, "potential_impact": 7, "quality_of_idea": 8},
+  {"slug": "onlytax", "technological_implementation": 9, "design": 7, "potential_impact": 8, "quality_of_idea": 8},
+  {"slug": "mainquest-the-unwritten-world", "technological_implementation": 2, "design": 2, "potential_impact": 3, "quality_of_idea": 5},
+  {"slug": "aplx-ai", "technological_implementation": 0, "design": 0, "potential_impact": 1, "quality_of_idea": 1},
+  {"slug": "aplyged-a-voice-tutor-that-teaches-the-next-step", "technological_implementation": 8, "design": 7, "potential_impact": 7, "quality_of_idea": 7}
+]

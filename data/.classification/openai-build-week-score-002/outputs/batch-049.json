@@ -1,0 +1,107 @@
+[
+  {
+    "slug": "natureguard",
+    "technological_implementation": 6,
+    "design": 7,
+    "potential_impact": 7,
+    "quality_of_idea": 6
+  },
+  {
+    "slug": "greenhorn",
+    "technological_implementation": 8,
+    "design": 6,
+    "potential_impact": 7,
+    "quality_of_idea": 8
+  },
+  {
+    "slug": "strategy-copilot",
+    "technological_implementation": 7,
+    "design": 6,
+    "potential_impact": 6,
+    "quality_of_idea": 5
+  },
+  {
+    "slug": "easy-novel-writer",
+    "technological_implementation": 8,
+    "design": 7,
+    "potential_impact": 6,
+    "quality_of_idea": 8
+  },
+  {
+    "slug": "claim-punch",
+    "technological_implementation": 8,
+    "design": 7,
+    "potential_impact": 8,
+    "quality_of_idea": 6
+  },
+  {
+    "slug": "ai-powered-smart-elderly-care-hardware",
+    "technological_implementation": 3,
+    "design": 3,
+    "potential_impact": 4,
+    "quality_of_idea": 3
+  },
+  {
+    "slug": "tuntas-ai-strategy-execution-intelligence",
+    "technological_implementation": 6,
+    "design": 6,
+    "potential_impact": 6,
+    "quality_of_idea": 5
+  },
+  {
+    "slug": "humankey",
+    "technological_implementation": 9,
+    "design": 7,
+    "potential_impact": 8,
+    "quality_of_idea": 9
+  },
+  {
+    "slug": "agentveil",
+    "technological_implementation": 9,
+    "design": 6,
+    "potential_impact": 8,
+    "quality_of_idea": 8
+  },
+  {
+    "slug": "lifeos-z3hf1u",
+    "technological_implementation": 8,
+    "design": 7,
+    "potential_impact": 7,
+    "quality_of_idea": 6
+  },
+  {
+    "slug": "verity-cordon",
+    "technological_implementation": 1,
+    "design": 1,
+    "potential_impact": 2,
+    "quality_of_idea": 3
+  },
+  {
+    "slug": "wide-lens-engineering",
+    "technological_implementation": 8,
+    "design": 5,
+    "potential_impact": 8,
+    "quality_of_idea": 8
+  },
+  {
+    "slug": "audiotranscription-studio-proof-carrying-quotes",
+    "technological_implementation": 8,
+    "design": 7,
+    "potential_impact": 7,
+    "quality_of_idea": 8
+  },
+  {
+    "slug": "api-builder-az6i28",
+    "technological_implementation": 6,
+    "design": 7,
+    "potential_impact": 7,
+    "quality_of_idea": 4
+  },
+  {
+    "slug": "sage-o41k3w",
+    "technological_implementation": 7,
+    "design": 7,
+    "potential_impact": 8,
+    "quality_of_idea": 8
+  }
+]

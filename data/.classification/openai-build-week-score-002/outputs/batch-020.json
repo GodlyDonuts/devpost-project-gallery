@@ -1,0 +1,17 @@
+[
+  {"slug": "supertab", "technological_implementation": 7, "design": 7, "potential_impact": 7, "quality_of_idea": 6},
+  {"slug": "scheduleru", "technological_implementation": 6, "design": 5, "potential_impact": 8, "quality_of_idea": 5},
+  {"slug": "finpilot-2zwqi6", "technological_implementation": 6, "design": 6, "potential_impact": 5, "quality_of_idea": 4},
+  {"slug": "agentheal", "technological_implementation": 9, "design": 8, "potential_impact": 8, "quality_of_idea": 8},
+  {"slug": "cirin", "technological_implementation": 8, "design": 7, "potential_impact": 7, "quality_of_idea": 7},
+  {"slug": "anti-hallucination-git-hook", "technological_implementation": 8, "design": 7, "potential_impact": 8, "quality_of_idea": 8},
+  {"slug": "inchframe", "technological_implementation": 7, "design": 6, "potential_impact": 6, "quality_of_idea": 6},
+  {"slug": "storybridge-legacy", "technological_implementation": 2, "design": 2, "potential_impact": 3, "quality_of_idea": 5},
+  {"slug": "heron-o12z8e", "technological_implementation": 7, "design": 7, "potential_impact": 6, "quality_of_idea": 6},
+  {"slug": "jobvalve", "technological_implementation": 8, "design": 7, "potential_impact": 8, "quality_of_idea": 7},
+  {"slug": "unjargon-app", "technological_implementation": 8, "design": 7, "potential_impact": 7, "quality_of_idea": 8},
+  {"slug": "brightway-ai-that-sends-kids-off-screen", "technological_implementation": 9, "design": 8, "potential_impact": 8, "quality_of_idea": 8},
+  {"slug": "gather-plenty", "technological_implementation": 8, "design": 7, "potential_impact": 7, "quality_of_idea": 8},
+  {"slug": "personal-operating-cockpit", "technological_implementation": 8, "design": 7, "potential_impact": 6, "quality_of_idea": 7},
+  {"slug": "lectivo-the-learning-assistant-for-homework-support", "technological_implementation": 5, "design": 4, "potential_impact": 5, "quality_of_idea": 4}
+]

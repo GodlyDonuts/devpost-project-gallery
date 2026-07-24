@@ -1,0 +1,17 @@
+[
+  {"slug": "nodist", "technological_implementation": 5, "design": 4, "potential_impact": 6, "quality_of_idea": 5},
+  {"slug": "roundtable-messaging-v2", "technological_implementation": 9, "design": 6, "potential_impact": 7, "quality_of_idea": 7},
+  {"slug": "conference-system", "technological_implementation": 3, "design": 3, "potential_impact": 3, "quality_of_idea": 2},
+  {"slug": "syncforge", "technological_implementation": 9, "design": 6, "potential_impact": 7, "quality_of_idea": 6},
+  {"slug": "curriculumos", "technological_implementation": 8, "design": 7, "potential_impact": 7, "quality_of_idea": 7},
+  {"slug": "collab-pen", "technological_implementation": 2, "design": 3, "potential_impact": 3, "quality_of_idea": 2},
+  {"slug": "waythread", "technological_implementation": 8, "design": 7, "potential_impact": 8, "quality_of_idea": 7},
+  {"slug": "wachsen", "technological_implementation": 7, "design": 7, "potential_impact": 6, "quality_of_idea": 5},
+  {"slug": "michi-branch-native-workspace", "technological_implementation": 7, "design": 7, "potential_impact": 6, "quality_of_idea": 7},
+  {"slug": "aiphone", "technological_implementation": 7, "design": 7, "potential_impact": 5, "quality_of_idea": 6},
+  {"slug": "glazingcalc", "technological_implementation": 8, "design": 7, "potential_impact": 8, "quality_of_idea": 7},
+  {"slug": "another-stupid-monday", "technological_implementation": 5, "design": 6, "potential_impact": 6, "quality_of_idea": 5},
+  {"slug": "sporty-w7r9je", "technological_implementation": 5, "design": 5, "potential_impact": 6, "quality_of_idea": 5},
+  {"slug": "activeetf", "technological_implementation": 8, "design": 6, "potential_impact": 7, "quality_of_idea": 6},
+  {"slug": "gencite", "technological_implementation": 1, "design": 1, "potential_impact": 2, "quality_of_idea": 2}
+]

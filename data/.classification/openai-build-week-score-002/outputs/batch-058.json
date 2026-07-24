@@ -1,0 +1,107 @@
+[
+  {
+    "slug": "realtornet",
+    "technological_implementation": 4,
+    "design": 3,
+    "potential_impact": 5,
+    "quality_of_idea": 3
+  },
+  {
+    "slug": "owlmusic",
+    "technological_implementation": 6,
+    "design": 8,
+    "potential_impact": 5,
+    "quality_of_idea": 4
+  },
+  {
+    "slug": "beegreat",
+    "technological_implementation": 3,
+    "design": 3,
+    "potential_impact": 3,
+    "quality_of_idea": 3
+  },
+  {
+    "slug": "vibe-runner",
+    "technological_implementation": 8,
+    "design": 8,
+    "potential_impact": 5,
+    "quality_of_idea": 7
+  },
+  {
+    "slug": "otthonsegitok-ai-careflow",
+    "technological_implementation": 8,
+    "design": 6,
+    "potential_impact": 7,
+    "quality_of_idea": 7
+  },
+  {
+    "slug": "backlog-smith",
+    "technological_implementation": 9,
+    "design": 7,
+    "potential_impact": 7,
+    "quality_of_idea": 8
+  },
+  {
+    "slug": "pacti",
+    "technological_implementation": 4,
+    "design": 4,
+    "potential_impact": 5,
+    "quality_of_idea": 4
+  },
+  {
+    "slug": "aqai-autonomous-quality-assurance-intelligence",
+    "technological_implementation": 9,
+    "design": 6,
+    "potential_impact": 7,
+    "quality_of_idea": 8
+  },
+  {
+    "slug": "bughunter-ai",
+    "technological_implementation": 2,
+    "design": 2,
+    "potential_impact": 3,
+    "quality_of_idea": 3
+  },
+  {
+    "slug": "prd0-ai",
+    "technological_implementation": 8,
+    "design": 7,
+    "potential_impact": 7,
+    "quality_of_idea": 7
+  },
+  {
+    "slug": "puls-your-personal-ai-mechanic",
+    "technological_implementation": 4,
+    "design": 4,
+    "potential_impact": 5,
+    "quality_of_idea": 5
+  },
+  {
+    "slug": "ai-school-tutor",
+    "technological_implementation": 2,
+    "design": 2,
+    "potential_impact": 3,
+    "quality_of_idea": 3
+  },
+  {
+    "slug": "researchkit",
+    "technological_implementation": 9,
+    "design": 7,
+    "potential_impact": 8,
+    "quality_of_idea": 9
+  },
+  {
+    "slug": "skillskit",
+    "technological_implementation": 8,
+    "design": 6,
+    "potential_impact": 6,
+    "quality_of_idea": 8
+  },
+  {
+    "slug": "brainkit-hgifms",
+    "technological_implementation": 8,
+    "design": 5,
+    "potential_impact": 6,
+    "quality_of_idea": 8
+  }
+]

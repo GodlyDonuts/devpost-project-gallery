@@ -1,0 +1,107 @@
+[
+  {
+    "slug": "chapimo",
+    "technological_implementation": 6,
+    "design": 6,
+    "potential_impact": 7,
+    "quality_of_idea": 4
+  },
+  {
+    "slug": "kufanyi",
+    "technological_implementation": 6,
+    "design": 5,
+    "potential_impact": 6,
+    "quality_of_idea": 4
+  },
+  {
+    "slug": "djinzin",
+    "technological_implementation": 6,
+    "design": 5,
+    "potential_impact": 6,
+    "quality_of_idea": 4
+  },
+  {
+    "slug": "hskmax",
+    "technological_implementation": 5,
+    "design": 6,
+    "potential_impact": 6,
+    "quality_of_idea": 4
+  },
+  {
+    "slug": "animatemath-ai",
+    "technological_implementation": 8,
+    "design": 7,
+    "potential_impact": 7,
+    "quality_of_idea": 7
+  },
+  {
+    "slug": "grouphub-szg2nm",
+    "technological_implementation": 7,
+    "design": 6,
+    "potential_impact": 5,
+    "quality_of_idea": 5
+  },
+  {
+    "slug": "loopskill-durable-workflows-for-codex",
+    "technological_implementation": 9,
+    "design": 6,
+    "potential_impact": 7,
+    "quality_of_idea": 8
+  },
+  {
+    "slug": "digital-krishna",
+    "technological_implementation": 4,
+    "design": 5,
+    "potential_impact": 4,
+    "quality_of_idea": 4
+  },
+  {
+    "slug": "ezzapply",
+    "technological_implementation": 7,
+    "design": 7,
+    "potential_impact": 8,
+    "quality_of_idea": 7
+  },
+  {
+    "slug": "arenaos",
+    "technological_implementation": 8,
+    "design": 7,
+    "potential_impact": 6,
+    "quality_of_idea": 7
+  },
+  {
+    "slug": "mie-lite-codex-built-multi-agent-intelligence-engine",
+    "technological_implementation": 5,
+    "design": 4,
+    "potential_impact": 4,
+    "quality_of_idea": 5
+  },
+  {
+    "slug": "skill-router",
+    "technological_implementation": 8,
+    "design": 6,
+    "potential_impact": 6,
+    "quality_of_idea": 7
+  },
+  {
+    "slug": "hati-home-autonomous-threat-interceptor",
+    "technological_implementation": 9,
+    "design": 6,
+    "potential_impact": 7,
+    "quality_of_idea": 8
+  },
+  {
+    "slug": "ai-lig",
+    "technological_implementation": 7,
+    "design": 5,
+    "potential_impact": 7,
+    "quality_of_idea": 7
+  },
+  {
+    "slug": "scrappy-zc7rs5",
+    "technological_implementation": 1,
+    "design": 1,
+    "potential_impact": 1,
+    "quality_of_idea": 1
+  }
+]

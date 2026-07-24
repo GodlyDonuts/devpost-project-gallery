@@ -1,0 +1,107 @@
+[
+  {
+    "slug": "remove-before-flight",
+    "technological_implementation": 1,
+    "design": 1,
+    "potential_impact": 2,
+    "quality_of_idea": 3
+  },
+  {
+    "slug": "tmp1",
+    "technological_implementation": 6,
+    "design": 7,
+    "potential_impact": 5,
+    "quality_of_idea": 7
+  },
+  {
+    "slug": "marginilia",
+    "technological_implementation": 3,
+    "design": 3,
+    "potential_impact": 3,
+    "quality_of_idea": 4
+  },
+  {
+    "slug": "mine-gpt",
+    "technological_implementation": 7,
+    "design": 7,
+    "potential_impact": 6,
+    "quality_of_idea": 8
+  },
+  {
+    "slug": "clapper-chpijl",
+    "technological_implementation": 9,
+    "design": 8,
+    "potential_impact": 7,
+    "quality_of_idea": 8
+  },
+  {
+    "slug": "madlava",
+    "technological_implementation": 7,
+    "design": 5,
+    "potential_impact": 5,
+    "quality_of_idea": 4
+  },
+  {
+    "slug": "htre-research-lab",
+    "technological_implementation": 4,
+    "design": 4,
+    "potential_impact": 5,
+    "quality_of_idea": 4
+  },
+  {
+    "slug": "codexlingo",
+    "technological_implementation": 7,
+    "design": 7,
+    "potential_impact": 6,
+    "quality_of_idea": 5
+  },
+  {
+    "slug": "reasonweave",
+    "technological_implementation": 6,
+    "design": 7,
+    "potential_impact": 6,
+    "quality_of_idea": 7
+  },
+  {
+    "slug": "pipo-emergency-layer",
+    "technological_implementation": 4,
+    "design": 5,
+    "potential_impact": 4,
+    "quality_of_idea": 6
+  },
+  {
+    "slug": "steadiora",
+    "technological_implementation": 3,
+    "design": 3,
+    "potential_impact": 4,
+    "quality_of_idea": 3
+  },
+  {
+    "slug": "saga-core-authorization-before-output",
+    "technological_implementation": 9,
+    "design": 7,
+    "potential_impact": 7,
+    "quality_of_idea": 8
+  },
+  {
+    "slug": "materiales-auto-reparables-con-memoria-de-forma-cuantica",
+    "technological_implementation": 2,
+    "design": 2,
+    "potential_impact": 2,
+    "quality_of_idea": 4
+  },
+  {
+    "slug": "columbus-xksvaz",
+    "technological_implementation": 6,
+    "design": 7,
+    "potential_impact": 4,
+    "quality_of_idea": 4
+  },
+  {
+    "slug": "aiflashcard-classroom-learning",
+    "technological_implementation": 6,
+    "design": 6,
+    "potential_impact": 6,
+    "quality_of_idea": 5
+  }
+]
