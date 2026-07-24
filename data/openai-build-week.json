@@ -2,14 +2,14 @@
   "slug": "openai-build-week",
   "name": "OpenAI Build Week",
   "hackathon_id": "30223",
-  "generated_at": "2026-07-24T11:18:26.652291+00:00",
+  "generated_at": "2026-07-24T11:20:28.262637+00:00",
   "categories": [
     "Apps for Your Life",
     "Work & Productivity",
     "Developer Tools",
     "Education"
   ],
-  "count": 3933,
+  "count": 4014,
   "projects": [
     {
       "slug": "gosu-go-trainer",
@@ -73555,6 +73555,1468 @@
       ],
       "url": "https://devpost.com/software/accessreel",
       "repo_url": "https://github.com/Jerlyn/AccessReel",
+      "demo_url": null
+    },
+    {
+      "slug": "lineage-yuhnx1",
+      "title": "Lineage",
+      "description": "The UX Where Humans and Agents Shape Visual Work Together",
+      "image": "https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/005/008/668/datas/medium.png",
+      "category": null,
+      "members": [
+        {
+          "handle": "jermwatt",
+          "name": "jermwatt",
+          "url": "https://devpost.com/jermwatt"
+        }
+      ],
+      "url": "https://devpost.com/software/lineage-yuhnx1",
+      "repo_url": "https://github.com/mean-weasel/lineage",
+      "demo_url": null
+    },
+    {
+      "slug": "one-life-hq7ume",
+      "title": "One life",
+      "description": "An AI-powered life choice simulator where players face realistic decisions about work, family, housing, and relationships, then see how each choice shapes their future.",
+      "image": "https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/978/260/datas/medium.png",
+      "category": null,
+      "members": [
+        {
+          "handle": "naosbishi",
+          "name": "naosbishi",
+          "url": "https://devpost.com/naosbishi"
+        },
+        {
+          "handle": "jerrychen1669168270",
+          "name": "jerrychen1669168270",
+          "url": "https://devpost.com/jerrychen1669168270"
+        }
+      ],
+      "url": "https://devpost.com/software/one-life-hq7ume",
+      "repo_url": "https://github.com/Tideofblossoms/my-game-project-1",
+      "demo_url": null
+    },
+    {
+      "slug": "gitmoot",
+      "title": "Gitmoot Pipelines",
+      "description": "Agent graphs you can rerun, inspect, and share. Built on Gitmoot.",
+      "image": "https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/910/248/datas/medium.png",
+      "category": null,
+      "members": [
+        {
+          "handle": "jerryfane",
+          "name": "jerryfane",
+          "url": "https://devpost.com/jerryfane"
+        }
+      ],
+      "url": "https://devpost.com/software/gitmoot",
+      "repo_url": "https://github.com/gitmoot/gitmoot",
+      "demo_url": null
+    },
+    {
+      "slug": "subnetlens",
+      "title": "SubnetLens",
+      "description": "More than just a Network Scanner!",
+      "image": "https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/954/726/datas/medium.png",
+      "category": null,
+      "members": [
+        {
+          "handle": "jerrykaratzis",
+          "name": "jerrykaratzis",
+          "url": "https://devpost.com/jerrykaratzis"
+        }
+      ],
+      "url": "https://devpost.com/software/subnetlens",
+      "repo_url": "https://github.com/JerryCat101/subnetlens-device-dna-build-week",
+      "demo_url": null
+    },
+    {
+      "slug": "drama-creator",
+      "title": "Drama Creator",
+      "description": "Turn AI video generation into a traceable, testable production workflow.",
+      "image": "https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/987/472/datas/medium.jpg",
+      "category": null,
+      "members": [
+        {
+          "handle": "jerryonlyzrj",
+          "name": "jerryonlyzrj",
+          "url": "https://devpost.com/jerryonlyzrj"
+        }
+      ],
+      "url": "https://devpost.com/software/drama-creator",
+      "repo_url": "https://github.com/jerryOnlyZRJ/drama-creator/tree/openai-build-week-2026",
+      "demo_url": null
+    },
+    {
+      "slug": "ongoing-knwac2",
+      "title": "ongoing",
+      "description": "n/a",
+      "image": "https://d2dmyh35ffsxbl.cloudfront.net/assets/shared/devpost_social_icon_200_200-f56e5af715a1d95e0209bb37e899b7c18c6e7e3b933a3c1f52456a6e2ee85d09.jpg",
+      "category": null,
+      "members": [
+        {
+          "handle": "jersondev03",
+          "name": "jersondev03",
+          "url": "https://devpost.com/jersondev03"
+        }
+      ],
+      "url": "https://devpost.com/software/ongoing-knwac2",
+      "repo_url": null,
+      "demo_url": null
+    },
+    {
+      "slug": "classsignal",
+      "title": "ClassSignal",
+      "description": "Every signal shapes the lesson.",
+      "image": "https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/979/433/datas/medium.png",
+      "category": null,
+      "members": [
+        {
+          "handle": "jersonmejia452-hue",
+          "name": "jersonmejia452-hue",
+          "url": "https://devpost.com/jersonmejia452-hue"
+        }
+      ],
+      "url": "https://devpost.com/software/classsignal",
+      "repo_url": null,
+      "demo_url": null
+    },
+    {
+      "slug": "auditguard-de",
+      "title": "AuditGuard DE",
+      "description": "An audit-first agent that reconciles German EXTF, SuSa, BWA and USt-VA reports without guessing missing values or reconstructing VAT.",
+      "image": "https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/986/966/datas/medium.jpg",
+      "category": null,
+      "members": [
+        {
+          "handle": "jerzy-kapala",
+          "name": "jerzy-kapala",
+          "url": "https://devpost.com/jerzy-kapala"
+        }
+      ],
+      "url": "https://devpost.com/software/auditguard-de",
+      "repo_url": null,
+      "demo_url": "https://www.youtube.com/watch?v=8N3GcLTuFOI"
+    },
+    {
+      "slug": "pathfinder-mobile",
+      "title": "Pathfinder Mobile",
+      "description": "Pathfinder is an AI life and career navigator: the main app turns ambitions into trusted routes, while mobile keeps personalised guidance and opportunities always at hand.",
+      "image": "https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/994/111/datas/medium.jpeg",
+      "category": null,
+      "members": [
+        {
+          "handle": "jessejrlim270",
+          "name": "jessejrlim270",
+          "url": "https://devpost.com/jessejrlim270"
+        }
+      ],
+      "url": "https://devpost.com/software/pathfinder-mobile",
+      "repo_url": null,
+      "demo_url": null
+    },
+    {
+      "slug": "weekly-fun",
+      "title": "weekly.fun - The Global Contest Arcade",
+      "description": "Built for mobile browsers (seriously)... Lightweight games, free skill contests, weekly challenges, progression, idol collections, and rewards powered by Solana. You'll love it. #non-exploitative",
+      "image": "https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/987/663/datas/medium.png",
+      "category": null,
+      "members": [
+        {
+          "handle": "jessenreckling",
+          "name": "jessenreckling",
+          "url": "https://devpost.com/jessenreckling"
+        }
+      ],
+      "url": "https://devpost.com/software/weekly-fun",
+      "repo_url": null,
+      "demo_url": null
+    },
+    {
+      "slug": "tradestack",
+      "title": "TradeStack",
+      "description": "A mobile troubleshooting app with 120 practical guides for irrigation, HVAC, plumbing, electrical, landscaping, and automotive work.",
+      "image": "https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/923/085/datas/medium.jpg",
+      "category": null,
+      "members": [
+        {
+          "handle": "jesseperez00181978-tech",
+          "name": "jesseperez00181978-tech",
+          "url": "https://devpost.com/jesseperez00181978-tech"
+        }
+      ],
+      "url": "https://devpost.com/software/tradestack",
+      "repo_url": "https://github.com/jesseperez00181978-tech?tab=repositories",
+      "demo_url": null
+    },
+    {
+      "slug": "shiliu",
+      "title": "Shiliu",
+      "description": "A governed long-term context layer that keeps multiple AI agents aligned with what is still true, without replaying the full conversation history.",
+      "image": "https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/976/871/datas/medium.png",
+      "category": null,
+      "members": [
+        {
+          "handle": "jessica2000815-source",
+          "name": "jessica2000815-source",
+          "url": "https://devpost.com/jessica2000815-source"
+        }
+      ],
+      "url": "https://devpost.com/software/shiliu",
+      "repo_url": "https://github.com/shiliu-memory/longmemeval-cn",
+      "demo_url": null
+    },
+    {
+      "slug": "aegismcp-agentic-traffic-firewall",
+      "title": "AegisMCP — Agentic Traffic Firewall",
+      "description": "Real-time security gateway for AI coding agents — block secrets, catch prompt injection, audit every tool call. One config line.",
+      "image": "https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/955/728/datas/medium.png",
+      "category": null,
+      "members": [
+        {
+          "handle": "jeyakanth0810",
+          "name": "jeyakanth0810",
+          "url": "https://devpost.com/jeyakanth0810"
+        }
+      ],
+      "url": "https://devpost.com/software/aegismcp-agentic-traffic-firewall",
+      "repo_url": "https://github.com/jeyakanthT/aegismcp-devpost",
+      "demo_url": null
+    },
+    {
+      "slug": "torvo-hospitality",
+      "title": "Torvo Construction",
+      "description": "The paperwork does itself: voice-to-evidence packs for construction sites, from walkthroughs to RAMS, risk, permits, toolbox talks, and audit trails.",
+      "image": "https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/952/906/datas/medium.png",
+      "category": "Education",
+      "members": [
+        {
+          "handle": "jezvinnicombe",
+          "name": "jezvinnicombe",
+          "url": "https://devpost.com/jezvinnicombe"
+        }
+      ],
+      "url": "https://devpost.com/software/torvo-hospitality",
+      "repo_url": null,
+      "demo_url": null
+    },
+    {
+      "slug": "the-scientific-method-for-ai",
+      "title": "The Scientific Method for AI",
+      "description": "An evidence-first AI evaluation system that compares candidate models against a baseline, preserves an audit trail, and requires human review before deployment.",
+      "image": "https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/965/395/datas/medium.png",
+      "category": null,
+      "members": [
+        {
+          "handle": "jfarrell215",
+          "name": "jfarrell215",
+          "url": "https://devpost.com/jfarrell215"
+        }
+      ],
+      "url": "https://devpost.com/software/the-scientific-method-for-ai",
+      "repo_url": "https://github.com/jfarrell215/the-scientific-method-for-ai",
+      "demo_url": null
+    },
+    {
+      "slug": "codex-newskin",
+      "title": "codex-newskin",
+      "description": "Customize Codex Desktop with local image and video themes—without modifying the official app.",
+      "image": "https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/943/670/datas/medium.png",
+      "category": null,
+      "members": [
+        {
+          "handle": "jfpeng643",
+          "name": "jfpeng643",
+          "url": "https://devpost.com/jfpeng643"
+        }
+      ],
+      "url": "https://devpost.com/software/codex-newskin",
+      "repo_url": "https://github.com/pjf6568/codex-newskin",
+      "demo_url": null
+    },
+    {
+      "slug": "ai-os-1vu679",
+      "title": "AI OS",
+      "description": "From intention to execution.\r\n\r\nAI OS reimagines computing around intent instead of apps.",
+      "image": "https://d2dmyh35ffsxbl.cloudfront.net/assets/shared/devpost_social_icon_200_200-f56e5af715a1d95e0209bb37e899b7c18c6e7e3b933a3c1f52456a6e2ee85d09.jpg",
+      "category": null,
+      "members": [
+        {
+          "handle": "jfppairis",
+          "name": "jfppairis",
+          "url": "https://devpost.com/jfppairis"
+        }
+      ],
+      "url": "https://devpost.com/software/ai-os-1vu679",
+      "repo_url": "https://github.com/pairis-digital/flux-ai-os",
+      "demo_url": null
+    },
+    {
+      "slug": "paper-research-analysis-simulation-system",
+      "title": "Paper Research Analysis & Simulation System",
+      "description": "An AI-powered platform to analyze academic papers, run simulations, and directly apply research to real-world data.",
+      "image": "https://d2dmyh35ffsxbl.cloudfront.net/assets/shared/devpost_social_icon_200_200-f56e5af715a1d95e0209bb37e899b7c18c6e7e3b933a3c1f52456a6e2ee85d09.jpg",
+      "category": null,
+      "members": [
+        {
+          "handle": "jg0592",
+          "name": "jg0592",
+          "url": "https://devpost.com/jg0592"
+        }
+      ],
+      "url": "https://devpost.com/software/paper-research-analysis-simulation-system",
+      "repo_url": null,
+      "demo_url": null
+    },
+    {
+      "slug": "lecturelens-w1xz3t",
+      "title": "TeachingTurn",
+      "description": "It helps a instructors turn a small class signal into one practical adjustment for the next class. Students answer a short pulse, app summarizes the class-level pattern, suggests one move.",
+      "image": "https://d2dmyh35ffsxbl.cloudfront.net/assets/shared/devpost_social_icon_200_200-f56e5af715a1d95e0209bb37e899b7c18c6e7e3b933a3c1f52456a6e2ee85d09.jpg",
+      "category": null,
+      "members": [
+        {
+          "handle": "jggrandi",
+          "name": "jggrandi",
+          "url": "https://devpost.com/jggrandi"
+        }
+      ],
+      "url": "https://devpost.com/software/lecturelens-w1xz3t",
+      "repo_url": null,
+      "demo_url": null
+    },
+    {
+      "slug": "learnwiththeo",
+      "title": "LearnWithTheo",
+      "description": "Interactive toddler learning game with lots of engaging videos - based on what my 2 genuinely love",
+      "image": "https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/940/581/datas/medium.jpeg",
+      "category": null,
+      "members": [
+        {
+          "handle": "jglazie9",
+          "name": "jglazie9",
+          "url": "https://devpost.com/jglazie9"
+        }
+      ],
+      "url": "https://devpost.com/software/learnwiththeo",
+      "repo_url": null,
+      "demo_url": null
+    },
+    {
+      "slug": "pgen",
+      "title": "PGEN",
+      "description": "No one likes PowerPoint but there is no way to create a company styleguide compatible one with AI and get reliable results. This is the goal of PGEN. Create a styleguide, pick widgets and go!",
+      "image": "https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/934/671/datas/medium.png",
+      "category": null,
+      "members": [
+        {
+          "handle": "jh-stores1",
+          "name": "jh-stores1",
+          "url": "https://devpost.com/jh-stores1"
+        }
+      ],
+      "url": "https://devpost.com/software/pgen",
+      "repo_url": "https://github.com/jh1777/PGen",
+      "demo_url": null
+    },
+    {
+      "slug": "industry-peer-comparison-and-ranking-assistant",
+      "title": "A-Share Market Rotation Signal Lab",
+      "description": "A free-data-first system that detects A-share market rotation, tracks signals from T+1 to T+20, and validates performance across market regimes without altering live decisions.",
+      "image": "https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/945/837/datas/medium.png",
+      "category": null,
+      "members": [
+        {
+          "handle": "jia295339800",
+          "name": "jia295339800",
+          "url": "https://devpost.com/jia295339800"
+        }
+      ],
+      "url": "https://devpost.com/software/industry-peer-comparison-and-ranking-assistant",
+      "repo_url": null,
+      "demo_url": null
+    },
+    {
+      "slug": "stellar-x-living-ai-civilization",
+      "title": "Stellar X — Living AI Civilization",
+      "description": "One human, one evolving AI citizen—born through conversation, shaped by memory, and living inside a persistent digital civilization.",
+      "image": "https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/916/746/datas/medium.png",
+      "category": "Education",
+      "members": [
+        {
+          "handle": "jiabaow326",
+          "name": "jiabaow326",
+          "url": "https://devpost.com/jiabaow326"
+        }
+      ],
+      "url": "https://devpost.com/software/stellar-x-living-ai-civilization",
+      "repo_url": null,
+      "demo_url": null
+    },
+    {
+      "slug": "solid-deformation-viewer",
+      "title": "Solid Deformation Viewer",
+      "description": "Visualize how solid materials deform under external force and load in real time.",
+      "image": "https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/919/676/datas/medium.png",
+      "category": null,
+      "members": [
+        {
+          "handle": "jialuo-cm",
+          "name": "jialuo-cm",
+          "url": "https://devpost.com/jialuo-cm"
+        }
+      ],
+      "url": "https://devpost.com/software/solid-deformation-viewer",
+      "repo_url": "https://github.com/jialuocm/Solid-Deformation-Viewer.git",
+      "demo_url": null
+    },
+    {
+      "slug": "cipherscope-h08i4b",
+      "title": "CipherScope",
+      "description": "面向 OKX 活跃现货的加密资产智能投研终端。实时扫描并多维过滤深跌及高成交量候选资产，一键调用 AI (Grok) 自动生成独立研究页、社交媒体舆情（X观点）、3个月条件情景预测及一键发布的推文与图卡，帮助投资者以百倍速度挖掘潜在反弹机会。",
+      "image": "https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/913/013/datas/medium.png",
+      "category": null,
+      "members": [
+        {
+          "handle": "jiangfeng-he",
+          "name": "jiangfeng-he",
+          "url": "https://devpost.com/jiangfeng-he"
+        }
+      ],
+      "url": "https://devpost.com/software/cipherscope-h08i4b",
+      "repo_url": "https://github.com/SavageNoah/cipherscope-okx-research",
+      "demo_url": null
+    },
+    {
+      "slug": "travelnext",
+      "title": "TravelNext",
+      "description": "Decide the next place, not the whole trip.NEXT uses GPT-5.6, live location, time left, travel preferences and real nearby POIs to decide the one place a spontaneous traveller should go next.",
+      "image": "https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/005/002/916/datas/medium.png",
+      "category": null,
+      "members": [
+        {
+          "handle": "jiangggqr",
+          "name": "jiangggqr",
+          "url": "https://devpost.com/jiangggqr"
+        }
+      ],
+      "url": "https://devpost.com/software/travelnext",
+      "repo_url": null,
+      "demo_url": null
+    },
+    {
+      "slug": "careorbit",
+      "title": "CareOrbit",
+      "description": "AI-powered daily care, trusted answers, and clinician-approved guidance for chronic care patients.",
+      "image": "https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/986/561/datas/medium.png",
+      "category": "Education",
+      "members": [
+        {
+          "handle": "jiangggqr",
+          "name": "jiangggqr",
+          "url": "https://devpost.com/jiangggqr"
+        },
+        {
+          "handle": "supermegaboris",
+          "name": "supermegaboris",
+          "url": "https://devpost.com/supermegaboris"
+        }
+      ],
+      "url": "https://devpost.com/software/careorbit",
+      "repo_url": "https://github.com/jiangggqr/careorbit-openai-build-week",
+      "demo_url": "https://youtu.be/Kjc2UbMNB6U"
+    },
+    {
+      "slug": "startone-w9srzt",
+      "title": "StartOne",
+      "description": "Turn your own learning materials into one focused, visual step at a time，so you can start quickly, stay focused, and remember what you learn.",
+      "image": "https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/005/000/509/datas/medium.png",
+      "category": null,
+      "members": [
+        {
+          "handle": "jiangggqr",
+          "name": "jiangggqr",
+          "url": "https://devpost.com/jiangggqr"
+        }
+      ],
+      "url": "https://devpost.com/software/startone-w9srzt",
+      "repo_url": null,
+      "demo_url": null
+    },
+    {
+      "slug": "chatnotion",
+      "title": "ChatNotion",
+      "description": "Turn GPT answers into knowledge trees you can navigate. Explore any field systematically and build expertise faster—all with ChatNotion, right inside ChatGPT.",
+      "image": "https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/970/754/datas/medium.png",
+      "category": null,
+      "members": [
+        {
+          "handle": "jiani-li-626",
+          "name": "jiani-li-626",
+          "url": "https://devpost.com/jiani-li-626"
+        }
+      ],
+      "url": "https://devpost.com/software/chatnotion",
+      "repo_url": "https://github.com/jennieli101019-jpg/ChatNotion",
+      "demo_url": null
+    },
+    {
+      "slug": "aivtuber",
+      "title": "AIVtuber",
+      "description": "虚拟主播ai",
+      "image": "https://d2dmyh35ffsxbl.cloudfront.net/assets/shared/devpost_social_icon_200_200-f56e5af715a1d95e0209bb37e899b7c18c6e7e3b933a3c1f52456a6e2ee85d09.jpg",
+      "category": null,
+      "members": [
+        {
+          "handle": "jiaohui911",
+          "name": "jiaohui911",
+          "url": "https://devpost.com/jiaohui911"
+        }
+      ],
+      "url": "https://devpost.com/software/aivtuber",
+      "repo_url": null,
+      "demo_url": "https://www.youtube.com"
+    },
+    {
+      "slug": "codex-dream-skin-workflow-engine",
+      "title": "Codex Dream Skin Workflow Engine",
+      "description": "A reversible workflow engine that turns Codex and GPT-5.6 visual briefs into safe, modular, low-load desktop themes with verified interactions and clean restore.",
+      "image": "https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/943/115/datas/medium.jpg",
+      "category": null,
+      "members": [
+        {
+          "handle": "jiarong0423",
+          "name": "jiarong0423",
+          "url": "https://devpost.com/jiarong0423"
+        }
+      ],
+      "url": "https://devpost.com/software/codex-dream-skin-workflow-engine",
+      "repo_url": "https://github.com/jiarong0423/codex-dream-skin-workflow-engine",
+      "demo_url": null
+    },
+    {
+      "slug": "lifepilot-newcomer-action-plan",
+      "title": "LifePilot —— Newcomer Action Plan",
+      "description": "Turn confusing newcomer life admin into a clear bilingual action plan.",
+      "image": "https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/945/241/datas/medium.png",
+      "category": null,
+      "members": [
+        {
+          "handle": "jiawei971103",
+          "name": "jiawei971103",
+          "url": "https://devpost.com/jiawei971103"
+        }
+      ],
+      "url": "https://devpost.com/software/lifepilot-newcomer-action-plan",
+      "repo_url": "https://github.com/jiawei971103-design/lifepilot",
+      "demo_url": "https://youtu.be/7qGAvcuuVFk"
+    },
+    {
+      "slug": "bayflow-ai-built-factory-digital-twin",
+      "title": "BayFlow: AI-Built Factory Digital Twin",
+      "description": "An interactive 3D factory twin built with OpenAI Codex to test assembly layouts, logistics, safety clearances, crane workflows, and usable floor area before physical changes.",
+      "image": "https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/932/565/datas/medium.png",
+      "category": null,
+      "members": [
+        {
+          "handle": "jiay85910",
+          "name": "jiay85910",
+          "url": "https://devpost.com/jiay85910"
+        }
+      ],
+      "url": "https://devpost.com/software/bayflow-ai-built-factory-digital-twin",
+      "repo_url": null,
+      "demo_url": null
+    },
+    {
+      "slug": "kindling-turn-a-loose-date-idea-into-a-plan-you-can-shape",
+      "title": "Kindling: Turn a Loose Date Idea Into a Plan You Can Shape",
+      "description": "Plan a personalized date with an agent that researches real venues in Singapore, starting with just a loose idea.",
+      "image": "https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/956/226/datas/medium.png",
+      "category": null,
+      "members": [
+        {
+          "handle": "jiayangchua97",
+          "name": "jiayangchua97",
+          "url": "https://devpost.com/jiayangchua97"
+        }
+      ],
+      "url": "https://devpost.com/software/kindling-turn-a-loose-date-idea-into-a-plan-you-can-shape",
+      "repo_url": "https://github.com/jiayang97/kindling-agentic-date-planner",
+      "demo_url": null
+    },
+    {
+      "slug": "linkgallery",
+      "title": "LinkGallery",
+      "description": "A unified photo terminal for managing media across all your devices.",
+      "image": "https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/920/192/datas/medium.jpg",
+      "category": null,
+      "members": [
+        {
+          "handle": "jiayidu57-hub",
+          "name": "jiayidu57-hub",
+          "url": "https://devpost.com/jiayidu57-hub"
+        },
+        {
+          "handle": "xyan1773",
+          "name": "xyan1773",
+          "url": "https://devpost.com/xyan1773"
+        }
+      ],
+      "url": "https://devpost.com/software/linkgallery",
+      "repo_url": "https://github.com/xyan1773/LinkGallery",
+      "demo_url": null
+    },
+    {
+      "slug": "repo-native-agent-harness",
+      "title": "repo-native agent harness",
+      "description": "Make a Wish. Ship the Proof.\r\nA repo-native agent harness for controlled, traceable, verifiable delivery.",
+      "image": "https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/895/584/datas/medium.png",
+      "category": null,
+      "members": [
+        {
+          "handle": "jieke-jack-wu",
+          "name": "jieke-jack-wu",
+          "url": "https://devpost.com/jieke-jack-wu"
+        }
+      ],
+      "url": "https://devpost.com/software/repo-native-agent-harness",
+      "repo_url": "https://github.com/a-green-hand-jack/ml-project-repo-agent-native-template",
+      "demo_url": null
+    },
+    {
+      "slug": "time-capture-club",
+      "title": "Time Capture Club",
+      "description": "Preserve the decisions, tests, risks, and return path behind meaningful work using a website check-list and a tried and true GitHub practice.",
+      "image": "https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/005/013/429/datas/medium.png",
+      "category": null,
+      "members": [
+        {
+          "handle": "jim-leyshon",
+          "name": "jim-leyshon",
+          "url": "https://devpost.com/jim-leyshon"
+        }
+      ],
+      "url": "https://devpost.com/software/time-capture-club",
+      "repo_url": "https://github.com/finious/Time-Capture-Club",
+      "demo_url": null
+    },
+    {
+      "slug": "gita-jar",
+      "title": "Gita Jar",
+      "description": "Feeling anxious or angry? Find timeless wisdom from the shlokas of Bhagavad Gita that help you manage your emotions better.",
+      "image": "https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/991/082/datas/medium.png",
+      "category": null,
+      "members": [
+        {
+          "handle": "jimitaparekh15",
+          "name": "jimitaparekh15",
+          "url": "https://devpost.com/jimitaparekh15"
+        }
+      ],
+      "url": "https://devpost.com/software/gita-jar",
+      "repo_url": "https://github.com/jimitaparekh/gita-jar-app",
+      "demo_url": null
+    },
+    {
+      "slug": "personal-os-adhd-smart-planning-list",
+      "title": "Personal OS: ADHD Smart Planning List",
+      "description": "A working alpha that helps people with ADHD-related planning and task-initiation friction turn projects into smaller, clearer next actions.",
+      "image": "https://d2dmyh35ffsxbl.cloudfront.net/assets/shared/devpost_social_icon_200_200-f56e5af715a1d95e0209bb37e899b7c18c6e7e3b933a3c1f52456a6e2ee85d09.jpg",
+      "category": null,
+      "members": [
+        {
+          "handle": "jing104311",
+          "name": "jing104311",
+          "url": "https://devpost.com/jing104311"
+        }
+      ],
+      "url": "https://devpost.com/software/personal-os-adhd-smart-planning-list",
+      "repo_url": null,
+      "demo_url": null
+    },
+    {
+      "slug": "study-abroad-application-agent-for-education-consultants",
+      "title": "Study Abroad Application Agent for Education Consultants",
+      "description": "WIP",
+      "image": "https://d2dmyh35ffsxbl.cloudfront.net/assets/shared/devpost_social_icon_200_200-f56e5af715a1d95e0209bb37e899b7c18c6e7e3b933a3c1f52456a6e2ee85d09.jpg",
+      "category": "Education",
+      "members": [
+        {
+          "handle": "jingyan9900",
+          "name": "jingyan9900",
+          "url": "https://devpost.com/jingyan9900"
+        }
+      ],
+      "url": "https://devpost.com/software/study-abroad-application-agent-for-education-consultants",
+      "repo_url": null,
+      "demo_url": null
+    },
+    {
+      "slug": "fpga-gpu",
+      "title": "FPGA协同GPU",
+      "description": "让 GPU 驱动规模，让 FPGA 定义效率。",
+      "image": "https://d2dmyh35ffsxbl.cloudfront.net/assets/shared/devpost_social_icon_200_200-f56e5af715a1d95e0209bb37e899b7c18c6e7e3b933a3c1f52456a6e2ee85d09.jpg",
+      "category": null,
+      "members": [
+        {
+          "handle": "jinhuahuang721",
+          "name": "jinhuahuang721",
+          "url": "https://devpost.com/jinhuahuang721"
+        }
+      ],
+      "url": "https://devpost.com/software/fpga-gpu",
+      "repo_url": null,
+      "demo_url": null
+    },
+    {
+      "slug": "foreman-agent-safety-for-windows",
+      "title": "Foreman Agent Safety for Windows",
+      "description": "A local Windows control room for AI coding agents: monitor risky commands, stuck processes and MCP changes, then ask the responsible agent—or an independent AI—to explain and audit what happened.",
+      "image": "https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/940/266/datas/medium.png",
+      "category": null,
+      "members": [
+        {
+          "handle": "jinkaflops",
+          "name": "jinkaflops",
+          "url": "https://devpost.com/jinkaflops"
+        }
+      ],
+      "url": "https://devpost.com/software/foreman-agent-safety-for-windows",
+      "repo_url": "https://github.com/aXL333/Foreman",
+      "demo_url": null
+    },
+    {
+      "slug": "jinx-agent-skills",
+      "title": "Sandboxed",
+      "description": "Sandboxed is a Codex skill that lets you unleash coding agents—while keeping their work, access, and fallout safely contained.",
+      "image": "https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/965/589/datas/medium.png",
+      "category": null,
+      "members": [
+        {
+          "handle": "jinx-pt",
+          "name": "jinx-pt",
+          "url": "https://devpost.com/jinx-pt"
+        }
+      ],
+      "url": "https://devpost.com/software/jinx-agent-skills",
+      "repo_url": "https://github.com/DavidNavalho/jinx-agent-skills",
+      "demo_url": null
+    },
+    {
+      "slug": "jaf-forge-the-graph-engineering-harness",
+      "title": "JAF Forge: The Graph Engineering Harness",
+      "description": "Define development as a YAML graph, run coding agents safely against real Git projects, and keep every transition, approval, recovery, and proof local. Build the graph. Run the work. Keep the proof.",
+      "image": "https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/992/435/datas/medium.png",
+      "category": null,
+      "members": [
+        {
+          "handle": "jinx-pt",
+          "name": "jinx-pt",
+          "url": "https://devpost.com/jinx-pt"
+        }
+      ],
+      "url": "https://devpost.com/software/jaf-forge-the-graph-engineering-harness",
+      "repo_url": "https://github.com/DavidNavalho/jaf-forge",
+      "demo_url": null
+    },
+    {
+      "slug": "shelfmark-a-private-semantic-library-for-the-web",
+      "title": "Shelfmark: A private semantic library for the web",
+      "description": "A private library that turns saved links into organized, searchable knowledge.",
+      "image": "https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/994/401/datas/medium.png",
+      "category": null,
+      "members": [
+        {
+          "handle": "jinx-pt",
+          "name": "jinx-pt",
+          "url": "https://devpost.com/jinx-pt"
+        }
+      ],
+      "url": "https://devpost.com/software/shelfmark-a-private-semantic-library-for-the-web",
+      "repo_url": "https://github.com/DavidNavalho/delicious-links",
+      "demo_url": null
+    },
+    {
+      "slug": "weakspot-english-coach-4p5kgh",
+      "title": "WeakSpot English Coach",
+      "description": "An AI English coach that remembers your weak spots and turns every conversation into the right next practice.",
+      "image": "https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/988/504/datas/medium.png",
+      "category": null,
+      "members": [
+        {
+          "handle": "jinyu-cai",
+          "name": "jinyu-cai",
+          "url": "https://devpost.com/jinyu-cai"
+        }
+      ],
+      "url": "https://devpost.com/software/weakspot-english-coach-4p5kgh",
+      "repo_url": "https://github.com/jinyu-cai/weakspot-english-coach",
+      "demo_url": null
+    },
+    {
+      "slug": "techlabs-studio-adventures-in-ai",
+      "title": "TechLabs Studio: Adventures in AI",
+      "description": "Children shape personal AI Buddies with a collaborative group platform to build, debug, and share playable games and applications, learning to direct AI while preserving their creative spark .",
+      "image": "https://d2dmyh35ffsxbl.cloudfront.net/assets/shared/devpost_social_icon_200_200-f56e5af715a1d95e0209bb37e899b7c18c6e7e3b933a3c1f52456a6e2ee85d09.jpg",
+      "category": null,
+      "members": [
+        {
+          "handle": "jiri514",
+          "name": "jiri514",
+          "url": "https://devpost.com/jiri514"
+        },
+        {
+          "handle": "deanna833",
+          "name": "deanna833",
+          "url": "https://devpost.com/deanna833"
+        },
+        {
+          "handle": "joel983",
+          "name": "joel983",
+          "url": "https://devpost.com/joel983"
+        }
+      ],
+      "url": "https://devpost.com/software/techlabs-studio-adventures-in-ai",
+      "repo_url": null,
+      "demo_url": null
+    },
+    {
+      "slug": "plasticity-xhbwza",
+      "title": "Plasticity",
+      "description": "Plasticity is an AI tutor that sees students’ work, listens to questions, and teaches directly on the canvas with synchronized speech, drawings, annotations, and guidance.",
+      "image": "https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/005/012/494/datas/medium.png",
+      "category": null,
+      "members": [
+        {
+          "handle": "jishnunambiar03",
+          "name": "jishnunambiar03",
+          "url": "https://devpost.com/jishnunambiar03"
+        },
+        {
+          "handle": "vika908",
+          "name": "vika908",
+          "url": "https://devpost.com/vika908"
+        }
+      ],
+      "url": "https://devpost.com/software/plasticity-xhbwza",
+      "repo_url": null,
+      "demo_url": null
+    },
+    {
+      "slug": "watch-my-dog",
+      "title": "Watch My Dog",
+      "description": "Turning a used camera into a self hosted pet-cam to watch my dog Chloe while I am out.",
+      "image": "https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/969/747/datas/medium.png",
+      "category": null,
+      "members": [
+        {
+          "handle": "jithesh82",
+          "name": "jithesh82",
+          "url": "https://devpost.com/jithesh82"
+        }
+      ],
+      "url": "https://devpost.com/software/watch-my-dog",
+      "repo_url": "https://github.com/jithesh82/watchmydog",
+      "demo_url": null
+    },
+    {
+      "slug": "project-igl4eza27j0n",
+      "title": "风起游戏后台",
+      "description": "风起游戏后台管理，用于监测玩家游戏数据信息",
+      "image": "https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/938/996/datas/medium.png",
+      "category": null,
+      "members": [
+        {
+          "handle": "jiutubaba",
+          "name": "jiutubaba",
+          "url": "https://devpost.com/jiutubaba"
+        }
+      ],
+      "url": "https://devpost.com/software/project-igl4eza27j0n",
+      "repo_url": "https://github.com/jiutubaba/FengQiGame.git",
+      "demo_url": null
+    },
+    {
+      "slug": "anchor-ngmds9",
+      "title": "Anchor",
+      "description": "Every bug, failed run, and interview can pull you under. Anchor holds you steady, guides you back to shore, and helps you keep moving forward.",
+      "image": "https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/993/571/datas/medium.gif",
+      "category": null,
+      "members": [
+        {
+          "handle": "tanisha-jayabalan",
+          "name": "tanisha-jayabalan",
+          "url": "https://devpost.com/tanisha-jayabalan"
+        },
+        {
+          "handle": "sumeettummarmatti",
+          "name": "sumeettummarmatti",
+          "url": "https://devpost.com/sumeettummarmatti"
+        },
+        {
+          "handle": "shrujanna-05",
+          "name": "shrujanna-05",
+          "url": "https://devpost.com/shrujanna-05"
+        },
+        {
+          "handle": "jivalraghav",
+          "name": "jivalraghav",
+          "url": "https://devpost.com/jivalraghav"
+        }
+      ],
+      "url": "https://devpost.com/software/anchor-ngmds9",
+      "repo_url": "https://github.com/shrujanna/codex-hackathon",
+      "demo_url": null
+    },
+    {
+      "slug": "evidence-workbench-6qe3hc",
+      "title": "Evidence Workbench",
+      "description": "Offline, evidence-first search that turns fuzzy technical questions into exact PDF pages, tables, and diagrams.",
+      "image": "https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/005/006/847/datas/medium.png",
+      "category": null,
+      "members": [
+        {
+          "handle": "raisoninme",
+          "name": "raisoninme",
+          "url": "https://devpost.com/raisoninme"
+        },
+        {
+          "handle": "jiwelip",
+          "name": "jiwelip",
+          "url": "https://devpost.com/jiwelip"
+        }
+      ],
+      "url": "https://devpost.com/software/evidence-workbench-6qe3hc",
+      "repo_url": "https://github.com/raisoninme/evidence-workbench",
+      "demo_url": null
+    },
+    {
+      "slug": "nabi-markdown",
+      "title": "Nabi Markdown",
+      "description": "Practice Markdown until it's muscle memory.",
+      "image": "https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/988/157/datas/medium.png",
+      "category": "Education",
+      "members": [
+        {
+          "handle": "jiwonschol",
+          "name": "jiwonschol",
+          "url": "https://devpost.com/jiwonschol"
+        }
+      ],
+      "url": "https://devpost.com/software/nabi-markdown",
+      "repo_url": "https://github.com/jiwonschol/nabimd",
+      "demo_url": null
+    },
+    {
+      "slug": "createsomehingbig",
+      "title": "WeDig",
+      "description": "Multiple people each bring their own AI into one shared room. Their independently owned AIs talk to one another, divide the work, review each other, and produce a result for a human to approve.",
+      "image": "https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/942/716/datas/medium.png",
+      "category": null,
+      "members": [
+        {
+          "handle": "jys20240601",
+          "name": "jys20240601",
+          "url": "https://devpost.com/jys20240601"
+        },
+        {
+          "handle": "jjjang0815",
+          "name": "jjjang0815",
+          "url": "https://devpost.com/jjjang0815"
+        }
+      ],
+      "url": "https://devpost.com/software/createsomehingbig",
+      "repo_url": "https://github.com/jys20240601/openai-buildweek",
+      "demo_url": "https://youtu.be/3ajPesx354o"
+    },
+    {
+      "slug": "interactive-proof",
+      "title": "Interactive Proof",
+      "description": "Interactive Proof helps students, educators, and self-directed learners understand mathematical papers and proofs through interactive, grounded AI explanations of every proof step.",
+      "image": "https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/946/641/datas/medium.jpeg",
+      "category": "Education",
+      "members": [
+        {
+          "handle": "jjjhenriksen",
+          "name": "jjjhenriksen",
+          "url": "https://devpost.com/jjjhenriksen"
+        },
+        {
+          "handle": "MintOcha",
+          "name": "MintOcha",
+          "url": "https://devpost.com/MintOcha"
+        }
+      ],
+      "url": "https://devpost.com/software/interactive-proof",
+      "repo_url": "https://github.com/jjjhenriksen/interactive-proof",
+      "demo_url": null
+    },
+    {
+      "slug": "dining-hall-swipe",
+      "title": "TapIn — Campus meals, matched.",
+      "description": "A few group chats, 680+ people, matching campus meals by hand. \r\nTapIn turns the group-chat chaos into Resy-style booking: post, reserve, and meet at the dining hall. \r\nTap in. Meet up. Eat together.",
+      "image": "https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/005/013/193/datas/medium.png",
+      "category": null,
+      "members": [
+        {
+          "handle": "jjydggyx",
+          "name": "jjydggyx",
+          "url": "https://devpost.com/jjydggyx"
+        }
+      ],
+      "url": "https://devpost.com/software/dining-hall-swipe",
+      "repo_url": null,
+      "demo_url": null
+    },
+    {
+      "slug": "plsbro",
+      "title": "plsbro",
+      "description": "Don’t just tell an AI agent please, bro and hope. PLSBRO gives every task a contract, sandbox, budget, verification, and audit trail.",
+      "image": "https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/990/392/datas/medium.png",
+      "category": null,
+      "members": [
+        {
+          "handle": "jk152",
+          "name": "jk152",
+          "url": "https://devpost.com/jk152"
+        }
+      ],
+      "url": "https://devpost.com/software/plsbro",
+      "repo_url": "https://github.com/jaydenjk0329/plsbro-h1-demo",
+      "demo_url": "https://plsbro-h1-demo.vercel.app/demo"
+    },
+    {
+      "slug": "core-care",
+      "title": "Core Care",
+      "description": "Clean your computer without breaking it. CoreCare explains every risk, protects important files, and keeps every maintenance decision in your hands.",
+      "image": "https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/942/927/datas/medium.png",
+      "category": null,
+      "members": [
+        {
+          "handle": "jkaczmarczyk96-code",
+          "name": "jkaczmarczyk96-code",
+          "url": "https://devpost.com/jkaczmarczyk96-code"
+        }
+      ],
+      "url": "https://devpost.com/software/core-care",
+      "repo_url": "https://github.com/jkaczmarczyk96-code/core-care-releases",
+      "demo_url": null
+    },
+    {
+      "slug": "assistance-simulator",
+      "title": "Assistance Simulator",
+      "description": "AI voice simulations that turn assistance procedures into measurable, adaptive coordinator training.",
+      "image": "https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/985/570/datas/medium.png",
+      "category": null,
+      "members": [
+        {
+          "handle": "jkaczmarczyk96-code",
+          "name": "jkaczmarczyk96-code",
+          "url": "https://devpost.com/jkaczmarczyk96-code"
+        },
+        {
+          "handle": "Jim-23",
+          "name": "Jim-23",
+          "url": "https://devpost.com/Jim-23"
+        }
+      ],
+      "url": "https://devpost.com/software/assistance-simulator",
+      "repo_url": "https://github.com/jkaczmarczyk96-code/assistance-simulator",
+      "demo_url": null
+    },
+    {
+      "slug": "apple-appdev-workflow",
+      "title": "Apple AppDev Workflow",
+      "description": "Deterministic Codex orchestration for iOS and macOS—from SwiftUI scaffold through review, debugging, and release readiness.",
+      "image": "https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/996/074/datas/medium.png",
+      "category": null,
+      "members": [
+        {
+          "handle": "jkaunert",
+          "name": "jkaunert",
+          "url": "https://devpost.com/jkaunert"
+        }
+      ],
+      "url": "https://devpost.com/software/apple-appdev-workflow",
+      "repo_url": "https://github.com/jkaunert/apple-appdev-workflow/releases/tag/v0.2.0",
+      "demo_url": null
+    },
+    {
+      "slug": "merchantcore-ai",
+      "title": "MerchantCore AI",
+      "description": "MerchantCore AI is an agentic operations SaaS platform for ecommerce. It turns risky, repetitive store maintenance into controlled missions that teams can preview, test, run, monitor, audit, export.",
+      "image": "https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/983/689/datas/medium.png",
+      "category": null,
+      "members": [
+        {
+          "handle": "jkozma",
+          "name": "jkozma",
+          "url": "https://devpost.com/jkozma"
+        }
+      ],
+      "url": "https://devpost.com/software/merchantcore-ai",
+      "repo_url": null,
+      "demo_url": null
+    },
+    {
+      "slug": "pin2patch",
+      "title": "Pin2Patch",
+      "description": "Turn Figma comment pins into agent-ready tasks and tested code patches from the terminal.",
+      "image": "https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/939/333/datas/medium.jpg",
+      "category": null,
+      "members": [
+        {
+          "handle": "jkrsndivide",
+          "name": "jkrsndivide",
+          "url": "https://devpost.com/jkrsndivide"
+        }
+      ],
+      "url": "https://devpost.com/software/pin2patch",
+      "repo_url": "https://github.com/caixq1996/Pin2Patch",
+      "demo_url": null
+    },
+    {
+      "slug": "visual-compiler",
+      "title": "Visual compiler",
+      "description": "Compile AI once. Execute forever. This is compiled intelligence applied to browse internet.\r\nWe are building the compiler browser agents have been missing. Human explain once, code execute infinitly",
+      "image": "https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/941/277/datas/medium.png",
+      "category": null,
+      "members": [
+        {
+          "handle": "jl86",
+          "name": "jl86",
+          "url": "https://devpost.com/jl86"
+        }
+      ],
+      "url": "https://devpost.com/software/visual-compiler",
+      "repo_url": "https://github.com/faxncba-rgb/Visual-compiler-",
+      "demo_url": null
+    },
+    {
+      "slug": "halba",
+      "title": "Halba",
+      "description": "Language proposes. Evidence decides. The local-first trust operations control plane.",
+      "image": "https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/963/805/datas/medium.png",
+      "category": null,
+      "members": [
+        {
+          "handle": "jlekerli-source",
+          "name": "jlekerli-source",
+          "url": "https://devpost.com/jlekerli-source"
+        }
+      ],
+      "url": "https://devpost.com/software/halba",
+      "repo_url": "https://github.com/jlekerli-source/halba",
+      "demo_url": "https://www.youtube.com/watch?v=wEAb0x3wTRc"
+    },
+    {
+      "slug": "spylingo-ej39a7",
+      "title": "SpyLingo",
+      "description": "A story-driven game for learning Russian through Russian",
+      "image": "https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/974/330/datas/medium.png",
+      "category": null,
+      "members": [
+        {
+          "handle": "jliu716",
+          "name": "jliu716",
+          "url": "https://devpost.com/jliu716"
+        }
+      ],
+      "url": "https://devpost.com/software/spylingo-ej39a7",
+      "repo_url": "https://github.com/jliu716/SpyLingo/",
+      "demo_url": null
+    },
+    {
+      "slug": "aiorden-secure-technical-notes-classifier",
+      "title": "AIOrden: Secure Technical Notes Classifier",
+      "description": "AIOrden: Codex-powered PWA that intelligently classifies chaotic technical notes into a secure, offline-first knowledge base with secret redaction, RBAC and audit trail.",
+      "image": "https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/985/353/datas/medium.png",
+      "category": null,
+      "members": [
+        {
+          "handle": "jlmawyin",
+          "name": "jlmawyin",
+          "url": "https://devpost.com/jlmawyin"
+        }
+      ],
+      "url": "https://devpost.com/software/aiorden-secure-technical-notes-classifier",
+      "repo_url": "https://github.com/jlmawyin/aiorden",
+      "demo_url": null
+    },
+    {
+      "slug": "proxybreak",
+      "title": "ProxyBreak",
+      "description": "ProxyBreak uses GPT‑5.6 and deterministic simulation to expose and repair gameable KPIs before they reach the real world.",
+      "image": "https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/005/012/436/datas/medium.png",
+      "category": null,
+      "members": [
+        {
+          "handle": "jlouis1090",
+          "name": "jlouis1090",
+          "url": "https://devpost.com/jlouis1090"
+        },
+        {
+          "handle": "swatisaxena8687",
+          "name": "swatisaxena8687",
+          "url": "https://devpost.com/swatisaxena8687"
+        }
+      ],
+      "url": "https://devpost.com/software/proxybreak",
+      "repo_url": "https://github.com/tumblingpebble/proxybreak",
+      "demo_url": null
+    },
+    {
+      "slug": "capsule-ai-creates-temporary-ai-powered-experiences",
+      "title": "Capsule AI creates temporary AI-powered experiences",
+      "description": "Capsule AI creates temporary AI-powered experiences where groups collect discoveries, memories and media, then receive a final archive before the capsule automatically expires.",
+      "image": "https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/916/026/datas/medium.jpg",
+      "category": null,
+      "members": [
+        {
+          "handle": "jls419",
+          "name": "jls419",
+          "url": "https://devpost.com/jls419"
+        }
+      ],
+      "url": "https://devpost.com/software/capsule-ai-creates-temporary-ai-powered-experiences",
+      "repo_url": null,
+      "demo_url": null
+    },
+    {
+      "slug": "argos-48gw5d",
+      "title": "ARGOS",
+      "description": "ARGOS is a multi-agent contextual intelligence platform that helps make better tactical decisions by integrating specialized AI perspectives into a single, explainable recommendation.",
+      "image": "https://d2dmyh35ffsxbl.cloudfront.net/assets/shared/devpost_social_icon_200_200-f56e5af715a1d95e0209bb37e899b7c18c6e7e3b933a3c1f52456a6e2ee85d09.jpg",
+      "category": null,
+      "members": [
+        {
+          "handle": "jmbrandan",
+          "name": "jmbrandan",
+          "url": "https://devpost.com/jmbrandan"
+        }
+      ],
+      "url": "https://devpost.com/software/argos-48gw5d",
+      "repo_url": "https://github.com/jmbrandan-eng/argos",
+      "demo_url": null
+    },
+    {
+      "slug": "case-assessment-lab",
+      "title": "Case Assessment Lab",
+      "description": "Case Assessment Lab is an AI copilot for behavioral threat assessment and crisis teams. It organizes evidence, supports defensible decisions, reduces administrative burden, and helps pros save lives.",
+      "image": "https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/917/895/datas/medium.jpeg",
+      "category": null,
+      "members": [
+        {
+          "handle": "jmritter2020-cell",
+          "name": "jmritter2020-cell",
+          "url": "https://devpost.com/jmritter2020-cell"
+        }
+      ],
+      "url": "https://devpost.com/software/case-assessment-lab",
+      "repo_url": "https://github.com/jmritter2020-cell/ttx-platform",
+      "demo_url": null
+    },
+    {
+      "slug": "switch-automation-powering-the-transition-to-digital-fm",
+      "title": "Switch Automation: Powering the Transition to Digital FM",
+      "description": "Switch Automation helps teams optimize and decarbonize large building portfolios — improving operations, comfort, ROI, and reporting.",
+      "image": "https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/973/307/datas/medium.png",
+      "category": null,
+      "members": [
+        {
+          "handle": "jnl-pagobo",
+          "name": "jnl-pagobo",
+          "url": "https://devpost.com/jnl-pagobo"
+        }
+      ],
+      "url": "https://devpost.com/software/switch-automation-powering-the-transition-to-digital-fm",
+      "repo_url": null,
+      "demo_url": null
+    },
+    {
+      "slug": "homeroom-uk57ep",
+      "title": "Homeroom",
+      "description": "An AI workspace that turns a K-12 student's classes, calendars, and family logistics into one calm next step, and asks before it saves or shares anything.",
+      "image": "https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/958/146/datas/medium.png",
+      "category": null,
+      "members": [
+        {
+          "handle": "mattwheeler",
+          "name": "mattwheeler",
+          "url": "https://devpost.com/mattwheeler"
+        },
+        {
+          "handle": "joannaRUL",
+          "name": "joannaRUL",
+          "url": "https://devpost.com/joannaRUL"
+        }
+      ],
+      "url": "https://devpost.com/software/homeroom-uk57ep",
+      "repo_url": "https://github.com/mattwheeler/homeroom",
+      "demo_url": null
+    },
+    {
+      "slug": "media-training-ai",
+      "title": "MediaTraining.ai",
+      "description": "Prepare your executives before they go live. Practice with AI journalists. Measure performance with voice analysis. Know who is ready for the press conference, product launch, or crisis interview.",
+      "image": "https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/973/857/datas/medium.png",
+      "category": null,
+      "members": [
+        {
+          "handle": "joao-barrosfranca",
+          "name": "joao-barrosfranca",
+          "url": "https://devpost.com/joao-barrosfranca"
+        }
+      ],
+      "url": "https://devpost.com/software/media-training-ai",
+      "repo_url": null,
+      "demo_url": null
+    },
+    {
+      "slug": "rythmsynk",
+      "title": "RythmSynk",
+      "description": "Rythm helps creators license music samples and loops directly from artists.Buyers preview, pay and receive rights in-app, while artists control price, usage and earnings.Simple music licensing.",
+      "image": "https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/896/343/datas/medium.png",
+      "category": null,
+      "members": [
+        {
+          "handle": "joaorealsantos",
+          "name": "joaorealsantos",
+          "url": "https://devpost.com/joaorealsantos"
+        }
+      ],
+      "url": "https://devpost.com/software/rythmsynk",
+      "repo_url": null,
+      "demo_url": null
+    },
+    {
+      "slug": "plaza-cartas",
+      "title": "Cards Square - Plaza Cartas",
+      "description": "AI-powered P2P marketplace for trading collection cards",
+      "image": "https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/005/004/006/datas/medium.png",
+      "category": null,
+      "members": [
+        {
+          "handle": "joaquincartagena8",
+          "name": "joaquincartagena8",
+          "url": "https://devpost.com/joaquincartagena8"
+        }
+      ],
+      "url": "https://devpost.com/software/plaza-cartas",
+      "repo_url": "https://github.com/Ventur8/plazacartas",
+      "demo_url": null
+    },
+    {
+      "slug": "prisim",
+      "title": "Prisim",
+      "description": "AI wearables evolve every month. We track the privacy changes that matter before they reach your face.",
+      "image": "https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/950/980/datas/medium.png",
+      "category": null,
+      "members": [
+        {
+          "handle": "joawuah100",
+          "name": "joawuah100",
+          "url": "https://devpost.com/joawuah100"
+        },
+        {
+          "handle": "amojoshua473",
+          "name": "amojoshua473",
+          "url": "https://devpost.com/amojoshua473"
+        }
+      ],
+      "url": "https://devpost.com/software/prisim",
+      "repo_url": "https://github.com/youngceo10/prisim.github.io",
+      "demo_url": null
+    },
+    {
+      "slug": "skillproof-studio-by-chatpye",
+      "title": "SkillProof Studio by ChatPye",
+      "description": "SkillProof is AI-powered learning and workforce-development platform. Turn a training video into an interactive tutor, practical task plan, evidence-backed competency profile and manager-ready review.",
+      "image": "https://d2dmyh35ffsxbl.cloudfront.net/assets/shared/devpost_social_icon_200_200-f56e5af715a1d95e0209bb37e899b7c18c6e7e3b933a3c1f52456a6e2ee85d09.jpg",
+      "category": null,
+      "members": [
+        {
+          "handle": "joboyebisi157",
+          "name": "joboyebisi157",
+          "url": "https://devpost.com/joboyebisi157"
+        },
+        {
+          "handle": "Terabot",
+          "name": "Terabot",
+          "url": "https://devpost.com/Terabot"
+        }
+      ],
+      "url": "https://devpost.com/software/skillproof-studio-by-chatpye",
+      "repo_url": null,
+      "demo_url": null
+    },
+    {
+      "slug": "mbb-chart-studio",
+      "title": "MBB Chart Studio",
+      "description": "Excel in, Boardroom-ready chart out.",
+      "image": "https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/979/736/datas/medium.png",
+      "category": null,
+      "members": [
+        {
+          "handle": "jocelynhuangsijie",
+          "name": "jocelynhuangsijie",
+          "url": "https://devpost.com/jocelynhuangsijie"
+        }
+      ],
+      "url": "https://devpost.com/software/mbb-chart-studio",
+      "repo_url": null,
+      "demo_url": null
+    },
+    {
+      "slug": "intelligent-intern-ikvuns",
+      "title": "Intelligent Intern",
+      "description": "A system that allows to create and deploy a modular ERP systems with modules made with codex - like videocall, invoice automation, CRM, Marketing Automation, HR Lifecycle, etc. to a Domain and run it.",
+      "image": "https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/910/727/datas/medium.png",
+      "category": null,
+      "members": [
+        {
+          "handle": "jochenschultz",
+          "name": "jochenschultz",
+          "url": "https://devpost.com/jochenschultz"
+        }
+      ],
+      "url": "https://devpost.com/software/intelligent-intern-ikvuns",
+      "repo_url": null,
+      "demo_url": null
+    },
+    {
+      "slug": "simul",
+      "title": "Simul",
+      "description": "Browse the internet in your native language while interacting with the original website.",
+      "image": "https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/005/010/352/datas/medium.png",
+      "category": null,
+      "members": [
+        {
+          "handle": "joe-dev",
+          "name": "joe-dev",
+          "url": "https://devpost.com/joe-dev"
+        }
+      ],
+      "url": "https://devpost.com/software/simul",
+      "repo_url": "https://github.com/aredna/simul/",
+      "demo_url": null
+    },
+    {
+      "slug": "lumitrace",
+      "title": "LumiTrace",
+      "description": "Your private AI movie taste agent that turns what you’ve watched and rated into deeply personal recommendations.",
+      "image": "https://d2dmyh35ffsxbl.cloudfront.net/assets/shared/devpost_social_icon_200_200-f56e5af715a1d95e0209bb37e899b7c18c6e7e3b933a3c1f52456a6e2ee85d09.jpg",
+      "category": null,
+      "members": [
+        {
+          "handle": "joe998556",
+          "name": "joe998556",
+          "url": "https://devpost.com/joe998556"
+        }
+      ],
+      "url": "https://devpost.com/software/lumitrace",
+      "repo_url": "https://github.com/joe998556/LumiTrace-AI-Movie-Recommendation",
       "demo_url": null
     }
   ]
