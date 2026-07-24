@@ -1,5 +1,6 @@
 # Scraper checkpoints (regenerated each run, large)
 data/.scrape_state_*.json
+data/.participant_urls_*.jsonl
 
 # Secrets — never commit. Put your Devpost session cookie / proxy here.
 .env

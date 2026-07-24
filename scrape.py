@@ -32,7 +32,8 @@ import json
 import time
 import random
 import datetime
-from urllib.parse import urljoin
+import fcntl
+from urllib.parse import urljoin, urlparse, parse_qs
 
 try:
     import requests
@@ -46,12 +47,14 @@ except ImportError:
 ROOT = os.path.dirname(os.path.abspath(__file__))
 MANIFEST = os.path.join(ROOT, "data", "hackathons.json")
 DATA_DIR = os.path.join(ROOT, "data")
+RUN_LOCK = os.path.join(DATA_DIR, ".scrape.lock")
 BASE = "https://openai.devpost.com"
 PROFILE_BASE = "https://devpost.com"
 
 COOKIE = os.getenv("DEVP0ST_SESSION_COOKIE", "")
 PROXIES_RAW = os.getenv("PROXY_URL", "")
 HACKATHON_SLUG = os.getenv("HACKATHON_SLUG", "")
+PARTICIPANTS_FILE = os.getenv("PARTICIPANTS_FILE", "")
 START_PAGE = int(os.getenv("START_PAGE", "1"))
 MAX_PAGES = int(os.getenv("MAX_PAGES", "0"))
 PAGE_DELAY = float(os.getenv("PAGE_DELAY", "0.25"))
@@ -142,12 +145,58 @@ def extract_handles_from_participants(html):
     return handles
 
 
+def handles_from_export(path):
+    """Load profile URLs exported from the authenticated participant page."""
+    with open(path) as f:
+        rows = json.load(f)
+    handles = set()
+    for row in rows:
+        if int(row.get("project_count", 0)) < 1:
+            continue
+        m = USER_RE.match(str(row.get("profile_url", "")))
+        if m and m.group(1).lower() not in NON_USER:
+            handles.add(m.group(1))
+    return handles
+
+
 def extract_profile_projects(html):
     return {
         m.group(1)
         for m in SOFTWARE_RE.finditer(html)
-        if m.group(1) not in ("new", "search")
+        # /software/built-with/<technology> is Devpost's technology taxonomy,
+        # not a project permalink.  The regex sees its first path segment, so
+        # discard it explicitly rather than treating it as a failed project.
+        if m.group(1) not in ("new", "search", "built-with")
     }
+
+
+def profile_page_numbers(html, handle):
+    """Return every visible Devpost portfolio page for one profile."""
+    soup = BeautifulSoup(html, "html.parser")
+    pages = {1}
+    for a in soup.select(".pagination a[href]"):
+        parsed = urlparse(urljoin(f"{PROFILE_BASE}/{handle}", str(a["href"])))
+        if parsed.path.rstrip("/").lower() != f"/{handle}".lower():
+            continue
+        for page in parse_qs(parsed.query).get("page", []):
+            if page.isdigit() and int(page) > 0:
+                pages.add(int(page))
+    # Devpost renders an ellipsis for middle pages; the last visible page is
+    # still authoritative, so fill the entire contiguous range.
+    return list(range(1, max(pages) + 1))
+
+
+def all_profile_projects(first_html, handle):
+    """Fetch every portfolio page before declaring a profile complete."""
+    slugs = extract_profile_projects(first_html)
+    for page in profile_page_numbers(first_html, handle):
+        if page == 1:
+            continue
+        response = get(f"{PROFILE_BASE}/{handle}?page={page}")
+        if not response or response.status_code != 200:
+            raise RuntimeError(f"could not read portfolio page {page} for {handle}")
+        slugs |= extract_profile_projects(response.text)
+    return slugs
 
 
 def parse_project(html, slug, categories, hackathon_name):
@@ -286,6 +335,57 @@ def process_hackathon(cfg):
     processed = set(state["processed"])
     projects = state["projects"]
 
+    # This set is updated as discoveries are accepted.  It prevents repeated
+    # project-page requests when collaborators appear in multiple portfolios.
+    project_slugs = {p["slug"] for p in projects}
+
+    def scan_profile(handle):
+        """Scan one portfolio atomically from the checkpoint's perspective.
+
+        A handle is only considered complete after its portfolio *and every
+        newly encountered project page* was read successfully.  This makes a
+        rate-limit or network blip retriable on the next run instead of
+        silently losing a possible submission.
+        """
+        profile = get(f"{PROFILE_BASE}/{handle}")
+        if not profile or profile.status_code != 200:
+            print(f"    ! will retry profile {handle} (HTTP {profile.status_code if profile else 'ERR'})", flush=True)
+            return False
+        try:
+            portfolio_slugs = all_profile_projects(profile.text, handle)
+        except RuntimeError as error:
+            print(f"    ! will retry {handle}: {error}", flush=True)
+            return False
+
+        for project_slug in portfolio_slugs:
+            if project_slug in project_slugs:
+                continue
+            project = get(f"{PROFILE_BASE}/software/{project_slug}")
+            if not project or project.status_code != 200:
+                print(f"    ! will retry {handle}; could not read project {project_slug}", flush=True)
+                return False
+            info = parse_project(project.text, project_slug, categories, name)
+            if info["submitted_to_hackathon"]:
+                projects.append({k: info[k] for k in ("slug", "title", "description", "image", "category", "members", "url", "repo_url", "demo_url")})
+                project_slugs.add(project_slug)
+                print(f"    + [{info['category']}] {info['title']}  (by {handle})", flush=True)
+        return True
+
+    if PARTICIPANTS_FILE:
+        handles = handles_from_export(PARTICIPANTS_FILE)
+        print(f"  imported {len(handles)} project-bearing participant profiles")
+        for h in sorted(handles - processed):
+            if scan_profile(h):
+                processed.add(h)
+            state["processed"] = sorted(processed)
+            state["projects"] = projects
+            save_state(slug, state)
+            write_output(slug, cfg, projects)
+            time.sleep(PAGE_DELAY * random.uniform(0.6, 1.4))
+        out = write_output(slug, cfg, projects)
+        print(f"  DONE {name}: {len(processed)} handles, {len(projects)} projects.")
+        return out
+
     page = START_PAGE
     stall = 0
     while True:
@@ -313,30 +413,8 @@ def process_hackathon(cfg):
             stall = 0
 
         for h in sorted(new):
-            processed.add(h)
-            pr = get(f"{PROFILE_BASE}/{h}")
-            if not pr or pr.status_code != 200:
-                continue
-            for pslug in extract_profile_projects(pr.text):
-                if any(p["slug"] == pslug for p in projects):
-                    continue
-                pj = get(f"{PROFILE_BASE}/software/{pslug}")
-                if not pj or pj.status_code != 200:
-                    continue
-                info = parse_project(pj.text, pslug, categories, name)
-                if info["submitted_to_hackathon"]:
-                    projects.append({
-                        "slug": info["slug"],
-                        "title": info["title"],
-                        "description": info["description"],
-                        "image": info["image"],
-                        "category": info["category"],
-                        "members": info["members"],
-                        "url": info["url"],
-                        "repo_url": info["repo_url"],
-                        "demo_url": info["demo_url"],
-                    })
-                    print(f"    + [{info['category']}] {info['title']}  (by {h})", flush=True)
+            if scan_profile(h):
+                processed.add(h)
             time.sleep(PAGE_DELAY * random.uniform(0.6, 1.4))
 
         state["processed"] = sorted(processed)
@@ -358,28 +436,39 @@ def process_hackathon(cfg):
 # Main
 # --------------------------------------------------------------------------- #
 def main():
-    if not COOKIE:
-        sys.exit("ERROR: DEVP0ST_SESSION_COOKIE is required (participant list is login-gated).")
+    if not COOKIE and not PARTICIPANTS_FILE:
+        sys.exit("ERROR: provide PARTICIPANTS_FILE or DEVP0ST_SESSION_COOKIE.")
 
-    manifest = load_manifest()
-    hacks = manifest.get("hackathons", [])
-    if not hacks:
-        sys.exit("ERROR: no hackathons in data/hackathons.json")
+    lock = open(RUN_LOCK, "w")
+    try:
+        fcntl.flock(lock, fcntl.LOCK_EX | fcntl.LOCK_NB)
+    except BlockingIOError:
+        lock.close()
+        sys.exit("ERROR: another scraper instance already holds the run lock.")
 
-    targets = [h for h in hacks if h["slug"] == HACKATHON_SLUG] if HACKATHON_SLUG else hacks
-    if HACKATHON_SLUG and not targets:
-        sys.exit(f"ERROR: no hackathon with slug '{HACKATHON_SLUG}' in manifest.")
+    try:
+        manifest = load_manifest()
+        hacks = manifest.get("hackathons", [])
+        if not hacks:
+            sys.exit("ERROR: no hackathons in data/hackathons.json")
 
-    print(f"Scraping {len(targets)} hackathon(s). Proxy pool size: {len(PROXIES)}.")
-    for cfg in targets:
-        out = process_hackathon(cfg)
-        # update manifest entry
-        for i, h in enumerate(manifest["hackathons"]):
-            if h["slug"] == cfg["slug"]:
-                manifest["hackathons"][i]["count"] = out["count"]
-                manifest["hackathons"][i]["generated_at"] = out["generated_at"]
-        save_manifest(manifest)
-        print(f"  manifest updated: {cfg['slug']} -> {out['count']} projects")
+        targets = [h for h in hacks if h["slug"] == HACKATHON_SLUG] if HACKATHON_SLUG else hacks
+        if HACKATHON_SLUG and not targets:
+            sys.exit(f"ERROR: no hackathon with slug '{HACKATHON_SLUG}' in manifest.")
+
+        print(f"Scraping {len(targets)} hackathon(s). Proxy pool size: {len(PROXIES)}.")
+        for cfg in targets:
+            out = process_hackathon(cfg)
+            # update manifest entry
+            for i, h in enumerate(manifest["hackathons"]):
+                if h["slug"] == cfg["slug"]:
+                    manifest["hackathons"][i]["count"] = out["count"]
+                    manifest["hackathons"][i]["generated_at"] = out["generated_at"]
+            save_manifest(manifest)
+            print(f"  manifest updated: {cfg['slug']} -> {out['count']} projects")
+    finally:
+        fcntl.flock(lock, fcntl.LOCK_UN)
+        lock.close()
 
 
 if __name__ == "__main__":
