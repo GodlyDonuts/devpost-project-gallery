@@ -22,6 +22,34 @@
       "repo_url": "http://github.com/ToyzZone/nyx-persona",
       "demo_url": "http://nyx-persona.vercel.app/demo",
       "verification": "Public Devpost page explicitly states Submitted to OpenAI Build Week."
+    },
+    {
+      "slug": "reexplain-63e1dh",
+      "title": "ReExplain",
+      "description": "ReExplain is is an AI-powered teach-back learning app. Upload anything you're learning, re-explain it in your own words, and let AI challenge your thinking to uncover gaps you didn't know you had.",
+      "image": "https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/933/274/datas/medium.png",
+      "category": null,
+      "members": [
+        {
+          "handle": "indrajitvijayakumar",
+          "name": "indrajitvijayakumar",
+          "url": "https://devpost.com/indrajitvijayakumar"
+        },
+        {
+          "handle": "cjami",
+          "name": "cjami",
+          "url": "https://devpost.com/cjami"
+        },
+        {
+          "handle": "dhilip-sanjay-1",
+          "name": "dhilip-sanjay-1",
+          "url": "https://devpost.com/dhilip-sanjay-1"
+        }
+      ],
+      "url": "https://devpost.com/software/reexplain-63e1dh",
+      "repo_url": "https://github.com/reexplain",
+      "demo_url": null,
+      "verification": "Public Devpost page explicitly states Submitted to OpenAI Build Week."
     }
   ]
 }
