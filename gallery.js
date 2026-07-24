@@ -83,10 +83,23 @@
 
   grid.innerHTML = '<div class="loading">Loading projects…</div>';
   try {
-    const res = await fetch("data/" + encodeURIComponent(slug) + ".json", { cache: "no-store" });
+    const [res, classificationRes] = await Promise.all([
+      fetch("data/" + encodeURIComponent(slug) + ".json", { cache: "no-store" }),
+      // Labels are published independently of the long-running crawler, so a
+      // crawler checkpoint can never erase an already reviewed category.
+      fetch("data/" + encodeURIComponent(slug) + "-classifications.json", { cache: "no-store" }),
+    ]);
     if (!res.ok) throw new Error("HTTP " + res.status);
     const data = await res.json();
-    projects = data.projects || [];
+    let labels = {};
+    if (classificationRes.ok) {
+      const classificationData = await classificationRes.json();
+      labels = classificationData.labels || {};
+    }
+    projects = (data.projects || []).map((project) => {
+      const label = labels[project.slug];
+      return label ? { ...project, category: label.category, classification_confidence: label.confidence } : project;
+    });
     categories = data.categories || [];
     if (titleEl) titleEl.textContent = data.name || slug;
     if (freshEl && data.generated_at)

@@ -15,6 +15,7 @@ import re
 import subprocess
 import sys
 import time
+from datetime import datetime, timezone
 from pathlib import Path
 
 import requests
@@ -218,10 +219,31 @@ def merge(slug):
     print(f"merged {len(gallery['projects'])} labels into {gallery_path}")
 
 
+def publish(slug):
+    """Publish only complete, validated snapshot labels for frontend use."""
+    labels = {}
+    pattern = ROOT / "data" / ".classification"
+    for results_path in sorted(pattern.glob(f"{slug}-snapshot-*/results.json")):
+        result = load_json(results_path)
+        if result.get("missing") or result.get("errors"):
+            continue
+        for project_slug, label in result.get("labels", {}).items():
+            if project_slug in labels and labels[project_slug] != label:
+                raise SystemExit(f"Conflicting validated labels for {project_slug}")
+            labels[project_slug] = label
+    output = ROOT / "data" / f"{slug}-classifications.json"
+    atomic_json(output, {
+        "generated_at": datetime.now(timezone.utc).isoformat(),
+        "count": len(labels),
+        "labels": labels,
+    })
+    print(f"published {len(labels)} validated labels to {output}")
+
+
 def main():
     parser = argparse.ArgumentParser()
     parser.add_argument("slug")
-    parser.add_argument("action", choices=("prepare", "batches", "run", "validate", "merge"))
+    parser.add_argument("action", choices=("prepare", "batches", "run", "validate", "publish", "merge"))
     parser.add_argument("--delay", type=float, default=0.4)
     parser.add_argument("--batch-size", type=int, default=20)
     parser.add_argument("--workers", type=int, default=10)
@@ -234,6 +256,8 @@ def main():
         run_batches(args.slug, args.workers)
     elif args.action == "validate":
         sys.exit(0 if validate(args.slug) else 1)
+    elif args.action == "publish":
+        publish(args.slug)
     else:
         merge(args.slug)
 
