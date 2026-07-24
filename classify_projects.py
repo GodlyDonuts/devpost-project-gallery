@@ -8,9 +8,11 @@ and is validated before it can be merged into the gallery JSON.
 """
 
 import argparse
+import concurrent.futures
 import json
 import os
 import re
+import subprocess
 import sys
 import time
 from pathlib import Path
@@ -168,6 +170,36 @@ def validate(slug):
     return not missing and not errors
 
 
+def run_batches(slug, workers):
+    """Run independent, fresh-context Hy3 calls over prepared prompt files."""
+    base, _, _ = paths(slug)
+    prompt_paths = sorted((base / "batches").glob("batch-*.prompt.txt"))
+    outputs = base / "outputs"
+    outputs.mkdir(parents=True, exist_ok=True)
+
+    def run_one(prompt_path):
+        output = outputs / (prompt_path.stem.replace(".prompt", "") + ".json")
+        if output.exists() and output.stat().st_size:
+            return prompt_path.name, "cached"
+        command = [
+            "hermes", "chat", "-Q", "--ignore-rules", "--source", "buildweek-classifier",
+            "--max-turns", "1", "--model", "tencent/hy3:free", "--provider", "nous",
+            "--query", prompt_path.read_text(),
+        ]
+        try:
+            result = subprocess.run(command, capture_output=True, text=True, timeout=900)
+        except subprocess.TimeoutExpired:
+            return prompt_path.name, "timeout"
+        if result.returncode:
+            return prompt_path.name, f"exit {result.returncode}: {result.stderr[-250:]}"
+        output.write_text(result.stdout)
+        return prompt_path.name, "done"
+
+    with concurrent.futures.ThreadPoolExecutor(max_workers=workers) as pool:
+        for filename, status in pool.map(run_one, prompt_paths):
+            print(f"{filename}: {status}", flush=True)
+
+
 def merge(slug):
     _, _, results_path = paths(slug)
     result = load_json(results_path)
@@ -189,14 +221,17 @@ def merge(slug):
 def main():
     parser = argparse.ArgumentParser()
     parser.add_argument("slug")
-    parser.add_argument("action", choices=("prepare", "batches", "validate", "merge"))
+    parser.add_argument("action", choices=("prepare", "batches", "run", "validate", "merge"))
     parser.add_argument("--delay", type=float, default=0.4)
     parser.add_argument("--batch-size", type=int, default=20)
+    parser.add_argument("--workers", type=int, default=10)
     args = parser.parse_args()
     if args.action == "prepare":
         prepare(args.slug, args.delay)
     elif args.action == "batches":
         make_batches(args.slug, args.batch_size)
+    elif args.action == "run":
+        run_batches(args.slug, args.workers)
     elif args.action == "validate":
         sys.exit(0 if validate(args.slug) else 1)
     else:
