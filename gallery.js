@@ -4,6 +4,7 @@
   const emptyEl = document.getElementById("empty");
   const searchEl = document.getElementById("search");
   const filtersEl = document.getElementById("filters");
+  const sortScoreEl = document.getElementById("sort-score");
   const titleEl = document.getElementById("hack-title");
   const freshEl = document.getElementById("freshness");
 
@@ -18,6 +19,7 @@
   let categories = [];
   let activeCat = "all";
   let query = "";
+  let sortByScore = false;
 
   function renderChips() {
     const uncategorized = projects.filter((p) => !p.category).length;
@@ -62,6 +64,13 @@
         .toLowerCase();
       return hay.includes(q);
     });
+    if (sortByScore) {
+      filtered.sort((a, b) => {
+        const aScore = Number.isInteger(a.judging_score && a.judging_score.total) ? a.judging_score.total : -1;
+        const bScore = Number.isInteger(b.judging_score && b.judging_score.total) ? b.judging_score.total : -1;
+        return bScore - aScore;
+      });
+    }
     grid.innerHTML = filtered.map(projectCard).join("");
     emptyEl.hidden = filtered.length > 0;
     revealCards(grid);
@@ -80,6 +89,14 @@
     [...filtersEl.children].forEach((c) => c.setAttribute("aria-pressed", String(c === btn)));
     apply();
   });
+  if (sortScoreEl) {
+    sortScoreEl.addEventListener("click", () => {
+      sortByScore = !sortByScore;
+      sortScoreEl.setAttribute("aria-pressed", String(sortByScore));
+      sortScoreEl.textContent = sortByScore ? "Sorted by highest score" : "Sort by highest score";
+      apply();
+    });
+  }
 
   grid.innerHTML = '<div class="loading">Loading projects…</div>';
   try {
