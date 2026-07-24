@@ -55,7 +55,11 @@ a:hover { text-decoration: none; }
 /* ---------- Animated refractive backdrop ---------- */
 .backdrop {
   position: fixed; inset: 0; z-index: -1; overflow: hidden;
-  background: radial-gradient(120% 90% at 50% -10%, var(--bg-2), var(--bg) 60%);
+  background:
+    radial-gradient(55% 45% at 50% 36%, rgba(122, 166, 255, 0.20), transparent 70%),
+    radial-gradient(48% 48% at 72% 58%, rgba(0, 198, 184, 0.16), transparent 70%),
+    radial-gradient(48% 48% at 28% 66%, rgba(255, 95, 168, 0.12), transparent 70%),
+    radial-gradient(120% 90% at 50% -10%, var(--bg-2), var(--bg) 60%);
 }
 .orb { position: absolute; border-radius: 50%; filter: blur(55px); opacity: 0.85; will-change: transform; mix-blend-mode: normal; }
 .orb-1 { width: 62vw; height: 62vw; left: -16vw; top: -14vw;
@@ -200,20 +204,17 @@ a:hover { text-decoration: none; }
   display: grid; grid-template-columns: repeat(auto-fill, minmax(290px, 1fr));
   gap: 22px; margin-top: 8px;
 }
-/* landing: when there are few hackathons, keep the cards centered & readable */
-#hacks { justify-content: center; }
-#hacks .hack-card { max-width: 380px; }
-@media (min-width: 760px) and (max-width: 920px) {
-  #hacks { grid-template-columns: repeat(2, minmax(0, 1fr)); }
-}
+/* landing: center the hackathon card(s) whether there's one or many */
+#hacks { display: flex; flex-wrap: wrap; justify-content: center; gap: 22px; }
+#hacks .hack-card { flex: 0 1 420px; max-width: 420px; width: auto; }
 
 /* project card */
 .card {
   position: relative; display: flex; flex-direction: column;
-  background: var(--glass-strong);
-  -webkit-backdrop-filter: blur(var(--blur)) saturate(180%);
-  backdrop-filter: blur(var(--blur)) saturate(180%);
-  border: 1px solid var(--glass-border); border-radius: var(--radius);
+  background: rgba(255, 255, 255, 0.48);
+  -webkit-backdrop-filter: blur(38px) saturate(190%);
+  backdrop-filter: blur(38px) saturate(190%);
+  border: 1px solid rgba(255, 255, 255, 0.92); border-radius: var(--radius);
   overflow: hidden; box-shadow: var(--glass-shadow);
   transition: transform 0.22s cubic-bezier(.2,.7,.2,1), box-shadow 0.22s;
   opacity: 0; transform: translateY(18px) scale(0.985);
