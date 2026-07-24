@@ -2,14 +2,14 @@
   "slug": "openai-build-week",
   "name": "OpenAI Build Week",
   "hackathon_id": "30223",
-  "generated_at": "2026-07-24T10:41:45.881364+00:00",
+  "generated_at": "2026-07-24T10:41:54.251857+00:00",
   "categories": [
     "Apps for Your Life",
     "Work & Productivity",
     "Developer Tools",
     "Education"
   ],
-  "count": 2622,
+  "count": 2627,
   "projects": [
     {
       "slug": "gosu-go-trainer",
@@ -49708,6 +49708,96 @@
       ],
       "url": "https://devpost.com/software/personal-pattern-lab",
       "repo_url": "https://github.com/DifanaDAP/hackanton",
+      "demo_url": null
+    },
+    {
+      "slug": "dmt-semantic-theme-editor-for-ableton-live",
+      "title": "DMT (DeafManTools) — Semantic Theme Editor for Ableton Live",
+      "description": "DMT replaces a 20-year-old XML editing workflow in Ableton Live with interactive semantic editing, professional colour processing and direct in-situ parameter retrieval.",
+      "image": "https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/951/000/datas/medium.png",
+      "category": null,
+      "members": [
+        {
+          "handle": "deafman-skwx",
+          "name": "deafman-skwx",
+          "url": "https://devpost.com/deafman-skwx"
+        }
+      ],
+      "url": "https://devpost.com/software/dmt-semantic-theme-editor-for-ableton-live",
+      "repo_url": null,
+      "demo_url": null
+    },
+    {
+      "slug": "cardpricelab",
+      "title": "Cardpricelab",
+      "description": "Compare Pokémon card prices using live eBay listings, intelligent card matching, market references, deal ratings, and independent risk signals.",
+      "image": "https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/996/678/datas/medium.png",
+      "category": null,
+      "members": [
+        {
+          "handle": "dealonly0",
+          "name": "dealonly0",
+          "url": "https://devpost.com/dealonly0"
+        }
+      ],
+      "url": "https://devpost.com/software/cardpricelab",
+      "repo_url": "https://github.com/dealonly0-lab/CardPriceLab",
+      "demo_url": null
+    },
+    {
+      "slug": "text-unlocked",
+      "title": "Text Unlocked",
+      "description": "Turn trapped screen text into editable text—on device.",
+      "image": "https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/991/872/datas/medium.png",
+      "category": null,
+      "members": [
+        {
+          "handle": "dean750",
+          "name": "dean750",
+          "url": "https://devpost.com/dean750"
+        }
+      ],
+      "url": "https://devpost.com/software/text-unlocked",
+      "repo_url": null,
+      "demo_url": null
+    },
+    {
+      "slug": "panama-snake-identifier",
+      "title": "Panama Snake Identifier",
+      "description": "AI-powered web app that identifies snake species in Panama from a photo and provides safety, habitat, and educational information.",
+      "image": "https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/982/725/datas/medium.png",
+      "category": "Education",
+      "members": [
+        {
+          "handle": "deanking926",
+          "name": "deanking926",
+          "url": "https://devpost.com/deanking926"
+        }
+      ],
+      "url": "https://devpost.com/software/panama-snake-identifier",
+      "repo_url": null,
+      "demo_url": null
+    },
+    {
+      "slug": "ai-librarian-eqvk09",
+      "title": "AI Librarian",
+      "description": "AI Librarian: A voice-activated web app powered by Google Gemini that instantly curates highly personalized book recommendations based on your exact mood,reading history,genre preferences and ratings.",
+      "image": "https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/961/185/datas/medium.jpeg",
+      "category": null,
+      "members": [
+        {
+          "handle": "debadritapaul26",
+          "name": "debadritapaul26",
+          "url": "https://devpost.com/debadritapaul26"
+        },
+        {
+          "handle": "diptamnandi",
+          "name": "diptamnandi",
+          "url": "https://devpost.com/diptamnandi"
+        }
+      ],
+      "url": "https://devpost.com/software/ai-librarian-eqvk09",
+      "repo_url": "https://github.com/diptamnandi?tab=repositories",
       "demo_url": null
     }
   ]
