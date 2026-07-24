@@ -6,7 +6,7 @@ deadline, so this collects submissions from each hackathon's participant list an
 sorts them into that hackathon's tracks.
 
 Built with plain HTML/CSS/JS (no build step) and hosted free on **GitHub Pages**.
-A scheduled GitHub Action scrapes Devpost (resumably) and commits fresh data per
+A scheduled GitHub Action scrapes Devpost (resumable) and commits fresh data per
 hackathon.
 
 ---
@@ -94,10 +94,21 @@ files they show empty states; once the scraper runs, cards appear.
 pip install requests beautifulsoup4
 ```
 
-### 2. Get a Devpost session cookie (REQUIRED)
+### 2. Get a Devpost session cookie (REQUIRED for full coverage)
 The participant list is **login-gated** ("Please log in to browse this hackathon's
 participants."). Log in to Devpost in a browser, then copy the full `Cookie`
 header from a request to `openai.devpost.com/participants` (DevTools → Network).
+Save it to a local file (gitignored — never commits):
+
+```bash
+# paste your cookie into cookie.txt, then:
+export DEVP0ST_SESSION_COOKIE="$(cat cookie.txt)"
+```
+
+> Without a cookie you can only collect search-indexed submissions (~21). The
+> cookie lets the scraper walk all ~46k participants for full coverage. The
+> cookie is your own login; the scraper reads public participant data at a
+> conservative rate. This is not anonymous/evasion scraping.
 
 ### 3. (Recommended) Use a proxy
 46k+ participants means 100k+ requests. Use a proxy pool to avoid IP bans.
@@ -105,10 +116,10 @@ header from a request to `openai.devpost.com/participants` (DevTools → Network
 
 ### 4. Run
 ```bash
-export DEVP0ST_SESSION_COOKIE="session=...; _devpost=..."
-export PROXY_URL="http://user:pass@host:port"      # optional but recommended
-python3 scrape.py                                   # all hackathons in manifest
-HACKATHON_SLUG=openai-build-week python3 scrape.py  # just one
+export DEVP0ST_SESSION_COOKIE="session=...; _devpost=..."   # or "$(cat cookie.txt)"
+export PROXY_URL="http://user:pass@host:port"               # optional but recommended
+python3 scrape.py                                            # all hackathons in manifest
+HACKATHON_SLUG=openai-build-week python3 scrape.py          # just one
 ```
 
 Useful env vars: `START_PAGE`, `MAX_PAGES` (0 = unlimited), `PAGE_DELAY` (seconds).
@@ -164,7 +175,19 @@ The `scrape.yml` workflow runs hourly, appends to each `data/<slug>.json`, updat
 
 - **Unofficial.** Not affiliated with OpenAI or Devpost. Respect Devpost's ToS;
   use a proxy and conservative delays to avoid hammering their servers.
-- **Coverage depends on Devpost.** Submissions are only visible once the official
-  gallery is published; the scraper backfills automatically after that.
-- **Classification** uses whichever of the hackathon's track labels appears on the
-  project page. If none match, it falls back to `Uncategorized` (still shown via "All").
+- **Coverage.** Individual submissions are public as soon as they're made, but the
+  official gallery isn't published until ~2 weeks after the deadline. Without a
+  login cookie we only see search-indexed submissions (~21 here); with a Devpost
+  session cookie the scraper walks all participants for full coverage.
+- **Classification** is deferred: the scraper stores `category: null` for every
+  project because the four track labels don't appear on public project pages.
+  Categorize each project into the hackathon's tracks manually after collection.
+- **Cookie-free ceiling.** Without a login cookie, you can only reach the small
+  subset of submissions that search engines have indexed (≈21 for this
+  hackathon). To collect more, you need a Devpost session cookie (see below)
+  to walk the login-gated participant list (~46k participants).
+- **Data integrity rule.** Every project in a `data/<slug>.json` file MUST be a
+  real submission with a working `https://devpost.com/software/<slug>` link and
+  MUST mention the hackathon on its page. Verify with the duplicate + live
+  Build-Week check before publishing. We do NOT store personal user data — only
+  the public submission and its author credit.

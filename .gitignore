@@ -1,6 +1,11 @@
 # Scraper checkpoints (regenerated each run, large)
 data/.scrape_state_*.json
 
+# Secrets — never commit. Put your Devpost session cookie / proxy here.
+.env
+cookie.txt
+*.cookie
+
 # Python
 __pycache__/
 *.pyc
