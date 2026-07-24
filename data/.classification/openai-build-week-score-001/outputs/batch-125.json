@@ -1,0 +1,107 @@
+[
+  {
+    "slug": "ai-tools-oasis",
+    "technological_implementation": 6,
+    "design": 7,
+    "potential_impact": 6,
+    "quality_of_idea": 5
+  },
+  {
+    "slug": "codexia-b5uj2s",
+    "technological_implementation": 8,
+    "design": 7,
+    "potential_impact": 4,
+    "quality_of_idea": 7
+  },
+  {
+    "slug": "crosspatch",
+    "technological_implementation": 8,
+    "design": 7,
+    "potential_impact": 7,
+    "quality_of_idea": 8
+  },
+  {
+    "slug": "physical-ai-lab",
+    "technological_implementation": 7,
+    "design": 7,
+    "potential_impact": 6,
+    "quality_of_idea": 6
+  },
+  {
+    "slug": "shalomworks-live-interpreter",
+    "technological_implementation": 5,
+    "design": 7,
+    "potential_impact": 6,
+    "quality_of_idea": 5
+  },
+  {
+    "slug": "lessonloop-a5e806",
+    "technological_implementation": 5,
+    "design": 4,
+    "potential_impact": 6,
+    "quality_of_idea": 4
+  },
+  {
+    "slug": "colorhelper",
+    "technological_implementation": 6,
+    "design": 6,
+    "potential_impact": 4,
+    "quality_of_idea": 4
+  },
+  {
+    "slug": "opspilot-ai-clseik",
+    "technological_implementation": 1,
+    "design": 2,
+    "potential_impact": 2,
+    "quality_of_idea": 2
+  },
+  {
+    "slug": "archive-mind",
+    "technological_implementation": 6,
+    "design": 6,
+    "potential_impact": 6,
+    "quality_of_idea": 6
+  },
+  {
+    "slug": "pocket-butler",
+    "technological_implementation": 5,
+    "design": 5,
+    "potential_impact": 4,
+    "quality_of_idea": 3
+  },
+  {
+    "slug": "livespec",
+    "technological_implementation": 3,
+    "design": 3,
+    "potential_impact": 4,
+    "quality_of_idea": 5
+  },
+  {
+    "slug": "insight-wellness-guide",
+    "technological_implementation": 6,
+    "design": 5,
+    "potential_impact": 6,
+    "quality_of_idea": 5
+  },
+  {
+    "slug": "clearbill-t4wf1p",
+    "technological_implementation": 6,
+    "design": 7,
+    "potential_impact": 7,
+    "quality_of_idea": 5
+  },
+  {
+    "slug": "accept-user",
+    "technological_implementation": 8,
+    "design": 7,
+    "potential_impact": 6,
+    "quality_of_idea": 6
+  },
+  {
+    "slug": "codepilot-ai-c71z9m",
+    "technological_implementation": 5,
+    "design": 5,
+    "potential_impact": 4,
+    "quality_of_idea": 3
+  }
+]

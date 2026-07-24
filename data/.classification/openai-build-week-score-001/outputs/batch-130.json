@@ -1,0 +1,107 @@
+[
+  {
+    "slug": "spectraguard",
+    "technological_implementation": 4,
+    "design": 3,
+    "potential_impact": 5,
+    "quality_of_idea": 4
+  },
+  {
+    "slug": "careerpath-agent",
+    "technological_implementation": 8,
+    "design": 7,
+    "potential_impact": 8,
+    "quality_of_idea": 6
+  },
+  {
+    "slug": "axodus-bba",
+    "technological_implementation": 4,
+    "design": 5,
+    "potential_impact": 6,
+    "quality_of_idea": 5
+  },
+  {
+    "slug": "omnicell-ai",
+    "technological_implementation": 8,
+    "design": 7,
+    "potential_impact": 8,
+    "quality_of_idea": 6
+  },
+  {
+    "slug": "pathpilot-ai-tq6jph",
+    "technological_implementation": 5,
+    "design": 5,
+    "potential_impact": 4,
+    "quality_of_idea": 3
+  },
+  {
+    "slug": "ai-presentation-partner",
+    "technological_implementation": 8,
+    "design": 8,
+    "potential_impact": 6,
+    "quality_of_idea": 8
+  },
+  {
+    "slug": "estetia",
+    "technological_implementation": 5,
+    "design": 5,
+    "potential_impact": 4,
+    "quality_of_idea": 3
+  },
+  {
+    "slug": "phillnet-loop-the-continuous-agentic-workspace",
+    "technological_implementation": 2,
+    "design": 2,
+    "potential_impact": 2,
+    "quality_of_idea": 3
+  },
+  {
+    "slug": "sightline-tw9rj1",
+    "technological_implementation": 9,
+    "design": 8,
+    "potential_impact": 9,
+    "quality_of_idea": 8
+  },
+  {
+    "slug": "nexus-rykp2n",
+    "technological_implementation": 8,
+    "design": 7,
+    "potential_impact": 7,
+    "quality_of_idea": 5
+  },
+  {
+    "slug": "reptrack-eq6yfg",
+    "technological_implementation": 3,
+    "design": 3,
+    "potential_impact": 4,
+    "quality_of_idea": 3
+  },
+  {
+    "slug": "edwise-r1y0di",
+    "technological_implementation": 5,
+    "design": 5,
+    "potential_impact": 6,
+    "quality_of_idea": 5
+  },
+  {
+    "slug": "token-goblin",
+    "technological_implementation": 8,
+    "design": 8,
+    "potential_impact": 5,
+    "quality_of_idea": 7
+  },
+  {
+    "slug": "space-warriors",
+    "technological_implementation": 3,
+    "design": 3,
+    "potential_impact": 2,
+    "quality_of_idea": 2
+  },
+  {
+    "slug": "guardian-autonomous-ai-security-engineer",
+    "technological_implementation": 2,
+    "design": 2,
+    "potential_impact": 3,
+    "quality_of_idea": 3
+  }
+]

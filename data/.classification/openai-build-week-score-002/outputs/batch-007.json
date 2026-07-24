@@ -1,0 +1,107 @@
+[
+  {
+    "slug": "stranger-in-wheel",
+    "technological_implementation": 2,
+    "design": 2,
+    "potential_impact": 3,
+    "quality_of_idea": 3
+  },
+  {
+    "slug": "rail-rush-academy",
+    "technological_implementation": 4,
+    "design": 5,
+    "potential_impact": 4,
+    "quality_of_idea": 4
+  },
+  {
+    "slug": "curiosphere-m3uzgt",
+    "technological_implementation": 8,
+    "design": 8,
+    "potential_impact": 8,
+    "quality_of_idea": 7
+  },
+  {
+    "slug": "omniatlas",
+    "technological_implementation": 4,
+    "design": 3,
+    "potential_impact": 4,
+    "quality_of_idea": 4
+  },
+  {
+    "slug": "bizangel",
+    "technological_implementation": 6,
+    "design": 6,
+    "potential_impact": 8,
+    "quality_of_idea": 8
+  },
+  {
+    "slug": "sechub",
+    "technological_implementation": 9,
+    "design": 8,
+    "potential_impact": 8,
+    "quality_of_idea": 7
+  },
+  {
+    "slug": "a2a-trade",
+    "technological_implementation": 9,
+    "design": 7,
+    "potential_impact": 8,
+    "quality_of_idea": 8
+  },
+  {
+    "slug": "alterscore",
+    "technological_implementation": 7,
+    "design": 7,
+    "potential_impact": 7,
+    "quality_of_idea": 7
+  },
+  {
+    "slug": "employee-portal-for-ambulance-service",
+    "technological_implementation": 7,
+    "design": 6,
+    "potential_impact": 9,
+    "quality_of_idea": 6
+  },
+  {
+    "slug": "remember-your-thoughts-before-they-re-forgotten",
+    "technological_implementation": 7,
+    "design": 8,
+    "potential_impact": 7,
+    "quality_of_idea": 7
+  },
+  {
+    "slug": "counterlab-the-scientific-debugger-for-beliefs",
+    "technological_implementation": 9,
+    "design": 8,
+    "potential_impact": 9,
+    "quality_of_idea": 9
+  },
+  {
+    "slug": "reporecon-5hbyoz",
+    "technological_implementation": 5,
+    "design": 6,
+    "potential_impact": 5,
+    "quality_of_idea": 4
+  },
+  {
+    "slug": "scansentinel-ai-powered-security-intelligence-platform",
+    "technological_implementation": 6,
+    "design": 6,
+    "potential_impact": 7,
+    "quality_of_idea": 6
+  },
+  {
+    "slug": "cognito-20ibyw",
+    "technological_implementation": 7,
+    "design": 7,
+    "potential_impact": 7,
+    "quality_of_idea": 6
+  },
+  {
+    "slug": "writic",
+    "technological_implementation": 5,
+    "design": 5,
+    "potential_impact": 6,
+    "quality_of_idea": 7
+  }
+]

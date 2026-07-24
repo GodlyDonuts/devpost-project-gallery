@@ -1,0 +1,107 @@
+[
+  {
+    "slug": "mlevelup",
+    "technological_implementation": 7,
+    "design": 6,
+    "potential_impact": 7,
+    "quality_of_idea": 5
+  },
+  {
+    "slug": "fulfillguard",
+    "technological_implementation": 8,
+    "design": 7,
+    "potential_impact": 8,
+    "quality_of_idea": 7
+  },
+  {
+    "slug": "projector-space",
+    "technological_implementation": 9,
+    "design": 5,
+    "potential_impact": 5,
+    "quality_of_idea": 8
+  },
+  {
+    "slug": "manycompute-com",
+    "technological_implementation": 9,
+    "design": 6,
+    "potential_impact": 6,
+    "quality_of_idea": 9
+  },
+  {
+    "slug": "japan-co-jp-the-ai-newsroom-for-japan",
+    "technological_implementation": 4,
+    "design": 7,
+    "potential_impact": 6,
+    "quality_of_idea": 4
+  },
+  {
+    "slug": "distribution-management-system-saas-project",
+    "technological_implementation": 4,
+    "design": 6,
+    "potential_impact": 5,
+    "quality_of_idea": 3
+  },
+  {
+    "slug": "pathpilot-41w3he",
+    "technological_implementation": 5,
+    "design": 6,
+    "potential_impact": 5,
+    "quality_of_idea": 4
+  },
+  {
+    "slug": "sentinel-way5bd",
+    "technological_implementation": 9,
+    "design": 6,
+    "potential_impact": 8,
+    "quality_of_idea": 8
+  },
+  {
+    "slug": "tars-revoke",
+    "technological_implementation": 8,
+    "design": 5,
+    "potential_impact": 7,
+    "quality_of_idea": 8
+  },
+  {
+    "slug": "insurancecrew",
+    "technological_implementation": 7,
+    "design": 7,
+    "potential_impact": 6,
+    "quality_of_idea": 5
+  },
+  {
+    "slug": "ya-mecenes",
+    "technological_implementation": 4,
+    "design": 5,
+    "potential_impact": 5,
+    "quality_of_idea": 4
+  },
+  {
+    "slug": "hairlinksg",
+    "technological_implementation": 6,
+    "design": 6,
+    "potential_impact": 5,
+    "quality_of_idea": 6
+  },
+  {
+    "slug": "turboprefill",
+    "technological_implementation": 8,
+    "design": 3,
+    "potential_impact": 5,
+    "quality_of_idea": 6
+  },
+  {
+    "slug": "agentsboard",
+    "technological_implementation": 6,
+    "design": 6,
+    "potential_impact": 5,
+    "quality_of_idea": 6
+  },
+  {
+    "slug": "socialrightos-evidence-bound-rights-guidance",
+    "technological_implementation": 8,
+    "design": 5,
+    "potential_impact": 7,
+    "quality_of_idea": 8
+  }
+]

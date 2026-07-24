@@ -1,0 +1,17 @@
+[
+  {"slug": "moxi", "technological_implementation": 1, "design": 1, "potential_impact": 0, "quality_of_idea": 1},
+  {"slug": "bobman-5t2ra7", "technological_implementation": 8, "design": 7, "potential_impact": 5, "quality_of_idea": 6},
+  {"slug": "poseidondeck", "technological_implementation": 1, "design": 1, "potential_impact": 2, "quality_of_idea": 1},
+  {"slug": "kitchen-designer", "technological_implementation": 8, "design": 8, "potential_impact": 7, "quality_of_idea": 5},
+  {"slug": "the-guide", "technological_implementation": 5, "design": 6, "potential_impact": 6, "quality_of_idea": 5},
+  {"slug": "zgp-commander", "technological_implementation": 8, "design": 7, "potential_impact": 5, "quality_of_idea": 6},
+  {"slug": "skena", "technological_implementation": 9, "design": 8, "potential_impact": 5, "quality_of_idea": 5},
+  {"slug": "aegis-os-verified-spatial-inspection", "technological_implementation": 9, "design": 8, "potential_impact": 8, "quality_of_idea": 7},
+  {"slug": "margins", "technological_implementation": 2, "design": 1, "potential_impact": 2, "quality_of_idea": 2},
+  {"slug": "before-evidence", "technological_implementation": 9, "design": 7, "potential_impact": 7, "quality_of_idea": 8},
+  {"slug": "the-logo-lab", "technological_implementation": 4, "design": 4, "potential_impact": 6, "quality_of_idea": 5},
+  {"slug": "infergrade-runner", "technological_implementation": 9, "design": 7, "potential_impact": 8, "quality_of_idea": 7},
+  {"slug": "hostelsolve", "technological_implementation": 3, "design": 2, "potential_impact": 4, "quality_of_idea": 3},
+  {"slug": "devcouncil", "technological_implementation": 9, "design": 7, "potential_impact": 8, "quality_of_idea": 8},
+  {"slug": "cimmich", "technological_implementation": 8, "design": 7, "potential_impact": 6, "quality_of_idea": 7}
+]

@@ -1,0 +1,107 @@
+[
+  {
+    "slug": "diffthing",
+    "technological_implementation": 8,
+    "design": 7,
+    "potential_impact": 7,
+    "quality_of_idea": 7
+  },
+  {
+    "slug": "surf-forecaster",
+    "technological_implementation": 7,
+    "design": 7,
+    "potential_impact": 7,
+    "quality_of_idea": 6
+  },
+  {
+    "slug": "healthia-ai-clinical-operating-system",
+    "technological_implementation": 5,
+    "design": 6,
+    "potential_impact": 7,
+    "quality_of_idea": 5
+  },
+  {
+    "slug": "agentic-studio-3d",
+    "technological_implementation": 5,
+    "design": 6,
+    "potential_impact": 6,
+    "quality_of_idea": 5
+  },
+  {
+    "slug": "transcript-knowledge-hub",
+    "technological_implementation": 8,
+    "design": 7,
+    "potential_impact": 7,
+    "quality_of_idea": 6
+  },
+  {
+    "slug": "cortex-re9x7k",
+    "technological_implementation": 8,
+    "design": 7,
+    "potential_impact": 7,
+    "quality_of_idea": 6
+  },
+  {
+    "slug": "ozzz-io",
+    "technological_implementation": 8,
+    "design": 7,
+    "potential_impact": 7,
+    "quality_of_idea": 7
+  },
+  {
+    "slug": "grabcash",
+    "technological_implementation": 2,
+    "design": 1,
+    "potential_impact": 2,
+    "quality_of_idea": 2
+  },
+  {
+    "slug": "qonvergence-trials",
+    "technological_implementation": 3,
+    "design": 2,
+    "potential_impact": 4,
+    "quality_of_idea": 6
+  },
+  {
+    "slug": "lexwrite",
+    "technological_implementation": 8,
+    "design": 8,
+    "potential_impact": 8,
+    "quality_of_idea": 7
+  },
+  {
+    "slug": "portfolio-loadout",
+    "technological_implementation": 5,
+    "design": 6,
+    "potential_impact": 4,
+    "quality_of_idea": 6
+  },
+  {
+    "slug": "fight-club-tygmpz",
+    "technological_implementation": 6,
+    "design": 5,
+    "potential_impact": 5,
+    "quality_of_idea": 4
+  },
+  {
+    "slug": "arkvoid",
+    "technological_implementation": 4,
+    "design": 4,
+    "potential_impact": 6,
+    "quality_of_idea": 5
+  },
+  {
+    "slug": "murmur-u8pqbx",
+    "technological_implementation": 8,
+    "design": 5,
+    "potential_impact": 5,
+    "quality_of_idea": 9
+  },
+  {
+    "slug": "spex",
+    "technological_implementation": 9,
+    "design": 5,
+    "potential_impact": 6,
+    "quality_of_idea": 8
+  }
+]
