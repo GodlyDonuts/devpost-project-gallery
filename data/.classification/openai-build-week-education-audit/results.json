@@ -1,0 +1,246 @@
+{
+  "labels": {
+    "gosu-go-trainer": {
+      "category": "Education",
+      "confidence": 95
+    },
+    "bildmind-grammar-in-every-student-s-language": {
+      "category": "Education",
+      "confidence": 95
+    },
+    "asobi": {
+      "category": "Education",
+      "confidence": 95
+    },
+    "socratix-xdf8l6": {
+      "category": "Education",
+      "confidence": 95
+    },
+    "english-learning-project": {
+      "category": "Education",
+      "confidence": 90
+    },
+    "right-text": {
+      "category": "Education",
+      "confidence": 70
+    },
+    "somename-u9gsz6": {
+      "category": "Education",
+      "confidence": 88
+    },
+    "edumind-ai-gich39": {
+      "category": "Education",
+      "confidence": 95
+    },
+    "curisositypedia": {
+      "category": "Education",
+      "confidence": 90
+    },
+    "kitabdost": {
+      "category": "Education",
+      "confidence": 95
+    },
+    "vio-cq79xg": {
+      "category": "Education",
+      "confidence": 95
+    },
+    "hackathon-roblox-ai-agent": {
+      "category": "Apps for Your Life",
+      "confidence": 68
+    },
+    "prooflab-2mi8t7": {
+      "category": "Education",
+      "confidence": 95
+    },
+    "melodybound": {
+      "category": "Education",
+      "confidence": 92
+    },
+    "geulgyeol-korean-handwriting-practice": {
+      "category": "Education",
+      "confidence": 95
+    },
+    "codex-classroom": {
+      "category": "Education",
+      "confidence": 95
+    },
+    "stranger-in-wheel": {
+      "category": "Education",
+      "confidence": 88
+    },
+    "rail-rush-academy": {
+      "category": "Education",
+      "confidence": 92
+    },
+    "curiosphere-m3uzgt": {
+      "category": "Education",
+      "confidence": 95
+    },
+    "sechub": {
+      "category": "Education",
+      "confidence": 92
+    },
+    "alterscore": {
+      "category": "Education",
+      "confidence": 92
+    },
+    "counterlab-the-scientific-debugger-for-beliefs": {
+      "category": "Education",
+      "confidence": 95
+    },
+    "cognito-20ibyw": {
+      "category": "Education",
+      "confidence": 95
+    },
+    "seniorconnect": {
+      "category": "Education",
+      "confidence": 90
+    },
+    "kawsa": {
+      "category": "Education",
+      "confidence": 95
+    },
+    "studysignal": {
+      "category": "Education",
+      "confidence": 95
+    },
+    "counterworlds": {
+      "category": "Education",
+      "confidence": 95
+    },
+    "teach-your-past-self": {
+      "category": "Education",
+      "confidence": 95
+    },
+    "bonavia-compass": {
+      "category": "Education",
+      "confidence": 90
+    },
+    "kyt-lab-education-that-saves-lives": {
+      "category": "Education",
+      "confidence": 88
+    },
+    "the-missing-chart": {
+      "category": "Education",
+      "confidence": 93
+    },
+    "vocaby-adaptive-story-coach": {
+      "category": "Education",
+      "confidence": 95
+    },
+    "wayfare-p9jflw": {
+      "category": "Education",
+      "confidence": 95
+    },
+    "ai-mentor-os-rm1z6b": {
+      "category": "Education",
+      "confidence": 85
+    },
+    "eddoomcation": {
+      "category": "Education",
+      "confidence": 90
+    },
+    "miscue-lens": {
+      "category": "Education",
+      "confidence": 92
+    },
+    "confusionlayer": {
+      "category": "Education",
+      "confidence": 90
+    },
+    "cocon": {
+      "category": "Education",
+      "confidence": 88
+    },
+    "ellucian": {
+      "category": "Education",
+      "confidence": 95
+    },
+    "hands-on-rl-learning-on-gpus": {
+      "category": "Education",
+      "confidence": 88
+    },
+    "2ndbraineducation": {
+      "category": "Education",
+      "confidence": 92
+    },
+    "debate-arena-37oexd": {
+      "category": "Education",
+      "confidence": 95
+    },
+    "tutorme-5dqum4": {
+      "category": "Education",
+      "confidence": 98
+    },
+    "feynman-ai-the-evidence-first-adaptive-learning-runtime": {
+      "category": "Education",
+      "confidence": 97
+    },
+    "socratic-t3kyxg": {
+      "category": "Education",
+      "confidence": 97
+    },
+    "alia-03z7x9": {
+      "category": "Education",
+      "confidence": 93
+    },
+    "chews-freedom": {
+      "category": "Education",
+      "confidence": 90
+    },
+    "carryon-59m1h6": {
+      "category": "Education",
+      "confidence": 68
+    },
+    "history-unbroken": {
+      "category": "Education",
+      "confidence": 95
+    },
+    "xiaoqiang": {
+      "category": "Education",
+      "confidence": 78
+    },
+    "prism-5q41ud": {
+      "category": "Education",
+      "confidence": 95
+    },
+    "legato-krbepy": {
+      "category": "Education",
+      "confidence": 82
+    },
+    "unjargon-app": {
+      "category": "Education",
+      "confidence": 72
+    },
+    "brightway-ai-that-sends-kids-off-screen": {
+      "category": "Education",
+      "confidence": 96
+    },
+    "lectivo-the-learning-assistant-for-homework-support": {
+      "category": "Education",
+      "confidence": 94
+    },
+    "reasonweave-wynpvd": {
+      "category": "Education",
+      "confidence": 95
+    },
+    "cloudfolks-kubementor-ai": {
+      "category": "Education",
+      "confidence": 82
+    },
+    "think-outside-the-bots": {
+      "category": "Education",
+      "confidence": 96
+    },
+    "error-archaeologist": {
+      "category": "Education",
+      "confidence": 85
+    },
+    "one-more-control": {
+      "category": "Education",
+      "confidence": 80
+    }
+  },
+  "missing": [],
+  "errors": []
+}

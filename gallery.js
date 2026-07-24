@@ -98,7 +98,11 @@
     }
     projects = (data.projects || []).map((project) => {
       const label = labels[project.slug];
-      return label ? { ...project, category: label.category, classification_confidence: label.confidence } : project;
+      // Legacy crawler guesses are deliberately not displayed. A track is
+      // shown only after the separate classification pipeline validates it.
+      return label
+        ? { ...project, category: label.category, classification_confidence: label.confidence }
+        : { ...project, category: null };
     });
     categories = data.categories || [];
     if (titleEl) titleEl.textContent = data.name || slug;

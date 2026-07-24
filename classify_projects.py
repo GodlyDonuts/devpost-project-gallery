@@ -240,6 +240,22 @@ def publish(slug):
             if project_slug in labels and labels[project_slug] != label:
                 raise SystemExit(f"Conflicting validated labels for {project_slug}")
             labels[project_slug] = label
+    # A complete independent audit is a later, stricter pass and supersedes
+    # the first-pass label for the specific records it reviewed.
+    audit_path = pattern / f"{slug}-education-audit" / "results.json"
+    if audit_path.exists():
+        audit = load_json(audit_path)
+        if not audit.get("missing") and not audit.get("errors"):
+            labels.update(audit.get("labels", {}))
+    # Human corrections are explicit policy decisions and always take
+    # precedence over model output, including a future re-run of a snapshot.
+    overrides_path = ROOT / "data" / f"{slug}-overrides.json"
+    if overrides_path.exists():
+        for project_slug, override in load_json(overrides_path).get("labels", {}).items():
+            category = override.get("category")
+            if category not in CATEGORIES:
+                raise SystemExit(f"Invalid manual category for {project_slug}: {category!r}")
+            labels[project_slug] = {"category": category, "confidence": 100, "source": "manual"}
     output = ROOT / "data" / f"{slug}-classifications.json"
     atomic_json(output, {
         "generated_at": datetime.now(timezone.utc).isoformat(),
