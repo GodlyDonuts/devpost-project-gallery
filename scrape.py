@@ -121,15 +121,24 @@ USER_RE = re.compile(r"^https?://devpost\.com/([a-z0-9][a-z0-9_\-]{1,30})$", re.
 def extract_handles_from_participants(html):
     soup = BeautifulSoup(html, "html.parser")
     handles = set()
-    for a in soup.find_all("a", href=True):
-        href = str(a["href"])
-        m = USER_RE.match(urljoin(BASE + "/", href))
+    for card in soup.select(".participant"):
+        profile = card.select_one("a.user-profile-link[href]")
+        project_count = card.select_one(".participant-software-count .participant-stat")
+        if not profile or not project_count:
+            continue
+        try:
+            count = int(project_count.get_text(" ", strip=True).split()[0])
+        except (IndexError, ValueError):
+            continue
+        # A profile with no projects cannot contain a Build Week submission.
+        if count < 1:
+            continue
+        m = USER_RE.match(urljoin(BASE + "/", str(profile["href"])))
         if not m:
             continue
         h = m.group(1)
-        if h.lower() in NON_USER or "." in h or "/" in h:
-            continue
-        handles.add(h)
+        if h.lower() not in NON_USER and "." not in h and "/" not in h:
+            handles.add(h)
     return handles
 
 
@@ -283,7 +292,11 @@ def process_hackathon(cfg):
         if MAX_PAGES and page >= START_PAGE + MAX_PAGES:
             print(f"  Reached MAX_PAGES limit ({MAX_PAGES}).")
             break
-        url = f"{BASE}/participants?page={page}"
+        # Devpost exposes each participant's public project count in the
+        # directory.  Order by it and discard zero-project cards before making
+        # a profile request; this avoids the overwhelming majority of the
+        # 46k registrants without weakening the submission check below.
+        url = f"{BASE}/participants?search%5Border_by%5D=projects&page={page}"
         r = get(url)
         if not r or r.status_code != 200:
             print(f"  Stop: participants page {page} returned {r.status_code if r else 'ERR'}")

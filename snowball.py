@@ -14,7 +14,7 @@ Usage:
     python3 snowball.py            # bounded run (limits below)
     MAX_HANDLES=600 python3 snowball.py
 """
-import json, re, os, time, urllib.request, sys
+import json, re, os, time, urllib.request, urllib.error, sys, random
 
 ROOT = "/Users/sairamen/projects/devpost-project-gallery"
 OUT = f"{ROOT}/data/openai-build-week.json"
@@ -25,6 +25,13 @@ UA = {"User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36"}
 MAX_HANDLES = int(os.environ.get("MAX_HANDLES", "300"))
 MAX_NEW = int(os.environ.get("MAX_NEW", "500"))
 DELAY = float(os.environ.get("PAGE_DELAY", "0.12"))
+PROXY_URL = os.environ.get("PROXY_URL", "").split(",")[0].strip()
+
+# Use one sticky proxy for this public crawl. Rotating on every request can
+# trigger more defenses and makes failures harder to resume safely.
+OPENER = urllib.request.build_opener(
+    urllib.request.ProxyHandler({"http": PROXY_URL, "https": PROXY_URL})
+) if PROXY_URL else urllib.request.build_opener()
 
 SLUG_RE = re.compile(r"/software/([a-z0-9][a-z0-9\-]+[a-z0-9])", re.I)
 # member links carry class="user-profile-link" href="https://devpost.com/<handle>"
@@ -35,12 +42,22 @@ USER_RE = re.compile(r"^https?://devpost\.com/([a-z0-9][a-z0-9_\-]{1,30})$", re.
 
 
 def fetch(url, tries=2):
-    for _ in range(tries):
+    for attempt in range(tries):
         try:
-            return urllib.request.urlopen(
-                urllib.request.Request(url, headers=UA), timeout=25).read().decode("utf-8", "ignore")
+            with OPENER.open(urllib.request.Request(url, headers=UA), timeout=25) as response:
+                return response.read().decode("utf-8", "ignore")
+        except urllib.error.HTTPError as exc:
+            if exc.code == 429:
+                retry_after = exc.headers.get("Retry-After")
+                try:
+                    wait = float(retry_after)
+                except (TypeError, ValueError):
+                    wait = min(30, 2 ** attempt + random.random())
+                time.sleep(wait)
+            else:
+                time.sleep(min(8, 0.75 * (attempt + 1)))
         except Exception:
-            time.sleep(0.5)
+            time.sleep(min(8, 0.75 * (attempt + 1)))
     return ""
 
 
@@ -108,7 +125,7 @@ for p in projects:
             queue.append(h.lower())
 # also re-seed from any handle we've seen on BW project pages (members of known)
 queue = list(dict.fromkeys(queue))
-print(f"start: {len(projects)} BW projects, {len(visited)} handles visited, {len(queue)} handles queued")
+print(f"start: {len(projects)} BW projects, {len(visited)} handles visited, {len(queue)} handles queued; proxy={'on' if PROXY_URL else 'off'}")
 
 processed = 0
 added = 0

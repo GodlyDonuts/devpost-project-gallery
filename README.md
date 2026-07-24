@@ -25,23 +25,20 @@ data/
 ```
 
 ```
-Devpost participants (login-gated)
-        │  enumerate /participants?page=N
+Public Devpost project pages
+        │  discover from verified public contributor links
         ▼
-  ~46k participant handles
-        │  for each: fetch devpost.com/<handle>
+  candidate project handles
+        │  verify each devpost.com/software/<slug>
         ▼
-  user's public projects (software/<slug>)
-        │  for each: fetch the project page
-        ▼
-  keep only projects "Submitted to <Hackathon>"
+  keep only pages marked "Submitted to <Hackathon>"
   classify into that hackathon's tracks
         ▼
   data/<slug>.json  ──►  gallery.html?h=<slug>
 ```
 
-The scraper is fully **resumable** per hackathon: it checkpoint every page, so
-you can run it in chunks or let the cron job pick up where it left off.
+The public crawlers are resumable, so scheduled runs keep building the gallery
+without requiring a browser login.
 
 ---
 
@@ -89,42 +86,37 @@ files they show empty states; once the scraper runs, cards appear.
 
 ## Running the scraper
 
-### 1. Install deps
-```bash
-pip install requests beautifulsoup4
-```
+### Public gallery mode (no login)
 
-### 2. Get a Devpost session cookie (REQUIRED for full coverage)
-The participant list is **login-gated** ("Please log in to browse this hackathon's
-participants."). Log in to Devpost in a browser, then copy the full `Cookie`
-header from a request to `openai.devpost.com/participants` (DevTools → Network).
-Save it to a local file (gitignored — never commits):
+Once Devpost publishes the official project gallery, use the public crawler:
 
 ```bash
-# paste your cookie into cookie.txt, then:
-export DEVP0ST_SESSION_COOKIE="$(cat cookie.txt)"
+python3 public_gallery.py
 ```
 
-> Without a cookie you can only collect search-indexed submissions (~21). The
-> cookie lets the scraper walk all ~46k participants for full coverage. The
-> cookie is your own login; the scraper reads public participant data at a
-> conservative rate. This is not anonymous/evasion scraping.
+It walks the gallery's public pagination, fetches each linked project page, and
+updates both `data/openai-build-week.json` and `data/hackathons.json`. It is
+resumable through `data/.scrape_state_public_gallery.json` and exits without
+changing the dataset while the official gallery is unpublished.
 
-### 3. (Recommended) Use a proxy
-46k+ participants means 100k+ requests. Use a proxy pool to avoid IP bans.
-`PROXY_URL` accepts a single URL or comma-separated list.
+### Interim public discovery (while the gallery is unpublished)
 
-### 4. Run
+The cookie-free `snowball.py` crawler expands from known public Buildweek
+projects through their public contributor profiles. It is useful for growing
+the community gallery before the official gallery opens, but it cannot promise
+full participant coverage because Devpost gates the participant directory.
+
+The crawler uses only public project and contributor pages, keeps a conservative
+request pace, and verifies the hackathon name on every accepted project page:
+
 ```bash
-export DEVP0ST_SESSION_COOKIE="session=...; _devpost=..."   # or "$(cat cookie.txt)"
-export PROXY_URL="http://user:pass@host:port"               # optional but recommended
-python3 scrape.py                                            # all hackathons in manifest
-HACKATHON_SLUG=openai-build-week python3 scrape.py          # just one
+MAX_HANDLES=300 PAGE_DELAY=0.35 \
+python3 snowball.py
 ```
 
-Useful env vars: `START_PAGE`, `MAX_PAGES` (0 = unlimited), `PAGE_DELAY` (seconds).
-
-Resume automatically: re-run the same command — it skips already-processed handles.
+The project deliberately does not scrape Devpost's login-gated participant
+directory. That keeps the data independently verifiable from public pages and
+does not require browser-session cookies or a temporary account.
 
 ---
 
@@ -132,15 +124,11 @@ Resume automatically: re-run the same command — it skips already-processed han
 
 1. Push this repo to GitHub.
 2. **Settings → Pages → Source: Deploy from a branch**, branch `main`, folder `/ (root)`.
-3. Add two **Repository Secrets** (Settings → Secrets and variables → Actions):
-   - `DEVP0ST_SESSION_COOKIE` — your logged-in cookie.
-   - `PROXY_URL` — your proxy endpoint(s).
+3. No repository secrets are required.
 
-The `scrape.yml` workflow runs hourly, appends to each `data/<slug>.json`, updates
-`data/hackathons.json` counts, and commits. GitHub Pages serves automatically.
-
-> ⚠️ **Cookie expiry:** Devpost session cookies expire. If a site stops updating,
-> refresh the cookie and update the secret (or re-run via `workflow_dispatch`).
+The `scrape.yml` workflow runs hourly. It ingests the official public gallery as
+soon as Devpost publishes it; beforehand it performs conservative public-only
+discovery. It updates the data, updates the manifest, and commits any change.
 
 ---
 
@@ -160,6 +148,7 @@ The `scrape.yml` workflow runs hourly, appends to each `data/<slug>.json`, updat
       "title": "AudioNova",
       "description": "…",
       "category": "Developer Tools",
+      "category_confidence": "high",
       "members": [{"handle": "vvdotcom", "name": "V V", "url": "…"}],
       "url": "https://devpost.com/software/audionova",
       "repo_url": "https://github.com/…",
@@ -169,23 +158,21 @@ The `scrape.yml` workflow runs hourly, appends to each `data/<slug>.json`, updat
 }
 ```
 
+`category` values in the interim gallery are community inferences from public
+project descriptions until Devpost publishes the official gallery. When an
+inference is used, `category_confidence` records `high`, `medium`, or `low`.
+
 ---
 
 ## Notes & caveats
 
-- **Unofficial.** Not affiliated with OpenAI or Devpost. Respect Devpost's ToS;
-  use a proxy and conservative delays to avoid hammering their servers.
-- **Coverage.** Individual submissions are public as soon as they're made, but the
-  official gallery isn't published until ~2 weeks after the deadline. Without a
-  login cookie we only see search-indexed submissions (~21 here); with a Devpost
-  session cookie the scraper walks all participants for full coverage.
+- **Unofficial.** Not affiliated with OpenAI or Devpost. The crawler reads only
+  public project and contributor pages, at a conservative pace.
+- **Coverage.** Individual submissions can be discovered before the official
+  gallery opens, but full coverage comes from Devpost's published gallery.
 - **Classification** is deferred: the scraper stores `category: null` for every
   project because the four track labels don't appear on public project pages.
   Categorize each project into the hackathon's tracks manually after collection.
-- **Cookie-free ceiling.** Without a login cookie, you can only reach the small
-  subset of submissions that search engines have indexed (≈21 for this
-  hackathon). To collect more, you need a Devpost session cookie (see below)
-  to walk the login-gated participant list (~46k participants).
 - **Data integrity rule.** Every project in a `data/<slug>.json` file MUST be a
   real submission with a working `https://devpost.com/software/<slug>` link and
   MUST mention the hackathon on its page. Verify with the duplicate + live

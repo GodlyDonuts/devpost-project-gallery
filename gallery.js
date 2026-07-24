@@ -40,7 +40,7 @@
     const note = document.getElementById("filter-note");
     if (note) note.textContent = uncategorized
       ? "Track labels are not published consistently on public project pages yet."
-      : "Browse by the official Buildweek track labels.";
+      : "Track labels are inferred from public project descriptions and may be revised.";
   }
 
   function renderStats(shown) {

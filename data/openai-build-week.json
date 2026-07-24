@@ -15,7 +15,7 @@
       "slug": "runtime-hex-nobody-owns-the-signal",
       "title": "Runtime Hex: Nobody Owns the Signal",
       "description": "A retro text adventure about inherited roads, costly help, and the choices nobody can assign you.",
-      "category": null,
+      "category": "Apps for Your Life",
       "members": [
         {
           "handle": "RuntimeHex",
@@ -26,13 +26,14 @@
       "url": "https://devpost.com/software/runtime-hex-nobody-owns-the-signal",
       "repo_url": "https://github.com/RuntimeHex/runtime-hex-signal",
       "demo_url": null,
-      "image": "https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/994/343/datas/medium.png"
+      "image": "https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/994/343/datas/medium.png",
+      "category_confidence": "medium"
     },
     {
       "slug": "wyrd-ai",
       "title": "Wyrd AI",
       "description": "Wyrd AI is a content-first toolkit for creating browser-playable, first-person interactive fiction.",
-      "category": null,
+      "category": "Developer Tools",
       "members": [
         {
           "handle": "acatovic",
@@ -43,13 +44,14 @@
       "url": "https://devpost.com/software/wyrd-ai",
       "repo_url": "https://github.com/acatovic/wyrd-ai",
       "demo_url": null,
-      "image": "https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/953/488/datas/medium.png"
+      "image": "https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/953/488/datas/medium.png",
+      "category_confidence": "medium"
     },
     {
       "slug": "diff-forge-ai",
       "title": "Diff Forge AI",
       "description": "Diff Forge lets developers direct Codex, Claude Code and OpenCode in parallel by voice, vision and workflows, with a local safety kernel and secure control from any device—while your code stays local.",
-      "category": null,
+      "category": "Developer Tools",
       "members": [
         {
           "handle": "Rizzist",
@@ -75,13 +77,14 @@
       "url": "https://devpost.com/software/diff-forge-ai",
       "repo_url": "https://github.com/Rizzist/diffforge-client",
       "demo_url": "https://youtu.be/X6G8zKFdUdo",
-      "image": "https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/969/812/datas/medium.png"
+      "image": "https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/969/812/datas/medium.png",
+      "category_confidence": "high"
     },
     {
       "slug": "angels-board",
       "title": "Angels Board",
       "description": "A governed multi-agent workspace and Model Context Protocol (MCP) host that turns ambiguous developer tasks into evidence-backed, budget-capped, and human-approved outcomes.",
-      "category": null,
+      "category": "Developer Tools",
       "members": [
         {
           "handle": "Merdzhanov",
@@ -97,13 +100,14 @@
       "url": "https://devpost.com/software/angels-board",
       "repo_url": null,
       "demo_url": null,
-      "image": "https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/974/235/datas/medium.png"
+      "image": "https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/974/235/datas/medium.png",
+      "category_confidence": "high"
     },
     {
       "slug": "57loop-the-human-sidecar-for-codex",
       "title": "57loop — Context Translator for Codex",
       "description": "See what Codex actually changed, understand why, and steer the next result before context is lost.",
-      "category": null,
+      "category": "Developer Tools",
       "members": [
         {
           "handle": "jazoo7777",
@@ -114,13 +118,14 @@
       "url": "https://devpost.com/software/57loop-the-human-sidecar-for-codex",
       "repo_url": "https://github.com/sundaynighttt/57loop-workspace",
       "demo_url": null,
-      "image": "https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/945/591/datas/medium.png"
+      "image": "https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/945/591/datas/medium.png",
+      "category_confidence": "high"
     },
     {
       "slug": "healthy-living-tracker-wellness-your-way",
       "title": "Healthy Living Tracker — Wellness, Your Way",
       "description": "Choose what matters, speak naturally, and review every AI-generated wellness log before it is saved.",
-      "category": null,
+      "category": "Apps for Your Life",
       "members": [
         {
           "handle": "saigorantla07",
@@ -131,13 +136,14 @@
       "url": "https://devpost.com/software/healthy-living-tracker-wellness-your-way",
       "repo_url": "https://github.com/saigorantla07/healthy-living-tracker-build-week/releases/tag/v1.1.2-build-week",
       "demo_url": null,
-      "image": "https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/984/512/datas/medium.jpg"
+      "image": "https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/984/512/datas/medium.jpg",
+      "category_confidence": "high"
     },
     {
       "slug": "hermes-world",
       "title": "Hermes World",
       "description": "Hermes World is a real-time visual observability layer for multi-agent AI systems.",
-      "category": null,
+      "category": "Developer Tools",
       "members": [
         {
           "handle": "stefanrosik31",
@@ -198,24 +204,26 @@
       "url": "https://devpost.com/software/hermes-world",
       "repo_url": "https://github.com/filipj9/Hermes-world.git",
       "demo_url": null,
-      "image": "https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/897/304/datas/medium.png"
+      "image": "https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/897/304/datas/medium.png",
+      "category_confidence": "high"
     },
     {
       "slug": "avatar-platform-doctor",
       "title": "Avatar Platform Doctor",
       "description": "Know what to fix before Build &amp; Publish.",
-      "category": null,
+      "category": "Developer Tools",
       "members": [],
       "url": "https://devpost.com/software/avatar-platform-doctor",
       "repo_url": null,
       "demo_url": null,
-      "image": "https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/941/693/datas/medium.png"
+      "image": "https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/941/693/datas/medium.png",
+      "category_confidence": "medium"
     },
     {
       "slug": "studynest-o0t8kd",
       "title": "StudyNest",
       "description": "StudyNest is a gamified study companion app that combines focus tools, planning, notes, habits, quizzes, rewards, and customizable environments to make studying more organized, motivating, and fun.",
-      "category": null,
+      "category": "Education",
       "members": [
         {
           "handle": "arunsudhir",
@@ -241,13 +249,14 @@
       "url": "https://devpost.com/software/studynest-o0t8kd",
       "repo_url": "https://github.com/nehaanndev/StudyNest/releases/tag/v1.0.0-build-week",
       "demo_url": null,
-      "image": "https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/005/010/061/datas/medium.png"
+      "image": "https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/005/010/061/datas/medium.png",
+      "category_confidence": "high"
     },
     {
       "slug": "datart",
       "title": "DATART",
       "description": "A bilingual, local-first artwork management system that helps artists organize records, prices, images, and gallery-ready documents across languages and currencies.",
-      "category": null,
+      "category": "Work & Productivity",
       "members": [
         {
           "handle": "gyunghwaroh",
@@ -258,13 +267,14 @@
       "url": "https://devpost.com/software/datart",
       "repo_url": "https://github.com/gyunghwaroh/datart",
       "demo_url": null,
-      "image": "https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/982/056/datas/medium.png"
+      "image": "https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/982/056/datas/medium.png",
+      "category_confidence": "high"
     },
     {
       "slug": "medico-ai-symptom-analyser-app",
       "title": "medico ai symptom analyser app",
       "description": "its an ai symptom analyser app where by giving symptoms as inputs- the ml will learn the symptoms of disease and predict the output",
-      "category": null,
+      "category": "Apps for Your Life",
       "members": [
         {
           "handle": "alyasahmohammedramadan",
@@ -275,13 +285,14 @@
       "url": "https://devpost.com/software/medico-ai-symptom-analyser-app",
       "repo_url": "https://github.com/alyasahmuhammed/medico-ai-symptom-analyser-app",
       "demo_url": null,
-      "image": "https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/969/384/datas/medium.JPG"
+      "image": "https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/969/384/datas/medium.JPG",
+      "category_confidence": "medium"
     },
     {
       "slug": "pocket-butler",
       "title": "Pocket Butler",
       "description": "An AI-powered personal safety assistant that protects your belongings by detecting Bluetooth separation, triggering intelligent theft alerts, and helping users respond quickly to emergencies.",
-      "category": null,
+      "category": "Apps for Your Life",
       "members": [
         {
           "handle": "ashilmathew9132",
@@ -292,13 +303,14 @@
       "url": "https://devpost.com/software/pocket-butler",
       "repo_url": "https://github.com/Ashil2005/Pocket-butler",
       "demo_url": null,
-      "image": "https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/981/998/datas/medium.jpg"
+      "image": "https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/981/998/datas/medium.jpg",
+      "category_confidence": "high"
     },
     {
       "slug": "mediremind-trfuln",
       "title": "MediRemind",
       "description": "Flags missed antenatal visits and logs why mothers drop out — giving clinics real dropout data, not guesswork, to bring them back to care.",
-      "category": null,
+      "category": "Work & Productivity",
       "members": [
         {
           "handle": "duncanmathai3",
@@ -324,13 +336,14 @@
       "url": "https://devpost.com/software/mediremind-trfuln",
       "repo_url": "https://github.com/sinapstechnology/mediremind",
       "demo_url": null,
-      "image": "https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/997/626/datas/medium.png"
+      "image": "https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/997/626/datas/medium.png",
+      "category_confidence": "medium"
     },
     {
       "slug": "neutra-lend",
       "title": "Neutra-Lend",
       "description": "Neutra-Lend makes personal lending trustworthy by bringing agreements, APR-based calculations, repayment tracking, and financial clarity between friends into one simple app.",
-      "category": null,
+      "category": "Apps for Your Life",
       "members": [
         {
           "handle": "ganipar456",
@@ -341,13 +354,14 @@
       "url": "https://devpost.com/software/neutra-lend",
       "repo_url": "https://github.com/codergani/Neutra-Lend",
       "demo_url": null,
-      "image": "https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/990/786/datas/medium.png"
+      "image": "https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/990/786/datas/medium.png",
+      "category_confidence": "high"
     },
     {
       "slug": "vibeseq",
       "title": "VibeSeq",
       "description": "Say It. Hear It. Sequence It.",
-      "category": null,
+      "category": "Apps for Your Life",
       "members": [
         {
           "handle": "LeeJaeho",
@@ -383,13 +397,14 @@
       "url": "https://devpost.com/software/vibeseq",
       "repo_url": "https://github.com/acidsound/VibeSeq/releases/tag/v0.1.2",
       "demo_url": null,
-      "image": "https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/916/095/datas/medium.png"
+      "image": "https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/916/095/datas/medium.png",
+      "category_confidence": "low"
     },
     {
       "slug": "pillai-kphvqt",
       "title": "PillAI",
       "description": "Tea can block your iron tablet. Pregnancy changes what&#39;s safe. PillAI tracks your medicines with your food and health context, warns you before conflicts, and logs each dose in one tap.",
-      "category": null,
+      "category": "Apps for Your Life",
       "members": [
         {
           "handle": "omar201331",
@@ -415,13 +430,14 @@
       "url": "https://devpost.com/software/pillai-kphvqt",
       "repo_url": "https://github.com/K4risma/PillAI",
       "demo_url": null,
-      "image": "https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/005/011/430/datas/medium.png"
+      "image": "https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/005/011/430/datas/medium.png",
+      "category_confidence": "high"
     },
     {
       "slug": "postbirth",
       "title": "PostBirth",
       "description": "Care for Mom &amp; Baby",
-      "category": null,
+      "category": "Apps for Your Life",
       "members": [
         {
           "handle": "anil29creative",
@@ -432,13 +448,14 @@
       "url": "https://devpost.com/software/postbirth",
       "repo_url": "https://github.com/anil29creative-lgtm/postBirth",
       "demo_url": null,
-      "image": "https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/948/834/datas/medium.png"
+      "image": "https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/948/834/datas/medium.png",
+      "category_confidence": "high"
     },
     {
       "slug": "tor-arg-tornado-argentino",
       "title": "TOR ARG – Tornado Argentino",
       "description": "Plataforma web y móvil creada con ChatGPT y Codex que reúne eventos meteorológicos y desastres reales para convertir datos complejos en alertas claras, seguimiento y prevención.",
-      "category": null,
+      "category": "Apps for Your Life",
       "members": [
         {
           "handle": "alanhertler",
@@ -449,13 +466,14 @@
       "url": "https://devpost.com/software/tor-arg-tornado-argentino",
       "repo_url": "https://github.com/alanhertler/tor-arg-web",
       "demo_url": null,
-      "image": "https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/970/471/datas/medium.png"
+      "image": "https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/970/471/datas/medium.png",
+      "category_confidence": "high"
     },
     {
       "slug": "conversate-confirm",
       "title": "Conversate Confirm",
       "description": "Turn multilingual conversations into bilingual agreements both people can verify.",
-      "category": null,
+      "category": "Work & Productivity",
       "members": [
         {
           "handle": "baguiosmiths",
@@ -466,13 +484,14 @@
       "url": "https://devpost.com/software/conversate-confirm",
       "repo_url": "https://github.com/Flash-Bri/conversate/actions/runs/29825699954",
       "demo_url": null,
-      "image": "https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/898/410/datas/medium.png"
+      "image": "https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/898/410/datas/medium.png",
+      "category_confidence": "medium"
     },
     {
       "slug": "policylense",
       "title": "PolicyLens",
       "description": "PolicyLens analyzes health insurance policy documents, explain complex clauses in plain language, highlight risks and benefits, and help you decide whether a policy is worth buying.",
-      "category": null,
+      "category": "Apps for Your Life",
       "members": [
         {
           "handle": "suresh-patil2",
@@ -483,13 +502,14 @@
       "url": "https://devpost.com/software/policylense",
       "repo_url": "https://github.com/sur01pat/PolicyLense.git",
       "demo_url": null,
-      "image": "https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/937/935/datas/medium.png"
+      "image": "https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/937/935/datas/medium.png",
+      "category_confidence": "high"
     },
     {
       "slug": "moment-scraper",
       "title": "Moment Scraper",
       "description": "We don’t take photos. We scrape moments. Moment Scraper is a wearable camera that lets you capture moments by framing them with your fingers. It preserves not just what you saw, but what it felt like.",
-      "category": null,
+      "category": "Apps for Your Life",
       "members": [
         {
           "handle": "uezo",
@@ -530,13 +550,14 @@
       "url": "https://devpost.com/software/moment-scraper",
       "repo_url": null,
       "demo_url": null,
-      "image": "https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/993/172/datas/medium.jpeg"
+      "image": "https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/993/172/datas/medium.jpeg",
+      "category_confidence": "high"
     },
     {
       "slug": "eagleeye-browser-native-ai-qa-agent",
       "title": "EagleEye — Browser-Native AI QA Agent",
       "description": "Observe real journeys. Generate coverage. Replay proof.",
-      "category": null,
+      "category": "Developer Tools",
       "members": [
         {
           "handle": "nullx2-x",
@@ -546,13 +567,14 @@
       ],
       "url": "https://devpost.com/software/eagleeye-browser-native-ai-qa-agent",
       "repo_url": "https://github.com/nullx2-x/eagleeye-qa-agent.git",
-      "demo_url": "http://127.0.0.1:8766/demo"
+      "demo_url": "http://127.0.0.1:8766/demo",
+      "category_confidence": "high"
     },
     {
       "slug": "ariad-fabrication",
       "title": "Ariad Fabrication",
       "description": "Ariad is a Codex-guided workspace combining structured requirements, editable CAD, deterministic checks, real slicing, and auditable fabrication evidence.",
-      "category": null,
+      "category": "Developer Tools",
       "members": [
         {
           "handle": "supermegaboris",
@@ -572,13 +594,14 @@
       ],
       "url": "https://devpost.com/software/ariad-fabrication",
       "repo_url": "https://github.com/tuancookiez-hub/AriadFabrication",
-      "demo_url": null
+      "demo_url": null,
+      "category_confidence": "medium"
     },
     {
       "slug": "teachnow-ai",
       "title": "Teachnow AI",
       "description": "Learn anything with a tutor tailored to you. Teachers, create rich courses for your students in minimal time.",
-      "category": null,
+      "category": "Education",
       "members": [
         {
           "handle": "nehaanndev",
@@ -603,13 +626,14 @@
       ],
       "url": "https://devpost.com/software/teachnow-ai",
       "repo_url": null,
-      "demo_url": null
+      "demo_url": null,
+      "category_confidence": "high"
     },
     {
       "slug": "nexus-rykp2n",
       "title": "Nexus",
       "description": "Nexus is an After Effects extension, creators can generate, preview, &amp; sequence AI images &amp; videos inside After Effects, reducing the need to jump between multiple platforms for creative production.",
-      "category": null,
+      "category": "Work & Productivity",
       "members": [
         {
           "handle": "ayodelemartinsabiwo",
@@ -619,13 +643,14 @@
       ],
       "url": "https://devpost.com/software/nexus-rykp2n",
       "repo_url": "https://github.com/ayodelemartinsabiwo/nexus-ai-studio-panel/releases/download/v0.1.0-reviewer.1/Nexus-Reviewer-Setup-0.1.0-Windows-x64.exe",
-      "demo_url": null
+      "demo_url": null,
+      "category_confidence": "high"
     },
     {
       "slug": "founder-s-agent-command-center",
       "title": "Wingspan Command Center",
       "description": "Wingspan Command Center turns GPT-5.6-powered Codex agents into one visible, accountable AI team—helping founders coordinate work, surface risks, and make faster, evidence-backed decisions.",
-      "category": null,
+      "category": "Work & Productivity",
       "members": [
         {
           "handle": "kevin923",
@@ -635,13 +660,14 @@
       ],
       "url": "https://devpost.com/software/founder-s-agent-command-center",
       "repo_url": "https://github.com/kevinwingz/wingspan-command-center",
-      "demo_url": null
+      "demo_url": null,
+      "category_confidence": "high"
     },
     {
       "slug": "spekicad",
       "title": "SPEKICAD",
       "description": "From site photos to verified engineering specifications. \r\nReworking a construction project again? SpekiCAD - now even your dog can handle it. \r\n(Created by an engineer tired of drafting)",
-      "category": null,
+      "category": "Work & Productivity",
       "members": [
         {
           "handle": "supermegaboris",
@@ -661,13 +687,14 @@
       ],
       "url": "https://devpost.com/software/spekicad",
       "repo_url": "https://github.com/supermegaboris/spekicad-openai-build-week-2026",
-      "demo_url": "https://youtu.be/UWKxRtoJ-9A"
+      "demo_url": "https://youtu.be/UWKxRtoJ-9A",
+      "category_confidence": "medium"
     },
     {
       "slug": "kiragoro",
       "title": "Save Japan!",
       "description": "Scan the QR. Rally your hometown. Save Japan together.",
-      "category": null,
+      "category": "Apps for Your Life",
       "members": [
         {
           "handle": "uezo",
@@ -687,13 +714,14 @@
       ],
       "url": "https://devpost.com/software/kiragoro",
       "repo_url": "https://github.com/GOROman/save-japan",
-      "demo_url": null
+      "demo_url": null,
+      "category_confidence": "high"
     },
     {
       "slug": "roommates-jwg7in",
       "title": "ROOMMATES",
       "description": "You do not make them fall in love. You create the place where love might begin.",
-      "category": null,
+      "category": "Apps for Your Life",
       "members": [
         {
           "handle": "uezo",
@@ -708,13 +736,14 @@
       ],
       "url": "https://devpost.com/software/roommates-jwg7in",
       "repo_url": "https://github.com/aieo-product/roommates-autonomous-life-sim",
-      "demo_url": null
+      "demo_url": null,
+      "category_confidence": "high"
     },
     {
       "slug": "carebridge-concept",
       "title": "carebridge-concept",
       "description": "No more telling the same story.",
-      "category": null,
+      "category": "Apps for Your Life",
       "members": [
         {
           "handle": "uezo",
@@ -729,13 +758,14 @@
       ],
       "url": "https://devpost.com/software/carebridge-concept",
       "repo_url": null,
-      "demo_url": null
+      "demo_url": null,
+      "category_confidence": "low"
     },
     {
       "slug": "em-assist",
       "title": "EM-assist",
       "description": "A desktop EM simulator where GPT-5.6 is a real design agent — it proposes RF/antenna parameters, a verified FEM solver checks every one. AI proposes, physics disposes.",
-      "category": null,
+      "category": "Developer Tools",
       "members": [
         {
           "handle": "supermegaboris",
@@ -750,13 +780,14 @@
       ],
       "url": "https://devpost.com/software/em-assist",
       "repo_url": null,
-      "demo_url": null
+      "demo_url": null,
+      "category_confidence": "medium"
     },
     {
       "slug": "sketchmetrics",
       "title": "SketchMetrics",
       "description": "SketchMetrics is an AI tool for mainly for architects that analyzes hand-drawn floor plans. By flagging errors and explaining principles, it builds critical thinking over automating design.",
-      "category": null,
+      "category": "Education",
       "members": [
         {
           "handle": "supermegaboris",
@@ -771,7 +802,8 @@
       ],
       "url": "https://devpost.com/software/sketchmetrics",
       "repo_url": null,
-      "demo_url": null
+      "demo_url": null,
+      "category_confidence": "medium"
     }
   ]
 }

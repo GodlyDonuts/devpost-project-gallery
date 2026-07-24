@@ -34,13 +34,28 @@ jobs:
       - name: Install deps
         run: pip install requests beautifulsoup4
 
-      - name: Run scraper (resumable, manifest-driven)
+      - name: Check the official public gallery
+        id: public_gallery
         env:
-          DEVP0ST_SESSION_COOKIE: ${{ secrets.DEVP0ST_SESSION_COOKIE }}
-          PROXY_URL: ${{ secrets.PROXY_URL }}
-          HACKATHON_SLUG: ${{ github.event.inputs.hackathon_slug }}
-          PAGE_DELAY: "0.2"
-        run: python3 scrape.py
+          PAGE_DELAY: "0.35"
+        run: |
+          set +e
+          python3 public_gallery.py
+          status=$?
+          if [ "$status" -eq 2 ]; then
+            echo "published=false" >> "$GITHUB_OUTPUT"
+            exit 0
+          fi
+          echo "published=true" >> "$GITHUB_OUTPUT"
+          exit "$status"
+
+      - name: Discover additional public submissions
+        if: steps.public_gallery.outputs.published == 'false'
+        env:
+          MAX_HANDLES: "50"
+          MAX_NEW: "100"
+          PAGE_DELAY: "0.35"
+        run: python3 snowball.py
 
       - name: Commit updated data
         run: |
