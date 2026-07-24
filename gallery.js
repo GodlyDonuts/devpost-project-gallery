@@ -83,7 +83,7 @@
 
   grid.innerHTML = '<div class="loading">Loading projects…</div>';
   try {
-    const [res, classificationRes, supplementalRes] = await Promise.all([
+    const [res, classificationRes, supplementalRes, scoreRes] = await Promise.all([
       fetch("data/" + encodeURIComponent(slug) + ".json", { cache: "no-store" }),
       // Labels are published independently of the long-running crawler, so a
       // crawler checkpoint can never erase an already reviewed category.
@@ -91,6 +91,7 @@
       // Directly verified omissions are published here immediately; the main
       // crawler can discover them later without creating duplicate cards.
       fetch("data/" + encodeURIComponent(slug) + "-supplemental-projects.json", { cache: "no-store" }),
+      fetch("data/" + encodeURIComponent(slug) + "-scores.json", { cache: "no-store" }),
     ]);
     if (!res.ok) throw new Error("HTTP " + res.status);
     const data = await res.json();
@@ -104,6 +105,11 @@
       const supplementalData = await supplementalRes.json();
       supplemental = supplementalData.projects || [];
     }
+    let scores = {};
+    if (scoreRes.ok) {
+      const scoreData = await scoreRes.json();
+      scores = scoreData.scores || {};
+    }
     const projectBySlug = new Map();
     [...(data.projects || []), ...supplemental].forEach((project) => {
       if (project && project.slug && !projectBySlug.has(project.slug)) projectBySlug.set(project.slug, project);
@@ -113,8 +119,8 @@
       // Legacy crawler guesses are deliberately not displayed. A track is
       // shown only after the separate classification pipeline validates it.
       return label
-        ? { ...project, category: label.category, classification_confidence: label.confidence }
-        : { ...project, category: null };
+        ? { ...project, category: label.category, classification_confidence: label.confidence, judging_score: scores[project.slug] }
+        : { ...project, category: null, judging_score: scores[project.slug] };
     });
     categories = data.categories || [];
     if (titleEl) titleEl.textContent = data.name || slug;

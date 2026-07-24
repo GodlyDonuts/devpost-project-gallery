@@ -18,6 +18,7 @@ PUBLIC_PATHS = (
     "data/hackathons.json",
     "data/openai-build-week.json",
     "data/openai-build-week-classifications.json",
+    "data/openai-build-week-scores.json",
     "data/openai-build-week-overrides.json",
     "data/openai-build-week-supplemental-projects.json",
 )
