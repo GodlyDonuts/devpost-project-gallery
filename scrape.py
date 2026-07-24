@@ -169,9 +169,9 @@ def parse_project(html, slug, categories, hackathon_name):
         if not m:
             continue
         h = m.group(1)
-        if h.lower() in NON_USER or h in seen:
+        if h.lower() in NON_USER or h.lower() in seen:
             continue
-        seen.add(h)
+        seen.add(h.lower())
         members.append({"handle": h, "name": a.get_text(strip=True) or h, "url": f"{PROFILE_BASE}/{h}"})
 
     text = soup.get_text(" ", strip=True)

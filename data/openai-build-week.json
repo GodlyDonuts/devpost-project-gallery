@@ -2,14 +2,14 @@
   "slug": "openai-build-week",
   "name": "OpenAI Build Week",
   "hackathon_id": "30223",
-  "generated_at": "2026-07-24T04:25:52.506800+00:00",
+  "generated_at": "2026-07-24T05:47:16.675179+00:00",
   "categories": [
     "Apps for Your Life",
     "Work & Productivity",
     "Developer Tools",
     "Education"
   ],
-  "count": 21,
+  "count": 32,
   "projects": [
     {
       "slug": "runtime-hex-nobody-owns-the-signal",
@@ -18,39 +18,9 @@
       "category": null,
       "members": [
         {
-          "handle": "hackathons",
-          "name": "Devpost\n      Participate in our public hackathons",
-          "url": "https://devpost.com/hackathons"
-        },
-        {
-          "handle": "software",
-          "name": "Projects",
-          "url": "https://devpost.com/software"
-        },
-        {
           "handle": "RuntimeHex",
           "name": "RuntimeHex",
           "url": "https://devpost.com/RuntimeHex"
-        },
-        {
-          "handle": "RuntimeHex",
-          "name": "Runtime Hex",
-          "url": "https://devpost.com/RuntimeHex"
-        },
-        {
-          "handle": "RuntimeHex",
-          "name": "RuntimeHex",
-          "url": "https://devpost.com/RuntimeHex"
-        },
-        {
-          "handle": "RuntimeHex",
-          "name": "Runtime Hex",
-          "url": "https://devpost.com/RuntimeHex"
-        },
-        {
-          "handle": "settings",
-          "name": "Settings",
-          "url": "https://devpost.com/settings"
         }
       ],
       "url": "https://devpost.com/software/runtime-hex-nobody-owns-the-signal",
@@ -65,24 +35,9 @@
       "category": null,
       "members": [
         {
-          "handle": "hackathons",
-          "name": "Devpost\n      Participate in our public hackathons",
-          "url": "https://devpost.com/hackathons"
-        },
-        {
-          "handle": "software",
-          "name": "Projects",
-          "url": "https://devpost.com/software"
-        },
-        {
           "handle": "acatovic",
           "name": "acatovic",
           "url": "https://devpost.com/acatovic"
-        },
-        {
-          "handle": "settings",
-          "name": "Settings",
-          "url": "https://devpost.com/settings"
         }
       ],
       "url": "https://devpost.com/software/wyrd-ai",
@@ -97,23 +52,8 @@
       "category": null,
       "members": [
         {
-          "handle": "hackathons",
-          "name": "Devpost\n      Participate in our public hackathons",
-          "url": "https://devpost.com/hackathons"
-        },
-        {
-          "handle": "software",
-          "name": "Projects",
-          "url": "https://devpost.com/software"
-        },
-        {
           "handle": "Rizzist",
           "name": "Rizzist",
-          "url": "https://devpost.com/Rizzist"
-        },
-        {
-          "handle": "Rizzist",
-          "name": "Syed-Mohammad Raza",
           "url": "https://devpost.com/Rizzist"
         },
         {
@@ -130,36 +70,6 @@
           "handle": "devpost522",
           "name": "devpost522",
           "url": "https://devpost.com/devpost522"
-        },
-        {
-          "handle": "Rizzist",
-          "name": "Rizzist",
-          "url": "https://devpost.com/Rizzist"
-        },
-        {
-          "handle": "Rizzist",
-          "name": "Rizzist",
-          "url": "https://devpost.com/Rizzist"
-        },
-        {
-          "handle": "Rizzist",
-          "name": "Syed-Mohammad Raza",
-          "url": "https://devpost.com/Rizzist"
-        },
-        {
-          "handle": "Rizzist",
-          "name": "Rizzist",
-          "url": "https://devpost.com/Rizzist"
-        },
-        {
-          "handle": "Rizzist",
-          "name": "Syed-Mohammad Raza",
-          "url": "https://devpost.com/Rizzist"
-        },
-        {
-          "handle": "settings",
-          "name": "Settings",
-          "url": "https://devpost.com/settings"
         }
       ],
       "url": "https://devpost.com/software/diff-forge-ai",
@@ -174,44 +84,14 @@
       "category": null,
       "members": [
         {
-          "handle": "hackathons",
-          "name": "Devpost\n      Participate in our public hackathons",
-          "url": "https://devpost.com/hackathons"
-        },
-        {
-          "handle": "software",
-          "name": "Projects",
-          "url": "https://devpost.com/software"
-        },
-        {
           "handle": "Merdzhanov",
           "name": "Merdzhanov",
-          "url": "https://devpost.com/Merdzhanov"
-        },
-        {
-          "handle": "Merdzhanov",
-          "name": "Konstantin Merdzhanov",
           "url": "https://devpost.com/Merdzhanov"
         },
         {
           "handle": "nullx2-x",
           "name": "nullx2-x",
           "url": "https://devpost.com/nullx2-x"
-        },
-        {
-          "handle": "Merdzhanov",
-          "name": "Merdzhanov",
-          "url": "https://devpost.com/Merdzhanov"
-        },
-        {
-          "handle": "Merdzhanov",
-          "name": "Konstantin Merdzhanov",
-          "url": "https://devpost.com/Merdzhanov"
-        },
-        {
-          "handle": "settings",
-          "name": "Settings",
-          "url": "https://devpost.com/settings"
         }
       ],
       "url": "https://devpost.com/software/angels-board",
@@ -226,24 +106,9 @@
       "category": null,
       "members": [
         {
-          "handle": "hackathons",
-          "name": "Devpost\n      Participate in our public hackathons",
-          "url": "https://devpost.com/hackathons"
-        },
-        {
-          "handle": "software",
-          "name": "Projects",
-          "url": "https://devpost.com/software"
-        },
-        {
           "handle": "jazoo7777",
           "name": "jazoo7777",
           "url": "https://devpost.com/jazoo7777"
-        },
-        {
-          "handle": "settings",
-          "name": "Settings",
-          "url": "https://devpost.com/settings"
         }
       ],
       "url": "https://devpost.com/software/57loop-the-human-sidecar-for-codex",
@@ -258,24 +123,9 @@
       "category": null,
       "members": [
         {
-          "handle": "hackathons",
-          "name": "Devpost\n      Participate in our public hackathons",
-          "url": "https://devpost.com/hackathons"
-        },
-        {
-          "handle": "software",
-          "name": "Projects",
-          "url": "https://devpost.com/software"
-        },
-        {
           "handle": "saigorantla07",
           "name": "saigorantla07",
           "url": "https://devpost.com/saigorantla07"
-        },
-        {
-          "handle": "settings",
-          "name": "Settings",
-          "url": "https://devpost.com/settings"
         }
       ],
       "url": "https://devpost.com/software/healthy-living-tracker-wellness-your-way",
@@ -289,16 +139,6 @@
       "description": "Hermes World is a real-time visual observability layer for multi-agent AI systems.",
       "category": null,
       "members": [
-        {
-          "handle": "hackathons",
-          "name": "Devpost\n      Participate in our public hackathons",
-          "url": "https://devpost.com/hackathons"
-        },
-        {
-          "handle": "software",
-          "name": "Projects",
-          "url": "https://devpost.com/software"
-        },
         {
           "handle": "stefanrosik31",
           "name": "stefanrosik31",
@@ -353,11 +193,6 @@
           "handle": "teknium",
           "name": "teknium",
           "url": "https://devpost.com/teknium"
-        },
-        {
-          "handle": "settings",
-          "name": "Settings",
-          "url": "https://devpost.com/settings"
         }
       ],
       "url": "https://devpost.com/software/hermes-world",
@@ -370,23 +205,7 @@
       "title": "Avatar Platform Doctor",
       "description": "Know what to fix before Build &amp; Publish.",
       "category": null,
-      "members": [
-        {
-          "handle": "hackathons",
-          "name": "Devpost\n      Participate in our public hackathons",
-          "url": "https://devpost.com/hackathons"
-        },
-        {
-          "handle": "software",
-          "name": "Projects",
-          "url": "https://devpost.com/software"
-        },
-        {
-          "handle": "settings",
-          "name": "Settings",
-          "url": "https://devpost.com/settings"
-        }
-      ],
+      "members": [],
       "url": "https://devpost.com/software/avatar-platform-doctor",
       "repo_url": null,
       "demo_url": null,
@@ -398,16 +217,6 @@
       "description": "StudyNest is a gamified study companion app that combines focus tools, planning, notes, habits, quizzes, rewards, and customizable environments to make studying more organized, motivating, and fun.",
       "category": null,
       "members": [
-        {
-          "handle": "hackathons",
-          "name": "Devpost\n      Participate in our public hackathons",
-          "url": "https://devpost.com/hackathons"
-        },
-        {
-          "handle": "software",
-          "name": "Projects",
-          "url": "https://devpost.com/software"
-        },
         {
           "handle": "arunsudhir",
           "name": "arunsudhir",
@@ -427,11 +236,6 @@
           "handle": "kevin923",
           "name": "kevin923",
           "url": "https://devpost.com/kevin923"
-        },
-        {
-          "handle": "settings",
-          "name": "Settings",
-          "url": "https://devpost.com/settings"
         }
       ],
       "url": "https://devpost.com/software/studynest-o0t8kd",
@@ -446,24 +250,9 @@
       "category": null,
       "members": [
         {
-          "handle": "hackathons",
-          "name": "Devpost\n      Participate in our public hackathons",
-          "url": "https://devpost.com/hackathons"
-        },
-        {
-          "handle": "software",
-          "name": "Projects",
-          "url": "https://devpost.com/software"
-        },
-        {
           "handle": "gyunghwaroh",
           "name": "gyunghwaroh",
           "url": "https://devpost.com/gyunghwaroh"
-        },
-        {
-          "handle": "settings",
-          "name": "Settings",
-          "url": "https://devpost.com/settings"
         }
       ],
       "url": "https://devpost.com/software/datart",
@@ -478,24 +267,9 @@
       "category": null,
       "members": [
         {
-          "handle": "hackathons",
-          "name": "Devpost\n      Participate in our public hackathons",
-          "url": "https://devpost.com/hackathons"
-        },
-        {
-          "handle": "software",
-          "name": "Projects",
-          "url": "https://devpost.com/software"
-        },
-        {
           "handle": "alyasahmohammedramadan",
           "name": "alyasahmohammedramadan",
           "url": "https://devpost.com/alyasahmohammedramadan"
-        },
-        {
-          "handle": "settings",
-          "name": "Settings",
-          "url": "https://devpost.com/settings"
         }
       ],
       "url": "https://devpost.com/software/medico-ai-symptom-analyser-app",
@@ -510,24 +284,9 @@
       "category": null,
       "members": [
         {
-          "handle": "hackathons",
-          "name": "Devpost\n      Participate in our public hackathons",
-          "url": "https://devpost.com/hackathons"
-        },
-        {
-          "handle": "software",
-          "name": "Projects",
-          "url": "https://devpost.com/software"
-        },
-        {
           "handle": "ashilmathew9132",
           "name": "ashilmathew9132",
           "url": "https://devpost.com/ashilmathew9132"
-        },
-        {
-          "handle": "settings",
-          "name": "Settings",
-          "url": "https://devpost.com/settings"
         }
       ],
       "url": "https://devpost.com/software/pocket-butler",
@@ -541,16 +300,6 @@
       "description": "Flags missed antenatal visits and logs why mothers drop out — giving clinics real dropout data, not guesswork, to bring them back to care.",
       "category": null,
       "members": [
-        {
-          "handle": "hackathons",
-          "name": "Devpost\n      Participate in our public hackathons",
-          "url": "https://devpost.com/hackathons"
-        },
-        {
-          "handle": "software",
-          "name": "Projects",
-          "url": "https://devpost.com/software"
-        },
         {
           "handle": "duncanmathai3",
           "name": "duncanmathai3",
@@ -570,11 +319,6 @@
           "handle": "icellearning",
           "name": "icellearning",
           "url": "https://devpost.com/icellearning"
-        },
-        {
-          "handle": "settings",
-          "name": "Settings",
-          "url": "https://devpost.com/settings"
         }
       ],
       "url": "https://devpost.com/software/mediremind-trfuln",
@@ -589,24 +333,9 @@
       "category": null,
       "members": [
         {
-          "handle": "hackathons",
-          "name": "Devpost\n      Participate in our public hackathons",
-          "url": "https://devpost.com/hackathons"
-        },
-        {
-          "handle": "software",
-          "name": "Projects",
-          "url": "https://devpost.com/software"
-        },
-        {
           "handle": "ganipar456",
           "name": "ganipar456",
           "url": "https://devpost.com/ganipar456"
-        },
-        {
-          "handle": "settings",
-          "name": "Settings",
-          "url": "https://devpost.com/settings"
         }
       ],
       "url": "https://devpost.com/software/neutra-lend",
@@ -621,23 +350,8 @@
       "category": null,
       "members": [
         {
-          "handle": "hackathons",
-          "name": "Devpost\n      Participate in our public hackathons",
-          "url": "https://devpost.com/hackathons"
-        },
-        {
-          "handle": "software",
-          "name": "Projects",
-          "url": "https://devpost.com/software"
-        },
-        {
           "handle": "LeeJaeho",
           "name": "LeeJaeho",
-          "url": "https://devpost.com/LeeJaeho"
-        },
-        {
-          "handle": "LeeJaeho",
-          "name": "Jae ho Lee",
           "url": "https://devpost.com/LeeJaeho"
         },
         {
@@ -664,36 +378,6 @@
           "handle": "lqez",
           "name": "lqez",
           "url": "https://devpost.com/lqez"
-        },
-        {
-          "handle": "LeeJaeho",
-          "name": "LeeJaeho",
-          "url": "https://devpost.com/LeeJaeho"
-        },
-        {
-          "handle": "LeeJaeho",
-          "name": "LeeJaeho",
-          "url": "https://devpost.com/LeeJaeho"
-        },
-        {
-          "handle": "LeeJaeho",
-          "name": "Jae ho Lee",
-          "url": "https://devpost.com/LeeJaeho"
-        },
-        {
-          "handle": "LeeJaeho",
-          "name": "LeeJaeho",
-          "url": "https://devpost.com/LeeJaeho"
-        },
-        {
-          "handle": "LeeJaeho",
-          "name": "Jae ho Lee",
-          "url": "https://devpost.com/LeeJaeho"
-        },
-        {
-          "handle": "settings",
-          "name": "Settings",
-          "url": "https://devpost.com/settings"
         }
       ],
       "url": "https://devpost.com/software/vibeseq",
@@ -707,16 +391,6 @@
       "description": "Tea can block your iron tablet. Pregnancy changes what&#39;s safe. PillAI tracks your medicines with your food and health context, warns you before conflicts, and logs each dose in one tap.",
       "category": null,
       "members": [
-        {
-          "handle": "hackathons",
-          "name": "Devpost\n      Participate in our public hackathons",
-          "url": "https://devpost.com/hackathons"
-        },
-        {
-          "handle": "software",
-          "name": "Projects",
-          "url": "https://devpost.com/software"
-        },
         {
           "handle": "omar201331",
           "name": "omar201331",
@@ -736,11 +410,6 @@
           "handle": "kevin923",
           "name": "kevin923",
           "url": "https://devpost.com/kevin923"
-        },
-        {
-          "handle": "settings",
-          "name": "Settings",
-          "url": "https://devpost.com/settings"
         }
       ],
       "url": "https://devpost.com/software/pillai-kphvqt",
@@ -755,24 +424,9 @@
       "category": null,
       "members": [
         {
-          "handle": "hackathons",
-          "name": "Devpost\n      Participate in our public hackathons",
-          "url": "https://devpost.com/hackathons"
-        },
-        {
-          "handle": "software",
-          "name": "Projects",
-          "url": "https://devpost.com/software"
-        },
-        {
           "handle": "anil29creative",
           "name": "anil29creative",
           "url": "https://devpost.com/anil29creative"
-        },
-        {
-          "handle": "settings",
-          "name": "Settings",
-          "url": "https://devpost.com/settings"
         }
       ],
       "url": "https://devpost.com/software/postbirth",
@@ -787,24 +441,9 @@
       "category": null,
       "members": [
         {
-          "handle": "hackathons",
-          "name": "Devpost\n      Participate in our public hackathons",
-          "url": "https://devpost.com/hackathons"
-        },
-        {
-          "handle": "software",
-          "name": "Projects",
-          "url": "https://devpost.com/software"
-        },
-        {
           "handle": "alanhertler",
           "name": "alanhertler",
           "url": "https://devpost.com/alanhertler"
-        },
-        {
-          "handle": "settings",
-          "name": "Settings",
-          "url": "https://devpost.com/settings"
         }
       ],
       "url": "https://devpost.com/software/tor-arg-tornado-argentino",
@@ -819,24 +458,9 @@
       "category": null,
       "members": [
         {
-          "handle": "hackathons",
-          "name": "Devpost\n      Participate in our public hackathons",
-          "url": "https://devpost.com/hackathons"
-        },
-        {
-          "handle": "software",
-          "name": "Projects",
-          "url": "https://devpost.com/software"
-        },
-        {
           "handle": "baguiosmiths",
           "name": "baguiosmiths",
           "url": "https://devpost.com/baguiosmiths"
-        },
-        {
-          "handle": "settings",
-          "name": "Settings",
-          "url": "https://devpost.com/settings"
         }
       ],
       "url": "https://devpost.com/software/conversate-confirm",
@@ -851,24 +475,9 @@
       "category": null,
       "members": [
         {
-          "handle": "hackathons",
-          "name": "Devpost\n      Participate in our public hackathons",
-          "url": "https://devpost.com/hackathons"
-        },
-        {
-          "handle": "software",
-          "name": "Projects",
-          "url": "https://devpost.com/software"
-        },
-        {
           "handle": "suresh-patil2",
           "name": "suresh-patil2",
           "url": "https://devpost.com/suresh-patil2"
-        },
-        {
-          "handle": "settings",
-          "name": "Settings",
-          "url": "https://devpost.com/settings"
         }
       ],
       "url": "https://devpost.com/software/policylense",
@@ -882,16 +491,6 @@
       "description": "We don’t take photos. We scrape moments. Moment Scraper is a wearable camera that lets you capture moments by framing them with your fingers. It preserves not just what you saw, but what it felt like.",
       "category": null,
       "members": [
-        {
-          "handle": "hackathons",
-          "name": "Devpost\n      Participate in our public hackathons",
-          "url": "https://devpost.com/hackathons"
-        },
-        {
-          "handle": "software",
-          "name": "Projects",
-          "url": "https://devpost.com/software"
-        },
         {
           "handle": "uezo",
           "name": "uezo",
@@ -926,17 +525,253 @@
           "handle": "sanshaku3",
           "name": "sanshaku3",
           "url": "https://devpost.com/sanshaku3"
-        },
-        {
-          "handle": "settings",
-          "name": "Settings",
-          "url": "https://devpost.com/settings"
         }
       ],
       "url": "https://devpost.com/software/moment-scraper",
       "repo_url": null,
       "demo_url": null,
       "image": "https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/993/172/datas/medium.jpeg"
+    },
+    {
+      "slug": "eagleeye-browser-native-ai-qa-agent",
+      "title": "EagleEye — Browser-Native AI QA Agent",
+      "description": "Observe real journeys. Generate coverage. Replay proof.",
+      "category": null,
+      "members": [
+        {
+          "handle": "nullx2-x",
+          "name": "nullx2-x",
+          "url": "https://devpost.com/nullx2-x"
+        }
+      ],
+      "url": "https://devpost.com/software/eagleeye-browser-native-ai-qa-agent",
+      "repo_url": "https://github.com/nullx2-x/eagleeye-qa-agent.git",
+      "demo_url": "http://127.0.0.1:8766/demo"
+    },
+    {
+      "slug": "ariad-fabrication",
+      "title": "Ariad Fabrication",
+      "description": "Ariad is a Codex-guided workspace combining structured requirements, editable CAD, deterministic checks, real slicing, and auditable fabrication evidence.",
+      "category": null,
+      "members": [
+        {
+          "handle": "supermegaboris",
+          "name": "supermegaboris",
+          "url": "https://devpost.com/supermegaboris"
+        },
+        {
+          "handle": "tuandev",
+          "name": "tuandev",
+          "url": "https://devpost.com/tuandev"
+        },
+        {
+          "handle": "stefanrosik31",
+          "name": "stefanrosik31",
+          "url": "https://devpost.com/stefanrosik31"
+        }
+      ],
+      "url": "https://devpost.com/software/ariad-fabrication",
+      "repo_url": "https://github.com/tuancookiez-hub/AriadFabrication",
+      "demo_url": null
+    },
+    {
+      "slug": "teachnow-ai",
+      "title": "Teachnow AI",
+      "description": "Learn anything with a tutor tailored to you. Teachers, create rich courses for your students in minimal time.",
+      "category": null,
+      "members": [
+        {
+          "handle": "nehaanndev",
+          "name": "nehaanndev",
+          "url": "https://devpost.com/nehaanndev"
+        },
+        {
+          "handle": "arunsudhir",
+          "name": "arunsudhir",
+          "url": "https://devpost.com/arunsudhir"
+        },
+        {
+          "handle": "abhykrishnan",
+          "name": "abhykrishnan",
+          "url": "https://devpost.com/abhykrishnan"
+        },
+        {
+          "handle": "darshanthampi2000",
+          "name": "darshanthampi2000",
+          "url": "https://devpost.com/darshanthampi2000"
+        }
+      ],
+      "url": "https://devpost.com/software/teachnow-ai",
+      "repo_url": null,
+      "demo_url": null
+    },
+    {
+      "slug": "nexus-rykp2n",
+      "title": "Nexus",
+      "description": "Nexus is an After Effects extension, creators can generate, preview, &amp; sequence AI images &amp; videos inside After Effects, reducing the need to jump between multiple platforms for creative production.",
+      "category": null,
+      "members": [
+        {
+          "handle": "ayodelemartinsabiwo",
+          "name": "ayodelemartinsabiwo",
+          "url": "https://devpost.com/ayodelemartinsabiwo"
+        }
+      ],
+      "url": "https://devpost.com/software/nexus-rykp2n",
+      "repo_url": "https://github.com/ayodelemartinsabiwo/nexus-ai-studio-panel/releases/download/v0.1.0-reviewer.1/Nexus-Reviewer-Setup-0.1.0-Windows-x64.exe",
+      "demo_url": null
+    },
+    {
+      "slug": "founder-s-agent-command-center",
+      "title": "Wingspan Command Center",
+      "description": "Wingspan Command Center turns GPT-5.6-powered Codex agents into one visible, accountable AI team—helping founders coordinate work, surface risks, and make faster, evidence-backed decisions.",
+      "category": null,
+      "members": [
+        {
+          "handle": "kevin923",
+          "name": "kevin923",
+          "url": "https://devpost.com/kevin923"
+        }
+      ],
+      "url": "https://devpost.com/software/founder-s-agent-command-center",
+      "repo_url": "https://github.com/kevinwingz/wingspan-command-center",
+      "demo_url": null
+    },
+    {
+      "slug": "spekicad",
+      "title": "SPEKICAD",
+      "description": "From site photos to verified engineering specifications. \r\nReworking a construction project again? SpekiCAD - now even your dog can handle it. \r\n(Created by an engineer tired of drafting)",
+      "category": null,
+      "members": [
+        {
+          "handle": "supermegaboris",
+          "name": "supermegaboris",
+          "url": "https://devpost.com/supermegaboris"
+        },
+        {
+          "handle": "gsaurabh-gupta101",
+          "name": "gsaurabh-gupta101",
+          "url": "https://devpost.com/gsaurabh-gupta101"
+        },
+        {
+          "handle": "ilhuang",
+          "name": "ilhuang",
+          "url": "https://devpost.com/ilhuang"
+        }
+      ],
+      "url": "https://devpost.com/software/spekicad",
+      "repo_url": "https://github.com/supermegaboris/spekicad-openai-build-week-2026",
+      "demo_url": "https://youtu.be/UWKxRtoJ-9A"
+    },
+    {
+      "slug": "kiragoro",
+      "title": "Save Japan!",
+      "description": "Scan the QR. Rally your hometown. Save Japan together.",
+      "category": null,
+      "members": [
+        {
+          "handle": "uezo",
+          "name": "uezo",
+          "url": "https://devpost.com/uezo"
+        },
+        {
+          "handle": "goroman",
+          "name": "goroman",
+          "url": "https://devpost.com/goroman"
+        },
+        {
+          "handle": "kiralpoon",
+          "name": "kiralpoon",
+          "url": "https://devpost.com/kiralpoon"
+        }
+      ],
+      "url": "https://devpost.com/software/kiragoro",
+      "repo_url": "https://github.com/GOROman/save-japan",
+      "demo_url": null
+    },
+    {
+      "slug": "roommates-jwg7in",
+      "title": "ROOMMATES",
+      "description": "You do not make them fall in love. You create the place where love might begin.",
+      "category": null,
+      "members": [
+        {
+          "handle": "uezo",
+          "name": "uezo",
+          "url": "https://devpost.com/uezo"
+        },
+        {
+          "handle": "take-otani",
+          "name": "take-otani",
+          "url": "https://devpost.com/take-otani"
+        }
+      ],
+      "url": "https://devpost.com/software/roommates-jwg7in",
+      "repo_url": "https://github.com/aieo-product/roommates-autonomous-life-sim",
+      "demo_url": null
+    },
+    {
+      "slug": "carebridge-concept",
+      "title": "carebridge-concept",
+      "description": "No more telling the same story.",
+      "category": null,
+      "members": [
+        {
+          "handle": "uezo",
+          "name": "uezo",
+          "url": "https://devpost.com/uezo"
+        },
+        {
+          "handle": "kizifrog",
+          "name": "kizifrog",
+          "url": "https://devpost.com/kizifrog"
+        }
+      ],
+      "url": "https://devpost.com/software/carebridge-concept",
+      "repo_url": null,
+      "demo_url": null
+    },
+    {
+      "slug": "em-assist",
+      "title": "EM-assist",
+      "description": "A desktop EM simulator where GPT-5.6 is a real design agent — it proposes RF/antenna parameters, a verified FEM solver checks every one. AI proposes, physics disposes.",
+      "category": null,
+      "members": [
+        {
+          "handle": "supermegaboris",
+          "name": "supermegaboris",
+          "url": "https://devpost.com/supermegaboris"
+        },
+        {
+          "handle": "gsaurabh-gupta101",
+          "name": "gsaurabh-gupta101",
+          "url": "https://devpost.com/gsaurabh-gupta101"
+        }
+      ],
+      "url": "https://devpost.com/software/em-assist",
+      "repo_url": null,
+      "demo_url": null
+    },
+    {
+      "slug": "sketchmetrics",
+      "title": "SketchMetrics",
+      "description": "SketchMetrics is an AI tool for mainly for architects that analyzes hand-drawn floor plans. By flagging errors and explaining principles, it builds critical thinking over automating design.",
+      "category": null,
+      "members": [
+        {
+          "handle": "supermegaboris",
+          "name": "supermegaboris",
+          "url": "https://devpost.com/supermegaboris"
+        },
+        {
+          "handle": "ilhuang",
+          "name": "ilhuang",
+          "url": "https://devpost.com/ilhuang"
+        }
+      ],
+      "url": "https://devpost.com/software/sketchmetrics",
+      "repo_url": null,
+      "demo_url": null
     }
   ]
 }

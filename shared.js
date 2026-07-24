@@ -18,6 +18,10 @@ const GLASS_PALETTE = [
   ["#10b981", "#84cc16"],
   ["#6366f1", "#a855f7"],
 ];
+const NON_MEMBER_HANDLES = new Set([
+  "hackathons", "software", "settings", "assets", "search", "new",
+  "about", "contact", "blog", "resources", "participants",
+]);
 function _hash(str) {
   let h = 0;
   const s = String(str || "");
@@ -37,9 +41,24 @@ function initials(name) {
   return (parts.map((p) => p[0] || "").join("") || "?").toUpperCase();
 }
 
+/* Scraped project pages can repeat a member link or expose Devpost navigation
+   links as profile-looking accounts. Keep the card attribution useful. */
+function cleanMembers(members) {
+  if (!Array.isArray(members)) return [];
+  const seen = new Set();
+  return members.filter((m) => {
+    const handle = String(m && (m.handle || "")).trim();
+    const key = handle.toLowerCase();
+    if (!key || NON_MEMBER_HANDLES.has(key) || seen.has(key)) return false;
+    seen.add(key);
+    return true;
+  });
+}
+
 /* avatar stack for a project's members */
 function teamBlock(members) {
-  if (!Array.isArray(members) || members.length === 0)
+  members = cleanMembers(members);
+  if (members.length === 0)
     return '<div class="team"><span class="names">Solo project</span></div>';
   const shown = members.slice(0, 3);
   const extra = members.length - shown.length;
@@ -62,7 +81,7 @@ function projectCard(p) {
   const slug = p.slug || "";
   const url = p.url || (slug ? "https://devpost.com/software/" + slug : "#");
   const desc = escapeHtml(p.description || p.tagline || "");
-  const cat = p.category || "Uncategorized";
+  const cat = p.category || "Unclassified";
   const links = [];
   if (url && url !== "#")
     links.push('<a href="' + escapeHtml(url) + '" target="_blank" rel="noopener">Devpost ↗</a>');

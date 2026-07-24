@@ -16,8 +16,8 @@
   --faint: #8a93a3;
 
   /* accent — used sparingly */
-  --accent: #2f6bff;
-  --accent-2: #00c6b8;
+  --accent: #4267f5;
+  --accent-2: #13b9ad;
   --accent-ink: #ffffff;
 
   /* glass — translucent enough that the colorful backdrop refracts through */
@@ -139,8 +139,8 @@ a:hover { text-decoration: none; }
 /* ---------- Hero ---------- */
 .hero { padding: 64px 24px 40px; display: flex; justify-content: center; }
 .hero-inner {
-  width: min(820px, 100%); text-align: center;
-  padding: 44px 40px 36px; border-radius: 28px;
+  width: min(1160px, 100%); text-align: left;
+  padding: 50px clamp(24px, 6vw, 72px) 42px; border-radius: 28px;
 }
 .badge {
   display: inline-block; font-size: 11px; letter-spacing: 0.1em; text-transform: uppercase; font-weight: 700;
@@ -156,9 +156,11 @@ a:hover { text-decoration: none; }
   background: linear-gradient(120deg, var(--accent), var(--accent-2));
   -webkit-background-clip: text; background-clip: text; color: transparent;
 }
-.sub { color: var(--muted); font-size: 17px; max-width: 600px; margin: 0 auto 26px; }
+.sub { color: var(--muted); font-size: 17px; max-width: 640px; margin: 0 0 26px; }
+.hero-note { display: inline-flex; align-items: center; gap: 8px; color: var(--faint); font-size: 13px; font-weight: 600; }
+.pulse { width: 8px; height: 8px; border-radius: 50%; background: var(--accent-2); box-shadow: 0 0 0 5px rgba(19,185,173,0.12); }
 
-.stats { display: flex; justify-content: center; gap: 14px; flex-wrap: wrap; }
+.stats { display: flex; justify-content: flex-start; gap: 14px; flex-wrap: wrap; }
 .stat {
   min-width: 120px; padding: 14px 20px; border-radius: 16px;
   background: rgba(255,255,255,0.5); border: 1px solid var(--glass-hairline);
@@ -201,6 +203,7 @@ a:hover { text-decoration: none; }
 }
 .chip-count { font-size: 11px; font-weight: 700; background: rgba(255,255,255,0.35); color: inherit; padding: 1px 7px; border-radius: 999px; min-width: 20px; text-align: center; }
 .chip.active .chip-count { background: rgba(255,255,255,0.3); }
+.filter-note { color: var(--faint); font-size: 12px; margin: 0 2px; }
 
 /* ---------- Grid ---------- */
 .grid {
@@ -231,7 +234,7 @@ a:hover { text-decoration: none; }
 .card.in { opacity: 1; transform: none; }
 .card:hover { transform: translateY(-6px); box-shadow: var(--glass-shadow-lg); }
 
-.card-cover { height: 116px; position: relative; overflow: hidden; border-bottom: 1px solid var(--glass-hairline); }
+.card-cover { height: 142px; position: relative; overflow: hidden; border-bottom: 1px solid var(--glass-hairline); }
 .card-cover::after { content: ""; position: absolute; inset: 0; background: radial-gradient(120% 80% at 20% 0%, rgba(255,255,255,0.55), transparent 60%); mix-blend-mode: screen; pointer-events: none; }
 .card-thumb { position: absolute; inset: 0; width: 100%; height: 100%; object-fit: cover; display: block; }
 /* gradient shows through only when there's no image / image fails to load */
@@ -261,9 +264,9 @@ a:hover { text-decoration: none; }
 .avatar:first-child { margin-left: 0; }
 .avatar.more { background: rgba(20,30,50,0.55); color: #fff; font-size: 10px; }
 .team .names { font-size: 13px; color: var(--muted); }
-.meta .links { display: flex; gap: 14px; font-size: 13px; font-weight: 600; }
-.meta .links a { color: var(--accent); display: inline-flex; align-items: center; gap: 3px; transition: opacity 0.15s; }
-.meta .links a:hover { opacity: 0.7; }
+.card .links { display: flex; gap: 14px; flex-wrap: wrap; font-size: 13px; font-weight: 600; padding-top: 2px; }
+.card .links a { color: var(--accent); display: inline-flex; align-items: center; gap: 3px; transition: opacity 0.15s; }
+.card .links a:hover { opacity: 0.7; }
 
 /* landing hackathon card */
 .card.hack-card {
@@ -290,10 +293,19 @@ a:hover { text-decoration: none; }
 
 .loading { text-align: center; color: var(--muted); padding: 60px 0; font-size: 16px; }
 
+a:focus-visible, button:focus-visible, input:focus-visible {
+  outline: none;
+  box-shadow: var(--ring);
+}
+.card:focus-within { box-shadow: var(--glass-shadow-lg), var(--ring); }
+
 /* ---------- Responsive ---------- */
 @media (max-width: 640px) {
   .nav-links a:not(.nav-cta) { display: none; }
+  .hero { padding-top: 42px; }
   .hero-inner { padding: 34px 22px 28px; }
+  .hero h1 { font-size: clamp(36px, 11vw, 52px); }
+  .sub { font-size: 15px; }
   .controls { top: 70px; }
 }
 @media (prefers-reduced-motion: reduce) {

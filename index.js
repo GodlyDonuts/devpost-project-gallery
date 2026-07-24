@@ -27,7 +27,7 @@
           "<h3>" + name + "</h3>" +
           '<div class="meta">' +
           '<div class="stat-row"><span class="num">' + count + '</span><span class="lbl">projects</span></div>' +
-          '<div class="muted">' + cats + " categories · updated " + updated + "</div>" +
+          '<div class="muted">' + cats + " track labels · updated " + updated + "</div>" +
           '<span class="go">Open gallery →</span>' +
           "</div>" +
           "</div>" +

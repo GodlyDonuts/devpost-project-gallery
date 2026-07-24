@@ -18,6 +18,7 @@ import json, re, os, time, urllib.request, sys
 
 ROOT = "/Users/sairamen/projects/devpost-project-gallery"
 OUT = f"{ROOT}/data/openai-build-week.json"
+MANIFEST = f"{ROOT}/data/hackathons.json"
 STATE = f"{ROOT}/data/.scrape_state_snowball.json"  # matches data/.scrape_state_*.json (gitignored)
 HACK = "OpenAI Build Week"
 UA = {"User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36"}
@@ -26,6 +27,10 @@ MAX_NEW = int(os.environ.get("MAX_NEW", "500"))
 DELAY = float(os.environ.get("PAGE_DELAY", "0.12"))
 
 SLUG_RE = re.compile(r"/software/([a-z0-9][a-z0-9\-]+[a-z0-9])", re.I)
+# member links carry class="user-profile-link" href="https://devpost.com/<handle>"
+MEMBER_RE = re.compile(r'<a[^>]*class="[^"]*user-profile-link[^"]*"[^>]*href="https://devpost\.com/([a-z0-9][a-z0-9_\-]{1,30})"', re.I)
+# nav / section paths that are NOT user handles
+NON_USER = {"hackathons", "software", "settings", "assets", "hackathon", "about", "contact", "blog", "search", "new", "software_users"}
 USER_RE = re.compile(r"^https?://devpost\.com/([a-z0-9][a-z0-9_\-]{1,30})$", re.I)
 
 
@@ -41,10 +46,10 @@ def fetch(url, tries=2):
 
 def member_handles(html):
     out = set()
-    for a in re.finditer(r'<a[^>]+href="([^"]+)"[^>]*>(.*?)</a>', html, re.I | re.S):
-        um = USER_RE.match(a.group(1))
-        if um and "." not in um.group(1):
-            out.add(um.group(1).lower())
+    for m in MEMBER_RE.finditer(html):
+        h = m.group(1).lower()
+        if h not in NON_USER and "." not in h:
+            out.add(h)
     return out
 
 
@@ -71,9 +76,25 @@ def parse_project(html, slug):
     }
 
 
+def clean_members(members):
+    """Normalize older seed data before it feeds the crawl or UI."""
+    out = []
+    seen = set()
+    for member in members or []:
+        handle = str(member.get("handle", "")).strip()
+        key = handle.lower()
+        if not key or key in NON_USER or key in seen:
+            continue
+        seen.add(key)
+        out.append(member)
+    return out
+
+
 # --- load state ---
 data = json.load(open(OUT))
 projects = data["projects"]
+for project in projects:
+    project["members"] = clean_members(project.get("members", []))
 bw_slugs = {p["slug"].lower() for p in projects}
 state = json.load(open(STATE)) if os.path.exists(STATE) else {"visited": []}
 visited = set(state.get("visited", []))
@@ -127,3 +148,12 @@ while queue and processed < MAX_HANDLES and added < MAX_NEW:
         time.sleep(DELAY)
 
 print(f"done run: processed {processed} handles, added {added} new BW projects -> total {len(projects)}")
+
+# Keep the landing page's manifest in step with the generated gallery data.
+manifest = json.load(open(MANIFEST))
+for entry in manifest.get("hackathons", []):
+    if entry.get("slug") == "openai-build-week":
+        entry["count"] = len(projects)
+        entry["generated_at"] = data["generated_at"]
+with open(MANIFEST, "w") as f:
+    json.dump(manifest, f, indent=2, ensure_ascii=False)

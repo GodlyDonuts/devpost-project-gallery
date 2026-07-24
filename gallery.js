@@ -1,6 +1,6 @@
 /* Per-hackathon gallery: reads ?h=<slug>, loads data/<slug>.json, renders cards. */
 (async function () {
-  const grid = document.getElementById("grid");
+  const grid = document.getElementById("projects");
   const emptyEl = document.getElementById("empty");
   const searchEl = document.getElementById("search");
   const filtersEl = document.getElementById("filters");
@@ -20,18 +20,27 @@
   let query = "";
 
   function renderChips() {
+    const uncategorized = projects.filter((p) => !p.category).length;
+    const availableCategories = categories.filter((c) => projects.some((p) => p.category === c));
     const chips = [
-      '<button class="chip active" data-cat="all">All<span class="chip-count">' + projects.length + "</span></button>",
+      '<button class="chip active" type="button" aria-pressed="true" data-cat="all">All projects<span class="chip-count">' + projects.length + "</span></button>",
     ].concat(
-      categories.map((c) => {
+      availableCategories.map((c) => {
         const n = projects.filter((p) => p.category === c).length;
         return (
-          '<button class="chip" data-cat="' + escapeHtml(c) + '">' +
+          '<button class="chip" type="button" aria-pressed="false" data-cat="' + escapeHtml(c) + '">' +
           escapeHtml(c) + '<span class="chip-count">' + n + "</span></button>"
         );
       })
     );
+    if (uncategorized) {
+      chips.push('<button class="chip" type="button" aria-pressed="false" data-cat="__uncategorized">Unclassified<span class="chip-count">' + uncategorized + "</span></button>");
+    }
     filtersEl.innerHTML = chips.join("");
+    const note = document.getElementById("filter-note");
+    if (note) note.textContent = uncategorized
+      ? "Track labels are not published consistently on public project pages yet."
+      : "Browse by the official Buildweek track labels.";
   }
 
   function renderStats(shown) {
@@ -45,9 +54,10 @@
   function apply() {
     const q = query.trim().toLowerCase();
     const filtered = projects.filter((p) => {
-      if (activeCat !== "all" && p.category !== activeCat) return false;
+      if (activeCat === "__uncategorized" && p.category) return false;
+      if (activeCat !== "all" && activeCat !== "__uncategorized" && p.category !== activeCat) return false;
       if (!q) return true;
-      const hay = [p.title, p.description, p.tagline, p.category, ...(p.members || []).map((m) => m.name || m.handle)]
+      const hay = [p.title, p.description, p.tagline, p.category, ...cleanMembers(p.members).map((m) => m.name || m.handle)]
         .join(" ")
         .toLowerCase();
       return hay.includes(q);
@@ -67,6 +77,7 @@
     if (!btn) return;
     activeCat = btn.dataset.cat;
     [...filtersEl.children].forEach((c) => c.classList.toggle("active", c === btn));
+    [...filtersEl.children].forEach((c) => c.setAttribute("aria-pressed", String(c === btn)));
     apply();
   });
 

@@ -3,8 +3,8 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Project Gallery</title>
-  <meta name="description" content="Community-run Devpost hackathon project gallery." />
+  <title>OpenAI Buildweek / Projects</title>
+  <meta name="description" content="Browse the unofficial OpenAI Buildweek project gallery." />
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&display=swap" rel="stylesheet" />
@@ -21,20 +21,20 @@
 
   <nav class="nav glass">
     <a class="brand" href="index.html">
-      <span class="brand-mark">◆</span>
-      <span class="brand-text">Devpost<span class="brand-sub"> / Galleries</span></span>
+      <span class="brand-mark">B</span>
+      <span class="brand-text">Buildweek<span class="brand-sub"> / Projects</span></span>
     </a>
     <div class="nav-links">
-      <a href="index.html">All hackathons</a>
-      <a class="nav-cta" href="index.html">Browse</a>
+      <a href="index.html">About the gallery</a>
+      <a class="nav-cta" href="#projects">Browse projects</a>
     </div>
   </nav>
 
   <header class="hero">
     <div class="hero-inner glass">
-      <div class="badge"><a href="index.html">← All hackathons</a></div>
+      <div class="badge"><a href="index.html">← Back to gallery</a></div>
       <h1 id="hack-title">Project Gallery</h1>
-      <p class="sub">Community-collected submissions, sorted into the hackathon's tracks.</p>
+      <p class="sub">Community-collected submissions from public Devpost pages, with direct links to each project.</p>
       <div class="stats" id="stats"></div>
       <div class="notice" id="freshness"></div>
     </div>
@@ -46,20 +46,21 @@
         <svg class="search-icon" viewBox="0 0 24 24" aria-hidden="true">
           <path d="M21 21l-4.3-4.3M11 19a8 8 0 110-16 8 8 0 010 16z" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
         </svg>
-        <input id="search" type="search" placeholder="Search projects, teams, or descriptions…" autocomplete="off" />
+        <input id="search" type="search" aria-label="Search projects, teams, or descriptions" placeholder="Search projects, teams, or descriptions…" autocomplete="off" />
       </div>
-      <div class="filters" id="filters"></div>
+      <div class="filters" id="filters" role="group" aria-label="Filter projects"></div>
+      <p class="filter-note" id="filter-note"></p>
     </div>
 
-    <section id="grid" class="grid" aria-live="polite"></section>
+    <section id="projects" class="grid" aria-live="polite"></section>
     <div id="empty" class="empty" hidden>No projects match your filters yet.</div>
   </main>
 
   <footer class="foot">
     <div class="foot-inner glass">
       <p>
-        Unofficial gallery · Not affiliated with OpenAI or Devpost · Data sourced from
-        public Devpost submissions · Built with <a href="https://pages.github.com">GitHub Pages</a>.
+        Unofficial and community-run · Not affiliated with OpenAI or Devpost · Data sourced from
+        public Devpost submissions · <a href="https://pages.github.com">Hosted on GitHub Pages</a>.
       </p>
     </div>
   </footer>
