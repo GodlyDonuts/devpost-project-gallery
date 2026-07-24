@@ -108,7 +108,7 @@ Allowed tracks and decision rule:
 
 Tie-breakers: classify by the intended primary user and outcome, not implementation. Developer Tools beats Work only when developers are the explicit primary users. Education beats Apps only when learning/teaching is central. Work beats Apps when a work/organization workflow is central. If evidence is thin, use the title/description and choose the least speculative track.
 
-Return ONLY a valid JSON array. It must contain exactly one object for every supplied slug, in the same order, with exactly these keys: slug, category, confidence. category must be one of the four allowed strings. confidence must be an integer 0-100. No Markdown and no commentary."""
+Return ONLY a valid JSON array. It must contain exactly one object for every supplied slug, in the same order, with exactly these keys: slug, category, confidence. Copy every slug byte-for-byte from the supplied data; never correct spelling, normalize, abbreviate, or invent a slug. category must be one of the four allowed strings. confidence must be an integer 0-100. No Markdown and no commentary."""
     if education_audit:
         rubric += """
 

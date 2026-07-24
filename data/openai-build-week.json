@@ -2,14 +2,14 @@
   "slug": "openai-build-week",
   "name": "OpenAI Build Week",
   "hackathon_id": "30223",
-  "generated_at": "2026-07-24T10:30:21.830248+00:00",
+  "generated_at": "2026-07-24T10:30:51.229252+00:00",
   "categories": [
     "Apps for Your Life",
     "Work & Productivity",
     "Developer Tools",
     "Education"
   ],
-  "count": 2200,
+  "count": 2219,
   "projects": [
     {
       "slug": "gosu-go-trainer",
@@ -42124,6 +42124,359 @@
       ],
       "url": "https://devpost.com/software/skill-loom",
       "repo_url": "https://github.com/bubbleviki404/ship-real-mvp",
+      "demo_url": null
+    },
+    {
+      "slug": "anantaora-ai-career-guide",
+      "title": "ANANTAORA AI Career Guide",
+      "description": "Find your passion from potential to propose build your future",
+      "image": "https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/926/989/datas/medium.png",
+      "category": "Education",
+      "members": [
+        {
+          "handle": "budihalkartik8",
+          "name": "budihalkartik8",
+          "url": "https://devpost.com/budihalkartik8"
+        }
+      ],
+      "url": "https://devpost.com/software/anantaora-ai-career-guide",
+      "repo_url": null,
+      "demo_url": null
+    },
+    {
+      "slug": "salestrics-04pjs7",
+      "title": "Salestrics",
+      "description": "Replace your startup Frankenstack with one AI-native revenue workspace for CRM, collaboration, communication, automation, finance, and operations.",
+      "image": "https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/918/066/datas/medium.png",
+      "category": null,
+      "members": [
+        {
+          "handle": "buhlaustin",
+          "name": "buhlaustin",
+          "url": "https://devpost.com/buhlaustin"
+        }
+      ],
+      "url": "https://devpost.com/software/salestrics-04pjs7",
+      "repo_url": null,
+      "demo_url": null
+    },
+    {
+      "slug": "vibaenvissionaries",
+      "title": "AnbuLoop",
+      "description": "A consent-first voice-note learning loop that helps children understand, reply to, and learn the language of their grandparents.",
+      "image": "https://d2dmyh35ffsxbl.cloudfront.net/assets/shared/devpost_social_icon_200_200-f56e5af715a1d95e0209bb37e899b7c18c6e7e3b933a3c1f52456a6e2ee85d09.jpg",
+      "category": null,
+      "members": [
+        {
+          "handle": "builds-morpheus",
+          "name": "builds-morpheus",
+          "url": "https://devpost.com/builds-morpheus"
+        }
+      ],
+      "url": "https://devpost.com/software/vibaenvissionaries",
+      "repo_url": "https://github.com/buildsmorpheus/anbuloop",
+      "demo_url": null
+    },
+    {
+      "slug": "breakpoint-6k1qxe",
+      "title": "Breakpoint",
+      "description": "Breakpoint diagnoses the misconception behind failed student code, applies the smallest repair, and verifies understanding before the tests turn green.",
+      "image": "https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/976/371/datas/medium.png",
+      "category": "Education",
+      "members": [
+        {
+          "handle": "buildwithsatvik",
+          "name": "buildwithsatvik",
+          "url": "https://devpost.com/buildwithsatvik"
+        }
+      ],
+      "url": "https://devpost.com/software/breakpoint-6k1qxe",
+      "repo_url": null,
+      "demo_url": null
+    },
+    {
+      "slug": "healthbridge-zd5gnp",
+      "title": "HealthBridge",
+      "description": "Health Bridge helps Filipinos verify matching medicine packs, compare observed prices safely, and arrive prepared for pharmacist and care-team conversations",
+      "image": "https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/946/192/datas/medium.png",
+      "category": null,
+      "members": [
+        {
+          "handle": "nufii45",
+          "name": "nufii45",
+          "url": "https://devpost.com/nufii45"
+        },
+        {
+          "handle": "buildwithvince-ai",
+          "name": "buildwithvince-ai",
+          "url": "https://devpost.com/buildwithvince-ai"
+        },
+        {
+          "handle": "rodneycharlesaustria1124",
+          "name": "rodneycharlesaustria1124",
+          "url": "https://devpost.com/rodneycharlesaustria1124"
+        }
+      ],
+      "url": "https://devpost.com/software/healthbridge-zd5gnp",
+      "repo_url": "https://github.com/nufii45/open-ai",
+      "demo_url": null
+    },
+    {
+      "slug": "gitarchaeologist",
+      "title": "FormCrash Lab",
+      "description": "Break critical user journeys on purpose. FormCrash replays real flows, injects deterministic failures, and proves recovery with before-and-after evidence.",
+      "image": "https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/991/366/datas/medium.png",
+      "category": null,
+      "members": [
+        {
+          "handle": "hafsah999",
+          "name": "hafsah999",
+          "url": "https://devpost.com/hafsah999"
+        },
+        {
+          "handle": "bukharian1776",
+          "name": "bukharian1776",
+          "url": "https://devpost.com/bukharian1776"
+        }
+      ],
+      "url": "https://devpost.com/software/gitarchaeologist",
+      "repo_url": "https://github.com/SalAkBuK/formcrash",
+      "demo_url": null
+    },
+    {
+      "slug": "fargate-spot-autopilot",
+      "title": "Fargate Spot Autopilot",
+      "description": "Automatic fallback from Fargate Spot to on-demand Fargate, with gradual recovery inside the same ECS service without taking over desiredCount.",
+      "image": "https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/989/515/datas/medium.png",
+      "category": null,
+      "members": [
+        {
+          "handle": "bukov-ka",
+          "name": "bukov-ka",
+          "url": "https://devpost.com/bukov-ka"
+        }
+      ],
+      "url": "https://devpost.com/software/fargate-spot-autopilot",
+      "repo_url": "https://github.com/bukov-ka/fargate-spot-autopilot",
+      "demo_url": null
+    },
+    {
+      "slug": "accio-xwy6pv",
+      "title": "Siorb",
+      "description": "Multi platform package manager. Now its not important if you're on Mac/Windows/Linux, you need to have only one packet manager. No more problems after operating system migrations.",
+      "image": "https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/896/369/datas/medium.png",
+      "category": null,
+      "members": [
+        {
+          "handle": "bulengerk",
+          "name": "bulengerk",
+          "url": "https://devpost.com/bulengerk"
+        }
+      ],
+      "url": "https://devpost.com/software/accio-xwy6pv",
+      "repo_url": "https://github.com/bulengerk/siorb",
+      "demo_url": null
+    },
+    {
+      "slug": "lyy-motorcycle",
+      "title": "LYY Motorcycle",
+      "description": "Web App for motorcycle shop",
+      "image": "https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/907/323/datas/medium.jpg",
+      "category": null,
+      "members": [
+        {
+          "handle": "bunditsing",
+          "name": "bunditsing",
+          "url": "https://devpost.com/bunditsing"
+        }
+      ],
+      "url": "https://devpost.com/software/lyy-motorcycle",
+      "repo_url": null,
+      "demo_url": null
+    },
+    {
+      "slug": "cloudkeep-rivals",
+      "title": "Cloudkeep Rivals",
+      "description": "Founded with GPT-5.5, made release-ready by one doctor with Codex and GPT-5.6.",
+      "image": "https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/915/796/datas/medium.png",
+      "category": null,
+      "members": [
+        {
+          "handle": "burak-devoloper-app",
+          "name": "burak-devoloper-app",
+          "url": "https://devpost.com/burak-devoloper-app"
+        }
+      ],
+      "url": "https://devpost.com/software/cloudkeep-rivals",
+      "repo_url": "https://github.com/burakdevoloperapp-del/cloudkeep-rivals-openai-build-week-2026",
+      "demo_url": null
+    },
+    {
+      "slug": "yuki-the-curious-desktop-robot",
+      "title": "Yuki: The Curious Desktop Robot",
+      "description": "An expressive desktop robot that follows your face, wakes to gestures, explores the web around your interests, and starts conversations through animation, voice, movement, and light.",
+      "image": "https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/005/007/417/datas/medium.png",
+      "category": null,
+      "members": [
+        {
+          "handle": "buryhuang",
+          "name": "buryhuang",
+          "url": "https://devpost.com/buryhuang"
+        }
+      ],
+      "url": "https://devpost.com/software/yuki-the-curious-desktop-robot",
+      "repo_url": "https://github.com/baryhuang/yuki-desktop-robot",
+      "demo_url": null
+    },
+    {
+      "slug": "crisisresponse",
+      "title": "CrisisResponse",
+      "description": "AI multi-agent system that guides people through life-threatening emergencies in real time  step by step, in any language, anywhere in the world. Powered by GPT-5.6.",
+      "image": "https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/951/995/datas/medium.png",
+      "category": null,
+      "members": [
+        {
+          "handle": "fdumary",
+          "name": "fdumary",
+          "url": "https://devpost.com/fdumary"
+        },
+        {
+          "handle": "muhammadabdullahb52",
+          "name": "muhammadabdullahb52",
+          "url": "https://devpost.com/muhammadabdullahb52"
+        },
+        {
+          "handle": "bushranasir530",
+          "name": "bushranasir530",
+          "url": "https://devpost.com/bushranasir530"
+        },
+        {
+          "handle": "habibbuneri343",
+          "name": "habibbuneri343",
+          "url": "https://devpost.com/habibbuneri343"
+        }
+      ],
+      "url": "https://devpost.com/software/crisisresponse",
+      "repo_url": "https://github.com/habib-u-rahman/CrisisResponse/",
+      "demo_url": null
+    },
+    {
+      "slug": "pragyanta-tutor",
+      "title": "Pragyanta Tutor – Grounded AI Learning with RAG",
+      "description": "Pragyanta is a source-bound adaptive tutor for teachers. A teacher uploads trusted lesson material, and students receive level-appropriate explanations with evidence from that lesson.",
+      "image": "https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/997/417/datas/medium.png",
+      "category": "Education",
+      "members": [
+        {
+          "handle": "business-creatives4",
+          "name": "business-creatives4",
+          "url": "https://devpost.com/business-creatives4"
+        }
+      ],
+      "url": "https://devpost.com/software/pragyanta-tutor",
+      "repo_url": "https://github.com/SAdigisoft/pragyanta-tutor",
+      "demo_url": null
+    },
+    {
+      "slug": "gogo-history-simulator",
+      "title": "GOGO History Simulator",
+      "description": "A browser-based decision simulator about choosing machines from incomplete data.",
+      "image": "https://d2dmyh35ffsxbl.cloudfront.net/assets/shared/devpost_social_icon_200_200-f56e5af715a1d95e0209bb37e899b7c18c6e7e3b933a3c1f52456a6e2ee85d09.jpg",
+      "category": null,
+      "members": [
+        {
+          "handle": "business-ryotoku",
+          "name": "business-ryotoku",
+          "url": "https://devpost.com/business-ryotoku"
+        }
+      ],
+      "url": "https://devpost.com/software/gogo-history-simulator",
+      "repo_url": "https://github.com/rrrtstudio/gogo-history-simulator",
+      "demo_url": null
+    },
+    {
+      "slug": "cryptorafts",
+      "title": "Cryptorafts",
+      "description": "ryptorafts AI is an AI-powered Web3 infrastructure platform that helps founders raise capital, find partners, complete AI KYC/KYB verification, and automate fundraising using intelligent AI agents.",
+      "image": "https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/955/350/datas/medium.png",
+      "category": null,
+      "members": [
+        {
+          "handle": "business206",
+          "name": "business206",
+          "url": "https://devpost.com/business206"
+        }
+      ],
+      "url": "https://devpost.com/software/cryptorafts",
+      "repo_url": null,
+      "demo_url": null
+    },
+    {
+      "slug": "lessonbend",
+      "title": "LessonBend",
+      "description": "Bend the lesson, not the kid. \r\nPaste any lesson and Codex generates a different playable version for every learner, tailored to how they learn best, with zero student data collected.",
+      "image": "https://d2dmyh35ffsxbl.cloudfront.net/assets/shared/devpost_social_icon_200_200-f56e5af715a1d95e0209bb37e899b7c18c6e7e3b933a3c1f52456a6e2ee85d09.jpg",
+      "category": "Education",
+      "members": [
+        {
+          "handle": "business476",
+          "name": "business476",
+          "url": "https://devpost.com/business476"
+        }
+      ],
+      "url": "https://devpost.com/software/lessonbend",
+      "repo_url": "https://github.com/imgero/lessonbend",
+      "demo_url": null
+    },
+    {
+      "slug": "contextkit",
+      "title": "BeforeShip",
+      "description": "Open-source CLI and MCP launch gate that checks AI-built apps for production blockers before deploy.",
+      "image": "https://d2dmyh35ffsxbl.cloudfront.net/assets/shared/devpost_social_icon_200_200-f56e5af715a1d95e0209bb37e899b7c18c6e7e3b933a3c1f52456a6e2ee85d09.jpg",
+      "category": "Developer Tools",
+      "members": [
+        {
+          "handle": "buzz39",
+          "name": "buzz39",
+          "url": "https://devpost.com/buzz39"
+        }
+      ],
+      "url": "https://devpost.com/software/contextkit",
+      "repo_url": "https://github.com/buzz39/beforeship/releases/tag/v0.1.5",
+      "demo_url": null
+    },
+    {
+      "slug": "hives-your-feeds-clustered",
+      "title": "hives - Your feeds, clustered",
+      "description": "A web-based RSS reader that uses an on-device model to cluster your entries",
+      "image": "https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/999/087/datas/medium.jpg",
+      "category": null,
+      "members": [
+        {
+          "handle": "buzzb0x",
+          "name": "buzzb0x",
+          "url": "https://devpost.com/buzzb0x"
+        }
+      ],
+      "url": "https://devpost.com/software/hives-your-feeds-clustered",
+      "repo_url": "https://github.com/buzzb0x/hives",
+      "demo_url": null
+    },
+    {
+      "slug": "note-rush",
+      "title": "Note Rush — See It. Hear It. Play It.",
+      "description": "Six arcade-style games turn music reading, rhythm, ear training, and real instrument practice into one irresistible learning loop: see it, hear it, play it.",
+      "image": "https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/923/100/datas/medium.png",
+      "category": null,
+      "members": [
+        {
+          "handle": "bvalin",
+          "name": "bvalin",
+          "url": "https://devpost.com/bvalin"
+        }
+      ],
+      "url": "https://devpost.com/software/note-rush",
+      "repo_url": null,
       "demo_url": null
     }
   ]
