@@ -317,6 +317,36 @@ def publish_scores_partial(prefix):
     print(f"published {len(scores)} complete batch scorecards to {output}")
 
 
+def publish_partial_labels(prefix):
+    """Publish complete category batches while a category run is ongoing."""
+    base, input_path, _ = paths(prefix)
+    expected = {record["slug"] for record in load_json(input_path)}
+    output = ROOT / "data" / "openai-build-week-classifications.json"
+    labels = load_json(output).get("labels", {}) if output.exists() else {}
+    for batch_output in sorted((base / "outputs").glob("batch-*.json")):
+        try:
+            items = parse_output(batch_output.read_text())
+        except ValueError:
+            continue
+        batch = {}
+        valid = True
+        for item in items:
+            slug_value, category = item.get("slug"), item.get("category")
+            if slug_value not in expected or slug_value in batch or category not in CATEGORIES:
+                valid = False
+                break
+            batch[slug_value] = {"category": category, "confidence": item.get("confidence")}
+        if valid:
+            labels.update(batch)
+    atomic_json(output, {
+        "generated_at": datetime.now(timezone.utc).isoformat(),
+        "count": len(labels),
+        "complete": expected <= set(labels),
+        "labels": labels,
+    })
+    print(f"published {len(labels)} category labels to {output}")
+
+
 def run_batches(slug, workers):
     """Run independent, fresh-context Hy3 calls over prepared prompt files."""
     base, _, _ = paths(slug)
@@ -405,7 +435,7 @@ def publish(slug):
 def main():
     parser = argparse.ArgumentParser()
     parser.add_argument("slug")
-    parser.add_argument("action", choices=("prepare", "batches", "score-batches", "run", "validate", "score-validate", "publish", "score-publish", "score-partial-publish", "merge"))
+    parser.add_argument("action", choices=("prepare", "batches", "score-batches", "run", "validate", "score-validate", "publish", "partial-publish", "score-publish", "score-partial-publish", "merge"))
     parser.add_argument("--delay", type=float, default=0.4)
     parser.add_argument("--batch-size", type=int, default=20)
     parser.add_argument("--workers", type=int, default=10)
@@ -423,6 +453,8 @@ def main():
         sys.exit(0 if validate(args.slug) else 1)
     elif args.action == "score-validate":
         sys.exit(0 if validate_scores(args.slug) else 1)
+    elif args.action == "partial-publish":
+        publish_partial_labels(args.slug)
     elif args.action == "score-publish":
         publish_scores(args.slug)
     elif args.action == "score-partial-publish":

@@ -35,6 +35,10 @@ def publish_once():
         [sys.executable, "classify_projects.py", "openai-build-week-score-002", "score-partial-publish"],
         cwd=ROOT, check=False,
     )
+    subprocess.run(
+        [sys.executable, "classify_projects.py", "openai-build-week-snapshot-004", "partial-publish"],
+        cwd=ROOT, check=False,
+    )
     paths = [path for path in PUBLIC_PATHS if (ROOT / path).exists()]
     changed = git("diff", "--quiet", "--", *paths, check=False).returncode != 0
     untracked = [path for path in paths if git("ls-files", "--error-unmatch", path, check=False).returncode != 0]
