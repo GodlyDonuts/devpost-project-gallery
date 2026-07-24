@@ -2,7 +2,7 @@
   "slug": "openai-build-week",
   "name": "OpenAI Build Week",
   "hackathon_id": "30223",
-  "generated_at": "2026-07-24T04:24:50.670232+00:00",
+  "generated_at": "2026-07-24T04:25:52.506800+00:00",
   "categories": [
     "Apps for Your Life",
     "Work & Productivity",
@@ -55,7 +55,8 @@
       ],
       "url": "https://devpost.com/software/runtime-hex-nobody-owns-the-signal",
       "repo_url": "https://github.com/RuntimeHex/runtime-hex-signal",
-      "demo_url": null
+      "demo_url": null,
+      "image": "https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/994/343/datas/medium.png"
     },
     {
       "slug": "wyrd-ai",
@@ -86,7 +87,8 @@
       ],
       "url": "https://devpost.com/software/wyrd-ai",
       "repo_url": "https://github.com/acatovic/wyrd-ai",
-      "demo_url": null
+      "demo_url": null,
+      "image": "https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/953/488/datas/medium.png"
     },
     {
       "slug": "diff-forge-ai",
@@ -162,7 +164,8 @@
       ],
       "url": "https://devpost.com/software/diff-forge-ai",
       "repo_url": "https://github.com/Rizzist/diffforge-client",
-      "demo_url": "https://youtu.be/X6G8zKFdUdo"
+      "demo_url": "https://youtu.be/X6G8zKFdUdo",
+      "image": "https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/969/812/datas/medium.png"
     },
     {
       "slug": "angels-board",
@@ -213,7 +216,8 @@
       ],
       "url": "https://devpost.com/software/angels-board",
       "repo_url": null,
-      "demo_url": null
+      "demo_url": null,
+      "image": "https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/974/235/datas/medium.png"
     },
     {
       "slug": "57loop-the-human-sidecar-for-codex",
@@ -244,7 +248,8 @@
       ],
       "url": "https://devpost.com/software/57loop-the-human-sidecar-for-codex",
       "repo_url": "https://github.com/sundaynighttt/57loop-workspace",
-      "demo_url": null
+      "demo_url": null,
+      "image": "https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/945/591/datas/medium.png"
     },
     {
       "slug": "healthy-living-tracker-wellness-your-way",
@@ -275,7 +280,8 @@
       ],
       "url": "https://devpost.com/software/healthy-living-tracker-wellness-your-way",
       "repo_url": "https://github.com/saigorantla07/healthy-living-tracker-build-week/releases/tag/v1.1.2-build-week",
-      "demo_url": null
+      "demo_url": null,
+      "image": "https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/984/512/datas/medium.jpg"
     },
     {
       "slug": "hermes-world",
@@ -356,7 +362,8 @@
       ],
       "url": "https://devpost.com/software/hermes-world",
       "repo_url": "https://github.com/filipj9/Hermes-world.git",
-      "demo_url": null
+      "demo_url": null,
+      "image": "https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/897/304/datas/medium.png"
     },
     {
       "slug": "avatar-platform-doctor",
@@ -382,7 +389,8 @@
       ],
       "url": "https://devpost.com/software/avatar-platform-doctor",
       "repo_url": null,
-      "demo_url": null
+      "demo_url": null,
+      "image": "https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/941/693/datas/medium.png"
     },
     {
       "slug": "studynest-o0t8kd",
@@ -428,7 +436,8 @@
       ],
       "url": "https://devpost.com/software/studynest-o0t8kd",
       "repo_url": "https://github.com/nehaanndev/StudyNest/releases/tag/v1.0.0-build-week",
-      "demo_url": null
+      "demo_url": null,
+      "image": "https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/005/010/061/datas/medium.png"
     },
     {
       "slug": "datart",
@@ -459,7 +468,8 @@
       ],
       "url": "https://devpost.com/software/datart",
       "repo_url": "https://github.com/gyunghwaroh/datart",
-      "demo_url": null
+      "demo_url": null,
+      "image": "https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/982/056/datas/medium.png"
     },
     {
       "slug": "medico-ai-symptom-analyser-app",
@@ -490,7 +500,8 @@
       ],
       "url": "https://devpost.com/software/medico-ai-symptom-analyser-app",
       "repo_url": "https://github.com/alyasahmuhammed/medico-ai-symptom-analyser-app",
-      "demo_url": null
+      "demo_url": null,
+      "image": "https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/969/384/datas/medium.JPG"
     },
     {
       "slug": "pocket-butler",
@@ -521,7 +532,8 @@
       ],
       "url": "https://devpost.com/software/pocket-butler",
       "repo_url": "https://github.com/Ashil2005/Pocket-butler",
-      "demo_url": null
+      "demo_url": null,
+      "image": "https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/981/998/datas/medium.jpg"
     },
     {
       "slug": "mediremind-trfuln",
@@ -567,7 +579,8 @@
       ],
       "url": "https://devpost.com/software/mediremind-trfuln",
       "repo_url": "https://github.com/sinapstechnology/mediremind",
-      "demo_url": null
+      "demo_url": null,
+      "image": "https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/997/626/datas/medium.png"
     },
     {
       "slug": "neutra-lend",
@@ -598,7 +611,8 @@
       ],
       "url": "https://devpost.com/software/neutra-lend",
       "repo_url": "https://github.com/codergani/Neutra-Lend",
-      "demo_url": null
+      "demo_url": null,
+      "image": "https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/990/786/datas/medium.png"
     },
     {
       "slug": "vibeseq",
@@ -684,7 +698,8 @@
       ],
       "url": "https://devpost.com/software/vibeseq",
       "repo_url": "https://github.com/acidsound/VibeSeq/releases/tag/v0.1.2",
-      "demo_url": null
+      "demo_url": null,
+      "image": "https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/916/095/datas/medium.png"
     },
     {
       "slug": "pillai-kphvqt",
@@ -730,7 +745,8 @@
       ],
       "url": "https://devpost.com/software/pillai-kphvqt",
       "repo_url": "https://github.com/K4risma/PillAI",
-      "demo_url": null
+      "demo_url": null,
+      "image": "https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/005/011/430/datas/medium.png"
     },
     {
       "slug": "postbirth",
@@ -761,7 +777,8 @@
       ],
       "url": "https://devpost.com/software/postbirth",
       "repo_url": "https://github.com/anil29creative-lgtm/postBirth",
-      "demo_url": null
+      "demo_url": null,
+      "image": "https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/948/834/datas/medium.png"
     },
     {
       "slug": "tor-arg-tornado-argentino",
@@ -792,7 +809,8 @@
       ],
       "url": "https://devpost.com/software/tor-arg-tornado-argentino",
       "repo_url": "https://github.com/alanhertler/tor-arg-web",
-      "demo_url": null
+      "demo_url": null,
+      "image": "https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/970/471/datas/medium.png"
     },
     {
       "slug": "conversate-confirm",
@@ -823,7 +841,8 @@
       ],
       "url": "https://devpost.com/software/conversate-confirm",
       "repo_url": "https://github.com/Flash-Bri/conversate/actions/runs/29825699954",
-      "demo_url": null
+      "demo_url": null,
+      "image": "https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/898/410/datas/medium.png"
     },
     {
       "slug": "policylense",
@@ -854,7 +873,8 @@
       ],
       "url": "https://devpost.com/software/policylense",
       "repo_url": "https://github.com/sur01pat/PolicyLense.git",
-      "demo_url": null
+      "demo_url": null,
+      "image": "https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/937/935/datas/medium.png"
     },
     {
       "slug": "moment-scraper",
@@ -915,7 +935,8 @@
       ],
       "url": "https://devpost.com/software/moment-scraper",
       "repo_url": null,
-      "demo_url": null
+      "demo_url": null,
+      "image": "https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/993/172/datas/medium.jpeg"
     }
   ]
 }

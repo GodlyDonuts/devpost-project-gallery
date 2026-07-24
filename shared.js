@@ -71,9 +71,18 @@ function projectCard(p) {
   if (p.demo_url)
     links.push('<a href="' + escapeHtml(p.demo_url) + '" target="_blank" rel="noopener">Demo ↗</a>');
 
+  const seed = slug || title;
+  const coverEl = p.image
+    ? '<div class="card-cover"><img class="card-thumb" src="' +
+      escapeHtml(p.image) +
+      '" alt="' +
+      escapeHtml(title) +
+      '" loading="lazy" onerror="this.closest(\'.card-cover\').classList.add(\'no-img\')" /></div>'
+    : '<div class="card-cover" style="background:' + coverGradient(seed) + '"></div>';
+
   return (
     '<article class="card">' +
-    '<div class="card-cover" style="background:' + coverGradient(slug || title) + '"></div>' +
+    coverEl +
     '<div class="card-body">' +
     '<span class="tag">' + escapeHtml(cat) + "</span>" +
     '<h3><a href="' + escapeHtml(url) + '" target="_blank" rel="noopener">' + escapeHtml(title) + "</a></h3>" +

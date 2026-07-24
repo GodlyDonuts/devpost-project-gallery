@@ -157,6 +157,11 @@ def parse_project(html, slug, categories, hackathon_name):
     if ogd and ogd.get("content"):
         desc = str(ogd["content"]).strip()
 
+    image = ""
+    ogi = soup.find("meta", property="og:image")
+    if ogi and ogi.get("content"):
+        image = str(ogi["content"]).strip()
+
     members = []
     seen = set()
     for a in soup.find_all("a", href=True):
@@ -191,6 +196,7 @@ def parse_project(html, slug, categories, hackathon_name):
         "slug": slug,
         "title": title,
         "description": desc,
+        "image": image,
         "category": category if submitted_here else None,
         "submitted_to_hackathon": submitted_here,
         "members": members,
@@ -310,6 +316,7 @@ def process_hackathon(cfg):
                         "slug": info["slug"],
                         "title": info["title"],
                         "description": info["description"],
+                        "image": info["image"],
                         "category": info["category"],
                         "members": info["members"],
                         "url": info["url"],
