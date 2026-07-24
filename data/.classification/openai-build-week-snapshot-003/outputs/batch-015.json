@@ -1,0 +1,22 @@
+[
+  {"slug": "comictutor", "category": "Education", "confidence": 92},
+  {"slug": "edurashi", "category": "Education", "confidence": 95},
+  {"slug": "oceania-venus", "category": "Apps for Your Life", "confidence": 80},
+  {"slug": "learnsol", "category": "Education", "confidence": 90},
+  {"slug": "loop-engineer", "category": "Education", "confidence": 82},
+  {"slug": "open-bluetooth-printer", "category": "Apps for Your Life", "confidence": 72},
+  {"slug": "ai-quantdesk-for-retail", "category": "Apps for Your Life", "confidence": 84},
+  {"slug": "qfleet-quantitative-ai-harness-for-financial-intelligence", "category": "Work & Productivity", "confidence": 90},
+  {"slug": "cybieverse", "category": "Apps for Your Life", "confidence": 88},
+  {"slug": "budget-tracking-bot", "category": "Apps for Your Life", "confidence": 90},
+  {"slug": "canadianbanknews-ai", "category": "Apps for Your Life", "confidence": 86},
+  {"slug": "briefloop", "category": "Work & Productivity", "confidence": 90},
+  {"slug": "aigov-human-governed-gdpr-audits", "category": "Work & Productivity", "confidence": 88},
+  {"slug": "pea-pilot", "category": "Apps for Your Life", "confidence": 88},
+  {"slug": "strategic-planner", "category": "Work & Productivity", "confidence": 78},
+  {"slug": "stink-radar", "category": "Apps for Your Life", "confidence": 90},
+  {"slug": "test-6eyjkg", "category": "Work & Productivity", "confidence": 90},
+  {"slug": "nova-the-optimal-ai-mind", "category": "Developer Tools", "confidence": 62},
+  {"slug": "real-time-hospital-intelligence-platform", "category": "Work & Productivity", "confidence": 90},
+  {"slug": "zipity", "category": "Education", "confidence": 90}
+]

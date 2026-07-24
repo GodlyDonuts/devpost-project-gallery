@@ -1,0 +1,22 @@
+[
+  {"slug": "groundline", "category": "Work & Productivity", "confidence": 85},
+  {"slug": "alpha-omega", "category": "Developer Tools", "confidence": 78},
+  {"slug": "la-linterna", "category": "Apps for Your Life", "confidence": 88},
+  {"slug": "real-rpg-project", "category": "Apps for Your Life", "confidence": 95},
+  {"slug": "agentpay-agents-that-pay", "category": "Apps for Your Life", "confidence": 90},
+  {"slug": "arc-coaching-for-the-long-run", "category": "Apps for Your Life", "confidence": 95},
+  {"slug": "runtime-hex-nobody-owns-the-signal", "category": "Apps for Your Life", "confidence": 95},
+  {"slug": "spatialmind-z4fw9r", "category": "Apps for Your Life", "confidence": 90},
+  {"slug": "cortex-tv", "category": "Apps for Your Life", "confidence": 90},
+  {"slug": "the-second-gate", "category": "Work & Productivity", "confidence": 85},
+  {"slug": "travlr-ai", "category": "Apps for Your Life", "confidence": 95},
+  {"slug": "themeforge", "category": "Work & Productivity", "confidence": 85},
+  {"slug": "reprobot", "category": "Developer Tools", "confidence": 95},
+  {"slug": "cairn-pet-contract-lab", "category": "Developer Tools", "confidence": 95},
+  {"slug": "aicompliance-buildweek", "category": "Work & Productivity", "confidence": 95},
+  {"slug": "tutori", "category": "Education", "confidence": 95},
+  {"slug": "logfound", "category": "Work & Productivity", "confidence": 88},
+  {"slug": "codearbiter-c59puo", "category": "Developer Tools", "confidence": 95},
+  {"slug": "stagebridge-ai", "category": "Developer Tools", "confidence": 85},
+  {"slug": "campushub-nrq1wo", "category": "Apps for Your Life", "confidence": 78}
+]

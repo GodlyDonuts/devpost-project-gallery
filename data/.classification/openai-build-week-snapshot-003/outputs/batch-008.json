@@ -1,0 +1,22 @@
+[
+  {"slug": "puls-your-personal-ai-mechanic", "category": "Apps for Your Life", "confidence": 90},
+  {"slug": "ai-school-tutor", "category": "Education", "confidence": 95},
+  {"slug": "researchkit", "category": "Work & Productivity", "confidence": 78},
+  {"slug": "skillskit", "category": "Developer Tools", "confidence": 95},
+  {"slug": "brainkit-hgifms", "category": "Developer Tools", "confidence": 75},
+  {"slug": "analyst-copilot", "category": "Work & Productivity", "confidence": 90},
+  {"slug": "nothing-more", "category": "Apps for Your Life", "confidence": 85},
+  {"slug": "maya-care", "category": "Apps for Your Life", "confidence": 95},
+  {"slug": "questlearn-rvdau2", "category": "Education", "confidence": 90},
+  {"slug": "studiolite", "category": "Apps for Your Life", "confidence": 90},
+  {"slug": "signalcut", "category": "Developer Tools", "confidence": 72},
+  {"slug": "project-slash-50", "category": "Work & Productivity", "confidence": 85},
+  {"slug": "prompt-ui-academy", "category": "Education", "confidence": 95},
+  {"slug": "cattleos", "category": "Work & Productivity", "confidence": 72},
+  {"slug": "vanta-study", "category": "Education", "confidence": 95},
+  {"slug": "onhand", "category": "Education", "confidence": 90},
+  {"slug": "reapp-5r8eyi", "category": "Apps for Your Life", "confidence": 85},
+  {"slug": "photomaster", "category": "Apps for Your Life", "confidence": 95},
+  {"slug": "open-clank", "category": "Apps for Your Life", "confidence": 45},
+  {"slug": "realdoor", "category": "Apps for Your Life", "confidence": 90}
+]
