@@ -172,7 +172,7 @@ def parse_project(html, slug, categories, hackathon_name):
     text = soup.get_text(" ", strip=True)
     submitted_here = hackathon_name.lower() in text.lower()
 
-    category = "Uncategorized"
+    category = None  # track labels aren't on public pages; filled in manually later
     for c in categories:
         if re.search(r"\b" + re.escape(c) + r"\b", text, re.I):
             category = c

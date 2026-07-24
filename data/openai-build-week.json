@@ -2,26 +2,920 @@
   "slug": "openai-build-week",
   "name": "OpenAI Build Week",
   "hackathon_id": "30223",
-  "generated_at": "2026-07-23T00:00:00+00:00",
+  "generated_at": "2026-07-24T02:59:45.636959+00:00",
   "categories": [
     "Apps for Your Life",
     "Work & Productivity",
     "Developer Tools",
     "Education"
   ],
-  "count": 12,
+  "count": 21,
   "projects": [
-    { "title": "Lumen — AI Reading Companion", "slug": "lumen-ai-reading", "category": "Education", "description": "Turns any PDF into an adaptive, chat-driven study guide that quizzes you on the concepts you're weakest at.", "members": [{ "name": "Maya Chen" }, { "name": "Dev Patel" }], "repo_url": "https://github.com/example/lumen", "demo_url": "https://lumen.example.dev" },
-    { "title": "Cadence — Focus Timer for Deep Work", "slug": "cadence-focus", "category": "Apps for Your Life", "description": "A liquid-glass pomodoro that scores your focus sessions and gently reschedules your day around your energy dips.", "members": [{ "name": "Sofia Reyes" }], "demo_url": "https://cadence.example.dev" },
-    { "title": "Patchwork — AI Code Review Bot", "slug": "patchwork-review", "category": "Developer Tools", "description": "Drops contextual, line-level review comments on every PR, catching bugs and suggesting tests before humans look.", "members": [{ "name": "Alex Kim" }, { "name": "Jordan Lee" }, { "name": "Priya Nair" }], "repo_url": "https://github.com/example/patchwork" },
-    { "title": "Briefly — Meeting Notes That Write Themselves", "slug": "briefly-notes", "category": "Work & Productivity", "description": "Joins your calls, drafts action items, and files them into the right project doc automatically.", "members": [{ "name": "Tomás García" }, { "name": "Lena Müller" }], "demo_url": "https://briefly.example.dev" },
-    { "title": "Recipeal — Snap a Fridge, Get Dinner", "slug": "recipeal", "category": "Apps for Your Life", "description": "Photos your fridge and generates recipes you can actually cook, with a one-tap grocery list.", "members": [{ "name": "Hana Sato" }], "repo_url": "https://github.com/example/recipeal" },
-    { "title": "Tutorly — 1:1 Math Tutor for Kids", "slug": "tutorly", "category": "Education", "description": "A patient, voice-first tutor that adapts explanations to a child's grade level and mood.", "members": [{ "name": "Omar Hassan" }, { "name": "Ella Brooks" }], "demo_url": "https://tutorly.example.dev" },
-    { "title": "Shipwright — Scaffold Apps from a Prompt", "slug": "shipwright", "category": "Developer Tools", "description": "Describe the app you want and get a runnable full-stack repo with tests, CI, and a deploy button.", "members": [{ "name": "Nina Volkov" }, { "name": "Sam O'Neil" }, { "name": "Kai Tanaka" }], "repo_url": "https://github.com/example/shipwright" },
-    { "title": "Flowstate — Team Standups Without the Meeting", "slug": "flowstate", "category": "Work & Productivity", "description": "Async standups that summarize blockers and auto-ping the right person to unblock the team.", "members": [{ "name": "Ravi Menon" }], "demo_url": "https://flowstate.example.dev" },
-    { "title": "Verba — Language Practice That Feels Real", "slug": "verba", "category": "Education", "description": "Role-plays real-world conversations in 30 languages, correcting you mid-sentence like a native friend.", "members": [{ "name": "Yuki Mori" }, { "name": "Carla Díaz" }], "repo_url": "https://github.com/example/verba" },
-    { "title": "Pocket Chef — Healthy Meals on a Budget", "slug": "pocket-chef", "category": "Apps for Your Life", "description": "Plans a week of cheap, healthy meals around what's on sale at your local store.", "members": [{ "name": "Ben Carter" }, { "name": "Aïsha Diallo" }], "demo_url": "https://pocketchef.example.dev" },
-    { "title": "Lintlight — Instant API Docs from Code", "slug": "lintlight", "category": "Developer Tools", "description": "Watches your repo and keeps your API docs in sync with the actual endpoints — no more stale READMEs.", "members": [{ "name": "Felix Wolf" }], "repo_url": "https://github.com/example/lintlight" },
-    { "title": "Clarity — Summarize Long Docs in Seconds", "slug": "clarity-docs", "category": "Work & Productivity", "description": "Drops a browser overlay that summarizes any page, thread, or PDF into a five-bullet brief.", "members": [{ "name": "Grace Liu" }, { "name": "Diego Santos" }], "demo_url": "https://clarity.example.dev" }
+    {
+      "slug": "runtime-hex-nobody-owns-the-signal",
+      "title": "Runtime Hex: Nobody Owns the Signal",
+      "description": "A retro text adventure about inherited roads, costly help, and the choices nobody can assign you.",
+      "category": null,
+      "members": [
+        {
+          "handle": "hackathons",
+          "name": "Devpost\n      Participate in our public hackathons",
+          "url": "https://devpost.com/hackathons"
+        },
+        {
+          "handle": "software",
+          "name": "Projects",
+          "url": "https://devpost.com/software"
+        },
+        {
+          "handle": "RuntimeHex",
+          "name": "RuntimeHex",
+          "url": "https://devpost.com/RuntimeHex"
+        },
+        {
+          "handle": "RuntimeHex",
+          "name": "Runtime Hex",
+          "url": "https://devpost.com/RuntimeHex"
+        },
+        {
+          "handle": "RuntimeHex",
+          "name": "RuntimeHex",
+          "url": "https://devpost.com/RuntimeHex"
+        },
+        {
+          "handle": "RuntimeHex",
+          "name": "Runtime Hex",
+          "url": "https://devpost.com/RuntimeHex"
+        },
+        {
+          "handle": "settings",
+          "name": "Settings",
+          "url": "https://devpost.com/settings"
+        }
+      ],
+      "url": "https://devpost.com/software/runtime-hex-nobody-owns-the-signal",
+      "repo_url": "https://github.com/RuntimeHex/runtime-hex-signal",
+      "demo_url": null
+    },
+    {
+      "slug": "wyrd-ai",
+      "title": "Wyrd AI",
+      "description": "Wyrd AI is a content-first toolkit for creating browser-playable, first-person interactive fiction.",
+      "category": null,
+      "members": [
+        {
+          "handle": "hackathons",
+          "name": "Devpost\n      Participate in our public hackathons",
+          "url": "https://devpost.com/hackathons"
+        },
+        {
+          "handle": "software",
+          "name": "Projects",
+          "url": "https://devpost.com/software"
+        },
+        {
+          "handle": "acatovic",
+          "name": "acatovic",
+          "url": "https://devpost.com/acatovic"
+        },
+        {
+          "handle": "settings",
+          "name": "Settings",
+          "url": "https://devpost.com/settings"
+        }
+      ],
+      "url": "https://devpost.com/software/wyrd-ai",
+      "repo_url": "https://github.com/acatovic/wyrd-ai",
+      "demo_url": null
+    },
+    {
+      "slug": "diff-forge-ai",
+      "title": "Diff Forge AI",
+      "description": "Diff Forge lets developers direct Codex, Claude Code and OpenCode in parallel by voice, vision and workflows, with a local safety kernel and secure control from any device—while your code stays local.",
+      "category": null,
+      "members": [
+        {
+          "handle": "hackathons",
+          "name": "Devpost\n      Participate in our public hackathons",
+          "url": "https://devpost.com/hackathons"
+        },
+        {
+          "handle": "software",
+          "name": "Projects",
+          "url": "https://devpost.com/software"
+        },
+        {
+          "handle": "Rizzist",
+          "name": "Rizzist",
+          "url": "https://devpost.com/Rizzist"
+        },
+        {
+          "handle": "Rizzist",
+          "name": "Syed-Mohammad Raza",
+          "url": "https://devpost.com/Rizzist"
+        },
+        {
+          "handle": "Tea-Resistance",
+          "name": "Tea-Resistance",
+          "url": "https://devpost.com/Tea-Resistance"
+        },
+        {
+          "handle": "codeby-deva",
+          "name": "codeby-deva",
+          "url": "https://devpost.com/codeby-deva"
+        },
+        {
+          "handle": "devpost522",
+          "name": "devpost522",
+          "url": "https://devpost.com/devpost522"
+        },
+        {
+          "handle": "Rizzist",
+          "name": "Rizzist",
+          "url": "https://devpost.com/Rizzist"
+        },
+        {
+          "handle": "Rizzist",
+          "name": "Rizzist",
+          "url": "https://devpost.com/Rizzist"
+        },
+        {
+          "handle": "Rizzist",
+          "name": "Syed-Mohammad Raza",
+          "url": "https://devpost.com/Rizzist"
+        },
+        {
+          "handle": "Rizzist",
+          "name": "Rizzist",
+          "url": "https://devpost.com/Rizzist"
+        },
+        {
+          "handle": "Rizzist",
+          "name": "Syed-Mohammad Raza",
+          "url": "https://devpost.com/Rizzist"
+        },
+        {
+          "handle": "settings",
+          "name": "Settings",
+          "url": "https://devpost.com/settings"
+        }
+      ],
+      "url": "https://devpost.com/software/diff-forge-ai",
+      "repo_url": "https://github.com/Rizzist/diffforge-client",
+      "demo_url": "https://youtu.be/X6G8zKFdUdo"
+    },
+    {
+      "slug": "angels-board",
+      "title": "Angels Board",
+      "description": "A governed multi-agent workspace and Model Context Protocol (MCP) host that turns ambiguous developer tasks into evidence-backed, budget-capped, and human-approved outcomes.",
+      "category": null,
+      "members": [
+        {
+          "handle": "hackathons",
+          "name": "Devpost\n      Participate in our public hackathons",
+          "url": "https://devpost.com/hackathons"
+        },
+        {
+          "handle": "software",
+          "name": "Projects",
+          "url": "https://devpost.com/software"
+        },
+        {
+          "handle": "Merdzhanov",
+          "name": "Merdzhanov",
+          "url": "https://devpost.com/Merdzhanov"
+        },
+        {
+          "handle": "Merdzhanov",
+          "name": "Konstantin Merdzhanov",
+          "url": "https://devpost.com/Merdzhanov"
+        },
+        {
+          "handle": "nullx2-x",
+          "name": "nullx2-x",
+          "url": "https://devpost.com/nullx2-x"
+        },
+        {
+          "handle": "Merdzhanov",
+          "name": "Merdzhanov",
+          "url": "https://devpost.com/Merdzhanov"
+        },
+        {
+          "handle": "Merdzhanov",
+          "name": "Konstantin Merdzhanov",
+          "url": "https://devpost.com/Merdzhanov"
+        },
+        {
+          "handle": "settings",
+          "name": "Settings",
+          "url": "https://devpost.com/settings"
+        }
+      ],
+      "url": "https://devpost.com/software/angels-board",
+      "repo_url": null,
+      "demo_url": null
+    },
+    {
+      "slug": "57loop-the-human-sidecar-for-codex",
+      "title": "57loop — Context Translator for Codex",
+      "description": "See what Codex actually changed, understand why, and steer the next result before context is lost.",
+      "category": null,
+      "members": [
+        {
+          "handle": "hackathons",
+          "name": "Devpost\n      Participate in our public hackathons",
+          "url": "https://devpost.com/hackathons"
+        },
+        {
+          "handle": "software",
+          "name": "Projects",
+          "url": "https://devpost.com/software"
+        },
+        {
+          "handle": "jazoo7777",
+          "name": "jazoo7777",
+          "url": "https://devpost.com/jazoo7777"
+        },
+        {
+          "handle": "settings",
+          "name": "Settings",
+          "url": "https://devpost.com/settings"
+        }
+      ],
+      "url": "https://devpost.com/software/57loop-the-human-sidecar-for-codex",
+      "repo_url": "https://github.com/sundaynighttt/57loop-workspace",
+      "demo_url": null
+    },
+    {
+      "slug": "healthy-living-tracker-wellness-your-way",
+      "title": "Healthy Living Tracker — Wellness, Your Way",
+      "description": "Choose what matters, speak naturally, and review every AI-generated wellness log before it is saved.",
+      "category": null,
+      "members": [
+        {
+          "handle": "hackathons",
+          "name": "Devpost\n      Participate in our public hackathons",
+          "url": "https://devpost.com/hackathons"
+        },
+        {
+          "handle": "software",
+          "name": "Projects",
+          "url": "https://devpost.com/software"
+        },
+        {
+          "handle": "saigorantla07",
+          "name": "saigorantla07",
+          "url": "https://devpost.com/saigorantla07"
+        },
+        {
+          "handle": "settings",
+          "name": "Settings",
+          "url": "https://devpost.com/settings"
+        }
+      ],
+      "url": "https://devpost.com/software/healthy-living-tracker-wellness-your-way",
+      "repo_url": "https://github.com/saigorantla07/healthy-living-tracker-build-week/releases/tag/v1.1.2-build-week",
+      "demo_url": null
+    },
+    {
+      "slug": "hermes-world",
+      "title": "Hermes World",
+      "description": "Hermes World is a real-time visual observability layer for multi-agent AI systems.",
+      "category": null,
+      "members": [
+        {
+          "handle": "hackathons",
+          "name": "Devpost\n      Participate in our public hackathons",
+          "url": "https://devpost.com/hackathons"
+        },
+        {
+          "handle": "software",
+          "name": "Projects",
+          "url": "https://devpost.com/software"
+        },
+        {
+          "handle": "stefanrosik31",
+          "name": "stefanrosik31",
+          "url": "https://devpost.com/stefanrosik31"
+        },
+        {
+          "handle": "gajewski-kamil1",
+          "name": "gajewski-kamil1",
+          "url": "https://devpost.com/gajewski-kamil1"
+        },
+        {
+          "handle": "oskar-lenard02",
+          "name": "oskar-lenard02",
+          "url": "https://devpost.com/oskar-lenard02"
+        },
+        {
+          "handle": "Katarzyna_Drag",
+          "name": "Katarzyna_Drag",
+          "url": "https://devpost.com/Katarzyna_Drag"
+        },
+        {
+          "handle": "mz7mz7mz7",
+          "name": "mz7mz7mz7",
+          "url": "https://devpost.com/mz7mz7mz7"
+        },
+        {
+          "handle": "tuandev",
+          "name": "tuandev",
+          "url": "https://devpost.com/tuandev"
+        },
+        {
+          "handle": "DrewBeFree",
+          "name": "DrewBeFree",
+          "url": "https://devpost.com/DrewBeFree"
+        },
+        {
+          "handle": "shuqer60",
+          "name": "shuqer60",
+          "url": "https://devpost.com/shuqer60"
+        },
+        {
+          "handle": "rmaklowicz74",
+          "name": "rmaklowicz74",
+          "url": "https://devpost.com/rmaklowicz74"
+        },
+        {
+          "handle": "spokokuba75",
+          "name": "spokokuba75",
+          "url": "https://devpost.com/spokokuba75"
+        },
+        {
+          "handle": "teknium",
+          "name": "teknium",
+          "url": "https://devpost.com/teknium"
+        },
+        {
+          "handle": "settings",
+          "name": "Settings",
+          "url": "https://devpost.com/settings"
+        }
+      ],
+      "url": "https://devpost.com/software/hermes-world",
+      "repo_url": "https://github.com/filipj9/Hermes-world.git",
+      "demo_url": null
+    },
+    {
+      "slug": "avatar-platform-doctor",
+      "title": "Avatar Platform Doctor",
+      "description": "Know what to fix before Build &amp; Publish.",
+      "category": null,
+      "members": [
+        {
+          "handle": "hackathons",
+          "name": "Devpost\n      Participate in our public hackathons",
+          "url": "https://devpost.com/hackathons"
+        },
+        {
+          "handle": "software",
+          "name": "Projects",
+          "url": "https://devpost.com/software"
+        },
+        {
+          "handle": "settings",
+          "name": "Settings",
+          "url": "https://devpost.com/settings"
+        }
+      ],
+      "url": "https://devpost.com/software/avatar-platform-doctor",
+      "repo_url": null,
+      "demo_url": null
+    },
+    {
+      "slug": "studynest-o0t8kd",
+      "title": "StudyNest",
+      "description": "StudyNest is a gamified study companion app that combines focus tools, planning, notes, habits, quizzes, rewards, and customizable environments to make studying more organized, motivating, and fun.",
+      "category": null,
+      "members": [
+        {
+          "handle": "hackathons",
+          "name": "Devpost\n      Participate in our public hackathons",
+          "url": "https://devpost.com/hackathons"
+        },
+        {
+          "handle": "software",
+          "name": "Projects",
+          "url": "https://devpost.com/software"
+        },
+        {
+          "handle": "arunsudhir",
+          "name": "arunsudhir",
+          "url": "https://devpost.com/arunsudhir"
+        },
+        {
+          "handle": "ullas-u",
+          "name": "ullas-u",
+          "url": "https://devpost.com/ullas-u"
+        },
+        {
+          "handle": "ayodelemartinsabiwo",
+          "name": "ayodelemartinsabiwo",
+          "url": "https://devpost.com/ayodelemartinsabiwo"
+        },
+        {
+          "handle": "kevin923",
+          "name": "kevin923",
+          "url": "https://devpost.com/kevin923"
+        },
+        {
+          "handle": "settings",
+          "name": "Settings",
+          "url": "https://devpost.com/settings"
+        }
+      ],
+      "url": "https://devpost.com/software/studynest-o0t8kd",
+      "repo_url": "https://github.com/nehaanndev/StudyNest/releases/tag/v1.0.0-build-week",
+      "demo_url": null
+    },
+    {
+      "slug": "datart",
+      "title": "DATART",
+      "description": "A bilingual, local-first artwork management system that helps artists organize records, prices, images, and gallery-ready documents across languages and currencies.",
+      "category": null,
+      "members": [
+        {
+          "handle": "hackathons",
+          "name": "Devpost\n      Participate in our public hackathons",
+          "url": "https://devpost.com/hackathons"
+        },
+        {
+          "handle": "software",
+          "name": "Projects",
+          "url": "https://devpost.com/software"
+        },
+        {
+          "handle": "gyunghwaroh",
+          "name": "gyunghwaroh",
+          "url": "https://devpost.com/gyunghwaroh"
+        },
+        {
+          "handle": "settings",
+          "name": "Settings",
+          "url": "https://devpost.com/settings"
+        }
+      ],
+      "url": "https://devpost.com/software/datart",
+      "repo_url": "https://github.com/gyunghwaroh/datart",
+      "demo_url": null
+    },
+    {
+      "slug": "medico-ai-symptom-analyser-app",
+      "title": "medico ai symptom analyser app",
+      "description": "its an ai symptom analyser app where by giving symptoms as inputs- the ml will learn the symptoms of disease and predict the output",
+      "category": null,
+      "members": [
+        {
+          "handle": "hackathons",
+          "name": "Devpost\n      Participate in our public hackathons",
+          "url": "https://devpost.com/hackathons"
+        },
+        {
+          "handle": "software",
+          "name": "Projects",
+          "url": "https://devpost.com/software"
+        },
+        {
+          "handle": "alyasahmohammedramadan",
+          "name": "alyasahmohammedramadan",
+          "url": "https://devpost.com/alyasahmohammedramadan"
+        },
+        {
+          "handle": "settings",
+          "name": "Settings",
+          "url": "https://devpost.com/settings"
+        }
+      ],
+      "url": "https://devpost.com/software/medico-ai-symptom-analyser-app",
+      "repo_url": "https://github.com/alyasahmuhammed/medico-ai-symptom-analyser-app",
+      "demo_url": null
+    },
+    {
+      "slug": "pocket-butler",
+      "title": "Pocket Butler",
+      "description": "An AI-powered personal safety assistant that protects your belongings by detecting Bluetooth separation, triggering intelligent theft alerts, and helping users respond quickly to emergencies.",
+      "category": null,
+      "members": [
+        {
+          "handle": "hackathons",
+          "name": "Devpost\n      Participate in our public hackathons",
+          "url": "https://devpost.com/hackathons"
+        },
+        {
+          "handle": "software",
+          "name": "Projects",
+          "url": "https://devpost.com/software"
+        },
+        {
+          "handle": "ashilmathew9132",
+          "name": "ashilmathew9132",
+          "url": "https://devpost.com/ashilmathew9132"
+        },
+        {
+          "handle": "settings",
+          "name": "Settings",
+          "url": "https://devpost.com/settings"
+        }
+      ],
+      "url": "https://devpost.com/software/pocket-butler",
+      "repo_url": "https://github.com/Ashil2005/Pocket-butler",
+      "demo_url": null
+    },
+    {
+      "slug": "mediremind-trfuln",
+      "title": "MediRemind",
+      "description": "Flags missed antenatal visits and logs why mothers drop out — giving clinics real dropout data, not guesswork, to bring them back to care.",
+      "category": null,
+      "members": [
+        {
+          "handle": "hackathons",
+          "name": "Devpost\n      Participate in our public hackathons",
+          "url": "https://devpost.com/hackathons"
+        },
+        {
+          "handle": "software",
+          "name": "Projects",
+          "url": "https://devpost.com/software"
+        },
+        {
+          "handle": "duncanmathai3",
+          "name": "duncanmathai3",
+          "url": "https://devpost.com/duncanmathai3"
+        },
+        {
+          "handle": "bouricenos0",
+          "name": "bouricenos0",
+          "url": "https://devpost.com/bouricenos0"
+        },
+        {
+          "handle": "chomba212",
+          "name": "chomba212",
+          "url": "https://devpost.com/chomba212"
+        },
+        {
+          "handle": "icellearning",
+          "name": "icellearning",
+          "url": "https://devpost.com/icellearning"
+        },
+        {
+          "handle": "settings",
+          "name": "Settings",
+          "url": "https://devpost.com/settings"
+        }
+      ],
+      "url": "https://devpost.com/software/mediremind-trfuln",
+      "repo_url": "https://github.com/sinapstechnology/mediremind",
+      "demo_url": null
+    },
+    {
+      "slug": "neutra-lend",
+      "title": "Neutra-Lend",
+      "description": "Neutra-Lend makes personal lending trustworthy by bringing agreements, APR-based calculations, repayment tracking, and financial clarity between friends into one simple app.",
+      "category": null,
+      "members": [
+        {
+          "handle": "hackathons",
+          "name": "Devpost\n      Participate in our public hackathons",
+          "url": "https://devpost.com/hackathons"
+        },
+        {
+          "handle": "software",
+          "name": "Projects",
+          "url": "https://devpost.com/software"
+        },
+        {
+          "handle": "ganipar456",
+          "name": "ganipar456",
+          "url": "https://devpost.com/ganipar456"
+        },
+        {
+          "handle": "settings",
+          "name": "Settings",
+          "url": "https://devpost.com/settings"
+        }
+      ],
+      "url": "https://devpost.com/software/neutra-lend",
+      "repo_url": "https://github.com/codergani/Neutra-Lend",
+      "demo_url": null
+    },
+    {
+      "slug": "vibeseq",
+      "title": "VibeSeq",
+      "description": "Say It. Hear It. Sequence It.",
+      "category": null,
+      "members": [
+        {
+          "handle": "hackathons",
+          "name": "Devpost\n      Participate in our public hackathons",
+          "url": "https://devpost.com/hackathons"
+        },
+        {
+          "handle": "software",
+          "name": "Projects",
+          "url": "https://devpost.com/software"
+        },
+        {
+          "handle": "LeeJaeho",
+          "name": "LeeJaeho",
+          "url": "https://devpost.com/LeeJaeho"
+        },
+        {
+          "handle": "LeeJaeho",
+          "name": "Jae ho Lee",
+          "url": "https://devpost.com/LeeJaeho"
+        },
+        {
+          "handle": "charles-choi",
+          "name": "charles-choi",
+          "url": "https://devpost.com/charles-choi"
+        },
+        {
+          "handle": "chusouk",
+          "name": "chusouk",
+          "url": "https://devpost.com/chusouk"
+        },
+        {
+          "handle": "hardboil",
+          "name": "hardboil",
+          "url": "https://devpost.com/hardboil"
+        },
+        {
+          "handle": "aquibird",
+          "name": "aquibird",
+          "url": "https://devpost.com/aquibird"
+        },
+        {
+          "handle": "lqez",
+          "name": "lqez",
+          "url": "https://devpost.com/lqez"
+        },
+        {
+          "handle": "LeeJaeho",
+          "name": "LeeJaeho",
+          "url": "https://devpost.com/LeeJaeho"
+        },
+        {
+          "handle": "LeeJaeho",
+          "name": "LeeJaeho",
+          "url": "https://devpost.com/LeeJaeho"
+        },
+        {
+          "handle": "LeeJaeho",
+          "name": "Jae ho Lee",
+          "url": "https://devpost.com/LeeJaeho"
+        },
+        {
+          "handle": "LeeJaeho",
+          "name": "LeeJaeho",
+          "url": "https://devpost.com/LeeJaeho"
+        },
+        {
+          "handle": "LeeJaeho",
+          "name": "Jae ho Lee",
+          "url": "https://devpost.com/LeeJaeho"
+        },
+        {
+          "handle": "settings",
+          "name": "Settings",
+          "url": "https://devpost.com/settings"
+        }
+      ],
+      "url": "https://devpost.com/software/vibeseq",
+      "repo_url": "https://github.com/acidsound/VibeSeq/releases/tag/v0.1.2",
+      "demo_url": null
+    },
+    {
+      "slug": "pillai-kphvqt",
+      "title": "PillAI",
+      "description": "Tea can block your iron tablet. Pregnancy changes what&#39;s safe. PillAI tracks your medicines with your food and health context, warns you before conflicts, and logs each dose in one tap.",
+      "category": null,
+      "members": [
+        {
+          "handle": "hackathons",
+          "name": "Devpost\n      Participate in our public hackathons",
+          "url": "https://devpost.com/hackathons"
+        },
+        {
+          "handle": "software",
+          "name": "Projects",
+          "url": "https://devpost.com/software"
+        },
+        {
+          "handle": "omar201331",
+          "name": "omar201331",
+          "url": "https://devpost.com/omar201331"
+        },
+        {
+          "handle": "ik4risma",
+          "name": "ik4risma",
+          "url": "https://devpost.com/ik4risma"
+        },
+        {
+          "handle": "supermegaboris",
+          "name": "supermegaboris",
+          "url": "https://devpost.com/supermegaboris"
+        },
+        {
+          "handle": "kevin923",
+          "name": "kevin923",
+          "url": "https://devpost.com/kevin923"
+        },
+        {
+          "handle": "settings",
+          "name": "Settings",
+          "url": "https://devpost.com/settings"
+        }
+      ],
+      "url": "https://devpost.com/software/pillai-kphvqt",
+      "repo_url": "https://github.com/K4risma/PillAI",
+      "demo_url": null
+    },
+    {
+      "slug": "postbirth",
+      "title": "PostBirth",
+      "description": "Care for Mom &amp; Baby",
+      "category": null,
+      "members": [
+        {
+          "handle": "hackathons",
+          "name": "Devpost\n      Participate in our public hackathons",
+          "url": "https://devpost.com/hackathons"
+        },
+        {
+          "handle": "software",
+          "name": "Projects",
+          "url": "https://devpost.com/software"
+        },
+        {
+          "handle": "anil29creative",
+          "name": "anil29creative",
+          "url": "https://devpost.com/anil29creative"
+        },
+        {
+          "handle": "settings",
+          "name": "Settings",
+          "url": "https://devpost.com/settings"
+        }
+      ],
+      "url": "https://devpost.com/software/postbirth",
+      "repo_url": "https://github.com/anil29creative-lgtm/postBirth",
+      "demo_url": null
+    },
+    {
+      "slug": "tor-arg-tornado-argentino",
+      "title": "TOR ARG – Tornado Argentino",
+      "description": "Plataforma web y móvil creada con ChatGPT y Codex que reúne eventos meteorológicos y desastres reales para convertir datos complejos en alertas claras, seguimiento y prevención.",
+      "category": null,
+      "members": [
+        {
+          "handle": "hackathons",
+          "name": "Devpost\n      Participate in our public hackathons",
+          "url": "https://devpost.com/hackathons"
+        },
+        {
+          "handle": "software",
+          "name": "Projects",
+          "url": "https://devpost.com/software"
+        },
+        {
+          "handle": "alanhertler",
+          "name": "alanhertler",
+          "url": "https://devpost.com/alanhertler"
+        },
+        {
+          "handle": "settings",
+          "name": "Settings",
+          "url": "https://devpost.com/settings"
+        }
+      ],
+      "url": "https://devpost.com/software/tor-arg-tornado-argentino",
+      "repo_url": "https://github.com/alanhertler/tor-arg-web",
+      "demo_url": null
+    },
+    {
+      "slug": "conversate-confirm",
+      "title": "Conversate Confirm",
+      "description": "Turn multilingual conversations into bilingual agreements both people can verify.",
+      "category": null,
+      "members": [
+        {
+          "handle": "hackathons",
+          "name": "Devpost\n      Participate in our public hackathons",
+          "url": "https://devpost.com/hackathons"
+        },
+        {
+          "handle": "software",
+          "name": "Projects",
+          "url": "https://devpost.com/software"
+        },
+        {
+          "handle": "baguiosmiths",
+          "name": "baguiosmiths",
+          "url": "https://devpost.com/baguiosmiths"
+        },
+        {
+          "handle": "settings",
+          "name": "Settings",
+          "url": "https://devpost.com/settings"
+        }
+      ],
+      "url": "https://devpost.com/software/conversate-confirm",
+      "repo_url": "https://github.com/Flash-Bri/conversate/actions/runs/29825699954",
+      "demo_url": null
+    },
+    {
+      "slug": "policylense",
+      "title": "PolicyLens",
+      "description": "PolicyLens analyzes health insurance policy documents, explain complex clauses in plain language, highlight risks and benefits, and help you decide whether a policy is worth buying.",
+      "category": null,
+      "members": [
+        {
+          "handle": "hackathons",
+          "name": "Devpost\n      Participate in our public hackathons",
+          "url": "https://devpost.com/hackathons"
+        },
+        {
+          "handle": "software",
+          "name": "Projects",
+          "url": "https://devpost.com/software"
+        },
+        {
+          "handle": "suresh-patil2",
+          "name": "suresh-patil2",
+          "url": "https://devpost.com/suresh-patil2"
+        },
+        {
+          "handle": "settings",
+          "name": "Settings",
+          "url": "https://devpost.com/settings"
+        }
+      ],
+      "url": "https://devpost.com/software/policylense",
+      "repo_url": "https://github.com/sur01pat/PolicyLense.git",
+      "demo_url": null
+    },
+    {
+      "slug": "moment-scraper",
+      "title": "Moment Scraper",
+      "description": "We don’t take photos. We scrape moments. Moment Scraper is a wearable camera that lets you capture moments by framing them with your fingers. It preserves not just what you saw, but what it felt like.",
+      "category": null,
+      "members": [
+        {
+          "handle": "hackathons",
+          "name": "Devpost\n      Participate in our public hackathons",
+          "url": "https://devpost.com/hackathons"
+        },
+        {
+          "handle": "software",
+          "name": "Projects",
+          "url": "https://devpost.com/software"
+        },
+        {
+          "handle": "uezo",
+          "name": "uezo",
+          "url": "https://devpost.com/uezo"
+        },
+        {
+          "handle": "takashi1-kawamoto",
+          "name": "takashi1-kawamoto",
+          "url": "https://devpost.com/takashi1-kawamoto"
+        },
+        {
+          "handle": "GOROman",
+          "name": "GOROman",
+          "url": "https://devpost.com/GOROman"
+        },
+        {
+          "handle": "take-otani",
+          "name": "take-otani",
+          "url": "https://devpost.com/take-otani"
+        },
+        {
+          "handle": "kizifrog",
+          "name": "kizifrog",
+          "url": "https://devpost.com/kizifrog"
+        },
+        {
+          "handle": "bassmicrobe",
+          "name": "bassmicrobe",
+          "url": "https://devpost.com/bassmicrobe"
+        },
+        {
+          "handle": "sanshaku3",
+          "name": "sanshaku3",
+          "url": "https://devpost.com/sanshaku3"
+        },
+        {
+          "handle": "settings",
+          "name": "Settings",
+          "url": "https://devpost.com/settings"
+        }
+      ],
+      "url": "https://devpost.com/software/moment-scraper",
+      "repo_url": null,
+      "demo_url": null
+    }
   ]
 }
