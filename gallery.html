@@ -7,12 +7,31 @@
   <meta name="description" content="Community-run Devpost hackathon project gallery." />
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet" />
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&display=swap" rel="stylesheet" />
   <link rel="stylesheet" href="styles.css" />
 </head>
 <body>
+  <div class="backdrop" aria-hidden="true">
+    <span class="orb orb-1"></span>
+    <span class="orb orb-2"></span>
+    <span class="orb orb-3"></span>
+    <span class="orb orb-4"></span>
+    <div class="grain"></div>
+  </div>
+
+  <nav class="nav glass">
+    <a class="brand" href="index.html">
+      <span class="brand-mark">◆</span>
+      <span class="brand-text">Devpost<span class="brand-sub"> / Galleries</span></span>
+    </a>
+    <div class="nav-links">
+      <a href="index.html">All hackathons</a>
+      <a class="nav-cta" href="index.html">Browse</a>
+    </div>
+  </nav>
+
   <header class="hero">
-    <div class="hero-inner">
+    <div class="hero-inner glass">
       <div class="badge"><a href="index.html">← All hackathons</a></div>
       <h1 id="hack-title">Project Gallery</h1>
       <p class="sub">Community-collected submissions, sorted into the hackathon's tracks.</p>
@@ -22,8 +41,11 @@
   </header>
 
   <main class="wrap">
-    <div class="controls">
+    <div class="controls glass">
       <div class="search">
+        <svg class="search-icon" viewBox="0 0 24 24" aria-hidden="true">
+          <path d="M21 21l-4.3-4.3M11 19a8 8 0 110-16 8 8 0 010 16z" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+        </svg>
         <input id="search" type="search" placeholder="Search projects, teams, or descriptions…" autocomplete="off" />
       </div>
       <div class="filters" id="filters"></div>
@@ -34,10 +56,12 @@
   </main>
 
   <footer class="foot">
-    <p>
-      Unofficial gallery · Not affiliated with OpenAI or Devpost · Data sourced from
-      public Devpost submissions · Built with <a href="https://pages.github.com">GitHub Pages</a>.
-    </p>
+    <div class="foot-inner glass">
+      <p>
+        Unofficial gallery · Not affiliated with OpenAI or Devpost · Data sourced from
+        public Devpost submissions · Built with <a href="https://pages.github.com">GitHub Pages</a>.
+      </p>
+    </div>
   </footer>
 
   <script src="shared.js"></script>

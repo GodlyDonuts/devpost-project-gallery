@@ -2,13 +2,26 @@
   "slug": "openai-build-week",
   "name": "OpenAI Build Week",
   "hackathon_id": "30223",
-  "generated_at": null,
+  "generated_at": "2026-07-23T00:00:00+00:00",
   "categories": [
     "Apps for Your Life",
     "Work & Productivity",
     "Developer Tools",
     "Education"
   ],
-  "count": 0,
-  "projects": []
+  "count": 12,
+  "projects": [
+    { "title": "Lumen — AI Reading Companion", "slug": "lumen-ai-reading", "category": "Education", "description": "Turns any PDF into an adaptive, chat-driven study guide that quizzes you on the concepts you're weakest at.", "members": [{ "name": "Maya Chen" }, { "name": "Dev Patel" }], "repo_url": "https://github.com/example/lumen", "demo_url": "https://lumen.example.dev" },
+    { "title": "Cadence — Focus Timer for Deep Work", "slug": "cadence-focus", "category": "Apps for Your Life", "description": "A liquid-glass pomodoro that scores your focus sessions and gently reschedules your day around your energy dips.", "members": [{ "name": "Sofia Reyes" }], "demo_url": "https://cadence.example.dev" },
+    { "title": "Patchwork — AI Code Review Bot", "slug": "patchwork-review", "category": "Developer Tools", "description": "Drops contextual, line-level review comments on every PR, catching bugs and suggesting tests before humans look.", "members": [{ "name": "Alex Kim" }, { "name": "Jordan Lee" }, { "name": "Priya Nair" }], "repo_url": "https://github.com/example/patchwork" },
+    { "title": "Briefly — Meeting Notes That Write Themselves", "slug": "briefly-notes", "category": "Work & Productivity", "description": "Joins your calls, drafts action items, and files them into the right project doc automatically.", "members": [{ "name": "Tomás García" }, { "name": "Lena Müller" }], "demo_url": "https://briefly.example.dev" },
+    { "title": "Recipeal — Snap a Fridge, Get Dinner", "slug": "recipeal", "category": "Apps for Your Life", "description": "Photos your fridge and generates recipes you can actually cook, with a one-tap grocery list.", "members": [{ "name": "Hana Sato" }], "repo_url": "https://github.com/example/recipeal" },
+    { "title": "Tutorly — 1:1 Math Tutor for Kids", "slug": "tutorly", "category": "Education", "description": "A patient, voice-first tutor that adapts explanations to a child's grade level and mood.", "members": [{ "name": "Omar Hassan" }, { "name": "Ella Brooks" }], "demo_url": "https://tutorly.example.dev" },
+    { "title": "Shipwright — Scaffold Apps from a Prompt", "slug": "shipwright", "category": "Developer Tools", "description": "Describe the app you want and get a runnable full-stack repo with tests, CI, and a deploy button.", "members": [{ "name": "Nina Volkov" }, { "name": "Sam O'Neil" }, { "name": "Kai Tanaka" }], "repo_url": "https://github.com/example/shipwright" },
+    { "title": "Flowstate — Team Standups Without the Meeting", "slug": "flowstate", "category": "Work & Productivity", "description": "Async standups that summarize blockers and auto-ping the right person to unblock the team.", "members": [{ "name": "Ravi Menon" }], "demo_url": "https://flowstate.example.dev" },
+    { "title": "Verba — Language Practice That Feels Real", "slug": "verba", "category": "Education", "description": "Role-plays real-world conversations in 30 languages, correcting you mid-sentence like a native friend.", "members": [{ "name": "Yuki Mori" }, { "name": "Carla Díaz" }], "repo_url": "https://github.com/example/verba" },
+    { "title": "Pocket Chef — Healthy Meals on a Budget", "slug": "pocket-chef", "category": "Apps for Your Life", "description": "Plans a week of cheap, healthy meals around what's on sale at your local store.", "members": [{ "name": "Ben Carter" }, { "name": "Aïsha Diallo" }], "demo_url": "https://pocketchef.example.dev" },
+    { "title": "Lintlight — Instant API Docs from Code", "slug": "lintlight", "category": "Developer Tools", "description": "Watches your repo and keeps your API docs in sync with the actual endpoints — no more stale READMEs.", "members": [{ "name": "Felix Wolf" }], "repo_url": "https://github.com/example/lintlight" },
+    { "title": "Clarity — Summarize Long Docs in Seconds", "slug": "clarity-docs", "category": "Work & Productivity", "description": "Drops a browser overlay that summarizes any page, thread, or PDF into a five-bullet brief.", "members": [{ "name": "Grace Liu" }, { "name": "Diego Santos" }], "demo_url": "https://clarity.example.dev" }
+  ]
 }

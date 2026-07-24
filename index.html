@@ -7,12 +7,31 @@
   <meta name="description" content="Community-run project galleries for Devpost hackathons, available while the official galleries are unpublished." />
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet" />
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&display=swap" rel="stylesheet" />
   <link rel="stylesheet" href="styles.css" />
 </head>
 <body>
+  <div class="backdrop" aria-hidden="true">
+    <span class="orb orb-1"></span>
+    <span class="orb orb-2"></span>
+    <span class="orb orb-3"></span>
+    <span class="orb orb-4"></span>
+    <div class="grain"></div>
+  </div>
+
+  <nav class="nav glass">
+    <a class="brand" href="index.html">
+      <span class="brand-mark">◆</span>
+      <span class="brand-text">Devpost<span class="brand-sub"> / Galleries</span></span>
+    </a>
+    <div class="nav-links">
+      <a href="index.html">Hackathons</a>
+      <a class="nav-cta" href="#hacks">Browse</a>
+    </div>
+  </nav>
+
   <header class="hero">
-    <div class="hero-inner">
+    <div class="hero-inner glass">
       <div class="badge">Unofficial · Community Run</div>
       <h1>Devpost Hackathon<br /><span class="accent">Project Galleries</span></h1>
       <p class="sub">
@@ -28,10 +47,12 @@
   </main>
 
   <footer class="foot">
-    <p>
-      Unofficial galleries · Not affiliated with OpenAI or Devpost · Data sourced from
-      public Devpost submissions · Built with <a href="https://pages.github.com">GitHub Pages</a>.
-    </p>
+    <div class="foot-inner glass">
+      <p>
+        Unofficial galleries · Not affiliated with OpenAI or Devpost · Data sourced from
+        public Devpost submissions · Built with <a href="https://pages.github.com">GitHub Pages</a>.
+      </p>
+    </div>
   </footer>
 
   <script src="shared.js"></script>

@@ -20,10 +20,16 @@
   let query = "";
 
   function renderChips() {
-    const chips = ['<button class="chip active" data-cat="all">All</button>'].concat(
-      categories.map(
-        (c) => '<button class="chip" data-cat="' + escapeHtml(c) + '">' + escapeHtml(c) + "</button>"
-      )
+    const chips = [
+      '<button class="chip active" data-cat="all">All<span class="chip-count">' + projects.length + "</span></button>",
+    ].concat(
+      categories.map((c) => {
+        const n = projects.filter((p) => p.category === c).length;
+        return (
+          '<button class="chip" data-cat="' + escapeHtml(c) + '">' +
+          escapeHtml(c) + '<span class="chip-count">' + n + "</span></button>"
+        );
+      })
     );
     filtersEl.innerHTML = chips.join("");
   }
@@ -48,6 +54,7 @@
     });
     grid.innerHTML = filtered.map(projectCard).join("");
     emptyEl.hidden = filtered.length > 0;
+    revealCards(grid);
     renderStats(filtered.length);
   }
 

@@ -22,15 +22,20 @@
           : "not yet scraped";
         return (
           '<a class="card hack-card" href="gallery.html?h=' + slug + '">' +
+          '<div class="card-cover" style="background:' + coverGradient(h.slug || h.name) + '"></div>' +
+          "<div class=\"card-body\">" +
           "<h3>" + name + "</h3>" +
           '<div class="meta">' +
           '<div class="stat-row"><span class="num">' + count + '</span><span class="lbl">projects</span></div>' +
           '<div class="muted">' + cats + " categories · updated " + updated + "</div>" +
+          '<span class="go">Open gallery →</span>' +
+          "</div>" +
           "</div>" +
           "</a>"
         );
       })
       .join("");
+    revealCards(grid);
   } catch (err) {
     grid.innerHTML = '<div class="loading">Could not load hackathon list.</div>';
   }
