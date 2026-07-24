@@ -2,14 +2,14 @@
   "slug": "openai-build-week",
   "name": "OpenAI Build Week",
   "hackathon_id": "30223",
-  "generated_at": "2026-07-24T10:52:08.342621+00:00",
+  "generated_at": "2026-07-24T10:52:32.933831+00:00",
   "categories": [
     "Apps for Your Life",
     "Work & Productivity",
     "Developer Tools",
     "Education"
   ],
-  "count": 2998,
+  "count": 3019,
   "projects": [
     {
       "slug": "gosu-go-trainer",
@@ -56486,6 +56486,368 @@
       "url": "https://devpost.com/software/easyfinder-to-ne17rk",
       "repo_url": null,
       "demo_url": null
+    },
+    {
+      "slug": "redactra-protect-sensitive-data-before-ai",
+      "title": "REDACTRA — Protect Sensitive Data Before AI",
+      "description": "REDACTRA is a Thai-first local privacy gateway for managed AI web apps. It tokenizes detected sensitive data on-device and uses GPT-5.6 only after local privacy and intent checks.",
+      "image": "https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/974/766/datas/medium.png",
+      "category": null,
+      "members": [
+        {
+          "handle": "enigma-nice",
+          "name": "enigma-nice",
+          "url": "https://devpost.com/enigma-nice"
+        },
+        {
+          "handle": "nuttanawin",
+          "name": "nuttanawin",
+          "url": "https://devpost.com/nuttanawin"
+        }
+      ],
+      "url": "https://devpost.com/software/redactra-protect-sensitive-data-before-ai",
+      "repo_url": "https://github.com/bankzar/antishadow-openai-build-week",
+      "demo_url": null
+    },
+    {
+      "slug": "meetster",
+      "title": "Meetster",
+      "description": "AI Meeting Tools and Helper",
+      "image": "https://d2dmyh35ffsxbl.cloudfront.net/assets/shared/devpost_social_icon_200_200-f56e5af715a1d95e0209bb37e899b7c18c6e7e3b933a3c1f52456a6e2ee85d09.jpg",
+      "category": null,
+      "members": [
+        {
+          "handle": "enj0y-m0re-w0rk",
+          "name": "enj0y-m0re-w0rk",
+          "url": "https://devpost.com/enj0y-m0re-w0rk"
+        }
+      ],
+      "url": "https://devpost.com/software/meetster",
+      "repo_url": null,
+      "demo_url": null
+    },
+    {
+      "slug": "voice-studio-xt0c9p",
+      "title": "Voice Studio",
+      "description": "Turn any document into a faithful, affordable audiobook.",
+      "image": "https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/960/154/datas/medium.png",
+      "category": "Education",
+      "members": [
+        {
+          "handle": "enmanuelrey2012",
+          "name": "enmanuelrey2012",
+          "url": "https://devpost.com/enmanuelrey2012"
+        }
+      ],
+      "url": "https://devpost.com/software/voice-studio-xt0c9p",
+      "repo_url": "https://github.com/DarkRoku12/voicemydocs/",
+      "demo_url": null
+    },
+    {
+      "slug": "signal-crisis-navigation-app",
+      "title": "Signal Crisis Navigation App",
+      "description": "A trauma-aware incident-response agent that helps people know what to do first after online harm.",
+      "image": "https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/972/471/datas/medium.jpeg",
+      "category": null,
+      "members": [
+        {
+          "handle": "enr336342",
+          "name": "enr336342",
+          "url": "https://devpost.com/enr336342"
+        }
+      ],
+      "url": "https://devpost.com/software/signal-crisis-navigation-app",
+      "repo_url": null,
+      "demo_url": null
+    },
+    {
+      "slug": "wengucha-ancient-character-query-and-recognition-app",
+      "title": "WenGuCha-Ancient Character Query and Recognition App",
+      "description": "WenGuCha is an ancient character shape browsing, and image recognition tool designed for macOS and Windows.",
+      "image": "https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/921/204/datas/medium.png",
+      "category": null,
+      "members": [
+        {
+          "handle": "enshuwu46-png",
+          "name": "enshuwu46-png",
+          "url": "https://devpost.com/enshuwu46-png"
+        }
+      ],
+      "url": "https://devpost.com/software/wengucha-ancient-character-query-and-recognition-app",
+      "repo_url": "https://github.com/enshuwu46-png/ancient-ocr-macos",
+      "demo_url": null
+    },
+    {
+      "slug": "nebb",
+      "title": "NEBB",
+      "description": "One AI coding workspace to orchestrate Codex, Claude Code, OpenCode, and more. \r\nBuild custom agent loops, automate collaboration, and stay in control with human-on-the-loop decisions.",
+      "image": "https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/005/007/269/datas/medium.png",
+      "category": null,
+      "members": [
+        {
+          "handle": "enslee",
+          "name": "enslee",
+          "url": "https://devpost.com/enslee"
+        }
+      ],
+      "url": "https://devpost.com/software/nebb",
+      "repo_url": "https://github.com/nebb-ai/nebb",
+      "demo_url": null
+    },
+    {
+      "slug": "openwall",
+      "title": "Openwall",
+      "description": "OpenWall helps emerging artists publish work, build virtual exhibitions, connect with galleries and other artists, and reach new audiences in one simple mobile platform.",
+      "image": "https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/005/009/417/datas/medium.png",
+      "category": null,
+      "members": [
+        {
+          "handle": "enzosoccerusa",
+          "name": "enzosoccerusa",
+          "url": "https://devpost.com/enzosoccerusa"
+        }
+      ],
+      "url": "https://devpost.com/software/openwall",
+      "repo_url": "https://github.com/3O2Pepper/openwall",
+      "demo_url": null
+    },
+    {
+      "slug": "dcs-9xfmlg",
+      "title": "Out of Context",
+      "description": "Version control for AI context. Developed using OpenAI Agent SDK.",
+      "image": "https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/005/013/729/datas/medium.png",
+      "category": null,
+      "members": [
+        {
+          "handle": "eohalloran410",
+          "name": "eohalloran410",
+          "url": "https://devpost.com/eohalloran410"
+        }
+      ],
+      "url": "https://devpost.com/software/dcs-9xfmlg",
+      "repo_url": "https://github.com/eoinohal/Out-of-Context",
+      "demo_url": null
+    },
+    {
+      "slug": "easyweb-nevjt4",
+      "title": "EasyWeb",
+      "description": "Helping people browse the internet with confidence.",
+      "image": "https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/931/712/datas/medium.png",
+      "category": null,
+      "members": [
+        {
+          "handle": "eokumoto28",
+          "name": "eokumoto28",
+          "url": "https://devpost.com/eokumoto28"
+        }
+      ],
+      "url": "https://devpost.com/software/easyweb-nevjt4",
+      "repo_url": null,
+      "demo_url": null
+    },
+    {
+      "slug": "pulsewell-reset",
+      "title": "Pulsewell RESET",
+      "description": "An AI-assisted recovery support app that helps users manage cravings, reduce anxiety, and regain clarity through personalized breathing, optional acupressure, and progress tracking.",
+      "image": "https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/957/131/datas/medium.png",
+      "category": null,
+      "members": [
+        {
+          "handle": "eomay1",
+          "name": "eomay1",
+          "url": "https://devpost.com/eomay1"
+        }
+      ],
+      "url": "https://devpost.com/software/pulsewell-reset",
+      "repo_url": null,
+      "demo_url": null
+    },
+    {
+      "slug": "handgrade-ai",
+      "title": "HandGrade AI",
+      "description": "Turn handwritten student work into fast, explainable, teacher-reviewed feedback.",
+      "image": "https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/964/584/datas/medium.png",
+      "category": null,
+      "members": [
+        {
+          "handle": "eouldsmail",
+          "name": "eouldsmail",
+          "url": "https://devpost.com/eouldsmail"
+        }
+      ],
+      "url": "https://devpost.com/software/handgrade-ai",
+      "repo_url": "https://github.com/elycheikhsmail/correction-auto",
+      "demo_url": null
+    },
+    {
+      "slug": "contestpilot",
+      "title": "ContestPilot",
+      "description": "Turn hackathon rules into a ranked, evidence-backed execution system—and prove every claim before you submit.",
+      "image": "https://d2dmyh35ffsxbl.cloudfront.net/assets/shared/devpost_social_icon_200_200-f56e5af715a1d95e0209bb37e899b7c18c6e7e3b933a3c1f52456a6e2ee85d09.jpg",
+      "category": null,
+      "members": [
+        {
+          "handle": "equinoxaifinance-rgb",
+          "name": "equinoxaifinance-rgb",
+          "url": "https://devpost.com/equinoxaifinance-rgb"
+        }
+      ],
+      "url": "https://devpost.com/software/contestpilot",
+      "repo_url": "https://github.com/equinoxaifinance-rgb/contestpilot",
+      "demo_url": null
+    },
+    {
+      "slug": "menstedo",
+      "title": "Menstedo",
+      "description": "In many cultures, periods aren't talked about, so girls don't know what's normal. Menstedo helps in an easy way: track your cycle, learn the facts, know when to see a doctor.",
+      "image": "https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/005/007/483/datas/medium.jpg",
+      "category": "Education",
+      "members": [
+        {
+          "handle": "eremetech",
+          "name": "eremetech",
+          "url": "https://devpost.com/eremetech"
+        }
+      ],
+      "url": "https://devpost.com/software/menstedo",
+      "repo_url": "https://github.com/eremetech/menstedo",
+      "demo_url": null
+    },
+    {
+      "slug": "lingo-djr7zu",
+      "title": "Lingo",
+      "description": "idk",
+      "image": "https://d2dmyh35ffsxbl.cloudfront.net/assets/shared/devpost_social_icon_200_200-f56e5af715a1d95e0209bb37e899b7c18c6e7e3b933a3c1f52456a6e2ee85d09.jpg",
+      "category": null,
+      "members": [
+        {
+          "handle": "erfan1221kolivand",
+          "name": "erfan1221kolivand",
+          "url": "https://devpost.com/erfan1221kolivand"
+        }
+      ],
+      "url": "https://devpost.com/software/lingo-djr7zu",
+      "repo_url": null,
+      "demo_url": null
+    },
+    {
+      "slug": "fart-match",
+      "title": "Fart Match Puzzle",
+      "description": "Match, laugh, and blast your way through the funniest puzzle adventure ever",
+      "image": "https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/939/588/datas/medium.png",
+      "category": null,
+      "members": [
+        {
+          "handle": "erhanemik",
+          "name": "erhanemik",
+          "url": "https://devpost.com/erhanemik"
+        }
+      ],
+      "url": "https://devpost.com/software/fart-match",
+      "repo_url": null,
+      "demo_url": null
+    },
+    {
+      "slug": "one-line-puzzle",
+      "title": "ONE LINE PUZZLE",
+      "description": "AI-assisted one-line puzzle game built with Unity, Codex, and GPT-5.6.",
+      "image": "https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/988/639/datas/medium.png",
+      "category": null,
+      "members": [
+        {
+          "handle": "erhanemik",
+          "name": "erhanemik",
+          "url": "https://devpost.com/erhanemik"
+        }
+      ],
+      "url": "https://devpost.com/software/one-line-puzzle",
+      "repo_url": "https://github.com/erhanemik/one-line-puzzle/releases/tag/v1.0",
+      "demo_url": null
+    },
+    {
+      "slug": "fart-match-fycr4s",
+      "title": "FART MATCH",
+      "description": "A hilarious AI-assisted match-3 puzzle game built with Unity, Codex, and GPT-5.6.",
+      "image": "https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/953/704/datas/medium.png",
+      "category": null,
+      "members": [
+        {
+          "handle": "erhanemik",
+          "name": "erhanemik",
+          "url": "https://devpost.com/erhanemik"
+        }
+      ],
+      "url": "https://devpost.com/software/fart-match-fycr4s",
+      "repo_url": null,
+      "demo_url": null
+    },
+    {
+      "slug": "fathom-oybuac",
+      "title": "Fathom",
+      "description": "Turn fragmented evidence into an explorable map of relationships, provenance, and strategic insight.",
+      "image": "https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/969/313/datas/medium.png",
+      "category": null,
+      "members": [
+        {
+          "handle": "eric-cade",
+          "name": "eric-cade",
+          "url": "https://devpost.com/eric-cade"
+        }
+      ],
+      "url": "https://devpost.com/software/fathom-oybuac",
+      "repo_url": null,
+      "demo_url": null
+    },
+    {
+      "slug": "good-catch",
+      "title": "Good Catch",
+      "description": "A read-only second set of eyes that finds rental listing, calendar, guest-promise, and important-date mistakes before they become expensive surprises.",
+      "image": "https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/903/591/datas/medium.png",
+      "category": null,
+      "members": [
+        {
+          "handle": "eric178",
+          "name": "eric178",
+          "url": "https://devpost.com/eric178"
+        }
+      ],
+      "url": "https://devpost.com/software/good-catch",
+      "repo_url": null,
+      "demo_url": null
+    },
+    {
+      "slug": "suriwaize",
+      "title": "Suriwaize",
+      "description": "AI checks for building plans against Surinamese building standards to make the life or architects and city officials easier so they can work on the more creative part and serve the citizen better",
+      "image": "https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/949/226/datas/medium.png",
+      "category": null,
+      "members": [
+        {
+          "handle": "eric863",
+          "name": "eric863",
+          "url": "https://devpost.com/eric863"
+        }
+      ],
+      "url": "https://devpost.com/software/suriwaize",
+      "repo_url": "https://github.com/ericdotdot/suriwaize/",
+      "demo_url": "mailto:demo@suriwaize.sr"
+    },
+    {
+      "slug": "game-demo",
+      "title": "game-demo",
+      "description": "game,unity",
+      "image": "https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/908/931/datas/medium.png",
+      "category": null,
+      "members": [
+        {
+          "handle": "ericblack233",
+          "name": "ericblack233",
+          "url": "https://devpost.com/ericblack233"
+        }
+      ],
+      "url": "https://devpost.com/software/game-demo",
+      "repo_url": null,
+      "demo_url": "https://secure.devpost.com/users/register?flow%5Bdata%5D%5Bsoftware_id%5D=1339910&flow%5Bname%5D=like_software&return_to=https%3A%2F%2Fdevpost.com%2Fsoftware%2Fgame-demo"
     }
   ]
 }
