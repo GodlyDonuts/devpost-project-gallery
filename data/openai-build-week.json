@@ -2,14 +2,14 @@
   "slug": "openai-build-week",
   "name": "OpenAI Build Week",
   "hackathon_id": "30223",
-  "generated_at": "2026-07-24T10:25:24.862762+00:00",
+  "generated_at": "2026-07-24T10:26:05.286438+00:00",
   "categories": [
     "Apps for Your Life",
     "Work & Productivity",
     "Developer Tools",
     "Education"
   ],
-  "count": 2019,
+  "count": 2045,
   "projects": [
     {
       "slug": "gosu-go-trainer",
@@ -38722,6 +38722,533 @@
       ],
       "url": "https://devpost.com/software/tars-revoke",
       "repo_url": "https://github.com/basimrdj/tars-revoke",
+      "demo_url": null
+    },
+    {
+      "slug": "insurancecrew",
+      "title": "InsourceCrew",
+      "description": "Hire AI employees, not more software.",
+      "image": "https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/996/807/datas/medium.png",
+      "category": null,
+      "members": [
+        {
+          "handle": "batoolzyidi",
+          "name": "batoolzyidi",
+          "url": "https://devpost.com/batoolzyidi"
+        }
+      ],
+      "url": "https://devpost.com/software/insurancecrew",
+      "repo_url": "https://github.com/BatoolZyidi/InsourceCrew",
+      "demo_url": null
+    },
+    {
+      "slug": "ya-mecenes",
+      "title": "YA MECENES",
+      "description": "Where projects meet patrons and possibilities",
+      "image": "https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/987/598/datas/medium.png",
+      "category": "Education",
+      "members": [
+        {
+          "handle": "batouskabuika",
+          "name": "batouskabuika",
+          "url": "https://devpost.com/batouskabuika"
+        }
+      ],
+      "url": "https://devpost.com/software/ya-mecenes",
+      "repo_url": null,
+      "demo_url": null
+    },
+    {
+      "slug": "hairlinksg",
+      "title": "HairLinkSG",
+      "description": "A Singapore-first iOS marketplace that turns an unclear hair goal into a structured GPT-5.6 brief multiple stylists can answer.",
+      "image": "https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/923/504/datas/medium.png",
+      "category": null,
+      "members": [
+        {
+          "handle": "danielkim1070",
+          "name": "danielkim1070",
+          "url": "https://devpost.com/danielkim1070"
+        },
+        {
+          "handle": "battlefield273",
+          "name": "battlefield273",
+          "url": "https://devpost.com/battlefield273"
+        }
+      ],
+      "url": "https://devpost.com/software/hairlinksg",
+      "repo_url": "https://github.com/origin0101/HairLinkSG",
+      "demo_url": null
+    },
+    {
+      "slug": "turboprefill",
+      "title": "TurboPrefill",
+      "description": "TurboPrefill accelerates multi-GPU LLM prefill by pipelining microbatches across GPUs, reducing idle time and inter-GPU communication bottlenecks.",
+      "image": "https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/994/024/datas/medium.png",
+      "category": null,
+      "members": [
+        {
+          "handle": "batttime",
+          "name": "batttime",
+          "url": "https://devpost.com/batttime"
+        }
+      ],
+      "url": "https://devpost.com/software/turboprefill",
+      "repo_url": "https://github.com/sergey-automation/TurboPrefill",
+      "demo_url": null
+    },
+    {
+      "slug": "agentsboard",
+      "title": "AgentsBoard",
+      "description": "AgentsBoard is a widget first iOS App with companion mcp/rest server, which let's your Agents keep you informed in non-invasive way by placing graphical actionable cards on you phone home screen.",
+      "image": "https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/985/853/datas/medium.png",
+      "category": null,
+      "members": [
+        {
+          "handle": "bawisniewski",
+          "name": "bawisniewski",
+          "url": "https://devpost.com/bawisniewski"
+        }
+      ],
+      "url": "https://devpost.com/software/agentsboard",
+      "repo_url": null,
+      "demo_url": null
+    },
+    {
+      "slug": "socialrightos-evidence-bound-rights-guidance",
+      "title": "SocialRightOS - Evidence-Bound Rights Guidance",
+      "description": "Plain-language social-rights guidance without handing eligibility authority to AI.",
+      "image": "https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/958/905/datas/medium.jpg",
+      "category": null,
+      "members": [
+        {
+          "handle": "bayankulsnh",
+          "name": "bayankulsnh",
+          "url": "https://devpost.com/bayankulsnh"
+        }
+      ],
+      "url": "https://devpost.com/software/socialrightos-evidence-bound-rights-guidance",
+      "repo_url": "https://github.com/senih25/SocialRightOS-frontend",
+      "demo_url": null
+    },
+    {
+      "slug": "hydropower-plant-om-and-document-management-system",
+      "title": "Hydropower Plant OM and Document Management System.",
+      "description": "This is Hydro OMMS version 1.1.0, a web-based Operations and Maintenance Management System designed for hydro power plants activities  into into one system management dashboards.",
+      "image": "https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/927/435/datas/medium.png",
+      "category": null,
+      "members": [
+        {
+          "handle": "bayisa2022",
+          "name": "bayisa2022",
+          "url": "https://devpost.com/bayisa2022"
+        }
+      ],
+      "url": "https://devpost.com/software/hydropower-plant-om-and-document-management-system",
+      "repo_url": "https://github.com/bayisa2022/hydro-omms-demo",
+      "demo_url": "https://bayisa2022.github.io/hydro-omms-demo/"
+    },
+    {
+      "slug": "camps-icu-figure-skating-in-one-place",
+      "title": "Camps.icu — Figure Skating, in One Place",
+      "description": "Camps.icu — Figure Skating, in One Place",
+      "image": "https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/925/470/datas/medium.png",
+      "category": null,
+      "members": [
+        {
+          "handle": "bazlick",
+          "name": "bazlick",
+          "url": "https://devpost.com/bazlick"
+        }
+      ],
+      "url": "https://devpost.com/software/camps-icu-figure-skating-in-one-place",
+      "repo_url": "https://github.com/softrix3/camps-icu-build-week-2026",
+      "demo_url": "https://youtu.be/PivCyZE8cvo"
+    },
+    {
+      "slug": "cring-ai-ai-smart-ring-for-glucose-blood-pressure",
+      "title": "BINER AI – Cring AI Wearable Platform",
+      "description": "On-Device AI wearable platform that continuously measures blood glucose / blood pressure using physiological signals from smart rings and wearables, delivering private, realtime health intelligence.",
+      "image": "https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/965/149/datas/medium.jpg",
+      "category": null,
+      "members": [
+        {
+          "handle": "bbg3813",
+          "name": "bbg3813",
+          "url": "https://devpost.com/bbg3813"
+        },
+        {
+          "handle": "kohunee",
+          "name": "kohunee",
+          "url": "https://devpost.com/kohunee"
+        },
+        {
+          "handle": "jedi726",
+          "name": "jedi726",
+          "url": "https://devpost.com/jedi726"
+        },
+        {
+          "handle": "zeus5328",
+          "name": "zeus5328",
+          "url": "https://devpost.com/zeus5328"
+        },
+        {
+          "handle": "agy612",
+          "name": "agy612",
+          "url": "https://devpost.com/agy612"
+        },
+        {
+          "handle": "hspark-test-phone",
+          "name": "hspark-test-phone",
+          "url": "https://devpost.com/hspark-test-phone"
+        },
+        {
+          "handle": "jhb11076974",
+          "name": "jhb11076974",
+          "url": "https://devpost.com/jhb11076974"
+        },
+        {
+          "handle": "mapsycoy",
+          "name": "mapsycoy",
+          "url": "https://devpost.com/mapsycoy"
+        },
+        {
+          "handle": "saffir-kr",
+          "name": "saffir-kr",
+          "url": "https://devpost.com/saffir-kr"
+        },
+        {
+          "handle": "njrpeter",
+          "name": "njrpeter",
+          "url": "https://devpost.com/njrpeter"
+        }
+      ],
+      "url": "https://devpost.com/software/cring-ai-ai-smart-ring-for-glucose-blood-pressure",
+      "repo_url": null,
+      "demo_url": null
+    },
+    {
+      "slug": "adam-engineering-living-cognition",
+      "title": "ADAM — Engineering Living Cognition",
+      "description": "A transparent cognitive architecture that separates evidence, understanding, and decision-making into independently verifiable engineering components.",
+      "image": "https://d2dmyh35ffsxbl.cloudfront.net/assets/shared/devpost_social_icon_200_200-f56e5af715a1d95e0209bb37e899b7c18c6e7e3b933a3c1f52456a6e2ee85d09.jpg",
+      "category": null,
+      "members": [
+        {
+          "handle": "bbold4541",
+          "name": "bbold4541",
+          "url": "https://devpost.com/bbold4541"
+        }
+      ],
+      "url": "https://devpost.com/software/adam-engineering-living-cognition",
+      "repo_url": null,
+      "demo_url": null
+    },
+    {
+      "slug": "qorx-zero-fgczmt",
+      "title": "Qorx Zero",
+      "description": "Device-local project memory for Codex that sends GPT-5.6 only the proof needed for the current task.",
+      "image": "https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/982/923/datas/medium.png",
+      "category": null,
+      "members": [
+        {
+          "handle": "bbrainfuckk",
+          "name": "bbrainfuckk",
+          "url": "https://devpost.com/bbrainfuckk"
+        }
+      ],
+      "url": "https://devpost.com/software/qorx-zero-fgczmt",
+      "repo_url": "https://github.com/bbrainfuckk/qorx-zero-build-week",
+      "demo_url": null
+    },
+    {
+      "slug": "the-life",
+      "title": "The LIFE",
+      "description": "Turn real-life goals into a world you can grow. Earn LIFE through meaningful action, build your own 3D world, create and learn with others, and make everyday progress visible.",
+      "image": "https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/980/447/datas/medium.png",
+      "category": null,
+      "members": [
+        {
+          "handle": "bbss8549",
+          "name": "bbss8549",
+          "url": "https://devpost.com/bbss8549"
+        }
+      ],
+      "url": "https://devpost.com/software/the-life",
+      "repo_url": "https://github.com/SangBumShon/buildweek",
+      "demo_url": null
+    },
+    {
+      "slug": "i-don-t-know-4uvxe8",
+      "title": "Accessible Learning Sites",
+      "description": "Turn one lesson into an accessibility-first Site for the whole class.",
+      "image": "https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/973/822/datas/medium.png",
+      "category": "Education",
+      "members": [
+        {
+          "handle": "bcis-lisa",
+          "name": "bcis-lisa",
+          "url": "https://devpost.com/bcis-lisa"
+        },
+        {
+          "handle": "thach-holeminh",
+          "name": "thach-holeminh",
+          "url": "https://devpost.com/thach-holeminh"
+        }
+      ],
+      "url": "https://devpost.com/software/i-don-t-know-4uvxe8",
+      "repo_url": "https://github.com/MichaelHo02/accessible-learning-sites",
+      "demo_url": null
+    },
+    {
+      "slug": "sniccer-ai-quote-copilot-for-tradespeople",
+      "title": "Sniccer – AI Quote Copilot for Tradespeople",
+      "description": "From a rough estimate to a professional, AI-checked quote in minutes.",
+      "image": "https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/945/767/datas/medium.png",
+      "category": null,
+      "members": [
+        {
+          "handle": "bdenes",
+          "name": "bdenes",
+          "url": "https://devpost.com/bdenes"
+        }
+      ],
+      "url": "https://devpost.com/software/sniccer-ai-quote-copilot-for-tradespeople",
+      "repo_url": null,
+      "demo_url": null
+    },
+    {
+      "slug": "gia-su-ai",
+      "title": "Gia Su AI",
+      "description": "An AI turoring system that must prove how it  teaches.",
+      "image": "https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/005/003/295/datas/medium.png",
+      "category": "Education",
+      "members": [
+        {
+          "handle": "bdpa-vns",
+          "name": "bdpa-vns",
+          "url": "https://devpost.com/bdpa-vns"
+        }
+      ],
+      "url": "https://devpost.com/software/gia-su-ai",
+      "repo_url": null,
+      "demo_url": null
+    },
+    {
+      "slug": "erkan-ai",
+      "title": "ERKAN AI",
+      "description": "⁇   ⁇   ⁇   ⁇   ⁇   ⁇   ⁇   ⁇   ⁇   ⁇   ⁇   ⁇   ⁇   ⁇   ⁇   ⁇   ⁇   ⁇  ⁇   ⁇",
+      "image": "https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/921/977/datas/medium.png",
+      "category": null,
+      "members": [
+        {
+          "handle": "bdwk1871",
+          "name": "bdwk1871",
+          "url": "https://devpost.com/bdwk1871"
+        }
+      ],
+      "url": "https://devpost.com/software/erkan-ai",
+      "repo_url": null,
+      "demo_url": null
+    },
+    {
+      "slug": "seezambia-civic-intelligence",
+      "title": "SeeZambia: Find My Ballot",
+      "description": "Helping Zambian voters find their constituency, ward, voting location and the candidates relevant to where they live.",
+      "image": "https://d2dmyh35ffsxbl.cloudfront.net/assets/shared/devpost_social_icon_200_200-f56e5af715a1d95e0209bb37e899b7c18c6e7e3b933a3c1f52456a6e2ee85d09.jpg",
+      "category": null,
+      "members": [
+        {
+          "handle": "beamingh",
+          "name": "beamingh",
+          "url": "https://devpost.com/beamingh"
+        }
+      ],
+      "url": "https://devpost.com/software/seezambia-civic-intelligence",
+      "repo_url": "https://github.com/beamingh/seezambia",
+      "demo_url": null
+    },
+    {
+      "slug": "atomic-learning-graph-5hniel",
+      "title": "Atomic Learning Graph",
+      "description": "A plain-English edition of a real textbook: one idea per page, a receipt on every sentence, and no AI while you read.",
+      "image": "https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/005/000/383/datas/medium.jpg",
+      "category": null,
+      "members": [
+        {
+          "handle": "beau36",
+          "name": "beau36",
+          "url": "https://devpost.com/beau36"
+        }
+      ],
+      "url": "https://devpost.com/software/atomic-learning-graph-5hniel",
+      "repo_url": "https://github.com/BeauBoorman/atomic-learning-graph",
+      "demo_url": "https://youtu.be/FZhGTl3CJTE?si=yO8IGolNtY2fLy7Y"
+    },
+    {
+      "slug": "boris-ebqd2l",
+      "title": "Boris",
+      "description": "Boris is a zero-dependency documentation compiler built in modern Zig 0.16.",
+      "image": "https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/951/361/datas/medium.jpeg",
+      "category": null,
+      "members": [
+        {
+          "handle": "beau36",
+          "name": "beau36",
+          "url": "https://devpost.com/beau36"
+        },
+        {
+          "handle": "tbuddy",
+          "name": "tbuddy",
+          "url": "https://devpost.com/tbuddy"
+        }
+      ],
+      "url": "https://devpost.com/software/boris-ebqd2l",
+      "repo_url": "https://github.com/drawmeanelephant/boris/",
+      "demo_url": null
+    },
+    {
+      "slug": "jualokal",
+      "title": "Jualokal",
+      "description": "Neighborhood secondhand selling with seller-controlled, privacy-safe handovers.",
+      "image": "https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/996/900/datas/medium.png",
+      "category": null,
+      "members": [
+        {
+          "handle": "expekerja",
+          "name": "expekerja",
+          "url": "https://devpost.com/expekerja"
+        },
+        {
+          "handle": "beb3k",
+          "name": "beb3k",
+          "url": "https://devpost.com/beb3k"
+        },
+        {
+          "handle": "zulfaza",
+          "name": "zulfaza",
+          "url": "https://devpost.com/zulfaza"
+        },
+        {
+          "handle": "yynfz",
+          "name": "yynfz",
+          "url": "https://devpost.com/yynfz"
+        }
+      ],
+      "url": "https://devpost.com/software/jualokal",
+      "repo_url": null,
+      "demo_url": null
+    },
+    {
+      "slug": "kirjolab",
+      "title": "Kirjolab",
+      "description": "Evidence becomes prose without losing the trail",
+      "image": "https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/941/546/datas/medium.png",
+      "category": null,
+      "members": [
+        {
+          "handle": "bebraw",
+          "name": "bebraw",
+          "url": "https://devpost.com/bebraw"
+        }
+      ],
+      "url": "https://devpost.com/software/kirjolab",
+      "repo_url": "https://github.com/survivejs/kirjolab-build-week-entry",
+      "demo_url": null
+    },
+    {
+      "slug": "ote-voisin",
+      "title": "Oté Voisin",
+      "description": "Oté Voisin is the AI-assisted hyperlocal marketplace built for La Réunion, connecting neighbors, professionals and local producers through voice, maps and trusted local services.",
+      "image": "https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/986/010/datas/medium.png",
+      "category": null,
+      "members": [
+        {
+          "handle": "bechouben9",
+          "name": "bechouben9",
+          "url": "https://devpost.com/bechouben9"
+        }
+      ],
+      "url": "https://devpost.com/software/ote-voisin",
+      "repo_url": "https://github.com/Benooh/ote-voisin",
+      "demo_url": null
+    },
+    {
+      "slug": "bos-1v0r9l",
+      "title": "Bos",
+      "description": "Bos is the AI Operating System for Physical Businesses, giving owners real-time operational awareness, AI-powered insights, and a connected customer experience.",
+      "image": "https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/989/424/datas/medium.png",
+      "category": null,
+      "members": [
+        {
+          "handle": "begintolern",
+          "name": "begintolern",
+          "url": "https://devpost.com/begintolern"
+        }
+      ],
+      "url": "https://devpost.com/software/bos-1v0r9l",
+      "repo_url": null,
+      "demo_url": "mailto:demo@businessos.ai"
+    },
+    {
+      "slug": "initial-project-k3zr4c",
+      "title": "Initial project",
+      "description": "I dont know yet but maybe app that can use daily",
+      "image": "https://d2dmyh35ffsxbl.cloudfront.net/assets/shared/devpost_social_icon_200_200-f56e5af715a1d95e0209bb37e899b7c18c6e7e3b933a3c1f52456a6e2ee85d09.jpg",
+      "category": null,
+      "members": [
+        {
+          "handle": "begolo111",
+          "name": "begolo111",
+          "url": "https://devpost.com/begolo111"
+        }
+      ],
+      "url": "https://devpost.com/software/initial-project-k3zr4c",
+      "repo_url": null,
+      "demo_url": null
+    },
+    {
+      "slug": "careero",
+      "title": "Careero",
+      "description": "Careero helps students find careers that fit who they are then schools and scholarships near them so they do not have to choose blind the way we once did.",
+      "image": "https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/953/279/datas/medium.png",
+      "category": "Education",
+      "members": [
+        {
+          "handle": "mecate-aaron-falla",
+          "name": "mecate-aaron-falla",
+          "url": "https://devpost.com/mecate-aaron-falla"
+        },
+        {
+          "handle": "begoniagennievieve",
+          "name": "begoniagennievieve",
+          "url": "https://devpost.com/begoniagennievieve"
+        }
+      ],
+      "url": "https://devpost.com/software/careero",
+      "repo_url": "https://github.com/Dukeabaddon/Careero",
+      "demo_url": null
+    },
+    {
+      "slug": "telic-butzcy",
+      "title": "Telic",
+      "description": "The smart assistant that cares about your end goal as much as you do. Intention meets action.",
+      "image": "https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/942/731/datas/medium.png",
+      "category": null,
+      "members": [
+        {
+          "handle": "begoniagennievieve",
+          "name": "begoniagennievieve",
+          "url": "https://devpost.com/begoniagennievieve"
+        },
+        {
+          "handle": "mecate-aaron-falla",
+          "name": "mecate-aaron-falla",
+          "url": "https://devpost.com/mecate-aaron-falla"
+        }
+      ],
+      "url": "https://devpost.com/software/telic-butzcy",
+      "repo_url": "https://github.com/Dukeabaddon/Telic",
       "demo_url": null
     }
   ]
