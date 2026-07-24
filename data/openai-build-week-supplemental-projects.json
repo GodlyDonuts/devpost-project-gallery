@@ -50,6 +50,30 @@
       "repo_url": "https://github.com/reexplain",
       "demo_url": null,
       "verification": "Public Devpost page explicitly states Submitted to OpenAI Build Week."
+    },
+    {
+      "slug": "hermes-world",
+      "title": "Hermes World",
+      "description": "Hermes World is a real-time visual observability layer for multi-agent AI systems.",
+      "image": "https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/897/304/datas/medium.png",
+      "category": null,
+      "members": [
+        {"handle": "stefanrosik31", "name": "stefanrosik31", "url": "https://devpost.com/stefanrosik31"},
+        {"handle": "oskar-lenard02", "name": "oskar-lenard02", "url": "https://devpost.com/oskar-lenard02"},
+        {"handle": "RobertKodes", "name": "RobertKodes", "url": "https://devpost.com/RobertKodes"},
+        {"handle": "Katarzyna_Drag", "name": "Katarzyna_Drag", "url": "https://devpost.com/Katarzyna_Drag"},
+        {"handle": "mz7mz7mz7", "name": "mz7mz7mz7", "url": "https://devpost.com/mz7mz7mz7"},
+        {"handle": "tuandev", "name": "tuandev", "url": "https://devpost.com/tuandev"},
+        {"handle": "DrewBeFree", "name": "DrewBeFree", "url": "https://devpost.com/DrewBeFree"},
+        {"handle": "artur-wala-95998", "name": "artur-wala-95998", "url": "https://devpost.com/artur-wala-95998"},
+        {"handle": "rmaklowicz74", "name": "rmaklowicz74", "url": "https://devpost.com/rmaklowicz74"},
+        {"handle": "spokokuba75", "name": "spokokuba75", "url": "https://devpost.com/spokokuba75"},
+        {"handle": "teknium", "name": "teknium", "url": "https://devpost.com/teknium"}
+      ],
+      "url": "https://devpost.com/software/hermes-world",
+      "repo_url": "https://github.com/filipj9/Hermes-world.git",
+      "demo_url": null,
+      "verification": "Public Devpost page explicitly states Submitted to OpenAI Build Week."
     }
   ]
 }
