@@ -2,14 +2,14 @@
   "slug": "openai-build-week",
   "name": "OpenAI Build Week",
   "hackathon_id": "30223",
-  "generated_at": "2026-07-24T10:52:03.293319+00:00",
+  "generated_at": "2026-07-24T10:52:08.342621+00:00",
   "categories": [
     "Apps for Your Life",
     "Work & Productivity",
     "Developer Tools",
     "Education"
   ],
-  "count": 2995,
+  "count": 2998,
   "projects": [
     {
       "slug": "gosu-go-trainer",
@@ -56433,6 +56433,57 @@
         }
       ],
       "url": "https://devpost.com/software/focuspia",
+      "repo_url": null,
+      "demo_url": null
+    },
+    {
+      "slug": "opspilot-ai-yzd1qr",
+      "title": "OpsPilot AI",
+      "description": "Transforma procedimentos técnicos em planos de ação claros, checklists executáveis e respostas com fontes para equipes de operação e manutenção.",
+      "image": "https://d2dmyh35ffsxbl.cloudfront.net/assets/shared/devpost_social_icon_200_200-f56e5af715a1d95e0209bb37e899b7c18c6e7e3b933a3c1f52456a6e2ee85d09.jpg",
+      "category": null,
+      "members": [
+        {
+          "handle": "engmarcosdacosta",
+          "name": "engmarcosdacosta",
+          "url": "https://devpost.com/engmarcosdacosta"
+        }
+      ],
+      "url": "https://devpost.com/software/opspilot-ai-yzd1qr",
+      "repo_url": null,
+      "demo_url": null
+    },
+    {
+      "slug": "turnfeed",
+      "title": "Turnfeed",
+      "description": "A public social feed inside ChatGPT",
+      "image": "https://d2dmyh35ffsxbl.cloudfront.net/assets/shared/devpost_social_icon_200_200-f56e5af715a1d95e0209bb37e899b7c18c6e7e3b933a3c1f52456a6e2ee85d09.jpg",
+      "category": null,
+      "members": [
+        {
+          "handle": "engoy-theodor",
+          "name": "engoy-theodor",
+          "url": "https://devpost.com/engoy-theodor"
+        }
+      ],
+      "url": "https://devpost.com/software/turnfeed",
+      "repo_url": "https://github.com/TheodorNEngoy/chatgpt-social-mvp",
+      "demo_url": null
+    },
+    {
+      "slug": "easyfinder-to-ne17rk",
+      "title": "Easyfinder-to",
+      "description": "Help you find trusted professionals, skilled persons, businesses and clients near you.",
+      "image": "https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/922/106/datas/medium.jpg",
+      "category": null,
+      "members": [
+        {
+          "handle": "engrmuhammedahmed1",
+          "name": "engrmuhammedahmed1",
+          "url": "https://devpost.com/engrmuhammedahmed1"
+        }
+      ],
+      "url": "https://devpost.com/software/easyfinder-to-ne17rk",
       "repo_url": null,
       "demo_url": null
     }
