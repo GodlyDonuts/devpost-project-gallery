@@ -2,14 +2,14 @@
   "slug": "openai-build-week",
   "name": "OpenAI Build Week",
   "hackathon_id": "30223",
-  "generated_at": "2026-07-24T10:52:32.933831+00:00",
+  "generated_at": "2026-07-24T10:54:06.255796+00:00",
   "categories": [
     "Apps for Your Life",
     "Work & Productivity",
     "Developer Tools",
     "Education"
   ],
-  "count": 3019,
+  "count": 3058,
   "projects": [
     {
       "slug": "gosu-go-trainer",
@@ -56848,6 +56848,734 @@
       "url": "https://devpost.com/software/game-demo",
       "repo_url": null,
       "demo_url": "https://secure.devpost.com/users/register?flow%5Bdata%5D%5Bsoftware_id%5D=1339910&flow%5Bname%5D=like_software&return_to=https%3A%2F%2Fdevpost.com%2Fsoftware%2Fgame-demo"
+    },
+    {
+      "slug": "neejou-yo6xt1",
+      "title": "neeJou",
+      "description": "We do not read resumes. neeJou uses AI to analyze real GitHub repositories and match clients with engineers whose code proves project fit.",
+      "image": "https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/965/307/datas/medium.png",
+      "category": null,
+      "members": [
+        {
+          "handle": "ericchen1972",
+          "name": "ericchen1972",
+          "url": "https://devpost.com/ericchen1972"
+        }
+      ],
+      "url": "https://devpost.com/software/neejou-yo6xt1",
+      "repo_url": "https://github.com/ericchen1972/neeJou",
+      "demo_url": null
+    },
+    {
+      "slug": "bolt-iq",
+      "title": "Bolt iq : Physics Puzzle",
+      "description": "Screw Puzzle game",
+      "image": "https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/918/277/datas/medium.png",
+      "category": null,
+      "members": [
+        {
+          "handle": "ericotoo347",
+          "name": "ericotoo347",
+          "url": "https://devpost.com/ericotoo347"
+        }
+      ],
+      "url": "https://devpost.com/software/bolt-iq",
+      "repo_url": null,
+      "demo_url": null
+    },
+    {
+      "slug": "qorgan42",
+      "title": "Qorgan42",
+      "description": "A local-first safety workflow for AI-assisted coding.",
+      "image": "https://d2dmyh35ffsxbl.cloudfront.net/assets/shared/devpost_social_icon_200_200-f56e5af715a1d95e0209bb37e899b7c18c6e7e3b933a3c1f52456a6e2ee85d09.jpg",
+      "category": null,
+      "members": [
+        {
+          "handle": "erik-adamil",
+          "name": "erik-adamil",
+          "url": "https://devpost.com/erik-adamil"
+        }
+      ],
+      "url": "https://devpost.com/software/qorgan42",
+      "repo_url": "https://github.com/qorgan42/build-week-2026",
+      "demo_url": null
+    },
+    {
+      "slug": "halo-ai-egy6mb",
+      "title": "Halo Ai",
+      "description": "HALO AI is a privacy-first multimodal assistant that can listen, speak, understand vision, remember conversations, and run locally to keep your data secure and under your control.",
+      "image": "https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/005/004/253/datas/medium.png",
+      "category": null,
+      "members": [
+        {
+          "handle": "erikrazo51",
+          "name": "erikrazo51",
+          "url": "https://devpost.com/erikrazo51"
+        }
+      ],
+      "url": "https://devpost.com/software/halo-ai-egy6mb",
+      "repo_url": null,
+      "demo_url": null
+    },
+    {
+      "slug": "helicase-atlas",
+      "title": "Helicase Atlas",
+      "description": "Explore 75,000 real proteins as a navigable universe, inspect molecular structures, and let GPT-5.6 guide the science through validated tools.",
+      "image": "https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/989/782/datas/medium.png",
+      "category": null,
+      "members": [
+        {
+          "handle": "erimirenikeji",
+          "name": "erimirenikeji",
+          "url": "https://devpost.com/erimirenikeji"
+        }
+      ],
+      "url": "https://devpost.com/software/helicase-atlas",
+      "repo_url": "https://github.com/EriMore/helicase",
+      "demo_url": null
+    },
+    {
+      "slug": "veterinary-four-color-triage-app",
+      "title": "veTriage—Safety-First Vet Phone Triage PWA Built in a Week",
+      "description": "Built by a veterinarian & practice owner with no coding experience, this app turns clinical triage expertise into a structured safety net for vet clinic staff. Live now, screening all sick-pet calls.",
+      "image": "https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/959/265/datas/medium.png",
+      "category": null,
+      "members": [
+        {
+          "handle": "erin490",
+          "name": "erin490",
+          "url": "https://devpost.com/erin490"
+        },
+        {
+          "handle": "supermegaboris",
+          "name": "supermegaboris",
+          "url": "https://devpost.com/supermegaboris"
+        },
+        {
+          "handle": "Paoli",
+          "name": "Paoli",
+          "url": "https://devpost.com/Paoli"
+        },
+        {
+          "handle": "keeferjrowan",
+          "name": "keeferjrowan",
+          "url": "https://devpost.com/keeferjrowan"
+        }
+      ],
+      "url": "https://devpost.com/software/veterinary-four-color-triage-app",
+      "repo_url": "https://github.com/paolivetcare/vetriage",
+      "demo_url": "https://youtu.be/FK9-uFwTJhI"
+    },
+    {
+      "slug": "3depthxr",
+      "title": "3DepthXR",
+      "description": "Turn any Mac screen into an interactive real-time 3D experience on any WebXR headset.",
+      "image": "https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/972/594/datas/medium.jpg",
+      "category": null,
+      "members": [
+        {
+          "handle": "erkamaj",
+          "name": "erkamaj",
+          "url": "https://devpost.com/erkamaj"
+        }
+      ],
+      "url": "https://devpost.com/software/3depthxr",
+      "repo_url": null,
+      "demo_url": null
+    },
+    {
+      "slug": "kwikmo",
+      "title": "KwikMo",
+      "description": "A WhatsApp marketplace connecting Ghanaian shoppers with local vendors through interactive discovery, Mobile Money checkout, automated payouts, and end-to-end order operations.",
+      "image": "https://d2dmyh35ffsxbl.cloudfront.net/assets/shared/devpost_social_icon_200_200-f56e5af715a1d95e0209bb37e899b7c18c6e7e3b933a3c1f52456a6e2ee85d09.jpg",
+      "category": null,
+      "members": [
+        {
+          "handle": "ernestmanuofosu",
+          "name": "ernestmanuofosu",
+          "url": "https://devpost.com/ernestmanuofosu"
+        }
+      ],
+      "url": "https://devpost.com/software/kwikmo",
+      "repo_url": null,
+      "demo_url": null
+    },
+    {
+      "slug": "autodrawlapse",
+      "title": "AutoDrawLapse",
+      "description": "Transform a single image into a stunning, stroke-by-stroke drawing timelapse video.",
+      "image": "https://d2dmyh35ffsxbl.cloudfront.net/assets/shared/devpost_social_icon_200_200-f56e5af715a1d95e0209bb37e899b7c18c6e7e3b933a3c1f52456a6e2ee85d09.jpg",
+      "category": null,
+      "members": [
+        {
+          "handle": "err-dev254",
+          "name": "err-dev254",
+          "url": "https://devpost.com/err-dev254"
+        }
+      ],
+      "url": "https://devpost.com/software/autodrawlapse",
+      "repo_url": null,
+      "demo_url": null
+    },
+    {
+      "slug": "mr-fridge",
+      "title": "Mr. Fridge",
+      "description": "A smart-fridge agent that recognizes groceries with real computer vision, tracks freshness from USDA shelf-life data, and flags what to restock before it spoils.",
+      "image": "https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/005/011/297/datas/medium.png",
+      "category": null,
+      "members": [
+        {
+          "handle": "rahatzhan67",
+          "name": "rahatzhan67",
+          "url": "https://devpost.com/rahatzhan67"
+        },
+        {
+          "handle": "errorof7",
+          "name": "errorof7",
+          "url": "https://devpost.com/errorof7"
+        },
+        {
+          "handle": "jinglebells2020",
+          "name": "jinglebells2020",
+          "url": "https://devpost.com/jinglebells2020"
+        }
+      ],
+      "url": "https://devpost.com/software/mr-fridge",
+      "repo_url": null,
+      "demo_url": null
+    },
+    {
+      "slug": "delibrashift",
+      "title": "DelibraShift",
+      "description": "A real-time diagnostic arena that reveals how AI agents predict, adapt, and act while the world keeps moving during their deliberation.",
+      "image": "https://d2dmyh35ffsxbl.cloudfront.net/assets/shared/devpost_social_icon_200_200-f56e5af715a1d95e0209bb37e899b7c18c6e7e3b933a3c1f52456a6e2ee85d09.jpg",
+      "category": null,
+      "members": [
+        {
+          "handle": "eryk94wyr",
+          "name": "eryk94wyr",
+          "url": "https://devpost.com/eryk94wyr"
+        }
+      ],
+      "url": "https://devpost.com/software/delibrashift",
+      "repo_url": "https://github.com/erykaitools-beep/DelibraShift",
+      "demo_url": null
+    },
+    {
+      "slug": "dup-fitnesspal-for-women",
+      "title": "DUP - Food tracker for women",
+      "description": "An app that adjusts your calorie and nutritional intake based on your menstrual cycle and contraceptive method, providing personalized recommendations on what to eat, how much, and why.",
+      "image": "https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/969/675/datas/medium.png",
+      "category": null,
+      "members": [
+        {
+          "handle": "esaaveni",
+          "name": "esaaveni",
+          "url": "https://devpost.com/esaaveni"
+        }
+      ],
+      "url": "https://devpost.com/software/dup-fitnesspal-for-women",
+      "repo_url": "https://github.com/esaaveni/dup-food-tracker/",
+      "demo_url": null
+    },
+    {
+      "slug": "careerpilot-ai-xo4c70",
+      "title": "CareerPilot AI",
+      "description": "CareerPilot AI turns verified qualifications into tailored CVs, job matches, and review-ready application packages without inventing candidate experience.",
+      "image": "https://d2dmyh35ffsxbl.cloudfront.net/assets/shared/devpost_social_icon_200_200-f56e5af715a1d95e0209bb37e899b7c18c6e7e3b933a3c1f52456a6e2ee85d09.jpg",
+      "category": null,
+      "members": [
+        {
+          "handle": "eslam-aziz95outlook",
+          "name": "eslam-aziz95outlook",
+          "url": "https://devpost.com/eslam-aziz95outlook"
+        }
+      ],
+      "url": "https://devpost.com/software/careerpilot-ai-xo4c70",
+      "repo_url": "https://github.com/eslamaziz95outlook-maker/CareerPilot-AI",
+      "demo_url": null
+    },
+    {
+      "slug": "jas-jah-action-script-php-7t48ci",
+      "title": "JAS — JAH Action Script PHP",
+      "description": "A typed, governed PHP platform that keeps large web systems organized, secure, testable and sustainable—with DataCore and AI-ready diagnostics.",
+      "image": "https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/933/379/datas/medium.jpg",
+      "category": null,
+      "members": [
+        {
+          "handle": "esmeydub",
+          "name": "esmeydub",
+          "url": "https://devpost.com/esmeydub"
+        }
+      ],
+      "url": "https://devpost.com/software/jas-jah-action-script-php-7t48ci",
+      "repo_url": "https://github.com/esmeydub/JAS-JAH-Action-Script-PHP",
+      "demo_url": "https://youtu.be/r9wakYm8Y9Q"
+    },
+    {
+      "slug": "prosperia-balance",
+      "title": "Prospería Balance",
+      "description": "Clear, human financial guidance for people and microbusinesses—without jargon, spreadsheets, or digital barriers.",
+      "image": "https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/932/245/datas/medium.jpg",
+      "category": "Education",
+      "members": [
+        {
+          "handle": "espinozakevin999-collab",
+          "name": "espinozakevin999-collab",
+          "url": "https://devpost.com/espinozakevin999-collab"
+        }
+      ],
+      "url": "https://devpost.com/software/prosperia-balance",
+      "repo_url": "https://github.com/espinozakevin999-collab/prosperia-balance",
+      "demo_url": null
+    },
+    {
+      "slug": "silex-embodied-ai-for-everyday-life",
+      "title": "Silex: A robot with built-in AI, a companion for daily life",
+      "description": "A robot aware of its body, its surroundings, and its interaction with various devices, it takes personal generative AI beyond the screen, transforming your requests into safe and expressive actions.",
+      "image": "https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/005/003/523/datas/medium.jpeg",
+      "category": null,
+      "members": [
+        {
+          "handle": "esteban-garcia-vazquez",
+          "name": "esteban-garcia-vazquez",
+          "url": "https://devpost.com/esteban-garcia-vazquez"
+        }
+      ],
+      "url": "https://devpost.com/software/silex-embodied-ai-for-everyday-life",
+      "repo_url": "https://github.com/estebangarciavazquez-silex/silex-build-week",
+      "demo_url": null
+    },
+    {
+      "slug": "build-od7jmb",
+      "title": "my codex skin- gpt valley",
+      "description": "GPT Valley is a custom Codex skin inspired by the warm, nostalgic atmosphere of Stardew Valley.",
+      "image": "https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/969/151/datas/medium.png",
+      "category": null,
+      "members": [
+        {
+          "handle": "estherwongong",
+          "name": "estherwongong",
+          "url": "https://devpost.com/estherwongong"
+        }
+      ],
+      "url": "https://devpost.com/software/build-od7jmb",
+      "repo_url": null,
+      "demo_url": null
+    },
+    {
+      "slug": "flowst",
+      "title": "Flowst",
+      "description": "Flowst is an AI-powered learning environment that helps learners turn any subject into clearer understanding they can defend",
+      "image": "https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/894/402/datas/medium.png",
+      "category": "Education",
+      "members": [
+        {
+          "handle": "estheticallybawo",
+          "name": "estheticallybawo",
+          "url": "https://devpost.com/estheticallybawo"
+        }
+      ],
+      "url": "https://devpost.com/software/flowst",
+      "repo_url": null,
+      "demo_url": null
+    },
+    {
+      "slug": "decompiler-for-ios-and-macos-binaries",
+      "title": "Decompiler for iOS and macOS binaries",
+      "description": "A decompiler that turns ARM64 iOS and macOS binaries into source-like Objective-C and Swift.",
+      "image": "https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/005/003/880/datas/medium.png",
+      "category": null,
+      "members": [
+        {
+          "handle": "ethan-a-arbuckle",
+          "name": "ethan-a-arbuckle",
+          "url": "https://devpost.com/ethan-a-arbuckle"
+        }
+      ],
+      "url": "https://devpost.com/software/decompiler-for-ios-and-macos-binaries",
+      "repo_url": null,
+      "demo_url": null
+    },
+    {
+      "slug": "caltech-codex-scheduler",
+      "title": "Caltech Codex Scheduler",
+      "description": "An intelligent, Codex-driven course scheduling platform designed for the California Institute of Technology to streamline and automate academic planning.",
+      "image": "https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/900/365/datas/medium.png",
+      "category": null,
+      "members": [
+        {
+          "handle": "ethan-miller-20050512",
+          "name": "ethan-miller-20050512",
+          "url": "https://devpost.com/ethan-miller-20050512"
+        }
+      ],
+      "url": "https://devpost.com/software/caltech-codex-scheduler",
+      "repo_url": null,
+      "demo_url": null
+    },
+    {
+      "slug": "claw-0n2w1j",
+      "title": "claw",
+      "description": "claw",
+      "image": "https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/907/333/datas/medium.png",
+      "category": null,
+      "members": [
+        {
+          "handle": "ethan816-li",
+          "name": "ethan816-li",
+          "url": "https://devpost.com/ethan816-li"
+        }
+      ],
+      "url": "https://devpost.com/software/claw-0n2w1j",
+      "repo_url": null,
+      "demo_url": null
+    },
+    {
+      "slug": "v11-authority-firewall",
+      "title": "V11 Authority Firewall",
+      "description": "Give an AI agent meaningful freedom without giving it uncontrolled authority.",
+      "image": "https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/993/296/datas/medium.png",
+      "category": null,
+      "members": [
+        {
+          "handle": "eu-cerda",
+          "name": "eu-cerda",
+          "url": "https://devpost.com/eu-cerda"
+        }
+      ],
+      "url": "https://devpost.com/software/v11-authority-firewall",
+      "repo_url": null,
+      "demo_url": null
+    },
+    {
+      "slug": "ai-companion-keyboard",
+      "title": "QA Rehearsal Theater",
+      "description": "Evidence-backed Android QA where AI personas explore real apps and turn UI states, recordings, and logs into reproducible bugs.",
+      "image": "https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/005/004/452/datas/medium.png",
+      "category": null,
+      "members": [
+        {
+          "handle": "larsien85",
+          "name": "larsien85",
+          "url": "https://devpost.com/larsien85"
+        },
+        {
+          "handle": "eunhae1723",
+          "name": "eunhae1723",
+          "url": "https://devpost.com/eunhae1723"
+        }
+      ],
+      "url": "https://devpost.com/software/ai-companion-keyboard",
+      "repo_url": null,
+      "demo_url": null
+    },
+    {
+      "slug": "signbridge-2ufhd5",
+      "title": "SignBridge",
+      "description": "Helping Deaf ASL users communicate basic needs with healthcare providers through accessible AI-powered sign recognition.",
+      "image": "https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/973/908/datas/medium.png",
+      "category": null,
+      "members": [
+        {
+          "handle": "evalghadban",
+          "name": "evalghadban",
+          "url": "https://devpost.com/evalghadban"
+        },
+        {
+          "handle": "rawannew2006",
+          "name": "rawannew2006",
+          "url": "https://devpost.com/rawannew2006"
+        }
+      ],
+      "url": "https://devpost.com/software/signbridge-2ufhd5",
+      "repo_url": null,
+      "demo_url": null
+    },
+    {
+      "slug": "career-vivid-ios",
+      "title": "CareerVivid iOS",
+      "description": "Voice-first, personalized mock interview practice that compounds daily.",
+      "image": "https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/005/002/562/datas/medium.png",
+      "category": null,
+      "members": [
+        {
+          "handle": "evan988",
+          "name": "evan988",
+          "url": "https://devpost.com/evan988"
+        },
+        {
+          "handle": "peter00100712345",
+          "name": "peter00100712345",
+          "url": "https://devpost.com/peter00100712345"
+        }
+      ],
+      "url": "https://devpost.com/software/career-vivid-ios",
+      "repo_url": "https://github.com/JiawenZhu/careervivid-ios",
+      "demo_url": null
+    },
+    {
+      "slug": "chat-workforce",
+      "title": "Chat Workforce",
+      "description": "Turn one founder’s idea into a working company from one conversation. Gary assembles experts across AI models, resolves disagreement, executes approved work, and Vibe Check proves it.",
+      "image": "https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/958/130/datas/medium.png",
+      "category": null,
+      "members": [
+        {
+          "handle": "evance1227",
+          "name": "evance1227",
+          "url": "https://devpost.com/evance1227"
+        },
+        {
+          "handle": "BraxtonVance92",
+          "name": "BraxtonVance92",
+          "url": "https://devpost.com/BraxtonVance92"
+        },
+        {
+          "handle": "thevancedance",
+          "name": "thevancedance",
+          "url": "https://devpost.com/thevancedance"
+        },
+        {
+          "handle": "heather-mcfarland14",
+          "name": "heather-mcfarland14",
+          "url": "https://devpost.com/heather-mcfarland14"
+        },
+        {
+          "handle": "mckenzieb220",
+          "name": "mckenzieb220",
+          "url": "https://devpost.com/mckenzieb220"
+        },
+        {
+          "handle": "emilyrbaldwin3",
+          "name": "emilyrbaldwin3",
+          "url": "https://devpost.com/emilyrbaldwin3"
+        }
+      ],
+      "url": "https://devpost.com/software/chat-workforce",
+      "repo_url": null,
+      "demo_url": null
+    },
+    {
+      "slug": "ahp-traceos",
+      "title": "AHP TraceOS",
+      "description": "AHP TraceOS organiza incidencias, evidencias y decisiones en flujos trazables entre personas e inteligencia artificial.",
+      "image": "https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/963/978/datas/medium.jpg",
+      "category": null,
+      "members": [
+        {
+          "handle": "evaxxxmorato",
+          "name": "evaxxxmorato",
+          "url": "https://devpost.com/evaxxxmorato"
+        }
+      ],
+      "url": "https://devpost.com/software/ahp-traceos",
+      "repo_url": "https://github.com/Evinhaxxx/ahp-traceos-build-week-2026",
+      "demo_url": null
+    },
+    {
+      "slug": "tm-26",
+      "title": "TM 26",
+      "description": "A portable texture instrument built for visual creators that transforms real-world surfaces into 3D PBR materials, vectors, and digital brushes.",
+      "image": "https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/943/203/datas/medium.gif",
+      "category": null,
+      "members": [
+        {
+          "handle": "eveliu0314",
+          "name": "eveliu0314",
+          "url": "https://devpost.com/eveliu0314"
+        }
+      ],
+      "url": "https://devpost.com/software/tm-26",
+      "repo_url": null,
+      "demo_url": null
+    },
+    {
+      "slug": "evocontext-xvrt4y",
+      "title": "EvoContext — governance and continuity for autonomous agents",
+      "description": "Autonomy needs governance and continuity. EvoContext gives the project its own memory. Agent work becomes part of the project, so every new session, agent, and model starts with the same knowledge.",
+      "image": "https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/938/706/datas/medium.png",
+      "category": null,
+      "members": [
+        {
+          "handle": "evocontext",
+          "name": "evocontext",
+          "url": "https://devpost.com/evocontext"
+        }
+      ],
+      "url": "https://devpost.com/software/evocontext-xvrt4y",
+      "repo_url": "https://github.com/evocontext/evocontext",
+      "demo_url": null
+    },
+    {
+      "slug": "relay-y27g40",
+      "title": "RELAY",
+      "description": "conversations you avoid often matter the most. Relay helps you have them.",
+      "image": "https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/918/941/datas/medium.png",
+      "category": null,
+      "members": [
+        {
+          "handle": "evolverobotlab",
+          "name": "evolverobotlab",
+          "url": "https://devpost.com/evolverobotlab"
+        }
+      ],
+      "url": "https://devpost.com/software/relay-y27g40",
+      "repo_url": "https://github.com/Evolve-Robot-Lab-1/relay",
+      "demo_url": null
+    },
+    {
+      "slug": "reisioval",
+      "title": "reisioval",
+      "description": "OpenAI-powered study cards where teachers create content and the app validates it against official curriculum sources before students practise with an AI tutor.",
+      "image": "https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/919/857/datas/medium.png",
+      "category": "Education",
+      "members": [
+        {
+          "handle": "examesnacionais",
+          "name": "examesnacionais",
+          "url": "https://devpost.com/examesnacionais"
+        }
+      ],
+      "url": "https://devpost.com/software/reisioval",
+      "repo_url": "https://github.com/skinredcs2-byte/LiveR",
+      "demo_url": null
+    },
+    {
+      "slug": "tiwi",
+      "title": "TIWI",
+      "description": "TIWI orchestrates AI agents that transform industrial camera and sensor data into trusted, real-time decisions for safer, smarter, and more efficient operations.",
+      "image": "https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/919/945/datas/medium.png",
+      "category": null,
+      "members": [
+        {
+          "handle": "exequiel-wiedermann",
+          "name": "exequiel-wiedermann",
+          "url": "https://devpost.com/exequiel-wiedermann"
+        }
+      ],
+      "url": "https://devpost.com/software/tiwi",
+      "repo_url": null,
+      "demo_url": null
+    },
+    {
+      "slug": "exhibition-data-analysis",
+      "title": "Exhibition Data Analysis",
+      "description": "Exhibition Data Analysis App covering full pipeline from data load, preprocessing, visualization and insights with streamlit, github and supabase. Superb accomplishment by Codex and its GPT 5.6 model.",
+      "image": "https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/975/583/datas/medium.PNG",
+      "category": null,
+      "members": [
+        {
+          "handle": "exnslc37",
+          "name": "exnslc37",
+          "url": "https://devpost.com/exnslc37"
+        }
+      ],
+      "url": "https://devpost.com/software/exhibition-data-analysis",
+      "repo_url": "https://github.com/JongdaeChoi/Exhibition-Data-Analysis",
+      "demo_url": null
+    },
+    {
+      "slug": "roomeyfinder",
+      "title": "RoomeyFinder",
+      "description": "RoomeyFinder matches Nigerian students with compatible roommates, so you can split the upfront rent and find a home you actually want to live in.",
+      "image": "https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/896/481/datas/medium.png",
+      "category": null,
+      "members": [
+        {
+          "handle": "exploitenomah",
+          "name": "exploitenomah",
+          "url": "https://devpost.com/exploitenomah"
+        }
+      ],
+      "url": "https://devpost.com/software/roomeyfinder",
+      "repo_url": "https://github.com/RoomeyFinder/roomeyfinder-v2",
+      "demo_url": null
+    },
+    {
+      "slug": "lifeinbox",
+      "title": "LifeInbox",
+      "description": "Drop anything. LifeInbox turns it into trusted tasks, events, expenses, and notes.",
+      "image": "https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/902/114/datas/medium.png",
+      "category": null,
+      "members": [
+        {
+          "handle": "explorertaha",
+          "name": "explorertaha",
+          "url": "https://devpost.com/explorertaha"
+        }
+      ],
+      "url": "https://devpost.com/software/lifeinbox",
+      "repo_url": "https://github.com/heytaha14/LifeInbox",
+      "demo_url": null
+    },
+    {
+      "slug": "fleet-t8uwi3",
+      "title": "Fleet",
+      "description": "You and your agents, around your network, automagically.",
+      "image": "https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/970/842/datas/medium.png",
+      "category": null,
+      "members": [
+        {
+          "handle": "extoci",
+          "name": "extoci",
+          "url": "https://devpost.com/extoci"
+        }
+      ],
+      "url": "https://devpost.com/software/fleet-t8uwi3",
+      "repo_url": "https://github.com/extoci/fleet",
+      "demo_url": null
+    },
+    {
+      "slug": "quotaswatcher",
+      "title": "QuotasWatcher",
+      "description": "A lightweight macOS menu bar and Touch Bar app for monitoring Codex quotas and receiving reset notifications on your phone.",
+      "image": "https://d2dmyh35ffsxbl.cloudfront.net/assets/shared/devpost_social_icon_200_200-f56e5af715a1d95e0209bb37e899b7c18c6e7e3b933a3c1f52456a6e2ee85d09.jpg",
+      "category": null,
+      "members": [
+        {
+          "handle": "ezraluuu",
+          "name": "ezraluuu",
+          "url": "https://devpost.com/ezraluuu"
+        }
+      ],
+      "url": "https://devpost.com/software/quotaswatcher",
+      "repo_url": "https://github.com/ezraluuu-lhk/QuotasWatcher",
+      "demo_url": null
+    },
+    {
+      "slug": "context-mri-o2hzyk",
+      "title": "Context MRI",
+      "description": "Find the context file that broke your agent. Verify the repair. Block its return.",
+      "image": "https://d2dmyh35ffsxbl.cloudfront.net/assets/shared/devpost_social_icon_200_200-f56e5af715a1d95e0209bb37e899b7c18c6e7e3b933a3c1f52456a6e2ee85d09.jpg",
+      "category": null,
+      "members": [
+        {
+          "handle": "ezrawestover1-hub",
+          "name": "ezrawestover1-hub",
+          "url": "https://devpost.com/ezrawestover1-hub"
+        }
+      ],
+      "url": "https://devpost.com/software/context-mri-o2hzyk",
+      "repo_url": "https://github.com/ezrawestover1-hub/context-mri/actions/workflows/context-guard.yml",
+      "demo_url": null
+    },
+    {
+      "slug": "livelab",
+      "title": "LiveLab",
+      "description": "LiveLab turns plain English questions into interactive algorithm simulations AI proposes, deterministic validators approve, every version immutable so learning stays safe to explore.",
+      "image": "https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/005/001/131/datas/medium.png",
+      "category": null,
+      "members": [
+        {
+          "handle": "f20230111",
+          "name": "f20230111",
+          "url": "https://devpost.com/f20230111"
+        }
+      ],
+      "url": "https://devpost.com/software/livelab",
+      "repo_url": null,
+      "demo_url": null
     }
   ]
 }
