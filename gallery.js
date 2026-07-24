@@ -83,11 +83,14 @@
 
   grid.innerHTML = '<div class="loading">Loading projects…</div>';
   try {
-    const [res, classificationRes] = await Promise.all([
+    const [res, classificationRes, supplementalRes] = await Promise.all([
       fetch("data/" + encodeURIComponent(slug) + ".json", { cache: "no-store" }),
       // Labels are published independently of the long-running crawler, so a
       // crawler checkpoint can never erase an already reviewed category.
       fetch("data/" + encodeURIComponent(slug) + "-classifications.json", { cache: "no-store" }),
+      // Directly verified omissions are published here immediately; the main
+      // crawler can discover them later without creating duplicate cards.
+      fetch("data/" + encodeURIComponent(slug) + "-supplemental-projects.json", { cache: "no-store" }),
     ]);
     if (!res.ok) throw new Error("HTTP " + res.status);
     const data = await res.json();
@@ -96,7 +99,16 @@
       const classificationData = await classificationRes.json();
       labels = classificationData.labels || {};
     }
-    projects = (data.projects || []).map((project) => {
+    let supplemental = [];
+    if (supplementalRes.ok) {
+      const supplementalData = await supplementalRes.json();
+      supplemental = supplementalData.projects || [];
+    }
+    const projectBySlug = new Map();
+    [...(data.projects || []), ...supplemental].forEach((project) => {
+      if (project && project.slug && !projectBySlug.has(project.slug)) projectBySlug.set(project.slug, project);
+    });
+    projects = [...projectBySlug.values()].map((project) => {
       const label = labels[project.slug];
       // Legacy crawler guesses are deliberately not displayed. A track is
       // shown only after the separate classification pipeline validates it.

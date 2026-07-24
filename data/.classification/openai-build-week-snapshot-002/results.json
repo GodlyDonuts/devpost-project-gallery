@@ -1442,19 +1442,19 @@
     },
     "book-reel": {
       "category": "Apps for Your Life",
-      "confidence": 95
+      "confidence": 85
     },
     "canvasgen": {
       "category": "Developer Tools",
-      "confidence": 95
+      "confidence": 90
     },
     "grazing-app": {
       "category": "Work & Productivity",
-      "confidence": 75
+      "confidence": 70
     },
     "besideme": {
       "category": "Apps for Your Life",
-      "confidence": 85
+      "confidence": 70
     },
     "agentime": {
       "category": "Apps for Your Life",
@@ -1462,27 +1462,31 @@
     },
     "test-rugs5i": {
       "category": "Apps for Your Life",
-      "confidence": 30
+      "confidence": 10
     },
     "trip-planner-d7mj9i": {
       "category": "Apps for Your Life",
       "confidence": 95
     },
     "anchoredit": {
-      "category": "Work & Productivity",
-      "confidence": 75
+      "category": "Apps for Your Life",
+      "confidence": 70
     },
     "hymn-slide-maker": {
-      "category": "Apps for Your Life",
-      "confidence": 75
+      "category": "Work & Productivity",
+      "confidence": 65
     },
     "summer-growth-ledger": {
       "category": "Apps for Your Life",
-      "confidence": 95
+      "confidence": 90
+    },
+    "worldeval": {
+      "category": "Developer Tools",
+      "confidence": 80
     },
     "scholarshiphub-blhimk": {
       "category": "Apps for Your Life",
-      "confidence": 80
+      "confidence": 75
     },
     "iceberg-panic-sell-prevention-investment-cockpit": {
       "category": "Apps for Your Life",
@@ -1490,58 +1494,113 @@
     },
     "creana": {
       "category": "Work & Productivity",
-      "confidence": 80
+      "confidence": 65
     },
     "demon-docs": {
       "category": "Developer Tools",
-      "confidence": 98
+      "confidence": 90
     },
     "flick-arena": {
       "category": "Apps for Your Life",
-      "confidence": 95
+      "confidence": 90
     },
     "pdfteachannotator": {
       "category": "Education",
-      "confidence": 95
+      "confidence": 85
     },
     "repodna": {
       "category": "Developer Tools",
-      "confidence": 95
+      "confidence": 90
     },
     "keepscape": {
       "category": "Apps for Your Life",
-      "confidence": 70
+      "confidence": 60
     },
     "makeyour": {
+      "category": "Apps for Your Life",
+      "confidence": 75
+    },
+    "verse-victory": {
+      "category": "Education",
+      "confidence": 80
+    },
+    "software-ge-gestion-iso-manager": {
+      "category": "Work & Productivity",
+      "confidence": 92
+    },
+    "neural-apex": {
+      "category": "Education",
+      "confidence": 90
+    },
+    "betterpomo": {
+      "category": "Work & Productivity",
+      "confidence": 72
+    },
+    "daykeeper": {
+      "category": "Apps for Your Life",
+      "confidence": 90
+    },
+    "form-force-zbto5d": {
+      "category": "Apps for Your Life",
+      "confidence": 66
+    },
+    "codex-coach": {
+      "category": "Developer Tools",
+      "confidence": 93
+    },
+    "margelis-governor": {
+      "category": "Developer Tools",
+      "confidence": 62
+    },
+    "luna-vs-terra": {
+      "category": "Apps for Your Life",
+      "confidence": 75
+    },
+    "offerdecoder": {
+      "category": "Apps for Your Life",
+      "confidence": 82
+    },
+    "vector-local-working-memory-for-coding-agents": {
+      "category": "Developer Tools",
+      "confidence": 95
+    },
+    "aria-krw0pj": {
+      "category": "Work & Productivity",
+      "confidence": 88
+    },
+    "agrinova-7jkmur": {
+      "category": "Work & Productivity",
+      "confidence": 70
+    },
+    "echo-q49abe": {
+      "category": "Education",
+      "confidence": 80
+    },
+    "algebrium": {
+      "category": "Education",
+      "confidence": 85
+    },
+    "natureguard": {
+      "category": "Apps for Your Life",
+      "confidence": 78
+    },
+    "greenhorn": {
+      "category": "Developer Tools",
+      "confidence": 90
+    },
+    "strategy-copilot": {
+      "category": "Work & Productivity",
+      "confidence": 70
+    },
+    "easy-novel-writer": {
+      "category": "Apps for Your Life",
+      "confidence": 88
+    },
+    "claim-punch": {
       "category": "Apps for Your Life",
       "confidence": 90
     }
   },
-  "missing": [
-    "worldeval",
-    "verse-victory",
-    "software-ge-gestion-iso-manager",
-    "neural-apex",
-    "betterpomo",
-    "daykeeper",
-    "form-force-zbto5d",
-    "codex-coach",
-    "margelis-governor",
-    "luna-vs-terra",
-    "offerdecoder",
-    "vector-local-working-memory-for-coding-agents",
-    "aria-krw0pj",
-    "agrinova-7jkmur",
-    "echo-q49abe",
-    "algebrium",
-    "natureguard",
-    "greenhorn",
-    "strategy-copilot",
-    "easy-novel-writer",
-    "claim-punch"
-  ],
-  "errors": [
-    "batch-019.json: invalid or duplicate label 'wordeval'",
-    "batch-020.json: no JSON array found"
-  ]
+  "missing": [],
+  "errors": []
 }

@@ -63,12 +63,17 @@ def extract_about(html):
 def prepare(slug, delay):
     """Snapshot public evidence. Cached records are reused across reruns."""
     gallery = load_json(ROOT / "data" / f"{slug}.json")
+    projects = list(gallery.get("projects", []))
+    supplemental_path = ROOT / "data" / f"{slug}-supplemental-projects.json"
+    if supplemental_path.exists():
+        seen = {project["slug"] for project in projects}
+        projects.extend(project for project in load_json(supplemental_path).get("projects", []) if project["slug"] not in seen)
     base, input_path, _ = paths(slug)
     cached = {x["slug"]: x for x in load_json(input_path)} if input_path.exists() else {}
     session = requests.Session()
     session.headers.update({"User-Agent": USER_AGENT, "Accept-Language": "en-US,en;q=0.9"})
     rows = []
-    for index, project in enumerate(gallery.get("projects", []), 1):
+    for index, project in enumerate(projects, 1):
         key = project["slug"]
         row = cached.get(key, {"slug": key, "url": project["url"]})
         row["title"] = project.get("title", "")
@@ -92,7 +97,7 @@ def prepare(slug, delay):
         rows.append(row)
         if index % 25 == 0:
             atomic_json(input_path, rows + [cached[s] for s in cached.keys() - {r["slug"] for r in rows}])
-            print(f"prepared {index}/{len(gallery['projects'])}", flush=True)
+            print(f"prepared {index}/{len(projects)}", flush=True)
     atomic_json(input_path, rows)
     print(f"prepared {len(rows)} evidence records at {input_path}")
 

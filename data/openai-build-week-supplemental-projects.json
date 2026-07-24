@@ -1,0 +1,27 @@
+{
+  "projects": [
+    {
+      "slug": "nyx-persona",
+      "title": "Nyx Persona",
+      "description": "AI drafts a Threads reply, a human approves, and the provider's own receipt proves exactly what published.",
+      "image": "https://d2dmyh35ffsxbl.cloudfront.net/assets/shared/devpost_social_icon_200_200-f56e5af715a1d95e0209bb37e899b7c18c6e7e3b933a3c1f52456a6e2ee85d09.jpg",
+      "category": null,
+      "members": [
+        {
+          "handle": "minhthong-nguyen-wss",
+          "name": "minhthong-nguyen-wss",
+          "url": "https://devpost.com/minhthong-nguyen-wss"
+        },
+        {
+          "handle": "phomlusngan123",
+          "name": "phomlusngan123",
+          "url": "https://devpost.com/phomlusngan123"
+        }
+      ],
+      "url": "https://devpost.com/software/nyx-persona",
+      "repo_url": "http://github.com/ToyzZone/nyx-persona",
+      "demo_url": "http://nyx-persona.vercel.app/demo",
+      "verification": "Public Devpost page explicitly states Submitted to OpenAI Build Week."
+    }
+  ]
+}
