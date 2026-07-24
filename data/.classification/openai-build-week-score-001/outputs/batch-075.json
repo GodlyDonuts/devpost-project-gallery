@@ -1,0 +1,107 @@
+[
+  {
+    "slug": "agent-vault-gate",
+    "technological_implementation": 9,
+    "design": 8,
+    "potential_impact": 8,
+    "quality_of_idea": 8
+  },
+  {
+    "slug": "cobalt-code",
+    "technological_implementation": 3,
+    "design": 3,
+    "potential_impact": 4,
+    "quality_of_idea": 4
+  },
+  {
+    "slug": "providence",
+    "technological_implementation": 8,
+    "design": 7,
+    "potential_impact": 7,
+    "quality_of_idea": 8
+  },
+  {
+    "slug": "stemblockly",
+    "technological_implementation": 2,
+    "design": 2,
+    "potential_impact": 2,
+    "quality_of_idea": 3
+  },
+  {
+    "slug": "auditooor",
+    "technological_implementation": 7,
+    "design": 5,
+    "potential_impact": 7,
+    "quality_of_idea": 6
+  },
+  {
+    "slug": "axion-cmeas4",
+    "technological_implementation": 8,
+    "design": 6,
+    "potential_impact": 7,
+    "quality_of_idea": 6
+  },
+  {
+    "slug": "personal-cms",
+    "technological_implementation": 6,
+    "design": 6,
+    "potential_impact": 4,
+    "quality_of_idea": 3
+  },
+  {
+    "slug": "noah-px8gk0",
+    "technological_implementation": 7,
+    "design": 6,
+    "potential_impact": 6,
+    "quality_of_idea": 6
+  },
+  {
+    "slug": "geoagent-6e8wvq",
+    "technological_implementation": 9,
+    "design": 8,
+    "potential_impact": 7,
+    "quality_of_idea": 7
+  },
+  {
+    "slug": "asg-scientific-audit-workbench",
+    "technological_implementation": 6,
+    "design": 5,
+    "potential_impact": 6,
+    "quality_of_idea": 7
+  },
+  {
+    "slug": "whetstone",
+    "technological_implementation": 8,
+    "design": 7,
+    "potential_impact": 7,
+    "quality_of_idea": 8
+  },
+  {
+    "slug": "pandinspectiepro",
+    "technological_implementation": 7,
+    "design": 6,
+    "potential_impact": 7,
+    "quality_of_idea": 5
+  },
+  {
+    "slug": "voyapace",
+    "technological_implementation": 6,
+    "design": 7,
+    "potential_impact": 6,
+    "quality_of_idea": 5
+  },
+  {
+    "slug": "quoteproof",
+    "technological_implementation": 8,
+    "design": 7,
+    "potential_impact": 8,
+    "quality_of_idea": 8
+  },
+  {
+    "slug": "gameboy-overclocking-module-workbench",
+    "technological_implementation": 9,
+    "design": 8,
+    "potential_impact": 5,
+    "quality_of_idea": 7
+  }
+]

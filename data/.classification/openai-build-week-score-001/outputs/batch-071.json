@@ -1,0 +1,107 @@
+[
+  {
+    "slug": "insight-ai-operations-engine",
+    "technological_implementation": 4,
+    "design": 4,
+    "potential_impact": 6,
+    "quality_of_idea": 5
+  },
+  {
+    "slug": "re5-academy",
+    "technological_implementation": 3,
+    "design": 3,
+    "potential_impact": 3,
+    "quality_of_idea": 2
+  },
+  {
+    "slug": "future-board-and-ran-data-viewer",
+    "technological_implementation": 6,
+    "design": 7,
+    "potential_impact": 8,
+    "quality_of_idea": 6
+  },
+  {
+    "slug": "wattproof-xtw6ib",
+    "technological_implementation": 9,
+    "design": 8,
+    "potential_impact": 8,
+    "quality_of_idea": 8
+  },
+  {
+    "slug": "solarpro",
+    "technological_implementation": 3,
+    "design": 3,
+    "potential_impact": 4,
+    "quality_of_idea": 3
+  },
+  {
+    "slug": "modelfit",
+    "technological_implementation": 9,
+    "design": 8,
+    "potential_impact": 8,
+    "quality_of_idea": 7
+  },
+  {
+    "slug": "codecartographer",
+    "technological_implementation": 8,
+    "design": 7,
+    "potential_impact": 7,
+    "quality_of_idea": 7
+  },
+  {
+    "slug": "redline-xz5lr1",
+    "technological_implementation": 8,
+    "design": 8,
+    "potential_impact": 7,
+    "quality_of_idea": 7
+  },
+  {
+    "slug": "presence-msfywn",
+    "technological_implementation": 8,
+    "design": 7,
+    "potential_impact": 6,
+    "quality_of_idea": 7
+  },
+  {
+    "slug": "codex-proofstack",
+    "technological_implementation": 9,
+    "design": 8,
+    "potential_impact": 7,
+    "quality_of_idea": 8
+  },
+  {
+    "slug": "browseattune",
+    "technological_implementation": 7,
+    "design": 7,
+    "potential_impact": 6,
+    "quality_of_idea": 7
+  },
+  {
+    "slug": "scalps",
+    "technological_implementation": 9,
+    "design": 7,
+    "potential_impact": 7,
+    "quality_of_idea": 8
+  },
+  {
+    "slug": "opens2p",
+    "technological_implementation": 4,
+    "design": 4,
+    "potential_impact": 5,
+    "quality_of_idea": 3
+  },
+  {
+    "slug": "salesy-ai-sales-brain",
+    "technological_implementation": 4,
+    "design": 5,
+    "potential_impact": 7,
+    "quality_of_idea": 5
+  },
+  {
+    "slug": "jargonaut-p7jdg5",
+    "technological_implementation": 1,
+    "design": 1,
+    "potential_impact": 2,
+    "quality_of_idea": 2
+  }
+]

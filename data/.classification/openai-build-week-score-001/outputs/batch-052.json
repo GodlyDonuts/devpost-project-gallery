@@ -1,0 +1,107 @@
+[
+  {
+    "slug": "skooldrive",
+    "technological_implementation": 8,
+    "design": 7,
+    "potential_impact": 8,
+    "quality_of_idea": 6
+  },
+  {
+    "slug": "cashletics-ai-coach-piggyrun",
+    "technological_implementation": 7,
+    "design": 7,
+    "potential_impact": 6,
+    "quality_of_idea": 6
+  },
+  {
+    "slug": "talentklar",
+    "technological_implementation": 2,
+    "design": 2,
+    "potential_impact": 4,
+    "quality_of_idea": 3
+  },
+  {
+    "slug": "lawnsnowapp-taking-lsa-to-launch",
+    "technological_implementation": 3,
+    "design": 3,
+    "potential_impact": 5,
+    "quality_of_idea": 4
+  },
+  {
+    "slug": "realbim",
+    "technological_implementation": 8,
+    "design": 7,
+    "potential_impact": 8,
+    "quality_of_idea": 7
+  },
+  {
+    "slug": "subtitles-translator",
+    "technological_implementation": 2,
+    "design": 2,
+    "potential_impact": 4,
+    "quality_of_idea": 2
+  },
+  {
+    "slug": "retriever-2v7ai8",
+    "technological_implementation": 7,
+    "design": 6,
+    "potential_impact": 7,
+    "quality_of_idea": 6
+  },
+  {
+    "slug": "velocity-6r1a79",
+    "technological_implementation": 6,
+    "design": 5,
+    "potential_impact": 5,
+    "quality_of_idea": 7
+  },
+  {
+    "slug": "afterpaper",
+    "technological_implementation": 9,
+    "design": 8,
+    "potential_impact": 7,
+    "quality_of_idea": 7
+  },
+  {
+    "slug": "mise-ai",
+    "technological_implementation": 5,
+    "design": 5,
+    "potential_impact": 6,
+    "quality_of_idea": 5
+  },
+  {
+    "slug": "chq-qefsuj",
+    "technological_implementation": 9,
+    "design": 8,
+    "potential_impact": 6,
+    "quality_of_idea": 6
+  },
+  {
+    "slug": "weekform",
+    "technological_implementation": 8,
+    "design": 8,
+    "potential_impact": 7,
+    "quality_of_idea": 7
+  },
+  {
+    "slug": "yomama-rb7t1m",
+    "technological_implementation": 3,
+    "design": 4,
+    "potential_impact": 4,
+    "quality_of_idea": 4
+  },
+  {
+    "slug": "fitareeaee-gpt-5-6-ride-delivery-planner",
+    "technological_implementation": 8,
+    "design": 8,
+    "potential_impact": 7,
+    "quality_of_idea": 7
+  },
+  {
+    "slug": "researchpilotai",
+    "technological_implementation": 3,
+    "design": 3,
+    "potential_impact": 4,
+    "quality_of_idea": 3
+  }
+]

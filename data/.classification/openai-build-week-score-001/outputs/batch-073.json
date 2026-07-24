@@ -1,0 +1,17 @@
+[
+  {"slug":"monitor-supply","technological_implementation":8,"design":7,"potential_impact":7,"quality_of_idea":6},
+  {"slug":"the-next-big-thing","technological_implementation":9,"design":8,"potential_impact":8,"quality_of_idea":7},
+  {"slug":"decispec","technological_implementation":8,"design":6,"potential_impact":7,"quality_of_idea":8},
+  {"slug":"myconstituency","technological_implementation":5,"design":5,"potential_impact":6,"quality_of_idea":5},
+  {"slug":"convointel","technological_implementation":3,"design":3,"potential_impact":4,"quality_of_idea":4},
+  {"slug":"skinsense-fn82lk","technological_implementation":2,"design":1,"potential_impact":3,"quality_of_idea":2},
+  {"slug":"liveops","technological_implementation":9,"design":8,"potential_impact":7,"quality_of_idea":7},
+  {"slug":"o2n-engine","technological_implementation":6,"design":7,"potential_impact":7,"quality_of_idea":5},
+  {"slug":"pinapeg","technological_implementation":6,"design":7,"potential_impact":6,"quality_of_idea":5},
+  {"slug":"rolestab","technological_implementation":5,"design":6,"potential_impact":6,"quality_of_idea":4},
+  {"slug":"orqetra-the-execution-os-for-ai","technological_implementation":7,"design":7,"potential_impact":8,"quality_of_idea":8},
+  {"slug":"notdecided-6oh4uc","technological_implementation":9,"design":7,"potential_impact":8,"quality_of_idea":8},
+  {"slug":"viper-oq4xn3","technological_implementation":6,"design":6,"potential_impact":7,"quality_of_idea":5},
+  {"slug":"future-life-simulator","technological_implementation":7,"design":7,"potential_impact":6,"quality_of_idea":5},
+  {"slug":"weavidence-journey","technological_implementation":9,"design":8,"potential_impact":7,"quality_of_idea":8}
+]

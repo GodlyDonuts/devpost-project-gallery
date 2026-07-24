@@ -1,0 +1,107 @@
+[
+  {
+    "slug": "mosaic-9owj24",
+    "technological_implementation": 9,
+    "design": 8,
+    "potential_impact": 8,
+    "quality_of_idea": 8
+  },
+  {
+    "slug": "frontend-editor",
+    "technological_implementation": 3,
+    "design": 2,
+    "potential_impact": 3,
+    "quality_of_idea": 3
+  },
+  {
+    "slug": "interview-shadow-ai",
+    "technological_implementation": 8,
+    "design": 7,
+    "potential_impact": 7,
+    "quality_of_idea": 6
+  },
+  {
+    "slug": "goobox",
+    "technological_implementation": 2,
+    "design": 1,
+    "potential_impact": 2,
+    "quality_of_idea": 2
+  },
+  {
+    "slug": "live-signals-app",
+    "technological_implementation": 7,
+    "design": 6,
+    "potential_impact": 6,
+    "quality_of_idea": 7
+  },
+  {
+    "slug": "terminuz",
+    "technological_implementation": 8,
+    "design": 6,
+    "potential_impact": 7,
+    "quality_of_idea": 6
+  },
+  {
+    "slug": "mission-brief-ai-operational-intelligence-for-field-workers",
+    "technological_implementation": 5,
+    "design": 6,
+    "potential_impact": 7,
+    "quality_of_idea": 6
+  },
+  {
+    "slug": "career-mutual",
+    "technological_implementation": 5,
+    "design": 5,
+    "potential_impact": 7,
+    "quality_of_idea": 7
+  },
+  {
+    "slug": "mineready-ai-co-project-manager-for-mineral-projects",
+    "technological_implementation": 7,
+    "design": 7,
+    "potential_impact": 7,
+    "quality_of_idea": 7
+  },
+  {
+    "slug": "boundary-ai-that-asks-before-it-acts",
+    "technological_implementation": 9,
+    "design": 7,
+    "potential_impact": 8,
+    "quality_of_idea": 8
+  },
+  {
+    "slug": "talki-kids-aac",
+    "technological_implementation": 7,
+    "design": 8,
+    "potential_impact": 8,
+    "quality_of_idea": 6
+  },
+  {
+    "slug": "codex-triggers",
+    "technological_implementation": 7,
+    "design": 6,
+    "potential_impact": 6,
+    "quality_of_idea": 6
+  },
+  {
+    "slug": "blindfold-equvb7",
+    "technological_implementation": 8,
+    "design": 6,
+    "potential_impact": 7,
+    "quality_of_idea": 8
+  },
+  {
+    "slug": "dobre",
+    "technological_implementation": 7,
+    "design": 6,
+    "potential_impact": 7,
+    "quality_of_idea": 5
+  },
+  {
+    "slug": "spacehole",
+    "technological_implementation": 7,
+    "design": 8,
+    "potential_impact": 6,
+    "quality_of_idea": 7
+  }
+]

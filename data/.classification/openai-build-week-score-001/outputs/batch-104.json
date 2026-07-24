@@ -1,0 +1,107 @@
+[
+  {
+    "slug": "ha-test-y5kmh9",
+    "technological_implementation": 1,
+    "design": 1,
+    "potential_impact": 1,
+    "quality_of_idea": 2
+  },
+  {
+    "slug": "ha-test",
+    "technological_implementation": 1,
+    "design": 1,
+    "potential_impact": 1,
+    "quality_of_idea": 1
+  },
+  {
+    "slug": "pre-flight",
+    "technological_implementation": 9,
+    "design": 7,
+    "potential_impact": 8,
+    "quality_of_idea": 8
+  },
+  {
+    "slug": "willa",
+    "technological_implementation": 7,
+    "design": 7,
+    "potential_impact": 7,
+    "quality_of_idea": 6
+  },
+  {
+    "slug": "vitalwell",
+    "technological_implementation": 7,
+    "design": 7,
+    "potential_impact": 6,
+    "quality_of_idea": 5
+  },
+  {
+    "slug": "vortex-ai-cdwmgl",
+    "technological_implementation": 5,
+    "design": 4,
+    "potential_impact": 4,
+    "quality_of_idea": 3
+  },
+  {
+    "slug": "rescue-ua2tdm",
+    "technological_implementation": 8,
+    "design": 8,
+    "potential_impact": 9,
+    "quality_of_idea": 8
+  },
+  {
+    "slug": "fieldforge-ai",
+    "technological_implementation": 4,
+    "design": 4,
+    "potential_impact": 6,
+    "quality_of_idea": 5
+  },
+  {
+    "slug": "questoros-control-plane",
+    "technological_implementation": 8,
+    "design": 7,
+    "potential_impact": 7,
+    "quality_of_idea": 6
+  },
+  {
+    "slug": "playpal-7igujp",
+    "technological_implementation": 6,
+    "design": 6,
+    "potential_impact": 5,
+    "quality_of_idea": 5
+  },
+  {
+    "slug": "novelist-gxwram",
+    "technological_implementation": 9,
+    "design": 8,
+    "potential_impact": 6,
+    "quality_of_idea": 7
+  },
+  {
+    "slug": "studyloop-mbnywg",
+    "technological_implementation": 8,
+    "design": 8,
+    "potential_impact": 7,
+    "quality_of_idea": 7
+  },
+  {
+    "slug": "shiny-things",
+    "technological_implementation": 6,
+    "design": 7,
+    "potential_impact": 5,
+    "quality_of_idea": 8
+  },
+  {
+    "slug": "alc-lab",
+    "technological_implementation": 7,
+    "design": 6,
+    "potential_impact": 6,
+    "quality_of_idea": 8
+  },
+  {
+    "slug": "alltp-1-0-28-built-with-gpt-hardened-with-codex",
+    "technological_implementation": 6,
+    "design": 5,
+    "potential_impact": 5,
+    "quality_of_idea": 4
+  }
+]

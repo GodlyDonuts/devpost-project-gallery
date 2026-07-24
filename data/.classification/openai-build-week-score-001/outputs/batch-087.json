@@ -1,0 +1,107 @@
+[
+  {
+    "slug": "fanfare-zl7efm",
+    "technological_implementation": 8,
+    "design": 8,
+    "potential_impact": 6,
+    "quality_of_idea": 8
+  },
+  {
+    "slug": "keystone-uhv29k",
+    "technological_implementation": 7,
+    "design": 7,
+    "potential_impact": 7,
+    "quality_of_idea": 7
+  },
+  {
+    "slug": "commitgate-0pc5eb",
+    "technological_implementation": 8,
+    "design": 5,
+    "potential_impact": 7,
+    "quality_of_idea": 8
+  },
+  {
+    "slug": "ai-model-analysis-dashboard",
+    "technological_implementation": 7,
+    "design": 7,
+    "potential_impact": 7,
+    "quality_of_idea": 6
+  },
+  {
+    "slug": "umbra-reveals-what-your-tests-aren-t-telling-you",
+    "technological_implementation": 9,
+    "design": 6,
+    "potential_impact": 8,
+    "quality_of_idea": 9
+  },
+  {
+    "slug": "entroom-ai",
+    "technological_implementation": 8,
+    "design": 7,
+    "potential_impact": 8,
+    "quality_of_idea": 7
+  },
+  {
+    "slug": "pyoogle",
+    "technological_implementation": 6,
+    "design": 5,
+    "potential_impact": 5,
+    "quality_of_idea": 4
+  },
+  {
+    "slug": "solo-developer-arsenal",
+    "technological_implementation": 6,
+    "design": 5,
+    "potential_impact": 6,
+    "quality_of_idea": 5
+  },
+  {
+    "slug": "drawsy-ai",
+    "technological_implementation": 8,
+    "design": 8,
+    "potential_impact": 7,
+    "quality_of_idea": 7
+  },
+  {
+    "slug": "concierge-mind",
+    "technological_implementation": 4,
+    "design": 3,
+    "potential_impact": 4,
+    "quality_of_idea": 3
+  },
+  {
+    "slug": "wordbook",
+    "technological_implementation": 7,
+    "design": 7,
+    "potential_impact": 7,
+    "quality_of_idea": 6
+  },
+  {
+    "slug": "chalk-2lvw5c",
+    "technological_implementation": 9,
+    "design": 8,
+    "potential_impact": 8,
+    "quality_of_idea": 8
+  },
+  {
+    "slug": "streak-os",
+    "technological_implementation": 2,
+    "design": 3,
+    "potential_impact": 3,
+    "quality_of_idea": 3
+  },
+  {
+    "slug": "semeai-gate",
+    "technological_implementation": 5,
+    "design": 5,
+    "potential_impact": 6,
+    "quality_of_idea": 6
+  },
+  {
+    "slug": "asdf-57j0dc",
+    "technological_implementation": 9,
+    "design": 6,
+    "potential_impact": 8,
+    "quality_of_idea": 9
+  }
+]

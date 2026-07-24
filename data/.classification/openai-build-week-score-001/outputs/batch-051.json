@@ -1,0 +1,17 @@
+[
+  {"slug": "confia", "technological_implementation": 6, "design": 6, "potential_impact": 7, "quality_of_idea": 4},
+  {"slug": "fieldpact", "technological_implementation": 7, "design": 7, "potential_impact": 6, "quality_of_idea": 7},
+  {"slug": "keyframe-vedz54", "technological_implementation": 8, "design": 6, "potential_impact": 6, "quality_of_idea": 8},
+  {"slug": "calendar-clock", "technological_implementation": 6, "design": 6, "potential_impact": 5, "quality_of_idea": 4},
+  {"slug": "fedpulse-federal-pursuit-intelligence", "technological_implementation": 8, "design": 8, "potential_impact": 7, "quality_of_idea": 6},
+  {"slug": "release-assurance", "technological_implementation": 3, "design": 2, "potential_impact": 4, "quality_of_idea": 5},
+  {"slug": "soundchek", "technological_implementation": 8, "design": 8, "potential_impact": 7, "quality_of_idea": 5},
+  {"slug": "ping-ai-an-ai-social-coordination-agent", "technological_implementation": 7, "design": 7, "potential_impact": 5, "quality_of_idea": 5},
+  {"slug": "chatprune", "technological_implementation": 7, "design": 6, "potential_impact": 6, "quality_of_idea": 5},
+  {"slug": "nearnet-e3nm9v", "technological_implementation": 5, "design": 4, "potential_impact": 4, "quality_of_idea": 5},
+  {"slug": "coskill", "technological_implementation": 3, "design": 2, "potential_impact": 4, "quality_of_idea": 4},
+  {"slug": "health-tracker-4hmko6", "technological_implementation": 5, "design": 6, "potential_impact": 6, "quality_of_idea": 4},
+  {"slug": "meowzie-s-cafe", "technological_implementation": 2, "design": 3, "potential_impact": 4, "quality_of_idea": 2},
+  {"slug": "angels-board", "technological_implementation": 8, "design": 8, "potential_impact": 7, "quality_of_idea": 8},
+  {"slug": "tinghao-gpt-agent", "technological_implementation": 7, "design": 6, "potential_impact": 5, "quality_of_idea": 5}
+]

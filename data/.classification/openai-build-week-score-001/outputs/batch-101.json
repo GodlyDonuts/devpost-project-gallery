@@ -1,0 +1,107 @@
+[
+  {
+    "slug": "investory",
+    "technological_implementation": 8,
+    "design": 6,
+    "potential_impact": 7,
+    "quality_of_idea": 7
+  },
+  {
+    "slug": "fedfathom",
+    "technological_implementation": 9,
+    "design": 7,
+    "potential_impact": 8,
+    "quality_of_idea": 6
+  },
+  {
+    "slug": "aiconstructor",
+    "technological_implementation": 3,
+    "design": 4,
+    "potential_impact": 5,
+    "quality_of_idea": 3
+  },
+  {
+    "slug": "promiseproof",
+    "technological_implementation": 8,
+    "design": 7,
+    "potential_impact": 8,
+    "quality_of_idea": 9
+  },
+  {
+    "slug": "decisions-start-with-better-questions",
+    "technological_implementation": 1,
+    "design": 1,
+    "potential_impact": 3,
+    "quality_of_idea": 4
+  },
+  {
+    "slug": "sellerpilot-the-ecommerce-client-terminal",
+    "technological_implementation": 7,
+    "design": 7,
+    "potential_impact": 7,
+    "quality_of_idea": 5
+  },
+  {
+    "slug": "world-travel-memories",
+    "technological_implementation": 5,
+    "design": 4,
+    "potential_impact": 3,
+    "quality_of_idea": 3
+  },
+  {
+    "slug": "the-hardest-game-ever-created",
+    "technological_implementation": 7,
+    "design": 7,
+    "potential_impact": 3,
+    "quality_of_idea": 6
+  },
+  {
+    "slug": "the-game-i-built-without-knowing-the-puzzle",
+    "technological_implementation": 7,
+    "design": 7,
+    "potential_impact": 3,
+    "quality_of_idea": 6
+  },
+  {
+    "slug": "stillwater-wds8mq",
+    "technological_implementation": 9,
+    "design": 6,
+    "potential_impact": 7,
+    "quality_of_idea": 9
+  },
+  {
+    "slug": "loop-factory-the-referee-for-ai-coding-agents",
+    "technological_implementation": 1,
+    "design": 1,
+    "potential_impact": 2,
+    "quality_of_idea": 3
+  },
+  {
+    "slug": "sfast",
+    "technological_implementation": 6,
+    "design": 7,
+    "potential_impact": 5,
+    "quality_of_idea": 4
+  },
+  {
+    "slug": "board-game-forge",
+    "technological_implementation": 9,
+    "design": 8,
+    "potential_impact": 5,
+    "quality_of_idea": 8
+  },
+  {
+    "slug": "eventyx",
+    "technological_implementation": 4,
+    "design": 5,
+    "potential_impact": 4,
+    "quality_of_idea": 3
+  },
+  {
+    "slug": "cookiemix-studio-os",
+    "technological_implementation": 2,
+    "design": 2,
+    "potential_impact": 2,
+    "quality_of_idea": 3
+  }
+]

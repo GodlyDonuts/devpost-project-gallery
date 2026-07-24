@@ -1,0 +1,17 @@
+[
+  {"slug": "tutori", "technological_implementation": 8, "design": 8, "potential_impact": 7, "quality_of_idea": 7},
+  {"slug": "logfound", "technological_implementation": 5, "design": 4, "potential_impact": 6, "quality_of_idea": 4},
+  {"slug": "codearbiter-c59puo", "technological_implementation": 9, "design": 6, "potential_impact": 8, "quality_of_idea": 8},
+  {"slug": "stagebridge-ai", "technological_implementation": 9, "design": 8, "potential_impact": 8, "quality_of_idea": 7},
+  {"slug": "campushub-nrq1wo", "technological_implementation": 7, "design": 7, "potential_impact": 7, "quality_of_idea": 5},
+  {"slug": "formicai", "technological_implementation": 6, "design": 5, "potential_impact": 4, "quality_of_idea": 7},
+  {"slug": "neo-trace", "technological_implementation": 6, "design": 5, "potential_impact": 4, "quality_of_idea": 7},
+  {"slug": "save-papers", "technological_implementation": 8, "design": 7, "potential_impact": 7, "quality_of_idea": 5},
+  {"slug": "meaning-sync", "technological_implementation": 7, "design": 7, "potential_impact": 7, "quality_of_idea": 8},
+  {"slug": "khandaan-amanat", "technological_implementation": 3, "design": 4, "potential_impact": 6, "quality_of_idea": 5},
+  {"slug": "savorsight", "technological_implementation": 5, "design": 6, "potential_impact": 5, "quality_of_idea": 4},
+  {"slug": "murmur-ae62q1", "technological_implementation": 9, "design": 7, "potential_impact": 7, "quality_of_idea": 8},
+  {"slug": "sknow", "technological_implementation": 4, "design": 5, "potential_impact": 3, "quality_of_idea": 4},
+  {"slug": "orkestra-gcau5i", "technological_implementation": 8, "design": 6, "potential_impact": 6, "quality_of_idea": 7},
+  {"slug": "ai-agent-firewall", "technological_implementation": 8, "design": 6, "potential_impact": 8, "quality_of_idea": 7}
+]

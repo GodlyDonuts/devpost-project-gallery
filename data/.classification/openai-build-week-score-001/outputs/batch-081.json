@@ -1,0 +1,107 @@
+[
+  {
+    "slug": "100-winters",
+    "technological_implementation": 9,
+    "design": 8,
+    "potential_impact": 8,
+    "quality_of_idea": 8
+  },
+  {
+    "slug": "mychat",
+    "technological_implementation": 9,
+    "design": 8,
+    "potential_impact": 8,
+    "quality_of_idea": 7
+  },
+  {
+    "slug": "money-tracking-app",
+    "technological_implementation": 2,
+    "design": 2,
+    "potential_impact": 2,
+    "quality_of_idea": 2
+  },
+  {
+    "slug": "fully-autonomus-trading-bot",
+    "technological_implementation": 3,
+    "design": 2,
+    "potential_impact": 2,
+    "quality_of_idea": 2
+  },
+  {
+    "slug": "wormie-ide",
+    "technological_implementation": 9,
+    "design": 8,
+    "potential_impact": 8,
+    "quality_of_idea": 8
+  },
+  {
+    "slug": "verdict-ai-5wj1ft",
+    "technological_implementation": 7,
+    "design": 7,
+    "potential_impact": 7,
+    "quality_of_idea": 6
+  },
+  {
+    "slug": "pigeon-drop",
+    "technological_implementation": 7,
+    "design": 7,
+    "potential_impact": 4,
+    "quality_of_idea": 5
+  },
+  {
+    "slug": "graph-tab-for-github",
+    "technological_implementation": 6,
+    "design": 5,
+    "potential_impact": 6,
+    "quality_of_idea": 5
+  },
+  {
+    "slug": "classpilot-2rvao4",
+    "technological_implementation": 6,
+    "design": 7,
+    "potential_impact": 7,
+    "quality_of_idea": 6
+  },
+  {
+    "slug": "skyguard-ai",
+    "technological_implementation": 9,
+    "design": 8,
+    "potential_impact": 8,
+    "quality_of_idea": 8
+  },
+  {
+    "slug": "youlearntube",
+    "technological_implementation": 5,
+    "design": 6,
+    "potential_impact": 6,
+    "quality_of_idea": 5
+  },
+  {
+    "slug": "inovahealth-ai-clinical-decision-support",
+    "technological_implementation": 3,
+    "design": 3,
+    "potential_impact": 4,
+    "quality_of_idea": 3
+  },
+  {
+    "slug": "racebox-telemetry-viewer",
+    "technological_implementation": 8,
+    "design": 7,
+    "potential_impact": 5,
+    "quality_of_idea": 5
+  },
+  {
+    "slug": "cue-9jlwqi",
+    "technological_implementation": 3,
+    "design": 3,
+    "potential_impact": 3,
+    "quality_of_idea": 3
+  },
+  {
+    "slug": "tendersentry",
+    "technological_implementation": 4,
+    "design": 4,
+    "potential_impact": 6,
+    "quality_of_idea": 6
+  }
+]

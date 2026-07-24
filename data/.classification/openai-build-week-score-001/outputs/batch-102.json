@@ -1,0 +1,107 @@
+[
+  {
+    "slug": "sloth-in-the-city",
+    "technological_implementation": 8,
+    "design": 7,
+    "potential_impact": 5,
+    "quality_of_idea": 6
+  },
+  {
+    "slug": "beal-conjecture-solving-for-3-5-7-using-ai",
+    "technological_implementation": 8,
+    "design": 4,
+    "potential_impact": 6,
+    "quality_of_idea": 7
+  },
+  {
+    "slug": "elsewhere-roomie",
+    "technological_implementation": 7,
+    "design": 7,
+    "potential_impact": 5,
+    "quality_of_idea": 7
+  },
+  {
+    "slug": "webcae-ai",
+    "technological_implementation": 6,
+    "design": 5,
+    "potential_impact": 7,
+    "quality_of_idea": 5
+  },
+  {
+    "slug": "ledger-contribution",
+    "technological_implementation": 6,
+    "design": 6,
+    "potential_impact": 5,
+    "quality_of_idea": 6
+  },
+  {
+    "slug": "gamificacion",
+    "technological_implementation": 2,
+    "design": 2,
+    "potential_impact": 2,
+    "quality_of_idea": 2
+  },
+  {
+    "slug": "orions-5t10ec",
+    "technological_implementation": 8,
+    "design": 7,
+    "potential_impact": 7,
+    "quality_of_idea": 6
+  },
+  {
+    "slug": "deeper-look-food-scanner",
+    "technological_implementation": 8,
+    "design": 7,
+    "potential_impact": 7,
+    "quality_of_idea": 6
+  },
+  {
+    "slug": "bhcp",
+    "technological_implementation": 5,
+    "design": 3,
+    "potential_impact": 5,
+    "quality_of_idea": 6
+  },
+  {
+    "slug": "inspection-copilot",
+    "technological_implementation": 8,
+    "design": 6,
+    "potential_impact": 7,
+    "quality_of_idea": 7
+  },
+  {
+    "slug": "lanlens",
+    "technological_implementation": 6,
+    "design": 5,
+    "potential_impact": 5,
+    "quality_of_idea": 4
+  },
+  {
+    "slug": "sivope",
+    "technological_implementation": 2,
+    "design": 2,
+    "potential_impact": 2,
+    "quality_of_idea": 2
+  },
+  {
+    "slug": "proofline-j84rz5",
+    "technological_implementation": 9,
+    "design": 7,
+    "potential_impact": 7,
+    "quality_of_idea": 8
+  },
+  {
+    "slug": "ucall-widget-lite",
+    "technological_implementation": 7,
+    "design": 7,
+    "potential_impact": 5,
+    "quality_of_idea": 4
+  },
+  {
+    "slug": "rosetta-dw73fe",
+    "technological_implementation": 9,
+    "design": 8,
+    "potential_impact": 8,
+    "quality_of_idea": 8
+  }
+]

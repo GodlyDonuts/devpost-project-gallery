@@ -1,0 +1,107 @@
+[
+  {
+    "slug": "datastack-one",
+    "technological_implementation": 9,
+    "design": 8,
+    "potential_impact": 8,
+    "quality_of_idea": 7
+  },
+  {
+    "slug": "foldlens",
+    "technological_implementation": 8,
+    "design": 8,
+    "potential_impact": 8,
+    "quality_of_idea": 8
+  },
+  {
+    "slug": "scholarpanel",
+    "technological_implementation": 6,
+    "design": 7,
+    "potential_impact": 8,
+    "quality_of_idea": 8
+  },
+  {
+    "slug": "riskseer",
+    "technological_implementation": 1,
+    "design": 1,
+    "potential_impact": 3,
+    "quality_of_idea": 3
+  },
+  {
+    "slug": "navios-memory-reflex",
+    "technological_implementation": 7,
+    "design": 5,
+    "potential_impact": 6,
+    "quality_of_idea": 7
+  },
+  {
+    "slug": "zipzip",
+    "technological_implementation": 6,
+    "design": 5,
+    "potential_impact": 5,
+    "quality_of_idea": 7
+  },
+  {
+    "slug": "parlerchine",
+    "technological_implementation": 7,
+    "design": 8,
+    "potential_impact": 8,
+    "quality_of_idea": 8
+  },
+  {
+    "slug": "now-75us2x",
+    "technological_implementation": 3,
+    "design": 5,
+    "potential_impact": 5,
+    "quality_of_idea": 4
+  },
+  {
+    "slug": "ai-second-brain",
+    "technological_implementation": 6,
+    "design": 6,
+    "potential_impact": 6,
+    "quality_of_idea": 4
+  },
+  {
+    "slug": "skillspring-quantum",
+    "technological_implementation": 7,
+    "design": 7,
+    "potential_impact": 6,
+    "quality_of_idea": 5
+  },
+  {
+    "slug": "sinkhole",
+    "technological_implementation": 9,
+    "design": 8,
+    "potential_impact": 7,
+    "quality_of_idea": 8
+  },
+  {
+    "slug": "hiri-passport",
+    "technological_implementation": 6,
+    "design": 7,
+    "potential_impact": 6,
+    "quality_of_idea": 7
+  },
+  {
+    "slug": "muse-the-impossible-museum-7cs5hv",
+    "technological_implementation": 7,
+    "design": 8,
+    "potential_impact": 8,
+    "quality_of_idea": 8
+  },
+  {
+    "slug": "teenarc",
+    "technological_implementation": 7,
+    "design": 7,
+    "potential_impact": 6,
+    "quality_of_idea": 7
+  },
+  {
+    "slug": "owatime",
+    "technological_implementation": 3,
+    "design": 4,
+    "potential_impact": 3,
+    "quality_of_idea": 2
+  }
+]

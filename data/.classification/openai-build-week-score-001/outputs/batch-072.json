@@ -1,0 +1,107 @@
+[
+  {
+    "slug": "timekeeper-app",
+    "technological_implementation": 8,
+    "design": 8,
+    "potential_impact": 7,
+    "quality_of_idea": 6
+  },
+  {
+    "slug": "venture-os",
+    "technological_implementation": 3,
+    "design": 4,
+    "potential_impact": 4,
+    "quality_of_idea": 3
+  },
+  {
+    "slug": "proofpack-release-gate",
+    "technological_implementation": 9,
+    "design": 7,
+    "potential_impact": 7,
+    "quality_of_idea": 8
+  },
+  {
+    "slug": "never-stop-ting",
+    "technological_implementation": 6,
+    "design": 6,
+    "potential_impact": 5,
+    "quality_of_idea": 5
+  },
+  {
+    "slug": "skillsforge-8b53qc",
+    "technological_implementation": 7,
+    "design": 6,
+    "potential_impact": 6,
+    "quality_of_idea": 6
+  },
+  {
+    "slug": "content-curator-for-youtube-a-no-cost-hybrid-ai-app",
+    "technological_implementation": 7,
+    "design": 6,
+    "potential_impact": 6,
+    "quality_of_idea": 5
+  },
+  {
+    "slug": "serpentguard",
+    "technological_implementation": 8,
+    "design": 6,
+    "potential_impact": 5,
+    "quality_of_idea": 6
+  },
+  {
+    "slug": "gpx-animator",
+    "technological_implementation": 9,
+    "design": 7,
+    "potential_impact": 5,
+    "quality_of_idea": 6
+  },
+  {
+    "slug": "meshalive",
+    "technological_implementation": 6,
+    "design": 6,
+    "potential_impact": 5,
+    "quality_of_idea": 6
+  },
+  {
+    "slug": "surebook",
+    "technological_implementation": 7,
+    "design": 7,
+    "potential_impact": 7,
+    "quality_of_idea": 6
+  },
+  {
+    "slug": "heymom-xpnq6a",
+    "technological_implementation": 8,
+    "design": 7,
+    "potential_impact": 7,
+    "quality_of_idea": 7
+  },
+  {
+    "slug": "genc-flow",
+    "technological_implementation": 2,
+    "design": 2,
+    "potential_impact": 4,
+    "quality_of_idea": 3
+  },
+  {
+    "slug": "tracematter",
+    "technological_implementation": 2,
+    "design": 2,
+    "potential_impact": 3,
+    "quality_of_idea": 4
+  },
+  {
+    "slug": "codex-frontier",
+    "technological_implementation": 1,
+    "design": 1,
+    "potential_impact": 2,
+    "quality_of_idea": 2
+  },
+  {
+    "slug": "feature-saga",
+    "technological_implementation": 6,
+    "design": 5,
+    "potential_impact": 5,
+    "quality_of_idea": 6
+  }
+]

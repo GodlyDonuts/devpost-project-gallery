@@ -1,0 +1,107 @@
+[
+  {
+    "slug": "puzzlepy",
+    "technological_implementation": 4,
+    "design": 4,
+    "potential_impact": 4,
+    "quality_of_idea": 4
+  },
+  {
+    "slug": "project-starlite-automate",
+    "technological_implementation": 1,
+    "design": 1,
+    "potential_impact": 2,
+    "quality_of_idea": 2
+  },
+  {
+    "slug": "error-archaeologist-m35tf9",
+    "technological_implementation": 3,
+    "design": 2,
+    "potential_impact": 4,
+    "quality_of_idea": 4
+  },
+  {
+    "slug": "faqir-farms-ops",
+    "technological_implementation": 8,
+    "design": 8,
+    "potential_impact": 8,
+    "quality_of_idea": 8
+  },
+  {
+    "slug": "gju-student-regulations-assistant-1t5mrf",
+    "technological_implementation": 8,
+    "design": 7,
+    "potential_impact": 8,
+    "quality_of_idea": 7
+  },
+  {
+    "slug": "ai-map-detection",
+    "technological_implementation": 2,
+    "design": 2,
+    "potential_impact": 3,
+    "quality_of_idea": 3
+  },
+  {
+    "slug": "supervisor-outreach-agent",
+    "technological_implementation": 3,
+    "design": 2,
+    "potential_impact": 4,
+    "quality_of_idea": 4
+  },
+  {
+    "slug": "smartedu-erp-ai-powered-school-management-platform",
+    "technological_implementation": 3,
+    "design": 3,
+    "potential_impact": 5,
+    "quality_of_idea": 3
+  },
+  {
+    "slug": "argento-accounts",
+    "technological_implementation": 8,
+    "design": 7,
+    "potential_impact": 8,
+    "quality_of_idea": 7
+  },
+  {
+    "slug": "nodus",
+    "technological_implementation": 9,
+    "design": 7,
+    "potential_impact": 8,
+    "quality_of_idea": 8
+  },
+  {
+    "slug": "lifelineos-antimicrobial-crisis-edition",
+    "technological_implementation": 9,
+    "design": 8,
+    "potential_impact": 9,
+    "quality_of_idea": 8
+  },
+  {
+    "slug": "overthink-analyzer",
+    "technological_implementation": 2,
+    "design": 2,
+    "potential_impact": 3,
+    "quality_of_idea": 3
+  },
+  {
+    "slug": "viva-1fpjaw",
+    "technological_implementation": 3,
+    "design": 2,
+    "potential_impact": 4,
+    "quality_of_idea": 5
+  },
+  {
+    "slug": "suvo-il1ux6",
+    "technological_implementation": 8,
+    "design": 7,
+    "potential_impact": 8,
+    "quality_of_idea": 7
+  },
+  {
+    "slug": "sophmate",
+    "technological_implementation": 7,
+    "design": 7,
+    "potential_impact": 8,
+    "quality_of_idea": 7
+  }
+]

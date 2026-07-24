@@ -1,0 +1,107 @@
+[
+  {
+    "slug": "analyst-copilot",
+    "technological_implementation": 8,
+    "design": 6,
+    "potential_impact": 8,
+    "quality_of_idea": 8
+  },
+  {
+    "slug": "nothing-more",
+    "technological_implementation": 3,
+    "design": 5,
+    "potential_impact": 4,
+    "quality_of_idea": 3
+  },
+  {
+    "slug": "maya-care",
+    "technological_implementation": 6,
+    "design": 8,
+    "potential_impact": 8,
+    "quality_of_idea": 4
+  },
+  {
+    "slug": "questlearn-rvdau2",
+    "technological_implementation": 3,
+    "design": 2,
+    "potential_impact": 3,
+    "quality_of_idea": 3
+  },
+  {
+    "slug": "studiolite",
+    "technological_implementation": 9,
+    "design": 8,
+    "potential_impact": 7,
+    "quality_of_idea": 7
+  },
+  {
+    "slug": "signalcut",
+    "technological_implementation": 6,
+    "design": 6,
+    "potential_impact": 5,
+    "quality_of_idea": 7
+  },
+  {
+    "slug": "project-slash-50",
+    "technological_implementation": 3,
+    "design": 2,
+    "potential_impact": 3,
+    "quality_of_idea": 3
+  },
+  {
+    "slug": "prompt-ui-academy",
+    "technological_implementation": 3,
+    "design": 2,
+    "potential_impact": 3,
+    "quality_of_idea": 3
+  },
+  {
+    "slug": "cattleos",
+    "technological_implementation": 7,
+    "design": 6,
+    "potential_impact": 8,
+    "quality_of_idea": 7
+  },
+  {
+    "slug": "vanta-study",
+    "technological_implementation": 9,
+    "design": 8,
+    "potential_impact": 8,
+    "quality_of_idea": 8
+  },
+  {
+    "slug": "onhand",
+    "technological_implementation": 6,
+    "design": 7,
+    "potential_impact": 7,
+    "quality_of_idea": 7
+  },
+  {
+    "slug": "reapp-5r8eyi",
+    "technological_implementation": 7,
+    "design": 7,
+    "potential_impact": 5,
+    "quality_of_idea": 6
+  },
+  {
+    "slug": "photomaster",
+    "technological_implementation": 6,
+    "design": 7,
+    "potential_impact": 6,
+    "quality_of_idea": 4
+  },
+  {
+    "slug": "open-clank",
+    "technological_implementation": 2,
+    "design": 1,
+    "potential_impact": 1,
+    "quality_of_idea": 2
+  },
+  {
+    "slug": "realdoor",
+    "technological_implementation": 9,
+    "design": 8,
+    "potential_impact": 9,
+    "quality_of_idea": 9
+  }
+]

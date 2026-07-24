@@ -1,0 +1,107 @@
+[
+  {
+    "slug": "studyscroll-hnwl3q",
+    "technological_implementation": 5,
+    "design": 6,
+    "potential_impact": 5,
+    "quality_of_idea": 5
+  },
+  {
+    "slug": "nonstandard-conditions",
+    "technological_implementation": 8,
+    "design": 8,
+    "potential_impact": 7,
+    "quality_of_idea": 7
+  },
+  {
+    "slug": "smartcited",
+    "technological_implementation": 8,
+    "design": 7,
+    "potential_impact": 8,
+    "quality_of_idea": 7
+  },
+  {
+    "slug": "project-green-thumb-doa97t",
+    "technological_implementation": 8,
+    "design": 8,
+    "potential_impact": 7,
+    "quality_of_idea": 7
+  },
+  {
+    "slug": "scout-interview-pattern",
+    "technological_implementation": 9,
+    "design": 8,
+    "potential_impact": 8,
+    "quality_of_idea": 8
+  },
+  {
+    "slug": "production-order-approval-workflow",
+    "technological_implementation": 6,
+    "design": 6,
+    "potential_impact": 6,
+    "quality_of_idea": 5
+  },
+  {
+    "slug": "jplearn",
+    "technological_implementation": 8,
+    "design": 8,
+    "potential_impact": 6,
+    "quality_of_idea": 6
+  },
+  {
+    "slug": "packagent",
+    "technological_implementation": 9,
+    "design": 7,
+    "potential_impact": 8,
+    "quality_of_idea": 9
+  },
+  {
+    "slug": "redflame-decision-ci",
+    "technological_implementation": 9,
+    "design": 8,
+    "potential_impact": 8,
+    "quality_of_idea": 8
+  },
+  {
+    "slug": "forgemind-os",
+    "technological_implementation": 2,
+    "design": 1,
+    "potential_impact": 2,
+    "quality_of_idea": 2
+  },
+  {
+    "slug": "tenten-search-inspector-botscore",
+    "technological_implementation": 9,
+    "design": 8,
+    "potential_impact": 8,
+    "quality_of_idea": 8
+  },
+  {
+    "slug": "be-heard-fh543o",
+    "technological_implementation": 8,
+    "design": 7,
+    "potential_impact": 7,
+    "quality_of_idea": 7
+  },
+  {
+    "slug": "skye-cove-memoryos-lite",
+    "technological_implementation": 5,
+    "design": 5,
+    "potential_impact": 4,
+    "quality_of_idea": 5
+  },
+  {
+    "slug": "neverlost-the-full-human-pathway",
+    "technological_implementation": 8,
+    "design": 6,
+    "potential_impact": 8,
+    "quality_of_idea": 8
+  },
+  {
+    "slug": "neverlost-capacity-aware-publishing-workflow",
+    "technological_implementation": 7,
+    "design": 6,
+    "potential_impact": 7,
+    "quality_of_idea": 7
+  }
+]

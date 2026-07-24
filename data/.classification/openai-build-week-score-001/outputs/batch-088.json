@@ -1,0 +1,107 @@
+[
+  {
+    "slug": "studymind-ai-6kxefc",
+    "technological_implementation": 5,
+    "design": 6,
+    "potential_impact": 6,
+    "quality_of_idea": 4
+  },
+  {
+    "slug": "lessonforge-wf5q01",
+    "technological_implementation": 5,
+    "design": 6,
+    "potential_impact": 5,
+    "quality_of_idea": 4
+  },
+  {
+    "slug": "shipsafe-vu4bxc",
+    "technological_implementation": 8,
+    "design": 7,
+    "potential_impact": 7,
+    "quality_of_idea": 6
+  },
+  {
+    "slug": "envoy-xzm56p",
+    "technological_implementation": 6,
+    "design": 6,
+    "potential_impact": 6,
+    "quality_of_idea": 6
+  },
+  {
+    "slug": "studynest-cjud8l",
+    "technological_implementation": 5,
+    "design": 7,
+    "potential_impact": 6,
+    "quality_of_idea": 6
+  },
+  {
+    "slug": "ai-agricultural-science-learning-studio",
+    "technological_implementation": 4,
+    "design": 4,
+    "potential_impact": 7,
+    "quality_of_idea": 5
+  },
+  {
+    "slug": "picotron",
+    "technological_implementation": 7,
+    "design": 5,
+    "potential_impact": 7,
+    "quality_of_idea": 6
+  },
+  {
+    "slug": "repolens-gc0sjw",
+    "technological_implementation": 8,
+    "design": 7,
+    "potential_impact": 7,
+    "quality_of_idea": 7
+  },
+  {
+    "slug": "kiokunet-a-safety-companion",
+    "technological_implementation": 8,
+    "design": 7,
+    "potential_impact": 7,
+    "quality_of_idea": 6
+  },
+  {
+    "slug": "rapi-personal-intelligence-in-whatsapp",
+    "technological_implementation": 9,
+    "design": 8,
+    "potential_impact": 8,
+    "quality_of_idea": 7
+  },
+  {
+    "slug": "model-jury",
+    "technological_implementation": 8,
+    "design": 8,
+    "potential_impact": 7,
+    "quality_of_idea": 8
+  },
+  {
+    "slug": "enma",
+    "technological_implementation": 7,
+    "design": 6,
+    "potential_impact": 6,
+    "quality_of_idea": 7
+  },
+  {
+    "slug": "nura-p7m4f5",
+    "technological_implementation": 8,
+    "design": 8,
+    "potential_impact": 6,
+    "quality_of_idea": 7
+  },
+  {
+    "slug": "decodex-nihed2",
+    "technological_implementation": 2,
+    "design": 2,
+    "potential_impact": 2,
+    "quality_of_idea": 2
+  },
+  {
+    "slug": "trusin-webhook-relay",
+    "technological_implementation": 7,
+    "design": 7,
+    "potential_impact": 7,
+    "quality_of_idea": 5
+  }
+]

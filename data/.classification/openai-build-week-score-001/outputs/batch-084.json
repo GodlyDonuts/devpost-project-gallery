@@ -1,0 +1,107 @@
+[
+  {
+    "slug": "aos-project-architect",
+    "technological_implementation": 7,
+    "design": 6,
+    "potential_impact": 6,
+    "quality_of_idea": 5
+  },
+  {
+    "slug": "deciding-right-now",
+    "technological_implementation": 6,
+    "design": 5,
+    "potential_impact": 7,
+    "quality_of_idea": 6
+  },
+  {
+    "slug": "ielts-focus",
+    "technological_implementation": 7,
+    "design": 7,
+    "potential_impact": 7,
+    "quality_of_idea": 6
+  },
+  {
+    "slug": "medpill-never-miss-again-your-medication",
+    "technological_implementation": 5,
+    "design": 6,
+    "potential_impact": 6,
+    "quality_of_idea": 3
+  },
+  {
+    "slug": "wish-you-were",
+    "technological_implementation": 6,
+    "design": 7,
+    "potential_impact": 5,
+    "quality_of_idea": 6
+  },
+  {
+    "slug": "salesforce-etl-engineer",
+    "technological_implementation": 2,
+    "design": 2,
+    "potential_impact": 2,
+    "quality_of_idea": 2
+  },
+  {
+    "slug": "ai-7as6n0",
+    "technological_implementation": 5,
+    "design": 5,
+    "potential_impact": 5,
+    "quality_of_idea": 4
+  },
+  {
+    "slug": "panb-hive",
+    "technological_implementation": 2,
+    "design": 2,
+    "potential_impact": 1,
+    "quality_of_idea": 2
+  },
+  {
+    "slug": "schemaprism",
+    "technological_implementation": 4,
+    "design": 7,
+    "potential_impact": 6,
+    "quality_of_idea": 3
+  },
+  {
+    "slug": "ai-work-simulator-i7203m",
+    "technological_implementation": 5,
+    "design": 6,
+    "potential_impact": 6,
+    "quality_of_idea": 5
+  },
+  {
+    "slug": "voicescene",
+    "technological_implementation": 8,
+    "design": 7,
+    "potential_impact": 5,
+    "quality_of_idea": 7
+  },
+  {
+    "slug": "open-ai-build-week-gk8dim",
+    "technological_implementation": 9,
+    "design": 7,
+    "potential_impact": 8,
+    "quality_of_idea": 7
+  },
+  {
+    "slug": "taxflow-ai-ai-powered-gst-tds-automation",
+    "technological_implementation": 6,
+    "design": 7,
+    "potential_impact": 8,
+    "quality_of_idea": 6
+  },
+  {
+    "slug": "keypoilot",
+    "technological_implementation": 6,
+    "design": 6,
+    "potential_impact": 6,
+    "quality_of_idea": 5
+  },
+  {
+    "slug": "familiar-the-ai-you-never-open",
+    "technological_implementation": 9,
+    "design": 8,
+    "potential_impact": 7,
+    "quality_of_idea": 8
+  }
+]
