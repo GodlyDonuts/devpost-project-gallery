@@ -1,0 +1,22 @@
+[
+  {"slug": "arxiv", "category": "Education", "confidence": 90},
+  {"slug": "medicaltouragent", "category": "Apps for Your Life", "confidence": 90},
+  {"slug": "1-4ck5uj", "category": "Apps for Your Life", "confidence": 30},
+  {"slug": "shipit-sgmth2", "category": "Developer Tools", "confidence": 95},
+  {"slug": "forget", "category": "Developer Tools", "confidence": 95},
+  {"slug": "your-favorite-place-in-2036", "category": "Apps for Your Life", "confidence": 92},
+  {"slug": "runtimespy", "category": "Developer Tools", "confidence": 95},
+  {"slug": "leaseflow-copilot", "category": "Work & Productivity", "confidence": 92},
+  {"slug": "crossready", "category": "Work & Productivity", "confidence": 80},
+  {"slug": "ai-assisted-academic-integrity-review-workflow", "category": "Work & Productivity", "confidence": 85},
+  {"slug": "codexos", "category": "Apps for Your Life", "confidence": 60},
+  {"slug": "veritylane", "category": "Work & Productivity", "confidence": 92},
+  {"slug": "cosu", "category": "Education", "confidence": 92},
+  {"slug": "aegis-by-voco", "category": "Work & Productivity", "confidence": 88},
+  {"slug": "swarm-mp5e4o", "category": "Work & Productivity", "confidence": 88},
+  {"slug": "tb-303-vibe", "category": "Apps for Your Life", "confidence": 92},
+  {"slug": "carryforward-gzkx6r", "category": "Apps for Your Life", "confidence": 88},
+  {"slug": "fair-8le0xz", "category": "Apps for Your Life", "confidence": 92},
+  {"slug": "journey-os", "category": "Apps for Your Life", "confidence": 92},
+  {"slug": "smart-finance-8o0dnf", "category": "Work & Productivity", "confidence": 95}
+]

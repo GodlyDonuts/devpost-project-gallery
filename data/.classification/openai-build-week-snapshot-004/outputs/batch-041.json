@@ -1,0 +1,22 @@
+[
+  {"slug": "parking-anything", "category": "Apps for Your Life", "confidence": 60},
+  {"slug": "simcore-studio", "category": "Work & Productivity", "confidence": 85},
+  {"slug": "studypilot-ai-43fxlj", "category": "Education", "confidence": 95},
+  {"slug": "our-place-5g69bu", "category": "Apps for Your Life", "confidence": 90},
+  {"slug": "canadian-retirement-intelligence", "category": "Apps for Your Life", "confidence": 65},
+  {"slug": "ngoding-lok", "category": "Education", "confidence": 95},
+  {"slug": "concourse-xgpq9h", "category": "Education", "confidence": 85},
+  {"slug": "surrounded-by-slop", "category": "Developer Tools", "confidence": 95},
+  {"slug": "aoa-session-memory", "category": "Developer Tools", "confidence": 65},
+  {"slug": "sema-the-semantic-governance-layer-for-ai-agents", "category": "Developer Tools", "confidence": 95},
+  {"slug": "visor-ai-ai-operations-for-self-hosted-apps", "category": "Developer Tools", "confidence": 70},
+  {"slug": "coderoom-w0br7s", "category": "Developer Tools", "confidence": 95},
+  {"slug": "agropilot-pro-agropilot-intelligence", "category": "Work & Productivity", "confidence": 70},
+  {"slug": "venture-jury", "category": "Work & Productivity", "confidence": 90},
+  {"slug": "scope-guard", "category": "Developer Tools", "confidence": 95},
+  {"slug": "govcon-one", "category": "Work & Productivity", "confidence": 90},
+  {"slug": "life-translator", "category": "Apps for Your Life", "confidence": 95},
+  {"slug": "ysld", "category": "Apps for Your Life", "confidence": 60},
+  {"slug": "reading-dojo-dojo-de-lectura", "category": "Education", "confidence": 75},
+  {"slug": "whynotnow-foa2gw", "category": "Apps for Your Life", "confidence": 60}
+]

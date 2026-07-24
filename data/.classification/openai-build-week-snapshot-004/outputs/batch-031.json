@@ -1,0 +1,22 @@
+[
+  {"slug": "inheritbench", "category": "Developer Tools", "confidence": 95},
+  {"slug": "contextlab", "category": "Work & Productivity", "confidence": 80},
+  {"slug": "finc-os-governed-ai-operating-system-for-business", "category": "Work & Productivity", "confidence": 95},
+  {"slug": "pizzaleak", "category": "Work & Productivity", "confidence": 75},
+  {"slug": "rtl-sentinel", "category": "Developer Tools", "confidence": 90},
+  {"slug": "1-ort0is", "category": "Apps for Your Life", "confidence": 30},
+  {"slug": "trainwell", "category": "Apps for Your Life", "confidence": 90},
+  {"slug": "my-ai-ko10ev", "category": "Apps for Your Life", "confidence": 75},
+  {"slug": "talk-prep-synthetic-demo", "category": "Apps for Your Life", "confidence": 90},
+  {"slug": "zeedos-self-hosted-autonomous-ai-operating-system", "category": "Developer Tools", "confidence": 95},
+  {"slug": "hello-world-pxldeh", "category": "Apps for Your Life", "confidence": 30},
+  {"slug": "sammoy-edge", "category": "Work & Productivity", "confidence": 85},
+  {"slug": "symphony-studio", "category": "Developer Tools", "confidence": 90},
+  {"slug": "agent-flight-recorder", "category": "Developer Tools", "confidence": 90},
+  {"slug": "family-atlas", "category": "Apps for Your Life", "confidence": 90},
+  {"slug": "os-9tldk5", "category": "Developer Tools", "confidence": 95},
+  {"slug": "ambient-studio", "category": "Apps for Your Life", "confidence": 90},
+  {"slug": "agent-policy-compiler", "category": "Developer Tools", "confidence": 70},
+  {"slug": "oracle-council", "category": "Apps for Your Life", "confidence": 85},
+  {"slug": "agent-autopsy", "category": "Developer Tools", "confidence": 90}
+]

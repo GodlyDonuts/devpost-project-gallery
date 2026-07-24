@@ -1,0 +1,22 @@
+[
+  {"slug": "expertiseos", "category": "Work & Productivity", "confidence": 70},
+  {"slug": "kinkeep", "category": "Apps for Your Life", "confidence": 90},
+  {"slug": "deadline-dungeon", "category": "Apps for Your Life", "confidence": 85},
+  {"slug": "multi-track", "category": "Apps for Your Life", "confidence": 75},
+  {"slug": "smartduka", "category": "Education", "confidence": 95},
+  {"slug": "vivatrace", "category": "Education", "confidence": 95},
+  {"slug": "cypher-jq43dk", "category": "Apps for Your Life", "confidence": 20},
+  {"slug": "auto-speech-journal", "category": "Apps for Your Life", "confidence": 90},
+  {"slug": "academy-akun2b", "category": "Education", "confidence": 90},
+  {"slug": "patchcode", "category": "Developer Tools", "confidence": 95},
+  {"slug": "pr-gym-workout-tracker", "category": "Apps for Your Life", "confidence": 90},
+  {"slug": "nerhia-urban", "category": "Work & Productivity", "confidence": 85},
+  {"slug": "fail2eval", "category": "Developer Tools", "confidence": 85},
+  {"slug": "fortuna-mission-control-zwk1at", "category": "Work & Productivity", "confidence": 85},
+  {"slug": "tiktok-automation", "category": "Apps for Your Life", "confidence": 65},
+  {"slug": "engineer-readiness-index-eri-by-mad-legends-engineering", "category": "Education", "confidence": 80},
+  {"slug": "mrmaliang", "category": "Work & Productivity", "confidence": 65},
+  {"slug": "dotdo-an-ai-intergrator", "category": "Developer Tools", "confidence": 95},
+  {"slug": "open-zupu", "category": "Work & Productivity", "confidence": 60},
+  {"slug": "groma-md-keeping-humans-in-the-loop", "category": "Developer Tools", "confidence": 95}
+]

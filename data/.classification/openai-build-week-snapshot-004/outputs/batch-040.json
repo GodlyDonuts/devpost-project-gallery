@@ -1,0 +1,22 @@
+[
+  {"slug": "mybondnow", "category": "Apps for Your Life", "confidence": 80},
+  {"slug": "gpt-english-for-experts", "category": "Education", "confidence": 90},
+  {"slug": "feedbackpro-wkpj1t", "category": "Work & Productivity", "confidence": 90},
+  {"slug": "depgaze-dependency-execution-intelligence", "category": "Developer Tools", "confidence": 90},
+  {"slug": "junto-9ztauv", "category": "Education", "confidence": 90},
+  {"slug": "nexusdesk", "category": "Education", "confidence": 90},
+  {"slug": "thunderhawk-stat-mcp", "category": "Developer Tools", "confidence": 85},
+  {"slug": "codexgpt", "category": "Work & Productivity", "confidence": 20},
+  {"slug": "slate-up", "category": "Apps for Your Life", "confidence": 85},
+  {"slug": "canvas-mds-process-centered-course-design-with-ai", "category": "Education", "confidence": 90},
+  {"slug": "learnix-j7erph", "category": "Education", "confidence": 90},
+  {"slug": "agent-onboarding-protocol", "category": "Developer Tools", "confidence": 80},
+  {"slug": "booktrail-one-book-leads-to-another", "category": "Apps for Your Life", "confidence": 85},
+  {"slug": "baseborn", "category": "Apps for Your Life", "confidence": 95},
+  {"slug": "wali-tahfiz", "category": "Education", "confidence": 85},
+  {"slug": "data-analayst", "category": "Work & Productivity", "confidence": 25},
+  {"slug": "grantback", "category": "Work & Productivity", "confidence": 90},
+  {"slug": "ai-maestro", "category": "Developer Tools", "confidence": 85},
+  {"slug": "wishopai-ai-commerce-os", "category": "Work & Productivity", "confidence": 90},
+  {"slug": "structure-search-and-understand-your-local-files", "category": "Work & Productivity", "confidence": 80}
+]

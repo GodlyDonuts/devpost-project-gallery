@@ -1,0 +1,102 @@
+[
+  {
+    "slug": "governor",
+    "category": "Developer Tools",
+    "confidence": 90
+  },
+  {
+    "slug": "reader-first-design-audit",
+    "category": "Developer Tools",
+    "confidence": 70
+  },
+  {
+    "slug": "can-you-read-me-now",
+    "category": "Developer Tools",
+    "confidence": 60
+  },
+  {
+    "slug": "npc-experiment-001",
+    "category": "Apps for Your Life",
+    "confidence": 50
+  },
+  {
+    "slug": "privato",
+    "category": "Apps for Your Life",
+    "confidence": 90
+  },
+  {
+    "slug": "her-d5wghz",
+    "category": "Apps for Your Life",
+    "confidence": 90
+  },
+  {
+    "slug": "boom-aura",
+    "category": "Developer Tools",
+    "confidence": 30
+  },
+  {
+    "slug": "codexddj",
+    "category": "Developer Tools",
+    "confidence": 90
+  },
+  {
+    "slug": "ali-omni-dev-orchestrator",
+    "category": "Developer Tools",
+    "confidence": 90
+  },
+  {
+    "slug": "interlock",
+    "category": "Developer Tools",
+    "confidence": 90
+  },
+  {
+    "slug": "nexus-5eusk7",
+    "category": "Work & Productivity",
+    "confidence": 75
+  },
+  {
+    "slug": "work-and-productivity-7ul53j",
+    "category": "Apps for Your Life",
+    "confidence": 80
+  },
+  {
+    "slug": "strikepilot",
+    "category": "Work & Productivity",
+    "confidence": 90
+  },
+  {
+    "slug": "action-shift",
+    "category": "Work & Productivity",
+    "confidence": 90
+  },
+  {
+    "slug": "jobraker-recruiter",
+    "category": "Work & Productivity",
+    "confidence": 90
+  },
+  {
+    "slug": "dream-studio-ai-game-creation-for-everyone",
+    "category": "Apps for Your Life",
+    "confidence": 75
+  },
+  {
+    "slug": "devpilot-0dslp3",
+    "category": "Developer Tools",
+    "confidence": 90
+  },
+  {
+    "slug": "codepilot-ai-1l8vqh",
+    "category": "Developer Tools",
+    "confidence": 60
+  },
+  {
+    "slug": "embersong-history-is-yours",
+    "category": "Apps for Your Life",
+    "confidence": 90
+  },
+  {
+    "slug": "cat-hackathon-os",
+    "category": "Developer Tools",
+    "confidence": 70
+  }
+]

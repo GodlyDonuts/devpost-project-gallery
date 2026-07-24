@@ -1,0 +1,22 @@
+[
+  {"slug": "blomblom", "category": "Apps for Your Life", "confidence": 25},
+  {"slug": "vocab-quest-11", "category": "Education", "confidence": 95},
+  {"slug": "ai-watercooler", "category": "Work & Productivity", "confidence": 85},
+  {"slug": "scrawler-semantic-runtime", "category": "Developer Tools", "confidence": 85},
+  {"slug": "genecia", "category": "Work & Productivity", "confidence": 90},
+  {"slug": "savinindustry", "category": "Work & Productivity", "confidence": 90},
+  {"slug": "l-avian-core", "category": "Work & Productivity", "confidence": 90},
+  {"slug": "lord-of-the-land", "category": "Work & Productivity", "confidence": 70},
+  {"slug": "screenshot-studio", "category": "Developer Tools", "confidence": 92},
+  {"slug": "real-kosebo-international-animation-ra0tjg", "category": "Apps for Your Life", "confidence": 20},
+  {"slug": "inveriq", "category": "Apps for Your Life", "confidence": 85},
+  {"slug": "replayops", "category": "Work & Productivity", "confidence": 88},
+  {"slug": "note-nest", "category": "Apps for Your Life", "confidence": 90},
+  {"slug": "codex-anatomy-an-explorable-diagram-of-your-codex-session", "category": "Developer Tools", "confidence": 92},
+  {"slug": "amo-ng-ai-prompt-workflow-assistant", "category": "Work & Productivity", "confidence": 75},
+  {"slug": "novel-agent", "category": "Apps for Your Life", "confidence": 90},
+  {"slug": "synthetic-pm", "category": "Work & Productivity", "confidence": 88},
+  {"slug": "draw2code", "category": "Developer Tools", "confidence": 92},
+  {"slug": "cudex", "category": "Developer Tools", "confidence": 85},
+  {"slug": "livecanvas", "category": "Work & Productivity", "confidence": 88}
+]

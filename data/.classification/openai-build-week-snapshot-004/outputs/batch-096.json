@@ -1,0 +1,22 @@
+[
+  {"slug": "selflm", "category": "Apps for Your Life", "confidence": 85},
+  {"slug": "immigrid", "category": "Apps for Your Life", "confidence": 90},
+  {"slug": "taraura", "category": "Apps for Your Life", "confidence": 90},
+  {"slug": "ai-career", "category": "Developer Tools", "confidence": 75},
+  {"slug": "you-can-be-anything", "category": "Apps for Your Life", "confidence": 95},
+  {"slug": "voiceme-ai", "category": "Apps for Your Life", "confidence": 78},
+  {"slug": "deepstrick", "category": "Developer Tools", "confidence": 95},
+  {"slug": "eva-1-0-safe-ai-event-production", "category": "Work & Productivity", "confidence": 90},
+  {"slug": "dooh-audience-intelligence-by-loplat", "category": "Work & Productivity", "confidence": 90},
+  {"slug": "atlas-lrc9wt", "category": "Developer Tools", "confidence": 90},
+  {"slug": "praxis-pxy4qv", "category": "Developer Tools", "confidence": 75},
+  {"slug": "agent-black-box-6bqaer", "category": "Developer Tools", "confidence": 90},
+  {"slug": "nudgeloop-learning-studio", "category": "Education", "confidence": 92},
+  {"slug": "sound-it-out", "category": "Education", "confidence": 92},
+  {"slug": "viron-horizon", "category": "Apps for Your Life", "confidence": 90},
+  {"slug": "levellens", "category": "Education", "confidence": 92},
+  {"slug": "codemod-forge", "category": "Developer Tools", "confidence": 95},
+  {"slug": "sctr", "category": "Apps for Your Life", "confidence": 80},
+  {"slug": "sidethink", "category": "Work & Productivity", "confidence": 75},
+  {"slug": "kco-s-project", "category": "Developer Tools", "confidence": 90}
+]

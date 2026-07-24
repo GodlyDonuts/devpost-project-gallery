@@ -1,0 +1,22 @@
+[
+  {"slug": "hermes-flightdeck", "category": "Developer Tools", "confidence": 95},
+  {"slug": "auto-quantization-assistant", "category": "Developer Tools", "confidence": 90},
+  {"slug": "hackthon001", "category": "Apps for Your Life", "confidence": 20},
+  {"slug": "vibeproof-prove-you-own-your-ai-assisted-code", "category": "Work & Productivity", "confidence": 85},
+  {"slug": "escalation-engineer", "category": "Work & Productivity", "confidence": 80},
+  {"slug": "wildbook", "category": "Education", "confidence": 95},
+  {"slug": "m55-control-plane", "category": "Developer Tools", "confidence": 95},
+  {"slug": "nearby-mh468p", "category": "Apps for Your Life", "confidence": 95},
+  {"slug": "if-i-were-dead", "category": "Apps for Your Life", "confidence": 95},
+  {"slug": "axiom-intelligence-for-learning", "category": "Education", "confidence": 95},
+  {"slug": "skynet-os", "category": "Apps for Your Life", "confidence": 80},
+  {"slug": "comeandsee", "category": "Apps for Your Life", "confidence": 15},
+  {"slug": "pawly-ai-dog-monitor", "category": "Apps for Your Life", "confidence": 95},
+  {"slug": "project-tabletop", "category": "Education", "confidence": 95},
+  {"slug": "neatmind", "category": "Education", "confidence": 90},
+  {"slug": "spellcast-universe", "category": "Apps for Your Life", "confidence": 80},
+  {"slug": "stocklens-ai", "category": "Apps for Your Life", "confidence": 80},
+  {"slug": "nexus-build-governor", "category": "Developer Tools", "confidence": 95},
+  {"slug": "opencodex", "category": "Developer Tools", "confidence": 95},
+  {"slug": "aura-manager", "category": "Apps for Your Life", "confidence": 75}
+]

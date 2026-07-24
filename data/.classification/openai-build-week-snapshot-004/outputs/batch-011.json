@@ -1,0 +1,22 @@
+[
+  {"slug": "butterfly-sciences", "category": "Work & Productivity", "confidence": 90},
+  {"slug": "necromancer-yehsq5", "category": "Developer Tools", "confidence": 95},
+  {"slug": "zhimai-agent", "category": "Developer Tools", "confidence": 50},
+  {"slug": "consoom", "category": "Apps for Your Life", "confidence": 95},
+  {"slug": "filter-coffee-club", "category": "Apps for Your Life", "confidence": 90},
+  {"slug": "tastefold", "category": "Apps for Your Life", "confidence": 95},
+  {"slug": "devhq", "category": "Developer Tools", "confidence": 95},
+  {"slug": "awsm-archive-what-should-matter", "category": "Apps for Your Life", "confidence": 85},
+  {"slug": "live-coach", "category": "Apps for Your Life", "confidence": 80},
+  {"slug": "prism-pj8dsb", "category": "Education", "confidence": 90},
+  {"slug": "northstar-5sdfv6", "category": "Work & Productivity", "confidence": 95},
+  {"slug": "torinlabs-sentinel-ai", "category": "Work & Productivity", "confidence": 90},
+  {"slug": "pantry-pilot-2q3mr4", "category": "Apps for Your Life", "confidence": 95},
+  {"slug": "rubien", "category": "Work & Productivity", "confidence": 75},
+  {"slug": "kgmd", "category": "Work & Productivity", "confidence": 95},
+  {"slug": "cortex-r6fptn", "category": "Education", "confidence": 95},
+  {"slug": "lingohan", "category": "Education", "confidence": 95},
+  {"slug": "motivatoro", "category": "Apps for Your Life", "confidence": 75},
+  {"slug": "tradeeek", "category": "Apps for Your Life", "confidence": 75},
+  {"slug": "schoolvault-ai", "category": "Education", "confidence": 95}
+]

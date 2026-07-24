@@ -1,0 +1,102 @@
+[
+  {
+    "slug": "manage-client-discovery",
+    "category": "Work & Productivity",
+    "confidence": 85
+  },
+  {
+    "slug": "neenee-div2bk",
+    "category": "Developer Tools",
+    "confidence": 95
+  },
+  {
+    "slug": "options-learning-lab",
+    "category": "Education",
+    "confidence": 90
+  },
+  {
+    "slug": "basicade",
+    "category": "Education",
+    "confidence": 75
+  },
+  {
+    "slug": "tap-construction-workforce-os",
+    "category": "Work & Productivity",
+    "confidence": 90
+  },
+  {
+    "slug": "nudge-ldfc4i",
+    "category": "Work & Productivity",
+    "confidence": 55
+  },
+  {
+    "slug": "trace-doctor",
+    "category": "Developer Tools",
+    "confidence": 95
+  },
+  {
+    "slug": "local-first-hvac-diagnostics-with-codex",
+    "category": "Apps for Your Life",
+    "confidence": 80
+  },
+  {
+    "slug": "job-radar",
+    "category": "Apps for Your Life",
+    "confidence": 80
+  },
+  {
+    "slug": "anchor-cu5nxd",
+    "category": "Apps for Your Life",
+    "confidence": 90
+  },
+  {
+    "slug": "vatbaker",
+    "category": "Work & Productivity",
+    "confidence": 55
+  },
+  {
+    "slug": "hikesafe",
+    "category": "Apps for Your Life",
+    "confidence": 85
+  },
+  {
+    "slug": "challenge-e5jfzh",
+    "category": "Apps for Your Life",
+    "confidence": 80
+  },
+  {
+    "slug": "imperial-scribe",
+    "category": "Apps for Your Life",
+    "confidence": 60
+  },
+  {
+    "slug": "loop-c8b415",
+    "category": "Apps for Your Life",
+    "confidence": 60
+  },
+  {
+    "slug": "arogyam-2-0",
+    "category": "Apps for Your Life",
+    "confidence": 80
+  },
+  {
+    "slug": "synomize-visual-software-creation-in-vr",
+    "category": "Developer Tools",
+    "confidence": 65
+  },
+  {
+    "slug": "rankster",
+    "category": "Work & Productivity",
+    "confidence": 65
+  },
+  {
+    "slug": "resolveops",
+    "category": "Work & Productivity",
+    "confidence": 85
+  },
+  {
+    "slug": "repro-evidence-first-bug-verification",
+    "category": "Developer Tools",
+    "confidence": 95
+  }
+]
