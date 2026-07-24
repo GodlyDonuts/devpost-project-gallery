@@ -1,0 +1,17 @@
+{
+  "hackathons": [
+    {
+      "slug": "openai-build-week",
+      "name": "OpenAI Build Week",
+      "hackathon_id": "30223",
+      "categories": [
+        "Apps for Your Life",
+        "Work & Productivity",
+        "Developer Tools",
+        "Education"
+      ],
+      "generated_at": null,
+      "count": 0
+    }
+  ]
+}

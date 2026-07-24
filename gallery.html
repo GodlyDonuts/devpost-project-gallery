@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Project Gallery</title>
+  <meta name="description" content="Community-run Devpost hackathon project gallery." />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <header class="hero">
+    <div class="hero-inner">
+      <div class="badge"><a href="index.html">← All hackathons</a></div>
+      <h1 id="hack-title">Project Gallery</h1>
+      <p class="sub">Community-collected submissions, sorted into the hackathon's tracks.</p>
+      <div class="stats" id="stats"></div>
+      <div class="notice" id="freshness"></div>
+    </div>
+  </header>
+
+  <main class="wrap">
+    <div class="controls">
+      <div class="search">
+        <input id="search" type="search" placeholder="Search projects, teams, or descriptions…" autocomplete="off" />
+      </div>
+      <div class="filters" id="filters"></div>
+    </div>
+
+    <section id="grid" class="grid" aria-live="polite"></section>
+    <div id="empty" class="empty" hidden>No projects match your filters yet.</div>
+  </main>
+
+  <footer class="foot">
+    <p>
+      Unofficial gallery · Not affiliated with OpenAI or Devpost · Data sourced from
+      public Devpost submissions · Built with <a href="https://pages.github.com">GitHub Pages</a>.
+    </p>
+  </footer>
+
+  <script src="shared.js"></script>
+  <script src="gallery.js"></script>
+</body>
+</html>

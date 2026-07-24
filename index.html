@@ -3,8 +3,8 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>OpenAI Build Week — Community Project Gallery</title>
-  <meta name="description" content="An unofficial community gallery of projects built during OpenAI Build Week, available while the official Devpost gallery is unpublished." />
+  <title>Devpost Hackathon Project Galleries</title>
+  <meta name="description" content="Community-run project galleries for Devpost hackathons, available while the official galleries are unpublished." />
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet" />
@@ -14,44 +14,27 @@
   <header class="hero">
     <div class="hero-inner">
       <div class="badge">Unofficial · Community Run</div>
-      <h1>OpenAI Build Week<br /><span class="accent">Project Gallery</span></h1>
+      <h1>Devpost Hackathon<br /><span class="accent">Project Galleries</span></h1>
       <p class="sub">
-        The official Devpost gallery hasn't been published yet, so the community
-        put one together. Every project below was submitted to OpenAI Build Week
-        and sorted into its hackathon track.
+        Pick a hackathon to browse its community project gallery. Each gallery is
+        collected from public Devpost submissions while the official gallery is
+        still unpublished.
       </p>
-      <div class="stats" id="stats">
-        <div class="stat"><span class="num" data-stat="total">0</span><span class="lbl">Projects</span></div>
-      </div>
-      <div class="notice" id="freshness"></div>
     </div>
   </header>
 
   <main class="wrap">
-    <div class="controls">
-      <div class="search">
-        <input id="search" type="search" placeholder="Search projects, teams, or descriptions…" autocomplete="off" />
-      </div>
-      <div class="filters" id="filters">
-        <button class="chip active" data-cat="all">All</button>
-        <button class="chip" data-cat="Apps for Your Life">Apps for Your Life</button>
-        <button class="chip" data-cat="Work &amp; Productivity">Work &amp; Productivity</button>
-        <button class="chip" data-cat="Developer Tools">Developer Tools</button>
-        <button class="chip" data-cat="Education">Education</button>
-      </div>
-    </div>
-
-    <section id="grid" class="grid" aria-live="polite"></section>
-    <div id="empty" class="empty" hidden>No projects match your filters yet.</div>
+    <section id="hacks" class="grid" aria-live="polite"></section>
   </main>
 
   <footer class="foot">
     <p>
-      Unofficial gallery · Not affiliated with OpenAI or Devpost · Data sourced from
+      Unofficial galleries · Not affiliated with OpenAI or Devpost · Data sourced from
       public Devpost submissions · Built with <a href="https://pages.github.com">GitHub Pages</a>.
     </p>
   </footer>
 
-  <script src="app.js"></script>
+  <script src="shared.js"></script>
+  <script src="index.js"></script>
 </body>
 </html>

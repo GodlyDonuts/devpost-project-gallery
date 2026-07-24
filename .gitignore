@@ -1,0 +1,7 @@
+# Scraper checkpoints (regenerated each run, large)
+data/.scrape_state_*.json
+
+# Python
+__pycache__/
+*.pyc
+.DS_Store

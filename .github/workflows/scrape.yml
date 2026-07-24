@@ -1,0 +1,55 @@
+name: Scrape Devpost hackathon galleries
+
+on:
+  schedule:
+    # Hourly so each 46k-participant crawl makes steady progress and galleries
+    # backfill automatically once Devpost publishes them.
+    - cron: "17 * * * *"
+  workflow_dispatch:
+    inputs:
+      hackathon_slug:
+        description: "Only scrape this hackathon slug (leave empty for all)"
+        required: false
+
+permissions:
+  contents: write
+
+concurrency:
+  group: scrape-devpost
+  cancel-in-progress: false
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    timeout-minutes: 350   # ~5h45m; cron re-runs continue via per-hackathon checkpoint
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install deps
+        run: pip install requests beautifulsoup4
+
+      - name: Run scraper (resumable, manifest-driven)
+        env:
+          DEVP0ST_SESSION_COOKIE: ${{ secrets.DEVP0ST_SESSION_COOKIE }}
+          PROXY_URL: ${{ secrets.PROXY_URL }}
+          HACKATHON_SLUG: ${{ github.event.inputs.hackathon_slug }}
+          PAGE_DELAY: "0.2"
+        run: python3 scrape.py
+
+      - name: Commit updated data
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "chore: update gallery data ($(date -u +%Y-%m-%dT%H:%M:%SZ))"
+            git push
+          fi

@@ -1,38 +1,28 @@
 #!/usr/bin/env python3
 """
-OpenAI Build Week — community project gallery scraper.
+Devpost hackathon project gallery scraper  (multi-hackathon aware).
+
+Each hackathon is described in data/hackathons.json and gets its own
+data/<slug>.json file. The landing page (index.html) lists them; the
+per-hackathon page (gallery.html?h=<slug>) renders that file.
 
 WHY THIS EXISTS
-  Devpost doesn't publish the Build Week project gallery until a couple weeks
-  after the deadline. This scraper walks the participant list, checks each
-  participant's public projects, keeps only those *submitted to OpenAI Build
-  Week*, and classifies them into one of the four official tracks.
+  Devpost doesn't publish a hackathon's gallery until a couple weeks after the
+  deadline. This walks the participant list, keeps only projects *submitted to*
+  the target hackathon, and classifies them into that hackathon's tracks.
 
-  Output: data/projects.json  (consumed by the GitHub Pages UI in app.js)
+REQUIRED (evidence-based)
+  1. DEVP0ST_SESSION_COOKIE  — the participant list is login-gated.
+  2. PROXY_URL (optional)    — 46k+ participants => 100k+ requests; use a proxy.
 
-IMPORTANT — TWO THINGS ARE REQUIRED (evidence-based):
-  1. DEVP0ST_SESSION_COOKIE  — the participant list is login-gated
-                                ("Please log in to browse this hackathon's
-                                participants."). A session cookie is mandatory.
-  2. PROXY_URL (optional)    — 46k+ participants => 100k+ requests. Use a proxy
-                                pool to avoid IP bans / rate limits.
-
-The script is fully RESUMABLE: it checkpoints processed handles and found
-projects, so you can run it in chunks / across CI jobs.
+RESUMABLE: per-hackathon checkpoint (data/.scrape_state_<slug>.json) so you can
+run in chunks / across CI jobs.
 
 USAGE
   export DEVP0ST_SESSION_COOKIE="session=...; _devpost=..."
-  export PROXY_URL="http://user:pass@host:port"      # or comma-separated list
-  python3 scrape.py
-
-  Optional env:
-    HACKATHON_NAME="OpenAI Build Week"   (what we match in "Submitted to")
-    HACKATHON_ID="30223"
-    OUTPUT="data/projects.json"
-    CHECKPOINT="data/.scrape_state.json"
-    START_PAGE="1"
-    MAX_PAGES="0"            # 0 = no limit
-    PAGE_DELAY="0.25"        # seconds between requests (jitter added)
+  export PROXY_URL="http://user:pass@host:port"        # optional but recommended
+  python3 scrape.py                 # scrapes every hackathon in the manifest
+  HACKATHON_SLUG=openai-build-week python3 scrape.py   # just one
 """
 
 import os
@@ -51,28 +41,21 @@ except ImportError:
     sys.exit("Missing deps. Install with: pip install requests beautifulsoup4")
 
 # --------------------------------------------------------------------------- #
-# Config
+# Paths / config
 # --------------------------------------------------------------------------- #
-HACKATHON_NAME = os.getenv("HACKATHON_NAME", "OpenAI Build Week")
-HACKATHON_ID = os.getenv("HACKATHON_ID", "30223")
-OUTPUT = os.getenv("OUTPUT", "data/projects.json")
-CHECKPOINT = os.getenv("CHECKPOINT", "data/.scrape_state.json")
+ROOT = os.path.dirname(os.path.abspath(__file__))
+MANIFEST = os.path.join(ROOT, "data", "hackathons.json")
+DATA_DIR = os.path.join(ROOT, "data")
 BASE = "https://openai.devpost.com"
 PROFILE_BASE = "https://devpost.com"
+
 COOKIE = os.getenv("DEVP0ST_SESSION_COOKIE", "")
 PROXIES_RAW = os.getenv("PROXY_URL", "")
+HACKATHON_SLUG = os.getenv("HACKATHON_SLUG", "")
 START_PAGE = int(os.getenv("START_PAGE", "1"))
 MAX_PAGES = int(os.getenv("MAX_PAGES", "0"))
 PAGE_DELAY = float(os.getenv("PAGE_DELAY", "0.25"))
 
-CATEGORIES = [
-    "Apps for Your Life",
-    "Work & Productivity",
-    "Developer Tools",
-    "Education",
-]
-
-# Paths that are NOT user profiles — used to filter participant links.
 NON_USER = {
     "software", "hackathons", "portfolio", "settings", "assets",
     "users", "submit-to", "forum_topics", "challenges", "search",
@@ -121,7 +104,7 @@ def get(url, retries=4):
                 time.sleep(3 * (attempt + 1))
                 continue
             return r
-        except Exception as e:  # network / proxy errors
+        except Exception as e:
             last = e
             time.sleep(2 * (attempt + 1))
     print(f"  FAILED after {retries} tries: {url} ({last})", flush=True)
@@ -129,14 +112,13 @@ def get(url, retries=4):
 
 
 # --------------------------------------------------------------------------- #
-# Parsing helpers
+# Parsing
 # --------------------------------------------------------------------------- #
 SOFTWARE_RE = re.compile(r"/software/([a-z0-9][a-z0-9\-]+[a-z0-9])", re.I)
 USER_RE = re.compile(r"^https?://devpost\.com/([a-z0-9][a-z0-9_\-]{1,30})$", re.I)
 
 
 def extract_handles_from_participants(html):
-    """Return unique participant handles from a /participants?page=N page."""
     soup = BeautifulSoup(html, "html.parser")
     handles = set()
     for a in soup.find_all("a", href=True):
@@ -145,78 +127,64 @@ def extract_handles_from_participants(html):
         if not m:
             continue
         h = m.group(1)
-        if h.lower() in NON_USER:
-            continue
-        # skip handles that are clearly not user pages (e.g. contain a dot/tld)
-        if "." in h or "/" in h:
+        if h.lower() in NON_USER or "." in h or "/" in h:
             continue
         handles.add(h)
     return handles
 
 
 def extract_profile_projects(html):
-    """Return set of software slugs listed on a user profile page."""
-    slugs = set()
-    for m in SOFTWARE_RE.finditer(html):
-        slug = m.group(1)
-        # 'new' is the "create project" link, not a real project
-        if slug in ("new", "search"):
-            continue
-        slugs.add(slug)
-    return slugs
+    return {
+        m.group(1)
+        for m in SOFTWARE_RE.finditer(html)
+        if m.group(1) not in ("new", "search")
+    }
 
 
-def parse_project(html, slug):
+def parse_project(html, slug, categories, hackathon_name):
     soup = BeautifulSoup(html, "html.parser")
-    # title
     title = ""
     og = soup.find("meta", property="og:title")
     if og and og.get("content"):
-        title = og["content"].strip()
+        title = str(og["content"]).strip()
     if not title:
         t = soup.find("title")
         if t:
             title = t.get_text(strip=True).replace(" | Devpost", "")
 
-    # description
     desc = ""
     ogd = soup.find("meta", property="og:description")
     if ogd and ogd.get("content"):
-        desc = ogd["content"].strip()
+        desc = str(ogd["content"]).strip()
 
-    # members (authors) — links to /<handle> inside the project
     members = []
     seen = set()
     for a in soup.find_all("a", href=True):
-        m = USER_RE.match(a["href"])
+        m = USER_RE.match(str(a["href"]))
         if not m:
             continue
         h = m.group(1)
         if h.lower() in NON_USER or h in seen:
             continue
         seen.add(h)
-        name = a.get_text(strip=True) or h
-        members.append({"handle": h, "name": name, "url": f"{PROFILE_BASE}/{h}"})
+        members.append({"handle": h, "name": a.get_text(strip=True) or h, "url": f"{PROFILE_BASE}/{h}"})
 
-    # submitted to — look for the hackathon name near "Submitted to"
     text = soup.get_text(" ", strip=True)
-    submitted_here = HACKATHON_NAME.lower() in text.lower()
+    submitted_here = hackathon_name.lower() in text.lower()
 
-    # category — match any of the four official tracks present on the page
     category = "Uncategorized"
-    for c in CATEGORIES:
+    for c in categories:
         if re.search(r"\b" + re.escape(c) + r"\b", text, re.I):
             category = c
             break
 
-    # repo / demo links (best effort)
     repo_url = demo_url = None
     for a in soup.find_all("a", href=True):
-        href = a["href"]
+        href = str(a["href"])
         low = href.lower()
         if any(k in low for k in ("github.com", "gitlab.com", "bitbucket.org")):
             repo_url = href
-        if any(k in low for k in ("demo", "youtu.be", "youtube.com")) and not demo_url:
+        elif any(k in low for k in ("demo", "youtu.be", "youtube.com")) and not demo_url:
             demo_url = href
 
     return {
@@ -224,8 +192,8 @@ def parse_project(html, slug):
         "title": title,
         "description": desc,
         "category": category if submitted_here else None,
+        "submitted_to_hackathon": submitted_here,
         "members": members,
-        "submitted_to_build_week": submitted_here,
         "url": f"{PROFILE_BASE}/software/{slug}",
         "repo_url": repo_url,
         "demo_url": demo_url,
@@ -233,79 +201,94 @@ def parse_project(html, slug):
 
 
 # --------------------------------------------------------------------------- #
-# State / checkpoint
+# State / manifest
 # --------------------------------------------------------------------------- #
-def load_state():
-    if os.path.exists(CHECKPOINT):
+def load_manifest():
+    with open(MANIFEST) as f:
+        return json.load(f)
+
+
+def save_manifest(manifest):
+    tmp = MANIFEST + ".tmp"
+    with open(tmp, "w") as f:
+        json.dump(manifest, f, indent=2)
+    os.replace(tmp, MANIFEST)
+
+
+def state_path(slug):
+    return os.path.join(DATA_DIR, f".scrape_state_{slug}.json")
+
+
+def out_path(slug):
+    return os.path.join(DATA_DIR, f"{slug}.json")
+
+
+def load_state(slug):
+    p = state_path(slug)
+    if os.path.exists(p):
         try:
-            with open(CHECKPOINT) as f:
-                return json.load(f)
+            return json.load(open(p))
         except Exception:
             pass
     return {"processed": [], "projects": []}
 
 
-def save_state(state):
-    os.makedirs(os.path.dirname(CHECKPOINT) or ".", exist_ok=True)
-    tmp = CHECKPOINT + ".tmp"
+def save_state(slug, state):
+    tmp = state_path(slug) + ".tmp"
     with open(tmp, "w") as f:
         json.dump(state, f, indent=2)
-    os.replace(tmp, CHECKPOINT)
+    os.replace(tmp, state_path(slug))
 
 
-def write_output(projects):
-    os.makedirs(os.path.dirname(OUTPUT) or ".", exist_ok=True)
-    seen = {}
-    for p in projects:
-        seen[p["slug"]] = p
+def write_output(slug, cfg, projects):
     out = {
+        "slug": slug,
+        "name": cfg.get("name", slug),
+        "hackathon_id": cfg.get("hackathon_id"),
         "generated_at": datetime.datetime.now(datetime.timezone.utc).isoformat(),
-        "hackathon": HACKATHON_NAME,
-        "count": len(seen),
-        "projects": list(seen.values()),
+        "categories": cfg.get("categories", []),
+        "count": len(projects),
+        "projects": projects,
     }
-    tmp = OUTPUT + ".tmp"
+    tmp = out_path(slug) + ".tmp"
     with open(tmp, "w") as f:
         json.dump(out, f, indent=2, ensure_ascii=False)
-    os.replace(tmp, OUTPUT)
+    os.replace(tmp, out_path(slug))
+    return out
 
 
 # --------------------------------------------------------------------------- #
-# Main
+# Crawl one hackathon
 # --------------------------------------------------------------------------- #
-def main():
-    if not COOKIE:
-        sys.exit("ERROR: DEVP0ST_SESSION_COOKIE is required (participant list is login-gated).")
+def process_hackathon(cfg):
+    slug = cfg["slug"]
+    name = cfg.get("name", slug)
+    hid = cfg.get("hackathon_id", "")
+    categories = cfg.get("categories", [])
+    print(f"\n=== {name} (slug={slug}, id={hid}) ===")
 
-    state = load_state()
+    state = load_state(slug)
     processed = set(state["processed"])
     projects = state["projects"]
 
-    print(f"Scraping participants for '{HACKATHON_NAME}' (id={HACKATHON_ID})")
-    print(f"Already processed: {len(processed)} handles · found: {len(projects)} projects")
-    print(f"Proxy pool size: {len(PROXIES)} · page delay: {PAGE_DELAY}s")
-
     page = START_PAGE
-    stall = 0  # pages with no new handles before we give up
+    stall = 0
     while True:
         if MAX_PAGES and page >= START_PAGE + MAX_PAGES:
-            print(f"Reached MAX_PAGES limit ({MAX_PAGES}). Stopping.")
+            print(f"  Reached MAX_PAGES limit ({MAX_PAGES}).")
             break
-
         url = f"{BASE}/participants?page={page}"
         r = get(url)
         if not r or r.status_code != 200:
-            print(f"Stop: participants page {page} returned {r.status_code if r else 'ERR'}")
+            print(f"  Stop: participants page {page} returned {r.status_code if r else 'ERR'}")
             break
-
         handles = extract_handles_from_participants(r.text)
         new = handles - processed
-        print(f"page {page}: {len(handles)} handles, {len(new)} new", flush=True)
-
+        print(f"  page {page}: {len(handles)} handles, {len(new)} new", flush=True)
         if not handles:
             stall += 1
             if stall >= 3:
-                print("No handles found on 3 consecutive pages — done enumerating.")
+                print("  No handles on 3 consecutive pages — done enumerating.")
                 break
         else:
             stall = 0
@@ -315,16 +298,14 @@ def main():
             pr = get(f"{PROFILE_BASE}/{h}")
             if not pr or pr.status_code != 200:
                 continue
-            slugs = extract_profile_projects(pr.text)
-            for slug in slugs:
-                # skip if already collected
-                if any(p["slug"] == slug for p in projects):
+            for pslug in extract_profile_projects(pr.text):
+                if any(p["slug"] == pslug for p in projects):
                     continue
-                pj = get(f"{PROFILE_BASE}/software/{slug}")
+                pj = get(f"{PROFILE_BASE}/software/{pslug}")
                 if not pj or pj.status_code != 200:
                     continue
-                info = parse_project(pj.text, slug)
-                if info["submitted_to_build_week"]:
+                info = parse_project(pj.text, pslug, categories, name)
+                if info["submitted_to_hackathon"]:
                     projects.append({
                         "slug": info["slug"],
                         "title": info["title"],
@@ -335,24 +316,50 @@ def main():
                         "repo_url": info["repo_url"],
                         "demo_url": info["demo_url"],
                     })
-                    print(f"  + [{info['category']}] {info['title']}  (by {h})", flush=True)
+                    print(f"    + [{info['category']}] {info['title']}  (by {h})", flush=True)
             time.sleep(PAGE_DELAY * random.uniform(0.6, 1.4))
 
-        # checkpoint every page
         state["processed"] = sorted(processed)
         state["projects"] = projects
-        save_state(state)
-        write_output(projects)
-
+        save_state(slug, state)
+        write_output(slug, cfg, projects)
         page += 1
         time.sleep(PAGE_DELAY * random.uniform(0.6, 1.4))
 
-    # final flush
     state["processed"] = sorted(processed)
     state["projects"] = projects
-    save_state(state)
-    write_output(projects)
-    print(f"\nDONE. {len(processed)} handles processed, {len(projects)} Build Week projects saved to {OUTPUT}")
+    save_state(slug, state)
+    out = write_output(slug, cfg, projects)
+    print(f"  DONE {name}: {len(processed)} handles, {len(projects)} projects.")
+    return out
+
+
+# --------------------------------------------------------------------------- #
+# Main
+# --------------------------------------------------------------------------- #
+def main():
+    if not COOKIE:
+        sys.exit("ERROR: DEVP0ST_SESSION_COOKIE is required (participant list is login-gated).")
+
+    manifest = load_manifest()
+    hacks = manifest.get("hackathons", [])
+    if not hacks:
+        sys.exit("ERROR: no hackathons in data/hackathons.json")
+
+    targets = [h for h in hacks if h["slug"] == HACKATHON_SLUG] if HACKATHON_SLUG else hacks
+    if HACKATHON_SLUG and not targets:
+        sys.exit(f"ERROR: no hackathon with slug '{HACKATHON_SLUG}' in manifest.")
+
+    print(f"Scraping {len(targets)} hackathon(s). Proxy pool size: {len(PROXIES)}.")
+    for cfg in targets:
+        out = process_hackathon(cfg)
+        # update manifest entry
+        for i, h in enumerate(manifest["hackathons"]):
+            if h["slug"] == cfg["slug"]:
+                manifest["hackathons"][i]["count"] = out["count"]
+                manifest["hackathons"][i]["generated_at"] = out["generated_at"]
+        save_manifest(manifest)
+        print(f"  manifest updated: {cfg['slug']} -> {out['count']} projects")
 
 
 if __name__ == "__main__":
