@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-24T10:37:20.794038+00:00",
-  "count": 725,
+  "generated_at": "2026-07-24T20:53:48.822166+00:00",
+  "count": 2476,
   "labels": {
     "gosu-go-trainer": {
       "category": "Education",
@@ -2902,6 +2902,7010 @@
     "claim-punch": {
       "category": "Apps for Your Life",
       "confidence": 90
+    },
+    "ai-powered-smart-elderly-care-hardware": {
+      "category": "Apps for Your Life",
+      "confidence": 90
+    },
+    "tuntas-ai-strategy-execution-intelligence": {
+      "category": "Work & Productivity",
+      "confidence": 88
+    },
+    "humankey": {
+      "category": "Developer Tools",
+      "confidence": 92
+    },
+    "agentveil": {
+      "category": "Developer Tools",
+      "confidence": 92
+    },
+    "lifeos-z3hf1u": {
+      "category": "Apps for Your Life",
+      "confidence": 90
+    },
+    "verity-cordon": {
+      "category": "Developer Tools",
+      "confidence": 55
+    },
+    "wide-lens-engineering": {
+      "category": "Developer Tools",
+      "confidence": 90
+    },
+    "audiotranscription-studio-proof-carrying-quotes": {
+      "category": "Work & Productivity",
+      "confidence": 70
+    },
+    "api-builder-az6i28": {
+      "category": "Developer Tools",
+      "confidence": 92
+    },
+    "sage-o41k3w": {
+      "category": "Education",
+      "confidence": 68
+    },
+    "psicopompo": {
+      "category": "Apps for Your Life",
+      "confidence": 72
+    },
+    "proofdama-certifying-italian-checkers": {
+      "category": "Work & Productivity",
+      "confidence": 62
+    },
+    "medipok": {
+      "category": "Education",
+      "confidence": 92
+    },
+    "opencode-superapp": {
+      "category": "Developer Tools",
+      "confidence": 92
+    },
+    "healthview-os-0tqo79": {
+      "category": "Apps for Your Life",
+      "confidence": 90
+    },
+    "arc-3kf09o": {
+      "category": "Developer Tools",
+      "confidence": 90
+    },
+    "aix-proof-first": {
+      "category": "Apps for Your Life",
+      "confidence": 60
+    },
+    "clash-of-beams": {
+      "category": "Apps for Your Life",
+      "confidence": 92
+    },
+    "refindi-find-it-back": {
+      "category": "Apps for Your Life",
+      "confidence": 90
+    },
+    "placeforge": {
+      "category": "Apps for Your Life",
+      "confidence": 62
+    },
+    "thrift-the-look": {
+      "category": "Apps for Your Life",
+      "confidence": 88
+    },
+    "puppytrail": {
+      "category": "Apps for Your Life",
+      "confidence": 92
+    },
+    "ledgerguard-yc1isj": {
+      "category": "Work & Productivity",
+      "confidence": 90
+    },
+    "lazarus-a6rt4q": {
+      "category": "Developer Tools",
+      "confidence": 85
+    },
+    "matkaios-master-map": {
+      "category": "Developer Tools",
+      "confidence": 72
+    },
+    "confia": {
+      "category": "Apps for Your Life",
+      "confidence": 90
+    },
+    "fieldpact": {
+      "category": "Work & Productivity",
+      "confidence": 88
+    },
+    "keyframe-vedz54": {
+      "category": "Developer Tools",
+      "confidence": 90
+    },
+    "calendar-clock": {
+      "category": "Apps for Your Life",
+      "confidence": 80
+    },
+    "fedpulse-federal-pursuit-intelligence": {
+      "category": "Work & Productivity",
+      "confidence": 90
+    },
+    "release-assurance": {
+      "category": "Developer Tools",
+      "confidence": 85
+    },
+    "soundchek": {
+      "category": "Apps for Your Life",
+      "confidence": 92
+    },
+    "ping-ai-an-ai-social-coordination-agent": {
+      "category": "Apps for Your Life",
+      "confidence": 90
+    },
+    "chatprune": {
+      "category": "Apps for Your Life",
+      "confidence": 80
+    },
+    "nearnet-e3nm9v": {
+      "category": "Apps for Your Life",
+      "confidence": 85
+    },
+    "coskill": {
+      "category": "Work & Productivity",
+      "confidence": 82
+    },
+    "health-tracker-4hmko6": {
+      "category": "Apps for Your Life",
+      "confidence": 92
+    },
+    "meowzie-s-cafe": {
+      "category": "Apps for Your Life",
+      "confidence": 62
+    },
+    "angels-board": {
+      "category": "Developer Tools",
+      "confidence": 92
+    },
+    "tinghao-gpt-agent": {
+      "category": "Work & Productivity",
+      "confidence": 88
+    },
+    "skooldrive": {
+      "category": "Work & Productivity",
+      "confidence": 75
+    },
+    "cashletics-ai-coach-piggyrun": {
+      "category": "Apps for Your Life",
+      "confidence": 90
+    },
+    "talentklar": {
+      "category": "Work & Productivity",
+      "confidence": 90
+    },
+    "lawnsnowapp-taking-lsa-to-launch": {
+      "category": "Work & Productivity",
+      "confidence": 90
+    },
+    "realbim": {
+      "category": "Work & Productivity",
+      "confidence": 90
+    },
+    "subtitles-translator": {
+      "category": "Apps for Your Life",
+      "confidence": 75
+    },
+    "retriever-2v7ai8": {
+      "category": "Apps for Your Life",
+      "confidence": 82
+    },
+    "velocity-6r1a79": {
+      "category": "Apps for Your Life",
+      "confidence": 85
+    },
+    "afterpaper": {
+      "category": "Work & Productivity",
+      "confidence": 78
+    },
+    "mise-ai": {
+      "category": "Work & Productivity",
+      "confidence": 90
+    },
+    "chq-qefsuj": {
+      "category": "Work & Productivity",
+      "confidence": 72
+    },
+    "weekform": {
+      "category": "Apps for Your Life",
+      "confidence": 62
+    },
+    "yomama-rb7t1m": {
+      "category": "Apps for Your Life",
+      "confidence": 85
+    },
+    "fitareeaee-gpt-5-6-ride-delivery-planner": {
+      "category": "Apps for Your Life",
+      "confidence": 90
+    },
+    "researchpilotai": {
+      "category": "Work & Productivity",
+      "confidence": 75
+    },
+    "trust-before-ship": {
+      "category": "Developer Tools",
+      "confidence": 85
+    },
+    "151-massa": {
+      "category": "Apps for Your Life",
+      "confidence": 90
+    },
+    "the-after": {
+      "category": "Apps for Your Life",
+      "confidence": 90
+    },
+    "moneki-ai-operations-copilot-for-retail-hospitality": {
+      "category": "Work & Productivity",
+      "confidence": 90
+    },
+    "babydollai": {
+      "category": "Work & Productivity",
+      "confidence": 72
+    },
+    "genphd-decision-intelligence-for-ai-engineers": {
+      "category": "Developer Tools",
+      "confidence": 75
+    },
+    "biasharasauti-ai-business-assistant-for-african-smes": {
+      "category": "Work & Productivity",
+      "confidence": 85
+    },
+    "know-memory-system": {
+      "category": "Developer Tools",
+      "confidence": 90
+    },
+    "quantforge-ai": {
+      "category": "Work & Productivity",
+      "confidence": 70
+    },
+    "packet-sage": {
+      "category": "Work & Productivity",
+      "confidence": 85
+    },
+    "k12learn2gether": {
+      "category": "Education",
+      "confidence": 90
+    },
+    "portfolia-49zu5k": {
+      "category": "Apps for Your Life",
+      "confidence": 70
+    },
+    "aeropulse-tkaz86": {
+      "category": "Apps for Your Life",
+      "confidence": 90
+    },
+    "progeneda": {
+      "category": "Work & Productivity",
+      "confidence": 65
+    },
+    "labspace-ai": {
+      "category": "Work & Productivity",
+      "confidence": 90
+    },
+    "mosaic-9owj24": {
+      "category": "Developer Tools",
+      "confidence": 95
+    },
+    "frontend-editor": {
+      "category": "Apps for Your Life",
+      "confidence": 60
+    },
+    "interview-shadow-ai": {
+      "category": "Education",
+      "confidence": 75
+    },
+    "goobox": {
+      "category": "Work & Productivity",
+      "confidence": 90
+    },
+    "live-signals-app": {
+      "category": "Work & Productivity",
+      "confidence": 70
+    },
+    "terminuz": {
+      "category": "Developer Tools",
+      "confidence": 95
+    },
+    "mission-brief-ai-operational-intelligence-for-field-workers": {
+      "category": "Work & Productivity",
+      "confidence": 90
+    },
+    "career-mutual": {
+      "category": "Work & Productivity",
+      "confidence": 90
+    },
+    "mineready-ai-co-project-manager-for-mineral-projects": {
+      "category": "Work & Productivity",
+      "confidence": 95
+    },
+    "boundary-ai-that-asks-before-it-acts": {
+      "category": "Developer Tools",
+      "confidence": 65
+    },
+    "talki-kids-aac": {
+      "category": "Apps for Your Life",
+      "confidence": 95
+    },
+    "codex-triggers": {
+      "category": "Developer Tools",
+      "confidence": 90
+    },
+    "blindfold-equvb7": {
+      "category": "Developer Tools",
+      "confidence": 95
+    },
+    "dobre": {
+      "category": "Work & Productivity",
+      "confidence": 90
+    },
+    "spacehole": {
+      "category": "Education",
+      "confidence": 92
+    },
+    "studyscroll-hnwl3q": {
+      "category": "Education",
+      "confidence": 88
+    },
+    "nonstandard-conditions": {
+      "category": "Education",
+      "confidence": 93
+    },
+    "smartcited": {
+      "category": "Work & Productivity",
+      "confidence": 90
+    },
+    "project-green-thumb-doa97t": {
+      "category": "Apps for Your Life",
+      "confidence": 85
+    },
+    "scout-interview-pattern": {
+      "category": "Work & Productivity",
+      "confidence": 90
+    },
+    "production-order-approval-workflow": {
+      "category": "Work & Productivity",
+      "confidence": 95
+    },
+    "jplearn": {
+      "category": "Education",
+      "confidence": 95
+    },
+    "packagent": {
+      "category": "Work & Productivity",
+      "confidence": 85
+    },
+    "redflame-decision-ci": {
+      "category": "Work & Productivity",
+      "confidence": 95
+    },
+    "forgemind-os": {
+      "category": "Developer Tools",
+      "confidence": 85
+    },
+    "tenten-search-inspector-botscore": {
+      "category": "Work & Productivity",
+      "confidence": 90
+    },
+    "be-heard-fh543o": {
+      "category": "Apps for Your Life",
+      "confidence": 95
+    },
+    "skye-cove-memoryos-lite": {
+      "category": "Apps for Your Life",
+      "confidence": 70
+    },
+    "neverlost-the-full-human-pathway": {
+      "category": "Apps for Your Life",
+      "confidence": 92
+    },
+    "neverlost-capacity-aware-publishing-workflow": {
+      "category": "Apps for Your Life",
+      "confidence": 88
+    },
+    "ai-assignment-check": {
+      "category": "Apps for Your Life",
+      "confidence": 60
+    },
+    "tamalife-3xmwht": {
+      "category": "Apps for Your Life",
+      "confidence": 90
+    },
+    "autocode-for-codex": {
+      "category": "Developer Tools",
+      "confidence": 95
+    },
+    "test-wqpvsb": {
+      "category": "Developer Tools",
+      "confidence": 95
+    },
+    "leadsheet-817pqs": {
+      "category": "Apps for Your Life",
+      "confidence": 90
+    },
+    "continuum-ma3e51": {
+      "category": "Developer Tools",
+      "confidence": 90
+    },
+    "be-fake": {
+      "category": "Apps for Your Life",
+      "confidence": 92
+    },
+    "migrateos": {
+      "category": "Developer Tools",
+      "confidence": 95
+    },
+    "zyron-multi-agent-ai-swarm-for-android": {
+      "category": "Apps for Your Life",
+      "confidence": 88
+    },
+    "startam": {
+      "category": "Apps for Your Life",
+      "confidence": 90
+    },
+    "genesis-jy1fx3": {
+      "category": "Apps for Your Life",
+      "confidence": 80
+    },
+    "visual-debt-avalanche": {
+      "category": "Apps for Your Life",
+      "confidence": 92
+    },
+    "pretext-studio": {
+      "category": "Apps for Your Life",
+      "confidence": 78
+    },
+    "graphify-hrvoua": {
+      "category": "Developer Tools",
+      "confidence": 95
+    },
+    "packedin": {
+      "category": "Developer Tools",
+      "confidence": 90
+    },
+    "7linksf": {
+      "category": "Apps for Your Life",
+      "confidence": 90
+    },
+    "g-d": {
+      "category": "Education",
+      "confidence": 92
+    },
+    "tomato-clip-ptrn0o": {
+      "category": "Apps for Your Life",
+      "confidence": 90
+    },
+    "eloquend": {
+      "category": "Work & Productivity",
+      "confidence": 82
+    },
+    "george-ledger-1-banknote-collection-tracker": {
+      "category": "Apps for Your Life",
+      "confidence": 92
+    },
+    "genkanai": {
+      "category": "Apps for Your Life",
+      "confidence": 90
+    },
+    "classbridge-ai": {
+      "category": "Education",
+      "confidence": 95
+    },
+    "loxora": {
+      "category": "Developer Tools",
+      "confidence": 90
+    },
+    "melo-curriculum-intelligence": {
+      "category": "Education",
+      "confidence": 95
+    },
+    "external-brain-system-ebs": {
+      "category": "Work & Productivity",
+      "confidence": 75
+    },
+    "teachueasy": {
+      "category": "Education",
+      "confidence": 95
+    },
+    "olympusledger": {
+      "category": "Work & Productivity",
+      "confidence": 70
+    },
+    "pocketplan": {
+      "category": "Apps for Your Life",
+      "confidence": 95
+    },
+    "codex-benchmark-guardian": {
+      "category": "Developer Tools",
+      "confidence": 98
+    },
+    "revnest-ai": {
+      "category": "Work & Productivity",
+      "confidence": 90
+    },
+    "realtornet": {
+      "category": "Work & Productivity",
+      "confidence": 70
+    },
+    "owlmusic": {
+      "category": "Apps for Your Life",
+      "confidence": 95
+    },
+    "beegreat": {
+      "category": "Apps for Your Life",
+      "confidence": 85
+    },
+    "vibe-runner": {
+      "category": "Developer Tools",
+      "confidence": 75
+    },
+    "otthonsegitok-ai-careflow": {
+      "category": "Apps for Your Life",
+      "confidence": 85
+    },
+    "backlog-smith": {
+      "category": "Developer Tools",
+      "confidence": 95
+    },
+    "pacti": {
+      "category": "Work & Productivity",
+      "confidence": 75
+    },
+    "aqai-autonomous-quality-assurance-intelligence": {
+      "category": "Developer Tools",
+      "confidence": 95
+    },
+    "bughunter-ai": {
+      "category": "Developer Tools",
+      "confidence": 98
+    },
+    "prd0-ai": {
+      "category": "Developer Tools",
+      "confidence": 92
+    },
+    "puls-your-personal-ai-mechanic": {
+      "category": "Apps for Your Life",
+      "confidence": 90
+    },
+    "ai-school-tutor": {
+      "category": "Education",
+      "confidence": 95
+    },
+    "researchkit": {
+      "category": "Work & Productivity",
+      "confidence": 78
+    },
+    "skillskit": {
+      "category": "Developer Tools",
+      "confidence": 95
+    },
+    "brainkit-hgifms": {
+      "category": "Developer Tools",
+      "confidence": 75
+    },
+    "analyst-copilot": {
+      "category": "Work & Productivity",
+      "confidence": 90
+    },
+    "nothing-more": {
+      "category": "Apps for Your Life",
+      "confidence": 85
+    },
+    "maya-care": {
+      "category": "Apps for Your Life",
+      "confidence": 95
+    },
+    "questlearn-rvdau2": {
+      "category": "Education",
+      "confidence": 90
+    },
+    "studiolite": {
+      "category": "Apps for Your Life",
+      "confidence": 90
+    },
+    "signalcut": {
+      "category": "Developer Tools",
+      "confidence": 72
+    },
+    "project-slash-50": {
+      "category": "Work & Productivity",
+      "confidence": 85
+    },
+    "prompt-ui-academy": {
+      "category": "Education",
+      "confidence": 95
+    },
+    "cattleos": {
+      "category": "Work & Productivity",
+      "confidence": 72
+    },
+    "vanta-study": {
+      "category": "Education",
+      "confidence": 95
+    },
+    "onhand": {
+      "category": "Education",
+      "confidence": 90
+    },
+    "reapp-5r8eyi": {
+      "category": "Apps for Your Life",
+      "confidence": 85
+    },
+    "photomaster": {
+      "category": "Apps for Your Life",
+      "confidence": 95
+    },
+    "open-clank": {
+      "category": "Apps for Your Life",
+      "confidence": 45
+    },
+    "realdoor": {
+      "category": "Apps for Your Life",
+      "confidence": 90
+    },
+    "llmfuzz-red-team": {
+      "category": "Developer Tools",
+      "confidence": 95
+    },
+    "runpulse": {
+      "category": "Work & Productivity",
+      "confidence": 80
+    },
+    "onedish": {
+      "category": "Apps for Your Life",
+      "confidence": 95
+    },
+    "alimentacion-inteligente-ai": {
+      "category": "Apps for Your Life",
+      "confidence": 90
+    },
+    "breakai": {
+      "category": "Education",
+      "confidence": 95
+    },
+    "podo": {
+      "category": "Developer Tools",
+      "confidence": 85
+    },
+    "ocr-model-local-document-intelligence": {
+      "category": "Developer Tools",
+      "confidence": 70
+    },
+    "tower-qe8hut": {
+      "category": "Developer Tools",
+      "confidence": 95
+    },
+    "knowledge-bloom": {
+      "category": "Education",
+      "confidence": 95
+    },
+    "csharp-compiler": {
+      "category": "Developer Tools",
+      "confidence": 85
+    },
+    "parallax-u9optj": {
+      "category": "Developer Tools",
+      "confidence": 95
+    },
+    "a-e5yvda": {
+      "category": "Apps for Your Life",
+      "confidence": 95
+    },
+    "funnelit": {
+      "category": "Developer Tools",
+      "confidence": 95
+    },
+    "nebulaflow": {
+      "category": "Developer Tools",
+      "confidence": 95
+    },
+    "yobo-the-stir-robo": {
+      "category": "Apps for Your Life",
+      "confidence": 90
+    },
+    "swar-qdexr1": {
+      "category": "Apps for Your Life",
+      "confidence": 95
+    },
+    "memory-pr": {
+      "category": "Developer Tools",
+      "confidence": 95
+    },
+    "reelbrain": {
+      "category": "Apps for Your Life",
+      "confidence": 80
+    },
+    "tomok": {
+      "category": "Work & Productivity",
+      "confidence": 95
+    },
+    "dredgeoriongateway": {
+      "category": "Developer Tools",
+      "confidence": 95
+    },
+    "agentic-workflows-for-codex": {
+      "category": "Developer Tools",
+      "confidence": 95
+    },
+    "pocket-flow": {
+      "category": "Developer Tools",
+      "confidence": 90
+    },
+    "liaison-wcip1k": {
+      "category": "Work & Productivity",
+      "confidence": 88
+    },
+    "thred": {
+      "category": "Work & Productivity",
+      "confidence": 90
+    },
+    "vascucase-ai": {
+      "category": "Education",
+      "confidence": 98
+    },
+    "pikadecks": {
+      "category": "Education",
+      "confidence": 95
+    },
+    "sagot-sa-bukid": {
+      "category": "Apps for Your Life",
+      "confidence": 90
+    },
+    "screen-remote-for-android": {
+      "category": "Developer Tools",
+      "confidence": 80
+    },
+    "raonson": {
+      "category": "Apps for Your Life",
+      "confidence": 95
+    },
+    "catalyst-studio": {
+      "category": "Education",
+      "confidence": 95
+    },
+    "dawaisaathi": {
+      "category": "Apps for Your Life",
+      "confidence": 95
+    },
+    "philradar": {
+      "category": "Apps for Your Life",
+      "confidence": 92
+    },
+    "tutorlab": {
+      "category": "Education",
+      "confidence": 92
+    },
+    "cuttle": {
+      "category": "Developer Tools",
+      "confidence": 95
+    },
+    "today-lens": {
+      "category": "Apps for Your Life",
+      "confidence": 90
+    },
+    "helm-zahdgy": {
+      "category": "Work & Productivity",
+      "confidence": 80
+    },
+    "coders-1ypvqd": {
+      "category": "Work & Productivity",
+      "confidence": 92
+    },
+    "william-emotion-first-personal-growth-os": {
+      "category": "Apps for Your Life",
+      "confidence": 95
+    },
+    "in-the-moment-ey2di5": {
+      "category": "Apps for Your Life",
+      "confidence": 92
+    },
+    "classtrace": {
+      "category": "Education",
+      "confidence": 95
+    },
+    "lda-private-legal-ai-workspace": {
+      "category": "Work & Productivity",
+      "confidence": 95
+    },
+    "shiftrelay": {
+      "category": "Work & Productivity",
+      "confidence": 95
+    },
+    "leaklens-control-room": {
+      "category": "Work & Productivity",
+      "confidence": 95
+    },
+    "rootlender": {
+      "category": "Apps for Your Life",
+      "confidence": 85
+    },
+    "counterfactual-portfolio-x-ray": {
+      "category": "Apps for Your Life",
+      "confidence": 90
+    },
+    "diff-forge-ai": {
+      "category": "Developer Tools",
+      "confidence": 98
+    },
+    "image-classifier-nka64j": {
+      "category": "Apps for Your Life",
+      "confidence": 80
+    },
+    "plateswap": {
+      "category": "Apps for Your Life",
+      "confidence": 98
+    },
+    "glimmerhop": {
+      "category": "Apps for Your Life",
+      "confidence": 99
+    },
+    "timetrack-s04myt": {
+      "category": "Apps for Your Life",
+      "confidence": 90
+    },
+    "omnichat-mczyv9": {
+      "category": "Developer Tools",
+      "confidence": 75
+    },
+    "merchantpilot": {
+      "category": "Work & Productivity",
+      "confidence": 97
+    },
+    "pocketpet-finance": {
+      "category": "Apps for Your Life",
+      "confidence": 95
+    },
+    "omb-operational-master-brain": {
+      "category": "Work & Productivity",
+      "confidence": 97
+    },
+    "novaeducation": {
+      "category": "Education",
+      "confidence": 98
+    },
+    "lexaflow-ai": {
+      "category": "Work & Productivity",
+      "confidence": 95
+    },
+    "neurally": {
+      "category": "Education",
+      "confidence": 97
+    },
+    "localgist": {
+      "category": "Apps for Your Life",
+      "confidence": 80
+    },
+    "task-monki": {
+      "category": "Developer Tools",
+      "confidence": 98
+    },
+    "econ-m0gbfc": {
+      "category": "Work & Productivity",
+      "confidence": 92
+    },
+    "groundline": {
+      "category": "Work & Productivity",
+      "confidence": 85
+    },
+    "alpha-omega": {
+      "category": "Developer Tools",
+      "confidence": 78
+    },
+    "la-linterna": {
+      "category": "Apps for Your Life",
+      "confidence": 88
+    },
+    "real-rpg-project": {
+      "category": "Apps for Your Life",
+      "confidence": 95
+    },
+    "agentpay-agents-that-pay": {
+      "category": "Apps for Your Life",
+      "confidence": 90
+    },
+    "arc-coaching-for-the-long-run": {
+      "category": "Apps for Your Life",
+      "confidence": 95
+    },
+    "runtime-hex-nobody-owns-the-signal": {
+      "category": "Apps for Your Life",
+      "confidence": 95
+    },
+    "spatialmind-z4fw9r": {
+      "category": "Apps for Your Life",
+      "confidence": 90
+    },
+    "cortex-tv": {
+      "category": "Apps for Your Life",
+      "confidence": 90
+    },
+    "the-second-gate": {
+      "category": "Work & Productivity",
+      "confidence": 85
+    },
+    "travlr-ai": {
+      "category": "Apps for Your Life",
+      "confidence": 95
+    },
+    "themeforge": {
+      "category": "Work & Productivity",
+      "confidence": 85
+    },
+    "reprobot": {
+      "category": "Developer Tools",
+      "confidence": 95
+    },
+    "cairn-pet-contract-lab": {
+      "category": "Developer Tools",
+      "confidence": 95
+    },
+    "aicompliance-buildweek": {
+      "category": "Work & Productivity",
+      "confidence": 95
+    },
+    "tutori": {
+      "category": "Education",
+      "confidence": 95
+    },
+    "logfound": {
+      "category": "Work & Productivity",
+      "confidence": 88
+    },
+    "codearbiter-c59puo": {
+      "category": "Developer Tools",
+      "confidence": 95
+    },
+    "stagebridge-ai": {
+      "category": "Developer Tools",
+      "confidence": 85
+    },
+    "campushub-nrq1wo": {
+      "category": "Apps for Your Life",
+      "confidence": 78
+    },
+    "formicai": {
+      "category": "Apps for Your Life",
+      "confidence": 65
+    },
+    "neo-trace": {
+      "category": "Developer Tools",
+      "confidence": 60
+    },
+    "save-papers": {
+      "category": "Work & Productivity",
+      "confidence": 85
+    },
+    "meaning-sync": {
+      "category": "Work & Productivity",
+      "confidence": 65
+    },
+    "khandaan-amanat": {
+      "category": "Apps for Your Life",
+      "confidence": 85
+    },
+    "savorsight": {
+      "category": "Apps for Your Life",
+      "confidence": 90
+    },
+    "murmur-ae62q1": {
+      "category": "Developer Tools",
+      "confidence": 95
+    },
+    "sknow": {
+      "category": "Apps for Your Life",
+      "confidence": 60
+    },
+    "orkestra-gcau5i": {
+      "category": "Developer Tools",
+      "confidence": 90
+    },
+    "ai-agent-firewall": {
+      "category": "Developer Tools",
+      "confidence": 95
+    },
+    "messia": {
+      "category": "Work & Productivity",
+      "confidence": 55
+    },
+    "papertrail-receipts": {
+      "category": "Apps for Your Life",
+      "confidence": 90
+    },
+    "ghidul-tau-usvt-ai-student-guide": {
+      "category": "Education",
+      "confidence": 90
+    },
+    "prompt-inspector": {
+      "category": "Developer Tools",
+      "confidence": 90
+    },
+    "noodl-6dg8jw": {
+      "category": "Education",
+      "confidence": 90
+    },
+    "taakad-check-scams-and-misinformation": {
+      "category": "Apps for Your Life",
+      "confidence": 80
+    },
+    "the-autonomous-journalist": {
+      "category": "Work & Productivity",
+      "confidence": 85
+    },
+    "ai-governance-o0b1zc": {
+      "category": "Work & Productivity",
+      "confidence": 90
+    },
+    "rolig": {
+      "category": "Apps for Your Life",
+      "confidence": 95
+    },
+    "enterprise-ai-security-red-teaming-platform": {
+      "category": "Work & Productivity",
+      "confidence": 75
+    },
+    "fitness-strategy-ai": {
+      "category": "Apps for Your Life",
+      "confidence": 70
+    },
+    "daily-planner-9kw6y7": {
+      "category": "Apps for Your Life",
+      "confidence": 92
+    },
+    "ambiguity-compiler-vxnhtu": {
+      "category": "Developer Tools",
+      "confidence": 93
+    },
+    "lifekalogic": {
+      "category": "Apps for Your Life",
+      "confidence": 92
+    },
+    "comradeiq": {
+      "category": "Apps for Your Life",
+      "confidence": 52
+    },
+    "datastack-one": {
+      "category": "Developer Tools",
+      "confidence": 60
+    },
+    "foldlens": {
+      "category": "Work & Productivity",
+      "confidence": 82
+    },
+    "scholarpanel": {
+      "category": "Education",
+      "confidence": 93
+    },
+    "riskseer": {
+      "category": "Work & Productivity",
+      "confidence": 72
+    },
+    "navios-memory-reflex": {
+      "category": "Developer Tools",
+      "confidence": 92
+    },
+    "zipzip": {
+      "category": "Developer Tools",
+      "confidence": 93
+    },
+    "parlerchine": {
+      "category": "Education",
+      "confidence": 94
+    },
+    "now-75us2x": {
+      "category": "Apps for Your Life",
+      "confidence": 92
+    },
+    "ai-second-brain": {
+      "category": "Developer Tools",
+      "confidence": 86
+    },
+    "skillspring-quantum": {
+      "category": "Apps for Your Life",
+      "confidence": 66
+    },
+    "sinkhole": {
+      "category": "Apps for Your Life",
+      "confidence": 86
+    },
+    "hiri-passport": {
+      "category": "Apps for Your Life",
+      "confidence": 72
+    },
+    "muse-the-impossible-museum-7cs5hv": {
+      "category": "Education",
+      "confidence": 94
+    },
+    "teenarc": {
+      "category": "Education",
+      "confidence": 94
+    },
+    "owatime": {
+      "category": "Apps for Your Life",
+      "confidence": 92
+    },
+    "comictutor": {
+      "category": "Education",
+      "confidence": 92
+    },
+    "edurashi": {
+      "category": "Education",
+      "confidence": 95
+    },
+    "oceania-venus": {
+      "category": "Apps for Your Life",
+      "confidence": 80
+    },
+    "learnsol": {
+      "category": "Education",
+      "confidence": 90
+    },
+    "loop-engineer": {
+      "category": "Education",
+      "confidence": 82
+    },
+    "open-bluetooth-printer": {
+      "category": "Apps for Your Life",
+      "confidence": 72
+    },
+    "ai-quantdesk-for-retail": {
+      "category": "Apps for Your Life",
+      "confidence": 84
+    },
+    "qfleet-quantitative-ai-harness-for-financial-intelligence": {
+      "category": "Work & Productivity",
+      "confidence": 90
+    },
+    "cybieverse": {
+      "category": "Apps for Your Life",
+      "confidence": 88
+    },
+    "budget-tracking-bot": {
+      "category": "Apps for Your Life",
+      "confidence": 90
+    },
+    "canadianbanknews-ai": {
+      "category": "Apps for Your Life",
+      "confidence": 86
+    },
+    "briefloop": {
+      "category": "Work & Productivity",
+      "confidence": 90
+    },
+    "aigov-human-governed-gdpr-audits": {
+      "category": "Work & Productivity",
+      "confidence": 88
+    },
+    "pea-pilot": {
+      "category": "Apps for Your Life",
+      "confidence": 88
+    },
+    "strategic-planner": {
+      "category": "Work & Productivity",
+      "confidence": 78
+    },
+    "stink-radar": {
+      "category": "Apps for Your Life",
+      "confidence": 90
+    },
+    "test-6eyjkg": {
+      "category": "Work & Productivity",
+      "confidence": 90
+    },
+    "nova-the-optimal-ai-mind": {
+      "category": "Developer Tools",
+      "confidence": 62
+    },
+    "real-time-hospital-intelligence-platform": {
+      "category": "Work & Productivity",
+      "confidence": 90
+    },
+    "zipity": {
+      "category": "Education",
+      "confidence": 90
+    },
+    "codeshell": {
+      "category": "Apps for Your Life",
+      "confidence": 80
+    },
+    "stateside": {
+      "category": "Apps for Your Life",
+      "confidence": 80
+    },
+    "nearbridge": {
+      "category": "Apps for Your Life",
+      "confidence": 65
+    },
+    "signalos": {
+      "category": "Apps for Your Life",
+      "confidence": 70
+    },
+    "lfa": {
+      "category": "Education",
+      "confidence": 95
+    },
+    "artline-t3zd56": {
+      "category": "Apps for Your Life",
+      "confidence": 40
+    },
+    "hyperswitcher": {
+      "category": "Apps for Your Life",
+      "confidence": 75
+    },
+    "bidpilot-ai": {
+      "category": "Work & Productivity",
+      "confidence": 90
+    },
+    "cruvio-find-your-crew": {
+      "category": "Apps for Your Life",
+      "confidence": 85
+    },
+    "ai-neural-scientist": {
+      "category": "Education",
+      "confidence": 95
+    },
+    "fluxosoprts": {
+      "category": "Apps for Your Life",
+      "confidence": 75
+    },
+    "metaltranslate-ctranslate2-unleashed-on-apple-silicon": {
+      "category": "Developer Tools",
+      "confidence": 90
+    },
+    "tcg-haven-portfolio": {
+      "category": "Work & Productivity",
+      "confidence": 85
+    },
+    "tcgdelta": {
+      "category": "Apps for Your Life",
+      "confidence": 75
+    },
+    "febgrid": {
+      "category": "Work & Productivity",
+      "confidence": 90
+    },
+    "project-foreman": {
+      "category": "Work & Productivity",
+      "confidence": 70
+    },
+    "reclaim-us1hvb": {
+      "category": "Work & Productivity",
+      "confidence": 80
+    },
+    "agentshield-ai-security-scanner": {
+      "category": "Developer Tools",
+      "confidence": 85
+    },
+    "finance-tracker-u3k85n": {
+      "category": "Apps for Your Life",
+      "confidence": 90
+    },
+    "ai-shrine": {
+      "category": "Apps for Your Life",
+      "confidence": 90
+    },
+    "the-personal-daily": {
+      "category": "Apps for Your Life",
+      "confidence": 85
+    },
+    "athena-an-ai-operating-system-for-founders": {
+      "category": "Work & Productivity",
+      "confidence": 85
+    },
+    "tokenguard-pcli5a": {
+      "category": "Developer Tools",
+      "confidence": 90
+    },
+    "promptdoc-lioycm": {
+      "category": "Apps for Your Life",
+      "confidence": 85
+    },
+    "sol-lens": {
+      "category": "Developer Tools",
+      "confidence": 90
+    },
+    "insight-ai-operations-engine": {
+      "category": "Work & Productivity",
+      "confidence": 90
+    },
+    "re5-academy": {
+      "category": "Education",
+      "confidence": 95
+    },
+    "future-board-and-ran-data-viewer": {
+      "category": "Work & Productivity",
+      "confidence": 90
+    },
+    "wattproof-xtw6ib": {
+      "category": "Apps for Your Life",
+      "confidence": 90
+    },
+    "solarpro": {
+      "category": "Work & Productivity",
+      "confidence": 80
+    },
+    "modelfit": {
+      "category": "Developer Tools",
+      "confidence": 85
+    },
+    "codecartographer": {
+      "category": "Developer Tools",
+      "confidence": 95
+    },
+    "redline-xz5lr1": {
+      "category": "Work & Productivity",
+      "confidence": 80
+    },
+    "presence-msfywn": {
+      "category": "Apps for Your Life",
+      "confidence": 85
+    },
+    "codex-proofstack": {
+      "category": "Developer Tools",
+      "confidence": 95
+    },
+    "browseattune": {
+      "category": "Apps for Your Life",
+      "confidence": 85
+    },
+    "scalps": {
+      "category": "Developer Tools",
+      "confidence": 95
+    },
+    "opens2p": {
+      "category": "Work & Productivity",
+      "confidence": 95
+    },
+    "salesy-ai-sales-brain": {
+      "category": "Work & Productivity",
+      "confidence": 95
+    },
+    "jargonaut-p7jdg5": {
+      "category": "Apps for Your Life",
+      "confidence": 70
+    },
+    "timekeeper-app": {
+      "category": "Work & Productivity",
+      "confidence": 85
+    },
+    "venture-os": {
+      "category": "Work & Productivity",
+      "confidence": 85
+    },
+    "proofpack-release-gate": {
+      "category": "Work & Productivity",
+      "confidence": 70
+    },
+    "never-stop-ting": {
+      "category": "Apps for Your Life",
+      "confidence": 65
+    },
+    "skillsforge-8b53qc": {
+      "category": "Developer Tools",
+      "confidence": 90
+    },
+    "content-curator-for-youtube-a-no-cost-hybrid-ai-app": {
+      "category": "Work & Productivity",
+      "confidence": 70
+    },
+    "serpentguard": {
+      "category": "Work & Productivity",
+      "confidence": 60
+    },
+    "gpx-animator": {
+      "category": "Apps for Your Life",
+      "confidence": 85
+    },
+    "meshalive": {
+      "category": "Apps for Your Life",
+      "confidence": 60
+    },
+    "surebook": {
+      "category": "Work & Productivity",
+      "confidence": 90
+    },
+    "heymom-xpnq6a": {
+      "category": "Apps for Your Life",
+      "confidence": 85
+    },
+    "genc-flow": {
+      "category": "Developer Tools",
+      "confidence": 90
+    },
+    "tracematter": {
+      "category": "Work & Productivity",
+      "confidence": 55
+    },
+    "codex-frontier": {
+      "category": "Developer Tools",
+      "confidence": 50
+    },
+    "feature-saga": {
+      "category": "Developer Tools",
+      "confidence": 90
+    },
+    "monitor-supply": {
+      "category": "Apps for Your Life",
+      "confidence": 75
+    },
+    "the-next-big-thing": {
+      "category": "Developer Tools",
+      "confidence": 90
+    },
+    "decispec": {
+      "category": "Work & Productivity",
+      "confidence": 55
+    },
+    "myconstituency": {
+      "category": "Apps for Your Life",
+      "confidence": 75
+    },
+    "convointel": {
+      "category": "Developer Tools",
+      "confidence": 85
+    },
+    "skinsense-fn82lk": {
+      "category": "Apps for Your Life",
+      "confidence": 95
+    },
+    "liveops": {
+      "category": "Education",
+      "confidence": 90
+    },
+    "o2n-engine": {
+      "category": "Developer Tools",
+      "confidence": 95
+    },
+    "pinapeg": {
+      "category": "Apps for Your Life",
+      "confidence": 90
+    },
+    "rolestab": {
+      "category": "Developer Tools",
+      "confidence": 95
+    },
+    "orqetra-the-execution-os-for-ai": {
+      "category": "Work & Productivity",
+      "confidence": 75
+    },
+    "notdecided-6oh4uc": {
+      "category": "Education",
+      "confidence": 95
+    },
+    "viper-oq4xn3": {
+      "category": "Developer Tools",
+      "confidence": 95
+    },
+    "future-life-simulator": {
+      "category": "Apps for Your Life",
+      "confidence": 95
+    },
+    "weavidence-journey": {
+      "category": "Work & Productivity",
+      "confidence": 90
+    },
+    "land-human-os": {
+      "category": "Apps for Your Life",
+      "confidence": 95
+    },
+    "ai-software-team": {
+      "category": "Developer Tools",
+      "confidence": 95
+    },
+    "textsequence": {
+      "category": "Apps for Your Life",
+      "confidence": 65
+    },
+    "nexus-z4gi67": {
+      "category": "Work & Productivity",
+      "confidence": 90
+    },
+    "forgeagent": {
+      "category": "Developer Tools",
+      "confidence": 95
+    },
+    "getsetgogo": {
+      "category": "Apps for Your Life",
+      "confidence": 95
+    },
+    "omega-training-learning-design-copilot": {
+      "category": "Education",
+      "confidence": 95
+    },
+    "care1os": {
+      "category": "Work & Productivity",
+      "confidence": 95
+    },
+    "veil-unmasking-bad-dates": {
+      "category": "Apps for Your Life",
+      "confidence": 95
+    },
+    "piwi": {
+      "category": "Apps for Your Life",
+      "confidence": 70
+    },
+    "bizdex": {
+      "category": "Work & Productivity",
+      "confidence": 90
+    },
+    "aisentica-continuity": {
+      "category": "Developer Tools",
+      "confidence": 78
+    },
+    "compass-tedvqs": {
+      "category": "Education",
+      "confidence": 95
+    },
+    "filo-8s6yd9": {
+      "category": "Apps for Your Life",
+      "confidence": 90
+    },
+    "repoai-os": {
+      "category": "Developer Tools",
+      "confidence": 95
+    },
+    "agent-vault-gate": {
+      "category": "Developer Tools",
+      "confidence": 85
+    },
+    "cobalt-code": {
+      "category": "Developer Tools",
+      "confidence": 95
+    },
+    "providence": {
+      "category": "Developer Tools",
+      "confidence": 82
+    },
+    "stemblockly": {
+      "category": "Education",
+      "confidence": 92
+    },
+    "auditooor": {
+      "category": "Developer Tools",
+      "confidence": 88
+    },
+    "axion-cmeas4": {
+      "category": "Work & Productivity",
+      "confidence": 85
+    },
+    "personal-cms": {
+      "category": "Apps for Your Life",
+      "confidence": 85
+    },
+    "noah-px8gk0": {
+      "category": "Developer Tools",
+      "confidence": 92
+    },
+    "geoagent-6e8wvq": {
+      "category": "Work & Productivity",
+      "confidence": 88
+    },
+    "asg-scientific-audit-workbench": {
+      "category": "Work & Productivity",
+      "confidence": 82
+    },
+    "whetstone": {
+      "category": "Education",
+      "confidence": 92
+    },
+    "pandinspectiepro": {
+      "category": "Work & Productivity",
+      "confidence": 92
+    },
+    "voyapace": {
+      "category": "Apps for Your Life",
+      "confidence": 95
+    },
+    "quoteproof": {
+      "category": "Work & Productivity",
+      "confidence": 92
+    },
+    "gameboy-overclocking-module-workbench": {
+      "category": "Developer Tools",
+      "confidence": 88
+    },
+    "nodist": {
+      "category": "Developer Tools",
+      "confidence": 90
+    },
+    "roundtable-messaging-v2": {
+      "category": "Developer Tools",
+      "confidence": 92
+    },
+    "conference-system": {
+      "category": "Work & Productivity",
+      "confidence": 88
+    },
+    "syncforge": {
+      "category": "Developer Tools",
+      "confidence": 95
+    },
+    "curriculumos": {
+      "category": "Education",
+      "confidence": 92
+    },
+    "collab-pen": {
+      "category": "Apps for Your Life",
+      "confidence": 85
+    },
+    "waythread": {
+      "category": "Apps for Your Life",
+      "confidence": 90
+    },
+    "wachsen": {
+      "category": "Education",
+      "confidence": 93
+    },
+    "michi-branch-native-workspace": {
+      "category": "Apps for Your Life",
+      "confidence": 78
+    },
+    "aiphone": {
+      "category": "Work & Productivity",
+      "confidence": 80
+    },
+    "glazingcalc": {
+      "category": "Work & Productivity",
+      "confidence": 90
+    },
+    "another-stupid-monday": {
+      "category": "Apps for Your Life",
+      "confidence": 92
+    },
+    "sporty-w7r9je": {
+      "category": "Apps for Your Life",
+      "confidence": 90
+    },
+    "activeetf": {
+      "category": "Work & Productivity",
+      "confidence": 85
+    },
+    "gencite": {
+      "category": "Work & Productivity",
+      "confidence": 85
+    },
+    "kinga21": {
+      "category": "Apps for Your Life",
+      "confidence": 90
+    },
+    "optileno": {
+      "category": "Work & Productivity",
+      "confidence": 60
+    },
+    "buildmates": {
+      "category": "Work & Productivity",
+      "confidence": 80
+    },
+    "evalforge-2ml5qv": {
+      "category": "Developer Tools",
+      "confidence": 93
+    },
+    "debrief-ph0u96": {
+      "category": "Work & Productivity",
+      "confidence": 90
+    },
+    "codelore-rbq56s": {
+      "category": "Developer Tools",
+      "confidence": 95
+    },
+    "buno": {
+      "category": "Apps for Your Life",
+      "confidence": 95
+    },
+    "cleanloop": {
+      "category": "Work & Productivity",
+      "confidence": 95
+    },
+    "pitchpilot-ky8i5n": {
+      "category": "Apps for Your Life",
+      "confidence": 80
+    },
+    "ai-dock": {
+      "category": "Developer Tools",
+      "confidence": 75
+    },
+    "x68-stackchan": {
+      "category": "Apps for Your Life",
+      "confidence": 90
+    },
+    "medi-navi-japan": {
+      "category": "Apps for Your Life",
+      "confidence": 92
+    },
+    "project-nz4evk862mfw": {
+      "category": "Apps for Your Life",
+      "confidence": 78
+    },
+    "bluereportai-com-decision-agent": {
+      "category": "Work & Productivity",
+      "confidence": 92
+    },
+    "coco-asset-flow": {
+      "category": "Developer Tools",
+      "confidence": 95
+    },
+    "hither": {
+      "category": "Apps for Your Life",
+      "confidence": 95
+    },
+    "balancedocket": {
+      "category": "Work & Productivity",
+      "confidence": 92
+    },
+    "lumixia-brief": {
+      "category": "Work & Productivity",
+      "confidence": 88
+    },
+    "mochi-cw831p": {
+      "category": "Apps for Your Life",
+      "confidence": 82
+    },
+    "frameloom": {
+      "category": "Apps for Your Life",
+      "confidence": 82
+    },
+    "teach-gpt": {
+      "category": "Developer Tools",
+      "confidence": 92
+    },
+    "riciplay": {
+      "category": "Developer Tools",
+      "confidence": 90
+    },
+    "skillforge-1da2wl": {
+      "category": "Developer Tools",
+      "confidence": 92
+    },
+    "family-sik492": {
+      "category": "Developer Tools",
+      "confidence": 90
+    },
+    "disha-ai-95t0cy": {
+      "category": "Work & Productivity",
+      "confidence": 90
+    },
+    "wizard-s-war-enter-the-labyrinth": {
+      "category": "Apps for Your Life",
+      "confidence": 95
+    },
+    "open-barter": {
+      "category": "Work & Productivity",
+      "confidence": 75
+    },
+    "zen-virtual-piano": {
+      "category": "Apps for Your Life",
+      "confidence": 90
+    },
+    "proofpatch-7ixoab": {
+      "category": "Developer Tools",
+      "confidence": 98
+    },
+    "zyra-guardian": {
+      "category": "Apps for Your Life",
+      "confidence": 95
+    },
+    "qling-agent": {
+      "category": "Developer Tools",
+      "confidence": 95
+    },
+    "erp-falcon": {
+      "category": "Work & Productivity",
+      "confidence": 98
+    },
+    "cleanflow-ai": {
+      "category": "Work & Productivity",
+      "confidence": 95
+    },
+    "posecode-spatial-dsl-for-llms": {
+      "category": "Developer Tools",
+      "confidence": 90
+    },
+    "nagara-os": {
+      "category": "Developer Tools",
+      "confidence": 80
+    },
+    "retrogamefriend": {
+      "category": "Apps for Your Life",
+      "confidence": 95
+    },
+    "fbx2vrm": {
+      "category": "Apps for Your Life",
+      "confidence": 85
+    },
+    "electrobuddy": {
+      "category": "Apps for Your Life",
+      "confidence": 70
+    },
+    "agent-os-4k82hw": {
+      "category": "Developer Tools",
+      "confidence": 95
+    },
+    "tokbys-intelligent-workflow-automation": {
+      "category": "Work & Productivity",
+      "confidence": 90
+    },
+    "sona-tutor": {
+      "category": "Education",
+      "confidence": 98
+    },
+    "humetric": {
+      "category": "Work & Productivity",
+      "confidence": 90
+    },
+    "dream-factory": {
+      "category": "Apps for Your Life",
+      "confidence": 85
+    },
+    "codex-shift": {
+      "category": "Developer Tools",
+      "confidence": 98
+    },
+    "1-jyo6hc": {
+      "category": "Apps for Your Life",
+      "confidence": 40
+    },
+    "mergeproof": {
+      "category": "Developer Tools",
+      "confidence": 95
+    },
+    "co-founder-os-founder-mission-control": {
+      "category": "Work & Productivity",
+      "confidence": 90
+    },
+    "www-alphapercept-com-public": {
+      "category": "Apps for Your Life",
+      "confidence": 60
+    },
+    "everrest-memorial": {
+      "category": "Apps for Your Life",
+      "confidence": 95
+    },
+    "project-lhck3sw8o7da": {
+      "category": "Apps for Your Life",
+      "confidence": 55
+    },
+    "smart-community-6di7q8": {
+      "category": "Apps for Your Life",
+      "confidence": 35
+    },
+    "atlas-nou89w": {
+      "category": "Work & Productivity",
+      "confidence": 90
+    },
+    "planthiq": {
+      "category": "Apps for Your Life",
+      "confidence": 95
+    },
+    "freshledger": {
+      "category": "Apps for Your Life",
+      "confidence": 95
+    },
+    "personal-assistant-y0pj1w": {
+      "category": "Apps for Your Life",
+      "confidence": 90
+    },
+    "aegis-proofbound-codex-control-tower": {
+      "category": "Developer Tools",
+      "confidence": 95
+    },
+    "clawerhub": {
+      "category": "Developer Tools",
+      "confidence": 90
+    },
+    "colorchain-verifiable-swap-receipts": {
+      "category": "Apps for Your Life",
+      "confidence": 75
+    },
+    "novelforge": {
+      "category": "Apps for Your Life",
+      "confidence": 90
+    },
+    "corvus-agent": {
+      "category": "Developer Tools",
+      "confidence": 95
+    },
+    "100-winters": {
+      "category": "Developer Tools",
+      "confidence": 85
+    },
+    "mychat": {
+      "category": "Developer Tools",
+      "confidence": 90
+    },
+    "money-tracking-app": {
+      "category": "Apps for Your Life",
+      "confidence": 95
+    },
+    "fully-autonomus-trading-bot": {
+      "category": "Apps for Your Life",
+      "confidence": 85
+    },
+    "wormie-ide": {
+      "category": "Education",
+      "confidence": 95
+    },
+    "verdict-ai-5wj1ft": {
+      "category": "Work & Productivity",
+      "confidence": 80
+    },
+    "pigeon-drop": {
+      "category": "Apps for Your Life",
+      "confidence": 95
+    },
+    "graph-tab-for-github": {
+      "category": "Developer Tools",
+      "confidence": 95
+    },
+    "classpilot-2rvao4": {
+      "category": "Education",
+      "confidence": 95
+    },
+    "skyguard-ai": {
+      "category": "Developer Tools",
+      "confidence": 85
+    },
+    "youlearntube": {
+      "category": "Education",
+      "confidence": 95
+    },
+    "inovahealth-ai-clinical-decision-support": {
+      "category": "Work & Productivity",
+      "confidence": 90
+    },
+    "racebox-telemetry-viewer": {
+      "category": "Apps for Your Life",
+      "confidence": 85
+    },
+    "cue-9jlwqi": {
+      "category": "Apps for Your Life",
+      "confidence": 95
+    },
+    "tendersentry": {
+      "category": "Work & Productivity",
+      "confidence": 90
+    },
+    "modelledger": {
+      "category": "Developer Tools",
+      "confidence": 98
+    },
+    "noether-73vuo2": {
+      "category": "Education",
+      "confidence": 95
+    },
+    "accessagent-codex-powered-accessibility-fixer": {
+      "category": "Developer Tools",
+      "confidence": 90
+    },
+    "echoworld-turn-photos-into-spatial-worlds": {
+      "category": "Apps for Your Life",
+      "confidence": 95
+    },
+    "manual-zero-your-products-clearly-explained": {
+      "category": "Apps for Your Life",
+      "confidence": 90
+    },
+    "trekmy": {
+      "category": "Apps for Your Life",
+      "confidence": 92
+    },
+    "repo-doctor-1zue3h": {
+      "category": "Developer Tools",
+      "confidence": 97
+    },
+    "gpt-realtime-slides": {
+      "category": "Work & Productivity",
+      "confidence": 80
+    },
+    "one-thing-khve4d": {
+      "category": "Work & Productivity",
+      "confidence": 75
+    },
+    "buildrbond": {
+      "category": "Apps for Your Life",
+      "confidence": 90
+    },
+    "the-dot-vjrx7c": {
+      "category": "Apps for Your Life",
+      "confidence": 85
+    },
+    "ceo-ez19br": {
+      "category": "Developer Tools",
+      "confidence": 90
+    },
+    "noema-your-work-remembers-persistent-ai-memory-context": {
+      "category": "Work & Productivity",
+      "confidence": 75
+    },
+    "quantumverse": {
+      "category": "Education",
+      "confidence": 95
+    },
+    "stockanalyzer-pro": {
+      "category": "Work & Productivity",
+      "confidence": 65
+    },
+    "chalkshima": {
+      "category": "Education",
+      "confidence": 95
+    },
+    "cold-case-y0f1ab": {
+      "category": "Apps for Your Life",
+      "confidence": 95
+    },
+    "frontline-7rhyzg": {
+      "category": "Work & Productivity",
+      "confidence": 85
+    },
+    "simpleboard": {
+      "category": "Work & Productivity",
+      "confidence": 90
+    },
+    "akubrowser": {
+      "category": "Apps for Your Life",
+      "confidence": 90
+    },
+    "decision-room-nx53gq": {
+      "category": "Work & Productivity",
+      "confidence": 75
+    },
+    "kissanai": {
+      "category": "Work & Productivity",
+      "confidence": 80
+    },
+    "avicennalab-an-autonomous-scientific-discovery-laboratory": {
+      "category": "Work & Productivity",
+      "confidence": 90
+    },
+    "buek-core-build-ai-workers-for-any-industry": {
+      "category": "Developer Tools",
+      "confidence": 55
+    },
+    "clark": {
+      "category": "Apps for Your Life",
+      "confidence": 70
+    },
+    "global-wetland-guardian-ai-2-0": {
+      "category": "Work & Productivity",
+      "confidence": 80
+    },
+    "sihha-health-evidence-navigator": {
+      "category": "Apps for Your Life",
+      "confidence": 90
+    },
+    "cinema-taste": {
+      "category": "Apps for Your Life",
+      "confidence": 95
+    },
+    "codex-audit": {
+      "category": "Developer Tools",
+      "confidence": 95
+    },
+    "ergo-ul9dxq": {
+      "category": "Apps for Your Life",
+      "confidence": 55
+    },
+    "aos-project-architect": {
+      "category": "Work & Productivity",
+      "confidence": 90
+    },
+    "deciding-right-now": {
+      "category": "Work & Productivity",
+      "confidence": 95
+    },
+    "ielts-focus": {
+      "category": "Education",
+      "confidence": 90
+    },
+    "medpill-never-miss-again-your-medication": {
+      "category": "Apps for Your Life",
+      "confidence": 95
+    },
+    "wish-you-were": {
+      "category": "Apps for Your Life",
+      "confidence": 90
+    },
+    "salesforce-etl-engineer": {
+      "category": "Developer Tools",
+      "confidence": 70
+    },
+    "ai-7as6n0": {
+      "category": "Apps for Your Life",
+      "confidence": 90
+    },
+    "panb-hive": {
+      "category": "Apps for Your Life",
+      "confidence": 60
+    },
+    "schemaprism": {
+      "category": "Work & Productivity",
+      "confidence": 90
+    },
+    "ai-work-simulator-i7203m": {
+      "category": "Education",
+      "confidence": 90
+    },
+    "voicescene": {
+      "category": "Apps for Your Life",
+      "confidence": 75
+    },
+    "open-ai-build-week-gk8dim": {
+      "category": "Developer Tools",
+      "confidence": 95
+    },
+    "taxflow-ai-ai-powered-gst-tds-automation": {
+      "category": "Work & Productivity",
+      "confidence": 90
+    },
+    "keypoilot": {
+      "category": "Developer Tools",
+      "confidence": 95
+    },
+    "familiar-the-ai-you-never-open": {
+      "category": "Apps for Your Life",
+      "confidence": 90
+    },
+    "clipso-ai-creator-workflow": {
+      "category": "Apps for Your Life",
+      "confidence": 70
+    },
+    "prism-9n3dm2": {
+      "category": "Developer Tools",
+      "confidence": 95
+    },
+    "empcloud-ai": {
+      "category": "Work & Productivity",
+      "confidence": 95
+    },
+    "taskforge-knhd5r": {
+      "category": "Education",
+      "confidence": 75
+    },
+    "nexus-ai-pdjb0w": {
+      "category": "Education",
+      "confidence": 85
+    },
+    "axiom-qrfhy0": {
+      "category": "Developer Tools",
+      "confidence": 90
+    },
+    "xeer-ai": {
+      "category": "Apps for Your Life",
+      "confidence": 65
+    },
+    "roufaidaschool": {
+      "category": "Work & Productivity",
+      "confidence": 90
+    },
+    "medieval-battle-world": {
+      "category": "Apps for Your Life",
+      "confidence": 95
+    },
+    "smart-hse-inspector-agentic-ai-workflows": {
+      "category": "Work & Productivity",
+      "confidence": 85
+    },
+    "xvi": {
+      "category": "Apps for Your Life",
+      "confidence": 80
+    },
+    "osal-ai": {
+      "category": "Developer Tools",
+      "confidence": 70
+    },
+    "taskora-5zjq7m": {
+      "category": "Apps for Your Life",
+      "confidence": 90
+    },
+    "worklens-lzkp8a": {
+      "category": "Work & Productivity",
+      "confidence": 90
+    },
+    "lingualab-409qcz": {
+      "category": "Work & Productivity",
+      "confidence": 65
+    },
+    "mai-inspector": {
+      "category": "Work & Productivity",
+      "confidence": 85
+    },
+    "openfrontierchem-ecdsa-fail-and-openfrontiercs-chemistry": {
+      "category": "Work & Productivity",
+      "confidence": 60
+    },
+    "builderbridge": {
+      "category": "Work & Productivity",
+      "confidence": 90
+    },
+    "wyrd-ai": {
+      "category": "Apps for Your Life",
+      "confidence": 65
+    },
+    "carpo": {
+      "category": "Work & Productivity",
+      "confidence": 40
+    },
+    "eva-os-autonomous-workforce-operating-system": {
+      "category": "Work & Productivity",
+      "confidence": 85
+    },
+    "agenttt": {
+      "category": "Apps for Your Life",
+      "confidence": 70
+    },
+    "elefthero": {
+      "category": "Work & Productivity",
+      "confidence": 90
+    },
+    "living-software-x69rd1": {
+      "category": "Developer Tools",
+      "confidence": 85
+    },
+    "pochade-visual-research-studio-for-public-domain-art": {
+      "category": "Apps for Your Life",
+      "confidence": 80
+    },
+    "amazon-in-quicken": {
+      "category": "Apps for Your Life",
+      "confidence": 90
+    },
+    "specgraph": {
+      "category": "Developer Tools",
+      "confidence": 90
+    },
+    "homeos-mpzyrc": {
+      "category": "Apps for Your Life",
+      "confidence": 92
+    },
+    "arabic-market-blocker-agent": {
+      "category": "Developer Tools",
+      "confidence": 88
+    },
+    "helm-tcl63k": {
+      "category": "Developer Tools",
+      "confidence": 90
+    },
+    "fanfare-zl7efm": {
+      "category": "Apps for Your Life",
+      "confidence": 92
+    },
+    "keystone-uhv29k": {
+      "category": "Developer Tools",
+      "confidence": 90
+    },
+    "commitgate-0pc5eb": {
+      "category": "Developer Tools",
+      "confidence": 90
+    },
+    "ai-model-analysis-dashboard": {
+      "category": "Developer Tools",
+      "confidence": 75
+    },
+    "umbra-reveals-what-your-tests-aren-t-telling-you": {
+      "category": "Developer Tools",
+      "confidence": 90
+    },
+    "entroom-ai": {
+      "category": "Work & Productivity",
+      "confidence": 88
+    },
+    "pyoogle": {
+      "category": "Developer Tools",
+      "confidence": 70
+    },
+    "solo-developer-arsenal": {
+      "category": "Developer Tools",
+      "confidence": 92
+    },
+    "drawsy-ai": {
+      "category": "Developer Tools",
+      "confidence": 72
+    },
+    "concierge-mind": {
+      "category": "Work & Productivity",
+      "confidence": 90
+    },
+    "wordbook": {
+      "category": "Education",
+      "confidence": 92
+    },
+    "chalk-2lvw5c": {
+      "category": "Education",
+      "confidence": 92
+    },
+    "streak-os": {
+      "category": "Apps for Your Life",
+      "confidence": 85
+    },
+    "semeai-gate": {
+      "category": "Developer Tools",
+      "confidence": 88
+    },
+    "asdf-57j0dc": {
+      "category": "Developer Tools",
+      "confidence": 90
+    },
+    "studymind-ai-6kxefc": {
+      "category": "Education",
+      "confidence": 95
+    },
+    "lessonforge-wf5q01": {
+      "category": "Education",
+      "confidence": 95
+    },
+    "shipsafe-vu4bxc": {
+      "category": "Developer Tools",
+      "confidence": 95
+    },
+    "envoy-xzm56p": {
+      "category": "Work & Productivity",
+      "confidence": 90
+    },
+    "studynest-cjud8l": {
+      "category": "Education",
+      "confidence": 95
+    },
+    "ai-agricultural-science-learning-studio": {
+      "category": "Education",
+      "confidence": 95
+    },
+    "picotron": {
+      "category": "Developer Tools",
+      "confidence": 98
+    },
+    "repolens-gc0sjw": {
+      "category": "Developer Tools",
+      "confidence": 95
+    },
+    "kiokunet-a-safety-companion": {
+      "category": "Apps for Your Life",
+      "confidence": 92
+    },
+    "rapi-personal-intelligence-in-whatsapp": {
+      "category": "Work & Productivity",
+      "confidence": 85
+    },
+    "model-jury": {
+      "category": "Education",
+      "confidence": 95
+    },
+    "enma": {
+      "category": "Developer Tools",
+      "confidence": 95
+    },
+    "nura-p7m4f5": {
+      "category": "Education",
+      "confidence": 90
+    },
+    "decodex-nihed2": {
+      "category": "Work & Productivity",
+      "confidence": 90
+    },
+    "trusin-webhook-relay": {
+      "category": "Developer Tools",
+      "confidence": 98
+    },
+    "mortiphi": {
+      "category": "Developer Tools",
+      "confidence": 95
+    },
+    "prasams-ops": {
+      "category": "Developer Tools",
+      "confidence": 95
+    },
+    "brain-drop": {
+      "category": "Apps for Your Life",
+      "confidence": 80
+    },
+    "mourktherapy": {
+      "category": "Work & Productivity",
+      "confidence": 92
+    },
+    "navoice": {
+      "category": "Developer Tools",
+      "confidence": 88
+    },
+    "core-medical-communication-console": {
+      "category": "Apps for Your Life",
+      "confidence": 65
+    },
+    "aicenda": {
+      "category": "Education",
+      "confidence": 88
+    },
+    "da-vinci-tribology-agent": {
+      "category": "Work & Productivity",
+      "confidence": 82
+    },
+    "ai-company-control-room": {
+      "category": "Work & Productivity",
+      "confidence": 86
+    },
+    "rei-lingo": {
+      "category": "Education",
+      "confidence": 92
+    },
+    "1-hub-by-corion": {
+      "category": "Work & Productivity",
+      "confidence": 90
+    },
+    "the-committee-explainable-ai-paper-trading-lab": {
+      "category": "Education",
+      "confidence": 72
+    },
+    "agm-ai-assisted-vehicle-transport-management": {
+      "category": "Work & Productivity",
+      "confidence": 86
+    },
+    "mcpauditorium": {
+      "category": "Developer Tools",
+      "confidence": 92
+    },
+    "babylon-opl9zh": {
+      "category": "Apps for Your Life",
+      "confidence": 86
+    },
+    "crewos-otmx9e": {
+      "category": "Work & Productivity",
+      "confidence": 70
+    },
+    "nextbound": {
+      "category": "Apps for Your Life",
+      "confidence": 62
+    },
+    "dream-oddly": {
+      "category": "Apps for Your Life",
+      "confidence": 90
+    },
+    "jus-9-tecnologia-juridica": {
+      "category": "Work & Productivity",
+      "confidence": 72
+    },
+    "always-never": {
+      "category": "Apps for Your Life",
+      "confidence": 90
+    },
+    "paprism": {
+      "category": "Apps for Your Life",
+      "confidence": 70
+    },
+    "receipts-desk": {
+      "category": "Apps for Your Life",
+      "confidence": 86
+    },
+    "payroll-preflight": {
+      "category": "Work & Productivity",
+      "confidence": 90
+    },
+    "portal1340": {
+      "category": "Apps for Your Life",
+      "confidence": 60
+    },
+    "bidops-ai-epoxbr": {
+      "category": "Work & Productivity",
+      "confidence": 90
+    },
+    "nmlt": {
+      "category": "Developer Tools",
+      "confidence": 85
+    },
+    "make-it-pop-formely-assetflow": {
+      "category": "Work & Productivity",
+      "confidence": 80
+    },
+    "good-books": {
+      "category": "Apps for Your Life",
+      "confidence": 55
+    },
+    "agi-workforce-crf289": {
+      "category": "Apps for Your Life",
+      "confidence": 75
+    },
+    "notsofast-ai": {
+      "category": "Apps for Your Life",
+      "confidence": 60
+    },
+    "voya-the-agentic-travel-companion": {
+      "category": "Apps for Your Life",
+      "confidence": 90
+    },
+    "typing-dead": {
+      "category": "Education",
+      "confidence": 90
+    },
+    "pilot-os-personal-ai-operations-console": {
+      "category": "Work & Productivity",
+      "confidence": 80
+    },
+    "dp-income-expense-tracker-ifv3m2": {
+      "category": "Apps for Your Life",
+      "confidence": 85
+    },
+    "scenariocraft": {
+      "category": "Apps for Your Life",
+      "confidence": 65
+    },
+    "boardroom-0tcafd": {
+      "category": "Work & Productivity",
+      "confidence": 85
+    },
+    "vibration-hour-meter": {
+      "category": "Work & Productivity",
+      "confidence": 75
+    },
+    "ai-creation-passport": {
+      "category": "Work & Productivity",
+      "confidence": 65
+    },
+    "sivendesfacil-safe-listing-copilot": {
+      "category": "Work & Productivity",
+      "confidence": 75
+    },
+    "churncontrol-876naq": {
+      "category": "Work & Productivity",
+      "confidence": 90
+    },
+    "chalk-gjzk2c": {
+      "category": "Education",
+      "confidence": 90
+    },
+    "biomedical-conjecture-scientific-generator-of-next-target": {
+      "category": "Work & Productivity",
+      "confidence": 80
+    },
+    "litmatrix-evidence-aware-research-intelligence-platform": {
+      "category": "Work & Productivity",
+      "confidence": 60
+    },
+    "big-hero-six": {
+      "category": "Education",
+      "confidence": 85
+    },
+    "the-king-s-judgment": {
+      "category": "Apps for Your Life",
+      "confidence": 90
+    },
+    "puzzlepy": {
+      "category": "Education",
+      "confidence": 95
+    },
+    "project-starlite-automate": {
+      "category": "Developer Tools",
+      "confidence": 40
+    },
+    "error-archaeologist-m35tf9": {
+      "category": "Developer Tools",
+      "confidence": 95
+    },
+    "faqir-farms-ops": {
+      "category": "Work & Productivity",
+      "confidence": 92
+    },
+    "gju-student-regulations-assistant-1t5mrf": {
+      "category": "Apps for Your Life",
+      "confidence": 70
+    },
+    "ai-map-detection": {
+      "category": "Work & Productivity",
+      "confidence": 65
+    },
+    "supervisor-outreach-agent": {
+      "category": "Work & Productivity",
+      "confidence": 70
+    },
+    "smartedu-erp-ai-powered-school-management-platform": {
+      "category": "Work & Productivity",
+      "confidence": 92
+    },
+    "argento-accounts": {
+      "category": "Work & Productivity",
+      "confidence": 95
+    },
+    "nodus": {
+      "category": "Developer Tools",
+      "confidence": 95
+    },
+    "lifelineos-antimicrobial-crisis-edition": {
+      "category": "Work & Productivity",
+      "confidence": 92
+    },
+    "overthink-analyzer": {
+      "category": "Apps for Your Life",
+      "confidence": 95
+    },
+    "viva-1fpjaw": {
+      "category": "Education",
+      "confidence": 80
+    },
+    "suvo-il1ux6": {
+      "category": "Apps for Your Life",
+      "confidence": 95
+    },
+    "sophmate": {
+      "category": "Work & Productivity",
+      "confidence": 90
+    },
+    "counterpart-ai": {
+      "category": "Education",
+      "confidence": 75
+    },
+    "selfheal-autonomous-bug-fixing-agent-uvp3rt": {
+      "category": "Education",
+      "confidence": 95
+    },
+    "efkuhwefkjwehrgfkjwrhegkjre": {
+      "category": "Apps for Your Life",
+      "confidence": 50
+    },
+    "patchproof": {
+      "category": "Developer Tools",
+      "confidence": 95
+    },
+    "veyanet-decision-gate": {
+      "category": "Work & Productivity",
+      "confidence": 70
+    },
+    "mesai-cepte": {
+      "category": "Apps for Your Life",
+      "confidence": 90
+    },
+    "ruh-halim-private-mood-journal": {
+      "category": "Apps for Your Life",
+      "confidence": 95
+    },
+    "3d-llm-training": {
+      "category": "Developer Tools",
+      "confidence": 60
+    },
+    "manse": {
+      "category": "Apps for Your Life",
+      "confidence": 85
+    },
+    "finbot-sitheq": {
+      "category": "Apps for Your Life",
+      "confidence": 80
+    },
+    "ai-memory-vault": {
+      "category": "Apps for Your Life",
+      "confidence": 80
+    },
+    "hikyaku": {
+      "category": "Apps for Your Life",
+      "confidence": 95
+    },
+    "chronoagent": {
+      "category": "Developer Tools",
+      "confidence": 95
+    },
+    "relaxnovelgame": {
+      "category": "Apps for Your Life",
+      "confidence": 95
+    },
+    "maximum-is-60-characters": {
+      "category": "Work & Productivity",
+      "confidence": 80
+    },
+    "rethink-1jx9f2": {
+      "category": "Work & Productivity",
+      "confidence": 75
+    },
+    "clero": {
+      "category": "Work & Productivity",
+      "confidence": 90
+    },
+    "codex-cowork": {
+      "category": "Developer Tools",
+      "confidence": 95
+    },
+    "properly-ai-phonics-tutor": {
+      "category": "Education",
+      "confidence": 98
+    },
+    "agentloop": {
+      "category": "Developer Tools",
+      "confidence": 95
+    },
+    "micromentor-souf06": {
+      "category": "Work & Productivity",
+      "confidence": 92
+    },
+    "fettle": {
+      "category": "Developer Tools",
+      "confidence": 95
+    },
+    "babelfish-realtime-translations": {
+      "category": "Apps for Your Life",
+      "confidence": 95
+    },
+    "app-iwufxj": {
+      "category": "Developer Tools",
+      "confidence": 70
+    },
+    "flowlens-drift": {
+      "category": "Work & Productivity",
+      "confidence": 90
+    },
+    "tdtc-071f2p": {
+      "category": "Education",
+      "confidence": 55
+    },
+    "nanoscene-ai": {
+      "category": "Apps for Your Life",
+      "confidence": 90
+    },
+    "azarune": {
+      "category": "Apps for Your Life",
+      "confidence": 95
+    },
+    "safestate-6nwztv": {
+      "category": "Apps for Your Life",
+      "confidence": 92
+    },
+    "split-dual-browser": {
+      "category": "Apps for Your Life",
+      "confidence": 88
+    },
+    "silentguard-kq7wfl": {
+      "category": "Apps for Your Life",
+      "confidence": 95
+    },
+    "locus-malaysian-legal-research-ai-assistant": {
+      "category": "Work & Productivity",
+      "confidence": 85
+    },
+    "project-name-gameforgetester-gpt-5-6-evidence-analyst": {
+      "category": "Developer Tools",
+      "confidence": 85
+    },
+    "incidentdocket": {
+      "category": "Developer Tools",
+      "confidence": 95
+    },
+    "beyond-the-game-human-performance-ai": {
+      "category": "Work & Productivity",
+      "confidence": 75
+    },
+    "texas-water-sources-free-property-water-report": {
+      "category": "Apps for Your Life",
+      "confidence": 88
+    },
+    "sherlock-cfs1ib": {
+      "category": "Work & Productivity",
+      "confidence": 70
+    },
+    "xiaomei-companion-a-local-ai-work-companion": {
+      "category": "Work & Productivity",
+      "confidence": 85
+    },
+    "triage-medical": {
+      "category": "Work & Productivity",
+      "confidence": 90
+    },
+    "autokeren-cli": {
+      "category": "Developer Tools",
+      "confidence": 95
+    },
+    "mediscan-ai-p1ryo5": {
+      "category": "Apps for Your Life",
+      "confidence": 92
+    },
+    "un-segundo-intento": {
+      "category": "Education",
+      "confidence": 95
+    },
+    "project-unios": {
+      "category": "Apps for Your Life",
+      "confidence": 70
+    },
+    "voice-canvas-4nmkeg": {
+      "category": "Work & Productivity",
+      "confidence": 72
+    },
+    "wonderquest-studio": {
+      "category": "Education",
+      "confidence": 95
+    },
+    "launchproof-station": {
+      "category": "Developer Tools",
+      "confidence": 60
+    },
+    "expeditions-mode": {
+      "category": "Developer Tools",
+      "confidence": 85
+    },
+    "reflectai-4ituw6": {
+      "category": "Apps for Your Life",
+      "confidence": 90
+    },
+    "forage-nhwv08": {
+      "category": "Apps for Your Life",
+      "confidence": 55
+    },
+    "1-e9sudh": {
+      "category": "Apps for Your Life",
+      "confidence": 10
+    },
+    "firstmoney": {
+      "category": "Apps for Your Life",
+      "confidence": 65
+    },
+    "the-ozawa-method": {
+      "category": "Education",
+      "confidence": 90
+    },
+    "emmy-hipa4n": {
+      "category": "Apps for Your Life",
+      "confidence": 85
+    },
+    "chronos-znyf65": {
+      "category": "Developer Tools",
+      "confidence": 95
+    },
+    "code-council": {
+      "category": "Developer Tools",
+      "confidence": 95
+    },
+    "codetrail-efnikp": {
+      "category": "Developer Tools",
+      "confidence": 95
+    },
+    "kaaval-a9vpez": {
+      "category": "Work & Productivity",
+      "confidence": 75
+    },
+    "yuvth": {
+      "category": "Education",
+      "confidence": 60
+    },
+    "specguard": {
+      "category": "Developer Tools",
+      "confidence": 95
+    },
+    "project-aether-femgt3": {
+      "category": "Developer Tools",
+      "confidence": 60
+    },
+    "autonomous-wellness-front-desk-agent": {
+      "category": "Work & Productivity",
+      "confidence": 85
+    },
+    "coding-wife": {
+      "category": "Developer Tools",
+      "confidence": 95
+    },
+    "otterwatter": {
+      "category": "Apps for Your Life",
+      "confidence": 90
+    },
+    "aura-3d": {
+      "category": "Education",
+      "confidence": 90
+    },
+    "vowch": {
+      "category": "Work & Productivity",
+      "confidence": 65
+    },
+    "ember-erp2zw": {
+      "category": "Apps for Your Life",
+      "confidence": 90
+    },
+    "flowiki": {
+      "category": "Apps for Your Life",
+      "confidence": 70
+    },
+    "4d-virtual-tryon": {
+      "category": "Apps for Your Life",
+      "confidence": 75
+    },
+    "wharfside-rulebook-signed-cited-rules-for-ai-diagnosis": {
+      "category": "Developer Tools",
+      "confidence": 80
+    },
+    "eventpilot-ai-9ze6nt": {
+      "category": "Work & Productivity",
+      "confidence": 85
+    },
+    "atlas-ai-6xsd4m": {
+      "category": "Developer Tools",
+      "confidence": 90
+    },
+    "flakefix": {
+      "category": "Developer Tools",
+      "confidence": 95
+    },
+    "bizze": {
+      "category": "Work & Productivity",
+      "confidence": 70
+    },
+    "project-cortex": {
+      "category": "Work & Productivity",
+      "confidence": 85
+    },
+    "notes-recorder-meeting-intelligence": {
+      "category": "Work & Productivity",
+      "confidence": 85
+    },
+    "edgesplit": {
+      "category": "Developer Tools",
+      "confidence": 85
+    },
+    "vinglish-zero": {
+      "category": "Developer Tools",
+      "confidence": 90
+    },
+    "forge-rx6woa": {
+      "category": "Developer Tools",
+      "confidence": 90
+    },
+    "exampulse-9v68uc": {
+      "category": "Education",
+      "confidence": 90
+    },
+    "kryvio": {
+      "category": "Apps for Your Life",
+      "confidence": 85
+    },
+    "aktru-verified-ai-identity-builder": {
+      "category": "Developer Tools",
+      "confidence": 55
+    },
+    "sunrise-studio": {
+      "category": "Work & Productivity",
+      "confidence": 80
+    },
+    "x-3ygjbz": {
+      "category": "Developer Tools",
+      "confidence": 85
+    },
+    "doro-adaptive-focus-companion": {
+      "category": "Apps for Your Life",
+      "confidence": 85
+    },
+    "mockinsight": {
+      "category": "Education",
+      "confidence": 90
+    },
+    "helloworld-nkp1ea": {
+      "category": "Developer Tools",
+      "confidence": 35
+    },
+    "project-brain-x41azc": {
+      "category": "Developer Tools",
+      "confidence": 95
+    },
+    "orion-svl2at": {
+      "category": "Apps for Your Life",
+      "confidence": 45
+    },
+    "irontide": {
+      "category": "Apps for Your Life",
+      "confidence": 85
+    },
+    "repopath": {
+      "category": "Education",
+      "confidence": 90
+    },
+    "shelfcat-lens": {
+      "category": "Apps for Your Life",
+      "confidence": 90
+    },
+    "collamn": {
+      "category": "Developer Tools",
+      "confidence": 65
+    },
+    "inception-reality-engine": {
+      "category": "Developer Tools",
+      "confidence": 70
+    },
+    "tor-arg-tornado-argentino": {
+      "category": "Apps for Your Life",
+      "confidence": 70
+    },
+    "alsa-moonlit-research-engine": {
+      "category": "Apps for Your Life",
+      "confidence": 85
+    },
+    "fast-sales-fb": {
+      "category": "Work & Productivity",
+      "confidence": 85
+    },
+    "team-agent-a-framework-for-teams-of-coding-agents": {
+      "category": "Developer Tools",
+      "confidence": 95
+    },
+    "fake-qr-code-detector": {
+      "category": "Apps for Your Life",
+      "confidence": 85
+    },
+    "meal-builder": {
+      "category": "Apps for Your Life",
+      "confidence": 90
+    },
+    "real-time-video-generation": {
+      "category": "Apps for Your Life",
+      "confidence": 70
+    },
+    "growlytics-ai-growth-intelligence-agent": {
+      "category": "Work & Productivity",
+      "confidence": 85
+    },
+    "retouchly": {
+      "category": "Work & Productivity",
+      "confidence": 70
+    },
+    "skill-society": {
+      "category": "Work & Productivity",
+      "confidence": 90
+    },
+    "ariadne-8zt063": {
+      "category": "Education",
+      "confidence": 85
+    },
+    "drowai": {
+      "category": "Work & Productivity",
+      "confidence": 65
+    },
+    "digital-supply-chain-evidence-agent": {
+      "category": "Developer Tools",
+      "confidence": 95
+    },
+    "rogue-ralphy": {
+      "category": "Apps for Your Life",
+      "confidence": 95
+    },
+    "rimay-adaptive-voice-coach": {
+      "category": "Apps for Your Life",
+      "confidence": 85
+    },
+    "the-living-atlas-rqo0hc": {
+      "category": "Apps for Your Life",
+      "confidence": 90
+    },
+    "the-agrostore-ai-growth-platform-dhy7nl": {
+      "category": "Work & Productivity",
+      "confidence": 85
+    },
+    "footalara-com": {
+      "category": "Apps for Your Life",
+      "confidence": 95
+    },
+    "sage-4egfnb": {
+      "category": "Work & Productivity",
+      "confidence": 90
+    },
+    "candorloop": {
+      "category": "Apps for Your Life",
+      "confidence": 80
+    },
+    "localcomet": {
+      "category": "Apps for Your Life",
+      "confidence": 85
+    },
+    "xenologic": {
+      "category": "Education",
+      "confidence": 90
+    },
+    "ai-act-compliance-navigator-d8pyow": {
+      "category": "Work & Productivity",
+      "confidence": 90
+    },
+    "civicai-pboxwd": {
+      "category": "Apps for Your Life",
+      "confidence": 90
+    },
+    "personal-budget-tool": {
+      "category": "Apps for Your Life",
+      "confidence": 95
+    },
+    "sumatas-worldbuilding-platform": {
+      "category": "Apps for Your Life",
+      "confidence": 90
+    },
+    "missionforge-from-requirement-to-offline-ready-release": {
+      "category": "Developer Tools",
+      "confidence": 95
+    },
+    "investory": {
+      "category": "Apps for Your Life",
+      "confidence": 90
+    },
+    "fedfathom": {
+      "category": "Work & Productivity",
+      "confidence": 90
+    },
+    "aiconstructor": {
+      "category": "Work & Productivity",
+      "confidence": 75
+    },
+    "promiseproof": {
+      "category": "Developer Tools",
+      "confidence": 90
+    },
+    "decisions-start-with-better-questions": {
+      "category": "Apps for Your Life",
+      "confidence": 85
+    },
+    "sellerpilot-the-ecommerce-client-terminal": {
+      "category": "Work & Productivity",
+      "confidence": 90
+    },
+    "world-travel-memories": {
+      "category": "Apps for Your Life",
+      "confidence": 92
+    },
+    "the-hardest-game-ever-created": {
+      "category": "Apps for Your Life",
+      "confidence": 95
+    },
+    "the-game-i-built-without-knowing-the-puzzle": {
+      "category": "Apps for Your Life",
+      "confidence": 95
+    },
+    "stillwater-wds8mq": {
+      "category": "Developer Tools",
+      "confidence": 65
+    },
+    "loop-factory-the-referee-for-ai-coding-agents": {
+      "category": "Developer Tools",
+      "confidence": 90
+    },
+    "sfast": {
+      "category": "Apps for Your Life",
+      "confidence": 90
+    },
+    "board-game-forge": {
+      "category": "Apps for Your Life",
+      "confidence": 80
+    },
+    "eventyx": {
+      "category": "Apps for Your Life",
+      "confidence": 75
+    },
+    "cookiemix-studio-os": {
+      "category": "Apps for Your Life",
+      "confidence": 70
+    },
+    "sloth-in-the-city": {
+      "category": "Apps for Your Life",
+      "confidence": 80
+    },
+    "beal-conjecture-solving-for-3-5-7-using-ai": {
+      "category": "Work & Productivity",
+      "confidence": 85
+    },
+    "elsewhere-roomie": {
+      "category": "Apps for Your Life",
+      "confidence": 90
+    },
+    "webcae-ai": {
+      "category": "Work & Productivity",
+      "confidence": 90
+    },
+    "ledger-contribution": {
+      "category": "Work & Productivity",
+      "confidence": 88
+    },
+    "gamificacion": {
+      "category": "Education",
+      "confidence": 75
+    },
+    "orions-5t10ec": {
+      "category": "Education",
+      "confidence": 95
+    },
+    "deeper-look-food-scanner": {
+      "category": "Apps for Your Life",
+      "confidence": 92
+    },
+    "bhcp": {
+      "category": "Developer Tools",
+      "confidence": 95
+    },
+    "inspection-copilot": {
+      "category": "Work & Productivity",
+      "confidence": 90
+    },
+    "lanlens": {
+      "category": "Apps for Your Life",
+      "confidence": 80
+    },
+    "sivope": {
+      "category": "Work & Productivity",
+      "confidence": 55
+    },
+    "proofline-j84rz5": {
+      "category": "Developer Tools",
+      "confidence": 90
+    },
+    "ucall-widget-lite": {
+      "category": "Apps for Your Life",
+      "confidence": 90
+    },
+    "rosetta-dw73fe": {
+      "category": "Education",
+      "confidence": 90
+    },
+    "proofwave": {
+      "category": "Developer Tools",
+      "confidence": 65
+    },
+    "schoolware": {
+      "category": "Work & Productivity",
+      "confidence": 75
+    },
+    "codex-in-kerbal-space-program": {
+      "category": "Apps for Your Life",
+      "confidence": 85
+    },
+    "trippoint-5yxfzl": {
+      "category": "Education",
+      "confidence": 90
+    },
+    "fixmysite": {
+      "category": "Work & Productivity",
+      "confidence": 65
+    },
+    "traceparse-verify": {
+      "category": "Work & Productivity",
+      "confidence": 80
+    },
+    "mcp-integrate-session": {
+      "category": "Apps for Your Life",
+      "confidence": 70
+    },
+    "briefly-discovery-call-prep-agent": {
+      "category": "Work & Productivity",
+      "confidence": 90
+    },
+    "murmuration": {
+      "category": "Developer Tools",
+      "confidence": 75
+    },
+    "freelife": {
+      "category": "Apps for Your Life",
+      "confidence": 85
+    },
+    "slateart": {
+      "category": "Apps for Your Life",
+      "confidence": 85
+    },
+    "factcheck-jztnas": {
+      "category": "Apps for Your Life",
+      "confidence": 80
+    },
+    "dbvoyager-agentic-database-administrator": {
+      "category": "Developer Tools",
+      "confidence": 75
+    },
+    "foxy-audit-reivxw": {
+      "category": "Developer Tools",
+      "confidence": 85
+    },
+    "alphamind-ai": {
+      "category": "Apps for Your Life",
+      "confidence": 70
+    },
+    "ha-test-y5kmh9": {
+      "category": "Work & Productivity",
+      "confidence": 70
+    },
+    "ha-test": {
+      "category": "Developer Tools",
+      "confidence": 55
+    },
+    "pre-flight": {
+      "category": "Developer Tools",
+      "confidence": 90
+    },
+    "willa": {
+      "category": "Apps for Your Life",
+      "confidence": 90
+    },
+    "vitalwell": {
+      "category": "Apps for Your Life",
+      "confidence": 85
+    },
+    "vortex-ai-cdwmgl": {
+      "category": "Apps for Your Life",
+      "confidence": 85
+    },
+    "rescue-ua2tdm": {
+      "category": "Apps for Your Life",
+      "confidence": 75
+    },
+    "fieldforge-ai": {
+      "category": "Work & Productivity",
+      "confidence": 75
+    },
+    "questoros-control-plane": {
+      "category": "Work & Productivity",
+      "confidence": 80
+    },
+    "playpal-7igujp": {
+      "category": "Apps for Your Life",
+      "confidence": 85
+    },
+    "novelist-gxwram": {
+      "category": "Apps for Your Life",
+      "confidence": 75
+    },
+    "studyloop-mbnywg": {
+      "category": "Education",
+      "confidence": 92
+    },
+    "shiny-things": {
+      "category": "Apps for Your Life",
+      "confidence": 75
+    },
+    "alc-lab": {
+      "category": "Work & Productivity",
+      "confidence": 70
+    },
+    "alltp-1-0-28-built-with-gpt-hardened-with-codex": {
+      "category": "Apps for Your Life",
+      "confidence": 85
+    },
+    "bk-market": {
+      "category": "Apps for Your Life",
+      "confidence": 65
+    },
+    "ai-jewelry-designer-by-almhedy-goldsmith": {
+      "category": "Apps for Your Life",
+      "confidence": 65
+    },
+    "ragdoll-xfwzms": {
+      "category": "Work & Productivity",
+      "confidence": 80
+    },
+    "town-without-limits": {
+      "category": "Apps for Your Life",
+      "confidence": 75
+    },
+    "velocitex": {
+      "category": "Apps for Your Life",
+      "confidence": 90
+    },
+    "sabiti-technocrat": {
+      "category": "Apps for Your Life",
+      "confidence": 30
+    },
+    "novelhane": {
+      "category": "Apps for Your Life",
+      "confidence": 92
+    },
+    "cofoundrmatch": {
+      "category": "Work & Productivity",
+      "confidence": 85
+    },
+    "council-your-inner-circle": {
+      "category": "Apps for Your Life",
+      "confidence": 95
+    },
+    "medibuddyai": {
+      "category": "Apps for Your Life",
+      "confidence": 95
+    },
+    "project-7siol46wcuah": {
+      "category": "Work & Productivity",
+      "confidence": 50
+    },
+    "coil": {
+      "category": "Apps for Your Life",
+      "confidence": 95
+    },
+    "mathla-multilingual-sign-language-intelligence": {
+      "category": "Apps for Your Life",
+      "confidence": 78
+    },
+    "gruhini": {
+      "category": "Apps for Your Life",
+      "confidence": 88
+    },
+    "supplai-yx9tkq": {
+      "category": "Work & Productivity",
+      "confidence": 95
+    },
+    "echostock": {
+      "category": "Apps for Your Life",
+      "confidence": 25
+    },
+    "intentguard-1al8ob": {
+      "category": "Developer Tools",
+      "confidence": 95
+    },
+    "talk-with-mimi-a-speech-adventure-for-children": {
+      "category": "Apps for Your Life",
+      "confidence": 80
+    },
+    "vibehub-ljx39t": {
+      "category": "Work & Productivity",
+      "confidence": 88
+    },
+    "buildsops-copilot": {
+      "category": "Developer Tools",
+      "confidence": 95
+    },
+    "among-demons-browser-game": {
+      "category": "Apps for Your Life",
+      "confidence": 95
+    },
+    "kunthai": {
+      "category": "Apps for Your Life",
+      "confidence": 92
+    },
+    "mariara-nexo-voice-real-time": {
+      "category": "Work & Productivity",
+      "confidence": 92
+    },
+    "nexoflow-ai-scheduling-real-time-vehicle-operations": {
+      "category": "Work & Productivity",
+      "confidence": 95
+    },
+    "helixtrace": {
+      "category": "Work & Productivity",
+      "confidence": 85
+    },
+    "lky-oracle": {
+      "category": "Apps for Your Life",
+      "confidence": 92
+    },
+    "notemae": {
+      "category": "Apps for Your Life",
+      "confidence": 95
+    },
+    "medico-ai-symptom-analyser-app": {
+      "category": "Apps for Your Life",
+      "confidence": 90
+    },
+    "jacque": {
+      "category": "Apps for Your Life",
+      "confidence": 90
+    },
+    "olinckbotai": {
+      "category": "Developer Tools",
+      "confidence": 95
+    },
+    "chapimo": {
+      "category": "Apps for Your Life",
+      "confidence": 92
+    },
+    "kufanyi": {
+      "category": "Work & Productivity",
+      "confidence": 85
+    },
+    "djinzin": {
+      "category": "Apps for Your Life",
+      "confidence": 95
+    },
+    "hskmax": {
+      "category": "Education",
+      "confidence": 95
+    },
+    "animatemath-ai": {
+      "category": "Education",
+      "confidence": 88
+    },
+    "grouphub-szg2nm": {
+      "category": "Work & Productivity",
+      "confidence": 80
+    },
+    "loopskill-durable-workflows-for-codex": {
+      "category": "Developer Tools",
+      "confidence": 90
+    },
+    "digital-krishna": {
+      "category": "Apps for Your Life",
+      "confidence": 92
+    },
+    "ezzapply": {
+      "category": "Apps for Your Life",
+      "confidence": 82
+    },
+    "arenaos": {
+      "category": "Developer Tools",
+      "confidence": 80
+    },
+    "mie-lite-codex-built-multi-agent-intelligence-engine": {
+      "category": "Work & Productivity",
+      "confidence": 82
+    },
+    "skill-router": {
+      "category": "Developer Tools",
+      "confidence": 95
+    },
+    "hati-home-autonomous-threat-interceptor": {
+      "category": "Apps for Your Life",
+      "confidence": 90
+    },
+    "ai-lig": {
+      "category": "Work & Productivity",
+      "confidence": 85
+    },
+    "scrappy-zc7rs5": {
+      "category": "Apps for Your Life",
+      "confidence": 88
+    },
+    "fvision": {
+      "category": "Developer Tools",
+      "confidence": 95
+    },
+    "study-buddy-8iejz6": {
+      "category": "Education",
+      "confidence": 95
+    },
+    "new-years-obby-2026": {
+      "category": "Apps for Your Life",
+      "confidence": 95
+    },
+    "scoresync": {
+      "category": "Work & Productivity",
+      "confidence": 80
+    },
+    "oaset": {
+      "category": "Work & Productivity",
+      "confidence": 55
+    },
+    "mechanoscope-ywlogr": {
+      "category": "Work & Productivity",
+      "confidence": 80
+    },
+    "polycado": {
+      "category": "Education",
+      "confidence": 95
+    },
+    "preuvance-instant-ai-assurance-evidence-by-evidence": {
+      "category": "Work & Productivity",
+      "confidence": 85
+    },
+    "esbiko-interactive-virtual-science-lab": {
+      "category": "Education",
+      "confidence": 95
+    },
+    "simforge-evolve": {
+      "category": "Work & Productivity",
+      "confidence": 75
+    },
+    "aming-claw": {
+      "category": "Developer Tools",
+      "confidence": 90
+    },
+    "takehome-studio-ai-without-outsourcing-judgment": {
+      "category": "Work & Productivity",
+      "confidence": 85
+    },
+    "nafas-postpartum-recovery-shared": {
+      "category": "Apps for Your Life",
+      "confidence": 95
+    },
+    "multi-user-memory": {
+      "category": "Developer Tools",
+      "confidence": 90
+    },
+    "cloudops-autopilot-learning-loop": {
+      "category": "Developer Tools",
+      "confidence": 92
+    },
+    "impactode-runner": {
+      "category": "Developer Tools",
+      "confidence": 95
+    },
+    "splanner-q3vnhg": {
+      "category": "Education",
+      "confidence": 70
+    },
+    "voxpilot-254cwq": {
+      "category": "Apps for Your Life",
+      "confidence": 90
+    },
+    "repset-fv2zt3": {
+      "category": "Apps for Your Life",
+      "confidence": 70
+    },
+    "caselab-insight-engine": {
+      "category": "Work & Productivity",
+      "confidence": 90
+    },
+    "healthify-premium-ai-wellness-companion": {
+      "category": "Apps for Your Life",
+      "confidence": 95
+    },
+    "codeguardian-chlkom": {
+      "category": "Developer Tools",
+      "confidence": 97
+    },
+    "caprica-vault": {
+      "category": "Work & Productivity",
+      "confidence": 92
+    },
+    "ed-4eqw62": {
+      "category": "Work & Productivity",
+      "confidence": 92
+    },
+    "latchline": {
+      "category": "Developer Tools",
+      "confidence": 90
+    },
+    "historylens-ai": {
+      "category": "Apps for Your Life",
+      "confidence": 60
+    },
+    "rpg-me": {
+      "category": "Apps for Your Life",
+      "confidence": 95
+    },
+    "facedev": {
+      "category": "Apps for Your Life",
+      "confidence": 95
+    },
+    "hearth-lmwdoz": {
+      "category": "Apps for Your Life",
+      "confidence": 95
+    },
+    "farmmind": {
+      "category": "Work & Productivity",
+      "confidence": 65
+    },
+    "vulnshield-ai": {
+      "category": "Developer Tools",
+      "confidence": 97
+    },
+    "bad-day-receipt": {
+      "category": "Apps for Your Life",
+      "confidence": 95
+    },
+    "render-ledger": {
+      "category": "Work & Productivity",
+      "confidence": 65
+    },
+    "openpip-open-performance-improvement-plan": {
+      "category": "Apps for Your Life",
+      "confidence": 95
+    },
+    "rag-eval-sidekick": {
+      "category": "Developer Tools",
+      "confidence": 95
+    },
+    "learnspace-kljrwv": {
+      "category": "Education",
+      "confidence": 95
+    },
+    "astro-learner": {
+      "category": "Education",
+      "confidence": 95
+    },
+    "loka-x8opju": {
+      "category": "Education",
+      "confidence": 95
+    },
+    "unmuted-fpoq80": {
+      "category": "Education",
+      "confidence": 70
+    },
+    "urban-flow-ai-0p1m2c": {
+      "category": "Work & Productivity",
+      "confidence": 92
+    },
+    "chaos-brief": {
+      "category": "Work & Productivity",
+      "confidence": 85
+    },
+    "pixelbisect": {
+      "category": "Developer Tools",
+      "confidence": 95
+    },
+    "vants-ai": {
+      "category": "Work & Productivity",
+      "confidence": 75
+    },
+    "faultline-npeola": {
+      "category": "Developer Tools",
+      "confidence": 95
+    },
+    "podcast-article-bias-detector-for-schools": {
+      "category": "Apps for Your Life",
+      "confidence": 70
+    },
+    "super-omega-ai": {
+      "category": "Apps for Your Life",
+      "confidence": 65
+    },
+    "loboloop": {
+      "category": "Work & Productivity",
+      "confidence": 90
+    },
+    "online-meeting-assitant": {
+      "category": "Work & Productivity",
+      "confidence": 75
+    },
+    "fashion-toolkit": {
+      "category": "Work & Productivity",
+      "confidence": 70
+    },
+    "learning-companions": {
+      "category": "Education",
+      "confidence": 95
+    },
+    "xbe-transport-crate-engineering": {
+      "category": "Work & Productivity",
+      "confidence": 80
+    },
+    "radar-gare": {
+      "category": "Work & Productivity",
+      "confidence": 90
+    },
+    "claim-to-commit-verifiable-evidence-for-ai-built-software": {
+      "category": "Developer Tools",
+      "confidence": 95
+    },
+    "plateprofit-ai": {
+      "category": "Work & Productivity",
+      "confidence": 90
+    },
+    "fitwave-0m3rso": {
+      "category": "Work & Productivity",
+      "confidence": 75
+    },
+    "colonymind": {
+      "category": "Work & Productivity",
+      "confidence": 70
+    },
+    "ersatzguide": {
+      "category": "Apps for Your Life",
+      "confidence": 85
+    },
+    "movement-studio-eicpb0": {
+      "category": "Work & Productivity",
+      "confidence": 70
+    },
+    "science-twin": {
+      "category": "Developer Tools",
+      "confidence": 90
+    },
+    "chimera-i4oz8d": {
+      "category": "Work & Productivity",
+      "confidence": 90
+    },
+    "sendsei": {
+      "category": "Apps for Your Life",
+      "confidence": 90
+    },
+    "so-cooked-for-spanish-com": {
+      "category": "Education",
+      "confidence": 95
+    },
+    "atlas-9e03l1": {
+      "category": "Apps for Your Life",
+      "confidence": 80
+    },
+    "openai-for-foundation-models": {
+      "category": "Developer Tools",
+      "confidence": 95
+    },
+    "the-arc-knight-rises": {
+      "category": "Developer Tools",
+      "confidence": 50
+    },
+    "learn-anything-dt3ewx": {
+      "category": "Education",
+      "confidence": 95
+    },
+    "forthstead": {
+      "category": "Apps for Your Life",
+      "confidence": 80
+    },
+    "release-truth": {
+      "category": "Developer Tools",
+      "confidence": 70
+    },
+    "relay-ai-engineering-command-center": {
+      "category": "Developer Tools",
+      "confidence": 95
+    },
+    "woso-brain": {
+      "category": "Education",
+      "confidence": 60
+    },
+    "maintelyd": {
+      "category": "Work & Productivity",
+      "confidence": 80
+    },
+    "workradar-ai-job-agent": {
+      "category": "Apps for Your Life",
+      "confidence": 70
+    },
+    "stroykontrol-ai-construction-control-copilot": {
+      "category": "Work & Productivity",
+      "confidence": 90
+    },
+    "kobi": {
+      "category": "Education",
+      "confidence": 90
+    },
+    "buildaroo": {
+      "category": "Developer Tools",
+      "confidence": 45
+    },
+    "remove-before-flight": {
+      "category": "Apps for Your Life",
+      "confidence": 90
+    },
+    "tmp1": {
+      "category": "Apps for Your Life",
+      "confidence": 95
+    },
+    "marginilia": {
+      "category": "Work & Productivity",
+      "confidence": 55
+    },
+    "mine-gpt": {
+      "category": "Apps for Your Life",
+      "confidence": 90
+    },
+    "clapper-chpijl": {
+      "category": "Work & Productivity",
+      "confidence": 80
+    },
+    "madlava": {
+      "category": "Developer Tools",
+      "confidence": 95
+    },
+    "htre-research-lab": {
+      "category": "Work & Productivity",
+      "confidence": 80
+    },
+    "codexlingo": {
+      "category": "Education",
+      "confidence": 90
+    },
+    "reasonweave": {
+      "category": "Education",
+      "confidence": 92
+    },
+    "pipo-emergency-layer": {
+      "category": "Apps for Your Life",
+      "confidence": 70
+    },
+    "steadiora": {
+      "category": "Apps for Your Life",
+      "confidence": 92
+    },
+    "saga-core-authorization-before-output": {
+      "category": "Developer Tools",
+      "confidence": 90
+    },
+    "materiales-auto-reparables-con-memoria-de-forma-cuantica": {
+      "category": "Apps for Your Life",
+      "confidence": 65
+    },
+    "columbus-xksvaz": {
+      "category": "Apps for Your Life",
+      "confidence": 90
+    },
+    "aiflashcard-classroom-learning": {
+      "category": "Education",
+      "confidence": 92
+    },
+    "agentshare-live-tester-gpt-5-6-sol-defi-agent": {
+      "category": "Developer Tools",
+      "confidence": 80
+    },
+    "codegoat": {
+      "category": "Developer Tools",
+      "confidence": 92
+    },
+    "ai-api-dashboard": {
+      "category": "Developer Tools",
+      "confidence": 60
+    },
+    "cortex-fl13vm": {
+      "category": "Developer Tools",
+      "confidence": 90
+    },
+    "dvojina-vip": {
+      "category": "Apps for Your Life",
+      "confidence": 90
+    },
+    "trace-nmal39": {
+      "category": "Education",
+      "confidence": 70
+    },
+    "vigilagent-nsbfhy": {
+      "category": "Developer Tools",
+      "confidence": 92
+    },
+    "podex": {
+      "category": "Developer Tools",
+      "confidence": 80
+    },
+    "postbirth": {
+      "category": "Apps for Your Life",
+      "confidence": 92
+    },
+    "ares-46b9gi": {
+      "category": "Developer Tools",
+      "confidence": 92
+    },
+    "apollo-hj0c9m": {
+      "category": "Apps for Your Life",
+      "confidence": 55
+    },
+    "fuzzylife-fc1xty": {
+      "category": "Apps for Your Life",
+      "confidence": 70
+    },
+    "data-format-lab": {
+      "category": "Developer Tools",
+      "confidence": 70
+    },
+    "only-you": {
+      "category": "Apps for Your Life",
+      "confidence": 90
+    },
+    "evalguard": {
+      "category": "Education",
+      "confidence": 95
+    },
+    "nate-the-bait": {
+      "category": "Apps for Your Life",
+      "confidence": 95
+    },
+    "finpilotai": {
+      "category": "Education",
+      "confidence": 95
+    },
+    "before-the-agent": {
+      "category": "Developer Tools",
+      "confidence": 95
+    },
+    "knot-vygbao": {
+      "category": "Work & Productivity",
+      "confidence": 80
+    },
+    "projectben": {
+      "category": "Apps for Your Life",
+      "confidence": 75
+    },
+    "rojgarwork-india-s-connected-opportunity-platform": {
+      "category": "Work & Productivity",
+      "confidence": 90
+    },
+    "docuguardian": {
+      "category": "Apps for Your Life",
+      "confidence": 85
+    },
+    "chalk-rq94cd": {
+      "category": "Education",
+      "confidence": 95
+    },
+    "aligndiff": {
+      "category": "Developer Tools",
+      "confidence": 95
+    },
+    "sql-sprint": {
+      "category": "Education",
+      "confidence": 95
+    },
+    "expertflow-lxby6e": {
+      "category": "Developer Tools",
+      "confidence": 95
+    },
+    "codesense-z6ge4a": {
+      "category": "Education",
+      "confidence": 85
+    },
+    "clearsubscription": {
+      "category": "Apps for Your Life",
+      "confidence": 90
+    },
+    "modori-a-local-research-os-for-social-science": {
+      "category": "Work & Productivity",
+      "confidence": 85
+    },
+    "listener-lens": {
+      "category": "Education",
+      "confidence": 90
+    },
+    "library-sbz34r": {
+      "category": "Apps for Your Life",
+      "confidence": 65
+    },
+    "roadpatron": {
+      "category": "Apps for Your Life",
+      "confidence": 70
+    },
+    "posty-ai-powered-social-media-automation-platform": {
+      "category": "Work & Productivity",
+      "confidence": 75
+    },
+    "meetless": {
+      "category": "Developer Tools",
+      "confidence": 85
+    },
+    "ansbridge-intendra": {
+      "category": "Work & Productivity",
+      "confidence": 90
+    },
+    "tinygpt": {
+      "category": "Apps for Your Life",
+      "confidence": 50
+    },
+    "skillbridge-ai-your-adaptive-career-gps": {
+      "category": "Education",
+      "confidence": 90
+    },
+    "quote-guard": {
+      "category": "Work & Productivity",
+      "confidence": 80
+    },
+    "slotin": {
+      "category": "Apps for Your Life",
+      "confidence": 85
+    },
+    "mortalos": {
+      "category": "Apps for Your Life",
+      "confidence": 55
+    },
+    "mayiagent": {
+      "category": "Work & Productivity",
+      "confidence": 90
+    },
+    "homegift-private-digital-offertory-by-tap-scan-or-link": {
+      "category": "Apps for Your Life",
+      "confidence": 75
+    },
+    "the-observatory-of-claims": {
+      "category": "Education",
+      "confidence": 90
+    },
+    "debugpilot-ai": {
+      "category": "Developer Tools",
+      "confidence": 90
+    },
+    "being-human-skillmap": {
+      "category": "Education",
+      "confidence": 90
+    },
+    "safex-gzwq09": {
+      "category": "Developer Tools",
+      "confidence": 85
+    },
+    "music-memory-ai": {
+      "category": "Apps for Your Life",
+      "confidence": 85
+    },
+    "via-from-conversation-to-work": {
+      "category": "Work & Productivity",
+      "confidence": 88
+    },
+    "dezajn-worldwide-fashion-marketplace": {
+      "category": "Apps for Your Life",
+      "confidence": 65
+    },
+    "angola-explorer-ai": {
+      "category": "Apps for Your Life",
+      "confidence": 85
+    },
+    "jx-ops-agent": {
+      "category": "Developer Tools",
+      "confidence": 80
+    },
+    "warm-antarctica": {
+      "category": "Education",
+      "confidence": 95
+    },
+    "energycircle": {
+      "category": "Apps for Your Life",
+      "confidence": 80
+    },
+    "behavioral-health-evidence-builder": {
+      "category": "Work & Productivity",
+      "confidence": 90
+    },
+    "synergysplit": {
+      "category": "Apps for Your Life",
+      "confidence": 95
+    },
+    "grasp-85teg1": {
+      "category": "Education",
+      "confidence": 90
+    },
+    "thaliiq": {
+      "category": "Apps for Your Life",
+      "confidence": 95
+    },
+    "meeting-debt-collector-jehpvi": {
+      "category": "Work & Productivity",
+      "confidence": 95
+    },
+    "tripready-ai": {
+      "category": "Apps for Your Life",
+      "confidence": 95
+    },
+    "circuitship-studio": {
+      "category": "Developer Tools",
+      "confidence": 80
+    },
+    "timewalk-bofu49": {
+      "category": "Apps for Your Life",
+      "confidence": 70
+    },
+    "weatherwise-trip-guardian": {
+      "category": "Apps for Your Life",
+      "confidence": 92
+    },
+    "cfo-intel": {
+      "category": "Work & Productivity",
+      "confidence": 95
+    },
+    "visual-contract": {
+      "category": "Developer Tools",
+      "confidence": 90
+    },
+    "pear-cook": {
+      "category": "Apps for Your Life",
+      "confidence": 95
+    },
+    "motivational-communication-assistant": {
+      "category": "Work & Productivity",
+      "confidence": 90
+    },
+    "homeos-family-action-inbox": {
+      "category": "Apps for Your Life",
+      "confidence": 92
+    },
+    "sentinel-dev": {
+      "category": "Developer Tools",
+      "confidence": 95
+    },
+    "pullkin": {
+      "category": "Apps for Your Life",
+      "confidence": 95
+    },
+    "evidence-to-test": {
+      "category": "Developer Tools",
+      "confidence": 95
+    },
+    "before-the-clue": {
+      "category": "Education",
+      "confidence": 90
+    },
+    "onlytax": {
+      "category": "Work & Productivity",
+      "confidence": 92
+    },
+    "mainquest-the-unwritten-world": {
+      "category": "Apps for Your Life",
+      "confidence": 65
+    },
+    "aplx-ai": {
+      "category": "Apps for Your Life",
+      "confidence": 50
+    },
+    "aplyged-a-voice-tutor-that-teaches-the-next-step": {
+      "category": "Education",
+      "confidence": 95
+    },
+    "exai-c1zd9s": {
+      "category": "Work & Productivity",
+      "confidence": 88
+    },
+    "ai-for-investor": {
+      "category": "Work & Productivity",
+      "confidence": 85
+    },
+    "prepaste": {
+      "category": "Apps for Your Life",
+      "confidence": 68
+    },
+    "draft-walk": {
+      "category": "Apps for Your Life",
+      "confidence": 80
+    },
+    "credentia-6zqtua": {
+      "category": "Work & Productivity",
+      "confidence": 85
+    },
+    "phrase-dictionary-ai": {
+      "category": "Education",
+      "confidence": 82
+    },
+    "project-8lh7u5sbqorz": {
+      "category": "Apps for Your Life",
+      "confidence": 80
+    },
+    "project-tpxomfvqn875": {
+      "category": "Apps for Your Life",
+      "confidence": 85
+    },
+    "glasshouse-xyik58": {
+      "category": "Developer Tools",
+      "confidence": 95
+    },
+    "candrive-id": {
+      "category": "Apps for Your Life",
+      "confidence": 85
+    },
+    "standpoint-ai-crowd-experience-simulator": {
+      "category": "Work & Productivity",
+      "confidence": 88
+    },
+    "did-you-know-6y9m8t": {
+      "category": "Education",
+      "confidence": 95
+    },
+    "internpulse": {
+      "category": "Work & Productivity",
+      "confidence": 90
+    },
+    "plasmonic-coupling-simulator": {
+      "category": "Work & Productivity",
+      "confidence": 72
+    },
+    "graphene-decision-provenance-graph": {
+      "category": "Developer Tools",
+      "confidence": 95
+    },
+    "nocloud": {
+      "category": "Apps for Your Life",
+      "confidence": 95
+    },
+    "arc-genesis-india-s-land-intelligence-workspace": {
+      "category": "Work & Productivity",
+      "confidence": 90
+    },
+    "map-my-block": {
+      "category": "Work & Productivity",
+      "confidence": 90
+    },
+    "continuous-function": {
+      "category": "Education",
+      "confidence": 95
+    },
+    "equeue-ai": {
+      "category": "Apps for Your Life",
+      "confidence": 95
+    },
+    "clearok": {
+      "category": "Apps for Your Life",
+      "confidence": 90
+    },
+    "siteforge-6p12tf": {
+      "category": "Work & Productivity",
+      "confidence": 92
+    },
+    "binayatbot": {
+      "category": "Work & Productivity",
+      "confidence": 80
+    },
+    "parallax-u164si": {
+      "category": "Developer Tools",
+      "confidence": 70
+    },
+    "codexplain": {
+      "category": "Education",
+      "confidence": 95
+    },
+    "education-debate-coach": {
+      "category": "Education",
+      "confidence": 95
+    },
+    "capability-engine-situation-analysis": {
+      "category": "Education",
+      "confidence": 95
+    },
+    "travelgenius-6a2yzx": {
+      "category": "Education",
+      "confidence": 95
+    },
+    "demo-flow": {
+      "category": "Developer Tools",
+      "confidence": 92
+    },
+    "medtutor-agentic-clinical-coach": {
+      "category": "Education",
+      "confidence": 90
+    },
+    "diffthing": {
+      "category": "Developer Tools",
+      "confidence": 95
+    },
+    "surf-forecaster": {
+      "category": "Apps for Your Life",
+      "confidence": 95
+    },
+    "healthia-ai-clinical-operating-system": {
+      "category": "Work & Productivity",
+      "confidence": 90
+    },
+    "agentic-studio-3d": {
+      "category": "Apps for Your Life",
+      "confidence": 85
+    },
+    "transcript-knowledge-hub": {
+      "category": "Apps for Your Life",
+      "confidence": 85
+    },
+    "cortex-re9x7k": {
+      "category": "Apps for Your Life",
+      "confidence": 85
+    },
+    "ozzz-io": {
+      "category": "Education",
+      "confidence": 90
+    },
+    "grabcash": {
+      "category": "Work & Productivity",
+      "confidence": 65
+    },
+    "qonvergence-trials": {
+      "category": "Work & Productivity",
+      "confidence": 90
+    },
+    "lexwrite": {
+      "category": "Work & Productivity",
+      "confidence": 90
+    },
+    "portfolio-loadout": {
+      "category": "Apps for Your Life",
+      "confidence": 85
+    },
+    "fight-club-tygmpz": {
+      "category": "Apps for Your Life",
+      "confidence": 70
+    },
+    "arkvoid": {
+      "category": "Developer Tools",
+      "confidence": 75
+    },
+    "murmur-u8pqbx": {
+      "category": "Apps for Your Life",
+      "confidence": 50
+    },
+    "spex": {
+      "category": "Developer Tools",
+      "confidence": 90
+    },
+    "companyverse": {
+      "category": "Work & Productivity",
+      "confidence": 90
+    },
+    "first-day": {
+      "category": "Education",
+      "confidence": 90
+    },
+    "nexusos-xghvqc": {
+      "category": "Work & Productivity",
+      "confidence": 90
+    },
+    "aegis-bap5qi": {
+      "category": "Developer Tools",
+      "confidence": 90
+    },
+    "sourcecut-he7pl2": {
+      "category": "Work & Productivity",
+      "confidence": 85
+    },
+    "project-horizon-3ym728": {
+      "category": "Education",
+      "confidence": 95
+    },
+    "taxflow-ai": {
+      "category": "Work & Productivity",
+      "confidence": 60
+    },
+    "photo-music-prompt-builder": {
+      "category": "Apps for Your Life",
+      "confidence": 90
+    },
+    "syntharchitecture": {
+      "category": "Developer Tools",
+      "confidence": 80
+    },
+    "prism-cxgib6": {
+      "category": "Apps for Your Life",
+      "confidence": 75
+    },
+    "job-hunt-signal-huoapj": {
+      "category": "Apps for Your Life",
+      "confidence": 85
+    },
+    "bob-ai-territory-inspector": {
+      "category": "Developer Tools",
+      "confidence": 55
+    },
+    "agentard-u3wkx7": {
+      "category": "Developer Tools",
+      "confidence": 90
+    },
+    "bandmaster": {
+      "category": "Developer Tools",
+      "confidence": 95
+    },
+    "skillforge-hkybl3": {
+      "category": "Education",
+      "confidence": 90
+    },
+    "flow-ai-e9pd1y": {
+      "category": "Work & Productivity",
+      "confidence": 75
+    },
+    "bondradar-ai": {
+      "category": "Apps for Your Life",
+      "confidence": 65
+    },
+    "deshkaai-human-first-ai-safety-infrastructure": {
+      "category": "Developer Tools",
+      "confidence": 70
+    },
+    "fijo": {
+      "category": "Apps for Your Life",
+      "confidence": 90
+    },
+    "movilno": {
+      "category": "Education",
+      "confidence": 95
+    },
+    "paneflow": {
+      "category": "Developer Tools",
+      "confidence": 95
+    },
+    "phishlens-i8cu49": {
+      "category": "Apps for Your Life",
+      "confidence": 80
+    },
+    "agentops-studio-xzlhtn": {
+      "category": "Developer Tools",
+      "confidence": 95
+    },
+    "berest": {
+      "category": "Developer Tools",
+      "confidence": 95
+    },
+    "arirest-gbs-ai-powered-restaurant-operating-system": {
+      "category": "Work & Productivity",
+      "confidence": 95
+    },
+    "leaklens-tls5oq": {
+      "category": "Developer Tools",
+      "confidence": 95
+    },
+    "sieve-es0x8f": {
+      "category": "Developer Tools",
+      "confidence": 95
+    },
+    "molta-59aydu": {
+      "category": "Developer Tools",
+      "confidence": 95
+    },
+    "molta": {
+      "category": "Developer Tools",
+      "confidence": 95
+    },
+    "teachnow-ai": {
+      "category": "Education",
+      "confidence": 95
+    },
+    "studynest-o0t8kd": {
+      "category": "Education",
+      "confidence": 88
+    },
+    "wizzleflow-ai-editable-flowcharts-maker": {
+      "category": "Work & Productivity",
+      "confidence": 75
+    },
+    "preview-3e1fgr": {
+      "category": "Work & Productivity",
+      "confidence": 70
+    },
+    "medi-palet-links": {
+      "category": "Work & Productivity",
+      "confidence": 60
+    },
+    "myyacht": {
+      "category": "Apps for Your Life",
+      "confidence": 90
+    },
+    "amy-ai-tutor": {
+      "category": "Education",
+      "confidence": 95
+    },
+    "ai-based-commercial-analytics-dashboard": {
+      "category": "Work & Productivity",
+      "confidence": 90
+    },
+    "jarvis-tqlgi4": {
+      "category": "Work & Productivity",
+      "confidence": 90
+    },
+    "gst-invoice-management": {
+      "category": "Education",
+      "confidence": 50
+    },
+    "repo-rehersal": {
+      "category": "Education",
+      "confidence": 72
+    },
+    "mittiguard": {
+      "category": "Work & Productivity",
+      "confidence": 85
+    },
+    "explain-my-bill-dbu1vw": {
+      "category": "Apps for Your Life",
+      "confidence": 92
+    },
+    "chemspec": {
+      "category": "Education",
+      "confidence": 95
+    },
+    "learnos-0-26-education-hub": {
+      "category": "Education",
+      "confidence": 92
+    },
+    "astrycomply": {
+      "category": "Work & Productivity",
+      "confidence": 90
+    },
+    "ai-tools-oasis": {
+      "category": "Apps for Your Life",
+      "confidence": 65
+    },
+    "codexia-b5uj2s": {
+      "category": "Apps for Your Life",
+      "confidence": 90
+    },
+    "crosspatch": {
+      "category": "Developer Tools",
+      "confidence": 88
+    },
+    "physical-ai-lab": {
+      "category": "Education",
+      "confidence": 94
+    },
+    "shalomworks-live-interpreter": {
+      "category": "Apps for Your Life",
+      "confidence": 88
+    },
+    "lessonloop-a5e806": {
+      "category": "Education",
+      "confidence": 90
+    },
+    "colorhelper": {
+      "category": "Apps for Your Life",
+      "confidence": 85
+    },
+    "opspilot-ai-clseik": {
+      "category": "Work & Productivity",
+      "confidence": 90
+    },
+    "archive-mind": {
+      "category": "Apps for Your Life",
+      "confidence": 80
+    },
+    "pocket-butler": {
+      "category": "Apps for Your Life",
+      "confidence": 90
+    },
+    "livespec": {
+      "category": "Developer Tools",
+      "confidence": 90
+    },
+    "insight-wellness-guide": {
+      "category": "Work & Productivity",
+      "confidence": 75
+    },
+    "clearbill-t4wf1p": {
+      "category": "Apps for Your Life",
+      "confidence": 90
+    },
+    "accept-user": {
+      "category": "Work & Productivity",
+      "confidence": 80
+    },
+    "codepilot-ai-c71z9m": {
+      "category": "Developer Tools",
+      "confidence": 90
+    },
+    "memoryos-wz4j71": {
+      "category": "Developer Tools",
+      "confidence": 80
+    },
+    "queryshadow": {
+      "category": "Developer Tools",
+      "confidence": 75
+    },
+    "mindrelax-buddy": {
+      "category": "Apps for Your Life",
+      "confidence": 90
+    },
+    "smart-marketing-campaign-optimizer": {
+      "category": "Work & Productivity",
+      "confidence": 90
+    },
+    "akmasvision": {
+      "category": "Work & Productivity",
+      "confidence": 90
+    },
+    "devdiscuss": {
+      "category": "Developer Tools",
+      "confidence": 80
+    },
+    "agentready-l0y76f": {
+      "category": "Developer Tools",
+      "confidence": 80
+    },
+    "lummy": {
+      "category": "Apps for Your Life",
+      "confidence": 90
+    },
+    "prompt2app-pqjxal": {
+      "category": "Apps for Your Life",
+      "confidence": 70
+    },
+    "codna": {
+      "category": "Developer Tools",
+      "confidence": 85
+    },
+    "intellireview-ai": {
+      "category": "Developer Tools",
+      "confidence": 95
+    },
+    "cineprompt-ai": {
+      "category": "Apps for Your Life",
+      "confidence": 88
+    },
+    "gardencircle-ai": {
+      "category": "Apps for Your Life",
+      "confidence": 95
+    },
+    "ai-drama": {
+      "category": "Apps for Your Life",
+      "confidence": 85
+    },
+    "ai-challenge-room": {
+      "category": "Work & Productivity",
+      "confidence": 85
+    },
+    "mentora-bzfrm8": {
+      "category": "Education",
+      "confidence": 97
+    },
+    "resolveai-wq6l7c": {
+      "category": "Apps for Your Life",
+      "confidence": 90
+    },
+    "insightiq-d06jh1": {
+      "category": "Apps for Your Life",
+      "confidence": 80
+    },
+    "chatsaves": {
+      "category": "Education",
+      "confidence": 88
+    },
+    "logiccanvas": {
+      "category": "Education",
+      "confidence": 95
+    },
+    "gbox": {
+      "category": "Developer Tools",
+      "confidence": 82
+    },
+    "marklang": {
+      "category": "Developer Tools",
+      "confidence": 92
+    },
+    "swenest": {
+      "category": "Education",
+      "confidence": 93
+    },
+    "where-did-it-go-bow2ad": {
+      "category": "Apps for Your Life",
+      "confidence": 93
+    },
+    "airbridge-for-windows": {
+      "category": "Apps for Your Life",
+      "confidence": 90
+    },
+    "incident-commander-ai": {
+      "category": "Developer Tools",
+      "confidence": 88
+    },
+    "sahaaya": {
+      "category": "Apps for Your Life",
+      "confidence": 92
+    },
+    "santulan": {
+      "category": "Apps for Your Life",
+      "confidence": 84
+    },
+    "learnos-multi-agent-ai-learning-platform": {
+      "category": "Apps for Your Life",
+      "confidence": 92
+    },
+    "shadow-interview-nhypgv": {
+      "category": "Education",
+      "confidence": 92
+    },
+    "medical-inventory-management-software-with-ai-assistant": {
+      "category": "Work & Productivity",
+      "confidence": 90
+    },
+    "ati": {
+      "category": "Apps for Your Life",
+      "confidence": 35
+    },
+    "ovm-open-version-manager": {
+      "category": "Developer Tools",
+      "confidence": 95
+    },
+    "local-ai-chat-cat": {
+      "category": "Apps for Your Life",
+      "confidence": 70
+    },
+    "chatproofs-b6ygw8": {
+      "category": "Work & Productivity",
+      "confidence": 60
+    },
+    "aria-journey": {
+      "category": "Developer Tools",
+      "confidence": 90
+    },
+    "dry-validation-rust": {
+      "category": "Developer Tools",
+      "confidence": 95
+    },
+    "atiqlearn-ai-powered-adaptive-learning-platform": {
+      "category": "Education",
+      "confidence": 95
+    },
+    "proofmode": {
+      "category": "Education",
+      "confidence": 65
+    },
+    "voiceshield-sdk": {
+      "category": "Developer Tools",
+      "confidence": 95
+    },
+    "siteops-ai": {
+      "category": "Work & Productivity",
+      "confidence": 90
+    },
+    "ai-service-assistant": {
+      "category": "Work & Productivity",
+      "confidence": 90
+    },
+    "evolastra-codex-agents-visualized-in-a-space-rts": {
+      "category": "Work & Productivity",
+      "confidence": 55
+    },
+    "the-world-of-leon-an-ai-adventure": {
+      "category": "Apps for Your Life",
+      "confidence": 90
+    },
+    "ares-cyber-decision-engine": {
+      "category": "Work & Productivity",
+      "confidence": 90
+    },
+    "recyra-ai": {
+      "category": "Work & Productivity",
+      "confidence": 90
+    },
+    "project-mimir-onboarding": {
+      "category": "Education",
+      "confidence": 60
+    },
+    "bookbag": {
+      "category": "Education",
+      "confidence": 90
+    },
+    "yodoku": {
+      "category": "Apps for Your Life",
+      "confidence": 95
+    },
+    "medicineboxnotes": {
+      "category": "Apps for Your Life",
+      "confidence": 95
+    },
+    "barre-code-movement-cipher-lab": {
+      "category": "Education",
+      "confidence": 95
+    },
+    "workpulse-ek0y9o": {
+      "category": "Work & Productivity",
+      "confidence": 95
+    },
+    "codesense-ai": {
+      "category": "Developer Tools",
+      "confidence": 95
+    },
+    "lumina-agentic-lms": {
+      "category": "Education",
+      "confidence": 95
+    },
+    "tf-crm": {
+      "category": "Work & Productivity",
+      "confidence": 95
+    },
+    "image-alchemy": {
+      "category": "Education",
+      "confidence": 95
+    },
+    "lupa-for-autobiography": {
+      "category": "Apps for Your Life",
+      "confidence": 90
+    },
+    "agentic-rag-5hjwog": {
+      "category": "Apps for Your Life",
+      "confidence": 95
+    },
+    "storyloom-8g97fv": {
+      "category": "Apps for Your Life",
+      "confidence": 85
+    },
+    "axiom-orthogonal-modeling": {
+      "category": "Education",
+      "confidence": 95
+    },
+    "spectraguard": {
+      "category": "Work & Productivity",
+      "confidence": 90
+    },
+    "careerpath-agent": {
+      "category": "Apps for Your Life",
+      "confidence": 80
+    },
+    "axodus-bba": {
+      "category": "Work & Productivity",
+      "confidence": 90
+    },
+    "omnicell-ai": {
+      "category": "Work & Productivity",
+      "confidence": 85
+    },
+    "pathpilot-ai-tq6jph": {
+      "category": "Apps for Your Life",
+      "confidence": 80
+    },
+    "ai-presentation-partner": {
+      "category": "Apps for Your Life",
+      "confidence": 80
+    },
+    "estetia": {
+      "category": "Apps for Your Life",
+      "confidence": 90
+    },
+    "phillnet-loop-the-continuous-agentic-workspace": {
+      "category": "Developer Tools",
+      "confidence": 95
+    },
+    "sightline-tw9rj1": {
+      "category": "Apps for Your Life",
+      "confidence": 95
+    },
+    "nexus-rykp2n": {
+      "category": "Apps for Your Life",
+      "confidence": 90
+    },
+    "reptrack-eq6yfg": {
+      "category": "Apps for Your Life",
+      "confidence": 90
+    },
+    "edwise-r1y0di": {
+      "category": "Apps for Your Life",
+      "confidence": 90
+    },
+    "token-goblin": {
+      "category": "Apps for Your Life",
+      "confidence": 70
+    },
+    "space-warriors": {
+      "category": "Apps for Your Life",
+      "confidence": 95
+    },
+    "guardian-autonomous-ai-security-engineer": {
+      "category": "Developer Tools",
+      "confidence": 95
+    },
+    "provenance-9fn6ml": {
+      "category": "Education",
+      "confidence": 80
+    },
+    "hellodesk-ai": {
+      "category": "Work & Productivity",
+      "confidence": 95
+    },
+    "bid-strategy": {
+      "category": "Work & Productivity",
+      "confidence": 95
+    },
+    "archi-ai-for-better-building-decisions": {
+      "category": "Apps for Your Life",
+      "confidence": 70
+    },
+    "technodrive": {
+      "category": "Work & Productivity",
+      "confidence": 95
+    },
+    "wowbid": {
+      "category": "Work & Productivity",
+      "confidence": 45
+    },
+    "supervelocitycurve": {
+      "category": "Apps for Your Life",
+      "confidence": 80
+    },
+    "meetvap": {
+      "category": "Apps for Your Life",
+      "confidence": 95
+    },
+    "culture-engine": {
+      "category": "Apps for Your Life",
+      "confidence": 75
+    },
+    "unisong": {
+      "category": "Apps for Your Life",
+      "confidence": 90
+    },
+    "siterelay": {
+      "category": "Developer Tools",
+      "confidence": 95
+    },
+    "resonance-kqol5x": {
+      "category": "Apps for Your Life",
+      "confidence": 70
+    },
+    "mosa-ftwucj": {
+      "category": "Apps for Your Life",
+      "confidence": 75
+    },
+    "diy-visa": {
+      "category": "Apps for Your Life",
+      "confidence": 95
+    },
+    "arcledger-18q7gs": {
+      "category": "Work & Productivity",
+      "confidence": 85
+    },
+    "swai-ai": {
+      "category": "Work & Productivity",
+      "confidence": 90
+    },
+    "tiktok-influencer-acquisition-assistant": {
+      "category": "Work & Productivity",
+      "confidence": 85
+    },
+    "agentville": {
+      "category": "Education",
+      "confidence": 95
+    },
+    "studymate-ai-aw2ezi": {
+      "category": "Education",
+      "confidence": 95
+    },
+    "volkererp": {
+      "category": "Work & Productivity",
+      "confidence": 95
+    },
+    "discover-and-cmdb-for-govern-ai-agents-models-prompts": {
+      "category": "Work & Productivity",
+      "confidence": 70
+    },
+    "conceptlab-ai": {
+      "category": "Education",
+      "confidence": 95
+    },
+    "pemi-ai-pet-minder-reader": {
+      "category": "Apps for Your Life",
+      "confidence": 90
+    },
+    "release-guardian-ai": {
+      "category": "Developer Tools",
+      "confidence": 95
+    },
+    "mind-dojo-7obt94": {
+      "category": "Education",
+      "confidence": 95
+    },
+    "liveforever": {
+      "category": "Apps for Your Life",
+      "confidence": 90
+    },
+    "anything-vw3dho": {
+      "category": "Apps for Your Life",
+      "confidence": 25
+    },
+    "5-minutes-mobil-real-time-strategy-game": {
+      "category": "Apps for Your Life",
+      "confidence": 90
+    },
+    "ghaz": {
+      "category": "Apps for Your Life",
+      "confidence": 95
+    },
+    "conversate-confirm": {
+      "category": "Work & Productivity",
+      "confidence": 85
+    },
+    "teamdynamics": {
+      "category": "Work & Productivity",
+      "confidence": 90
+    },
+    "look-closer": {
+      "category": "Education",
+      "confidence": 70
+    },
+    "protolink-skill": {
+      "category": "Work & Productivity",
+      "confidence": 85
+    },
+    "supporttrace-evidence-gate": {
+      "category": "Work & Productivity",
+      "confidence": 90
+    },
+    "baiyuxi-agent-studio": {
+      "category": "Developer Tools",
+      "confidence": 95
+    },
+    "careerproof-job-search-agent": {
+      "category": "Apps for Your Life",
+      "confidence": 90
+    },
+    "verbaradar": {
+      "category": "Work & Productivity",
+      "confidence": 80
+    },
+    "dr-bakry-ai-evidence-to-fix-website-audit": {
+      "category": "Work & Productivity",
+      "confidence": 65
+    },
+    "nexus-vector-evidence-guard": {
+      "category": "Developer Tools",
+      "confidence": 95
+    },
+    "donala": {
+      "category": "Developer Tools",
+      "confidence": 90
+    },
+    "touchline": {
+      "category": "Work & Productivity",
+      "confidence": 75
+    },
+    "deepcandidate": {
+      "category": "Apps for Your Life",
+      "confidence": 90
+    },
+    "matrixai-local-first-ai-engineering-workspace": {
+      "category": "Developer Tools",
+      "confidence": 95
+    },
+    "kvassistent": {
+      "category": "Apps for Your Life",
+      "confidence": 90
+    },
+    "ai-output-gates": {
+      "category": "Developer Tools",
+      "confidence": 95
+    },
+    "sangongxianpei": {
+      "category": "Work & Productivity",
+      "confidence": 75
+    },
+    "sre-brain": {
+      "category": "Developer Tools",
+      "confidence": 75
+    },
+    "mosaic-on1c52": {
+      "category": "Apps for Your Life",
+      "confidence": 75
+    },
+    "pathpilot-ai-0do4q1": {
+      "category": "Education",
+      "confidence": 90
+    },
+    "insightful-article-writer": {
+      "category": "Work & Productivity",
+      "confidence": 60
+    },
+    "tradeparity-lab": {
+      "category": "Work & Productivity",
+      "confidence": 65
+    },
+    "crypto-intelligence-terminal-evidence-review-assistant": {
+      "category": "Apps for Your Life",
+      "confidence": 60
+    },
+    "rentpilot-ai": {
+      "category": "Work & Productivity",
+      "confidence": 90
+    },
+    "agrica-market": {
+      "category": "Apps for Your Life",
+      "confidence": 90
+    },
+    "classtrek": {
+      "category": "Education",
+      "confidence": 90
+    },
+    "ctxindex-wb1n6d": {
+      "category": "Developer Tools",
+      "confidence": 95
+    },
+    "restaurant-menu-0akh57": {
+      "category": "Work & Productivity",
+      "confidence": 90
+    },
+    "rada-ranked-agent-decision-arena": {
+      "category": "Developer Tools",
+      "confidence": 95
+    },
+    "mynawoo-learning-autopilot": {
+      "category": "Education",
+      "confidence": 90
+    },
+    "safesearch": {
+      "category": "Work & Productivity",
+      "confidence": 60
+    },
+    "mlevelup": {
+      "category": "Education",
+      "confidence": 80
+    },
+    "fulfillguard": {
+      "category": "Work & Productivity",
+      "confidence": 95
+    },
+    "projector-space": {
+      "category": "Developer Tools",
+      "confidence": 95
+    },
+    "manycompute-com": {
+      "category": "Developer Tools",
+      "confidence": 85
+    },
+    "japan-co-jp-the-ai-newsroom-for-japan": {
+      "category": "Work & Productivity",
+      "confidence": 55
+    },
+    "distribution-management-system-saas-project": {
+      "category": "Work & Productivity",
+      "confidence": 95
+    },
+    "pathpilot-41w3he": {
+      "category": "Education",
+      "confidence": 95
+    },
+    "sentinel-way5bd": {
+      "category": "Developer Tools",
+      "confidence": 95
+    },
+    "tars-revoke": {
+      "category": "Developer Tools",
+      "confidence": 95
+    },
+    "insurancecrew": {
+      "category": "Work & Productivity",
+      "confidence": 95
+    },
+    "ya-mecenes": {
+      "category": "Apps for Your Life",
+      "confidence": 75
+    },
+    "hairlinksg": {
+      "category": "Apps for Your Life",
+      "confidence": 90
+    },
+    "turboprefill": {
+      "category": "Developer Tools",
+      "confidence": 95
+    },
+    "agentsboard": {
+      "category": "Apps for Your Life",
+      "confidence": 80
+    },
+    "socialrightos-evidence-bound-rights-guidance": {
+      "category": "Apps for Your Life",
+      "confidence": 75
+    },
+    "hydropower-plant-om-and-document-management-system": {
+      "category": "Work & Productivity",
+      "confidence": 95
+    },
+    "camps-icu-figure-skating-in-one-place": {
+      "category": "Apps for Your Life",
+      "confidence": 85
+    },
+    "cring-ai-ai-smart-ring-for-glucose-blood-pressure": {
+      "category": "Apps for Your Life",
+      "confidence": 80
+    },
+    "adam-engineering-living-cognition": {
+      "category": "Developer Tools",
+      "confidence": 50
+    },
+    "qorx-zero-fgczmt": {
+      "category": "Developer Tools",
+      "confidence": 95
+    },
+    "the-life": {
+      "category": "Apps for Your Life",
+      "confidence": 90
+    },
+    "i-don-t-know-4uvxe8": {
+      "category": "Education",
+      "confidence": 90
+    },
+    "sniccer-ai-quote-copilot-for-tradespeople": {
+      "category": "Work & Productivity",
+      "confidence": 90
+    },
+    "gia-su-ai": {
+      "category": "Education",
+      "confidence": 95
+    },
+    "erkan-ai": {
+      "category": "Apps for Your Life",
+      "confidence": 40
+    },
+    "seezambia-civic-intelligence": {
+      "category": "Apps for Your Life",
+      "confidence": 75
+    },
+    "atomic-learning-graph-5hniel": {
+      "category": "Education",
+      "confidence": 90
+    },
+    "boris-ebqd2l": {
+      "category": "Developer Tools",
+      "confidence": 85
+    },
+    "jualokal": {
+      "category": "Apps for Your Life",
+      "confidence": 90
+    },
+    "kirjolab": {
+      "category": "Work & Productivity",
+      "confidence": 75
+    },
+    "ote-voisin": {
+      "category": "Apps for Your Life",
+      "confidence": 90
+    },
+    "bos-1v0r9l": {
+      "category": "Work & Productivity",
+      "confidence": 95
+    },
+    "initial-project-k3zr4c": {
+      "category": "Apps for Your Life",
+      "confidence": 30
+    },
+    "careero": {
+      "category": "Apps for Your Life",
+      "confidence": 65
+    },
+    "telic-butzcy": {
+      "category": "Apps for Your Life",
+      "confidence": 55
+    },
+    "deep-dive-skill": {
+      "category": "Developer Tools",
+      "confidence": 95
+    },
+    "beibeaux-sol": {
+      "category": "Work & Productivity",
+      "confidence": 85
+    },
+    "sound-dna": {
+      "category": "Apps for Your Life",
+      "confidence": 95
+    },
+    "bitty": {
+      "category": "Developer Tools",
+      "confidence": 95
+    },
+    "astramind-gvxli2": {
+      "category": "Work & Productivity",
+      "confidence": 85
+    },
+    "hive-y2mqw0": {
+      "category": "Apps for Your Life",
+      "confidence": 95
+    },
+    "aleph-3b5c9n": {
+      "category": "Work & Productivity",
+      "confidence": 85
+    },
+    "mirror-7w0ms1": {
+      "category": "Education",
+      "confidence": 95
+    },
+    "breachsim": {
+      "category": "Developer Tools",
+      "confidence": 95
+    },
+    "circuitrescue": {
+      "category": "Work & Productivity",
+      "confidence": 80
+    },
+    "hide-from-ai": {
+      "category": "Apps for Your Life",
+      "confidence": 80
+    },
+    "cashflow-forecaster": {
+      "category": "Apps for Your Life",
+      "confidence": 95
+    },
+    "sortasmart": {
+      "category": "Work & Productivity",
+      "confidence": 90
+    },
+    "omnix-translator-photoshop-uxp": {
+      "category": "Work & Productivity",
+      "confidence": 90
+    },
+    "video-and-sound-downloader-pro-v8-0-8": {
+      "category": "Apps for Your Life",
+      "confidence": 95
+    },
+    "chronorama": {
+      "category": "Education",
+      "confidence": 95
+    },
+    "medical-practice-planner": {
+      "category": "Work & Productivity",
+      "confidence": 90
+    },
+    "project-glassfish": {
+      "category": "Work & Productivity",
+      "confidence": 80
+    },
+    "mimex": {
+      "category": "Work & Productivity",
+      "confidence": 75
+    },
+    "voppo": {
+      "category": "Education",
+      "confidence": 95
+    },
+    "continuity-agent": {
+      "category": "Apps for Your Life",
+      "confidence": 90
+    },
+    "quantum-faultsack": {
+      "category": "Education",
+      "confidence": 95
+    },
+    "boredgame": {
+      "category": "Apps for Your Life",
+      "confidence": 90
+    },
+    "srs-signal": {
+      "category": "Work & Productivity",
+      "confidence": 85
+    },
+    "geolog-field": {
+      "category": "Work & Productivity",
+      "confidence": 90
+    },
+    "moxi": {
+      "category": "Apps for Your Life",
+      "confidence": 30
+    },
+    "bobman-5t2ra7": {
+      "category": "Apps for Your Life",
+      "confidence": 85
+    },
+    "poseidondeck": {
+      "category": "Apps for Your Life",
+      "confidence": 40
+    },
+    "kitchen-designer": {
+      "category": "Apps for Your Life",
+      "confidence": 70
+    },
+    "the-guide": {
+      "category": "Apps for Your Life",
+      "confidence": 90
+    },
+    "zgp-commander": {
+      "category": "Apps for Your Life",
+      "confidence": 90
+    },
+    "skena": {
+      "category": "Apps for Your Life",
+      "confidence": 90
+    },
+    "aegis-os-verified-spatial-inspection": {
+      "category": "Work & Productivity",
+      "confidence": 85
+    },
+    "margins": {
+      "category": "Education",
+      "confidence": 35
+    },
+    "before-evidence": {
+      "category": "Apps for Your Life",
+      "confidence": 80
+    },
+    "the-logo-lab": {
+      "category": "Education",
+      "confidence": 95
+    },
+    "infergrade-runner": {
+      "category": "Developer Tools",
+      "confidence": 90
+    },
+    "hostelsolve": {
+      "category": "Work & Productivity",
+      "confidence": 85
+    },
+    "devcouncil": {
+      "category": "Developer Tools",
+      "confidence": 95
+    },
+    "cimmich": {
+      "category": "Apps for Your Life",
+      "confidence": 90
+    },
+    "travsec": {
+      "category": "Apps for Your Life",
+      "confidence": 95
+    },
+    "voxly-kpa7j3": {
+      "category": "Apps for Your Life",
+      "confidence": 95
+    },
+    "changeproof": {
+      "category": "Work & Productivity",
+      "confidence": 90
+    },
+    "healthkeep": {
+      "category": "Apps for Your Life",
+      "confidence": 95
+    },
+    "foldforge-exrnl7": {
+      "category": "Apps for Your Life",
+      "confidence": 80
+    },
+    "jarvis-the-adaptive-student-operating-system": {
+      "category": "Education",
+      "confidence": 70
+    },
+    "smartwork-ai": {
+      "category": "Work & Productivity",
+      "confidence": 90
+    },
+    "flowstate-ai-x4rba8": {
+      "category": "Education",
+      "confidence": 95
+    },
+    "devpilot-ai-p76svt": {
+      "category": "Developer Tools",
+      "confidence": 95
+    },
+    "workship-ai": {
+      "category": "Work & Productivity",
+      "confidence": 85
+    },
+    "california-school-explorer": {
+      "category": "Apps for Your Life",
+      "confidence": 85
+    },
+    "3c-trix-x-alphavote-content-to-consensus": {
+      "category": "Work & Productivity",
+      "confidence": 65
+    },
+    "judgment-mirror": {
+      "category": "Apps for Your Life",
+      "confidence": 70
+    },
+    "raiflow-ai-colour-intelligence-tcoyrd": {
+      "category": "Apps for Your Life",
+      "confidence": 85
+    },
+    "raiflow-ai-colour-intelligence": {
+      "category": "Apps for Your Life",
+      "confidence": 85
+    },
+    "scout-global": {
+      "category": "Work & Productivity",
+      "confidence": 70
+    },
+    "wholeway": {
+      "category": "Apps for Your Life",
+      "confidence": 55
+    },
+    "bipolar-mood-companion": {
+      "category": "Apps for Your Life",
+      "confidence": 95
+    },
+    "focus-on-culture-history-angle": {
+      "category": "Apps for Your Life",
+      "confidence": 90
+    },
+    "quantum-uri6n8": {
+      "category": "Apps for Your Life",
+      "confidence": 65
+    },
+    "fixmyworkflow": {
+      "category": "Work & Productivity",
+      "confidence": 90
+    },
+    "cre8tiv-jobs-board": {
+      "category": "Work & Productivity",
+      "confidence": 90
+    },
+    "cupsafe-codex-sentinel": {
+      "category": "Developer Tools",
+      "confidence": 70
+    },
+    "prober-ai": {
+      "category": "Education",
+      "confidence": 95
+    },
+    "theoryfall": {
+      "category": "Education",
+      "confidence": 85
+    },
+    "abcde-skills": {
+      "category": "Developer Tools",
+      "confidence": 95
+    },
+    "v2v-from-documents-to-an-interactive-knowledge-graph": {
+      "category": "Work & Productivity",
+      "confidence": 75
+    },
+    "uhuru-eyes-of-the-land": {
+      "category": "Education",
+      "confidence": 60
+    },
+    "planix-x56wpe": {
+      "category": "Work & Productivity",
+      "confidence": 90
+    },
+    "wazify-whatsapp": {
+      "category": "Work & Productivity",
+      "confidence": 90
+    },
+    "companion-dudes": {
+      "category": "Apps for Your Life",
+      "confidence": 75
+    },
+    "musicscanner-the-scan-button-reimagined-for-streaming": {
+      "category": "Apps for Your Life",
+      "confidence": 95
+    },
+    "optimole": {
+      "category": "Work & Productivity",
+      "confidence": 65
+    },
+    "nyumba-ai": {
+      "category": "Apps for Your Life",
+      "confidence": 80
+    },
+    "sona-5mthxi": {
+      "category": "Apps for Your Life",
+      "confidence": 95
+    },
+    "shotforge": {
+      "category": "Apps for Your Life",
+      "confidence": 90
+    },
+    "easyear-video": {
+      "category": "Apps for Your Life",
+      "confidence": 95
+    },
+    "astartis-x-codex": {
+      "category": "Developer Tools",
+      "confidence": 90
+    },
+    "tracecase-ktpvhg": {
+      "category": "Education",
+      "confidence": 80
+    },
+    "orabbit": {
+      "category": "Work & Productivity",
+      "confidence": 90
+    },
+    "gloss-aqg4t3": {
+      "category": "Apps for Your Life",
+      "confidence": 78
+    },
+    "sticky-moe": {
+      "category": "Apps for Your Life",
+      "confidence": 95
+    },
+    "lyvantaq": {
+      "category": "Work & Productivity",
+      "confidence": 95
+    },
+    "idcognito": {
+      "category": "Apps for Your Life",
+      "confidence": 92
+    },
+    "evidence-workbench": {
+      "category": "Apps for Your Life",
+      "confidence": 80
+    },
+    "workpaperos-audit-governed-evidence-sync": {
+      "category": "Work & Productivity",
+      "confidence": 95
+    },
+    "agentcourt": {
+      "category": "Developer Tools",
+      "confidence": 90
+    },
+    "local-government-unit-chief-executive": {
+      "category": "Work & Productivity",
+      "confidence": 95
+    },
+    "they-chart": {
+      "category": "Apps for Your Life",
+      "confidence": 95
+    },
+    "confession-source-explorer": {
+      "category": "Work & Productivity",
+      "confidence": 93
+    },
+    "ghostwell-ai": {
+      "category": "Work & Productivity",
+      "confidence": 90
+    },
+    "inertial-link-xr": {
+      "category": "Developer Tools",
+      "confidence": 90
+    },
+    "roma-just-talk": {
+      "category": "Apps for Your Life",
+      "confidence": 92
+    },
+    "carita-ip9sdl": {
+      "category": "Apps for Your Life",
+      "confidence": 90
+    },
+    "machineflow": {
+      "category": "Developer Tools",
+      "confidence": 95
+    },
+    "token-cart-tycoon": {
+      "category": "Education",
+      "confidence": 95
+    },
+    "safety-intelligence": {
+      "category": "Work & Productivity",
+      "confidence": 92
+    },
+    "golive-sentinel-erp-master-data-health-check": {
+      "category": "Work & Productivity",
+      "confidence": 95
+    },
+    "investa": {
+      "category": "Work & Productivity",
+      "confidence": 78
+    },
+    "projectprobe": {
+      "category": "Developer Tools",
+      "confidence": 95
+    },
+    "everyday-tvq2fo": {
+      "category": "Apps for Your Life",
+      "confidence": 95
+    },
+    "mind-gym-journal-builder": {
+      "category": "Apps for Your Life",
+      "confidence": 90
+    },
+    "ship-md": {
+      "category": "Apps for Your Life",
+      "confidence": 80
+    },
+    "secondme-safe-agent-relay": {
+      "category": "Developer Tools",
+      "confidence": 95
+    },
+    "icj-intelligent-carb-juggler": {
+      "category": "Apps for Your Life",
+      "confidence": 95
+    },
+    "mediremind-trfuln": {
+      "category": "Work & Productivity",
+      "confidence": 92
+    },
+    "sunol-flowlab-vr": {
+      "category": "Education",
+      "confidence": 85
+    },
+    "ai-agent-payment-os": {
+      "category": "Developer Tools",
+      "confidence": 90
+    },
+    "chemix-ai-interactive-periodic-table": {
+      "category": "Education",
+      "confidence": 98
+    },
+    "rotabot-86ouk2": {
+      "category": "Work & Productivity",
+      "confidence": 95
+    },
+    "whosnext-event-command-center": {
+      "category": "Work & Productivity",
+      "confidence": 92
+    },
+    "race-game-night-recovery": {
+      "category": "Apps for Your Life",
+      "confidence": 92
+    },
+    "post-to-practice": {
+      "category": "Education",
+      "confidence": 88
+    },
+    "amendscope": {
+      "category": "Developer Tools",
+      "confidence": 85
+    },
+    "aegis-decision-engineering": {
+      "category": "Work & Productivity",
+      "confidence": 92
+    },
+    "magic-knob": {
+      "category": "Apps for Your Life",
+      "confidence": 95
+    },
+    "hover-menu": {
+      "category": "Apps for Your Life",
+      "confidence": 95
+    },
+    "magic-knob-wr15fz": {
+      "category": "Apps for Your Life",
+      "confidence": 95
+    },
+    "simple-otp": {
+      "category": "Apps for Your Life",
+      "confidence": 95
+    },
+    "inkform": {
+      "category": "Apps for Your Life",
+      "confidence": 92
+    },
+    "brandini-ai-runtime-intelligence": {
+      "category": "Developer Tools",
+      "confidence": 92
+    },
+    "onehuman": {
+      "category": "Apps for Your Life",
+      "confidence": 90
+    },
+    "threatwatch-studio": {
+      "category": "Work & Productivity",
+      "confidence": 90
+    },
+    "tvaily": {
+      "category": "Apps for Your Life",
+      "confidence": 85
+    },
+    "mealmosaic": {
+      "category": "Apps for Your Life",
+      "confidence": 92
+    },
+    "project-timebook": {
+      "category": "Work & Productivity",
+      "confidence": 90
+    },
+    "rustyreader": {
+      "category": "Work & Productivity",
+      "confidence": 65
+    },
+    "feedback-auditor": {
+      "category": "Education",
+      "confidence": 90
+    },
+    "per-biscuit": {
+      "category": "Apps for Your Life",
+      "confidence": 90
+    },
+    "continuity-bridge": {
+      "category": "Developer Tools",
+      "confidence": 72
+    },
+    "magicometry": {
+      "category": "Apps for Your Life",
+      "confidence": 70
+    },
+    "equalvoice-zvqnsg": {
+      "category": "Apps for Your Life",
+      "confidence": 65
+    },
+    "proofline-51e43c": {
+      "category": "Developer Tools",
+      "confidence": 88
+    },
+    "leaflet-8aqdoc": {
+      "category": "Education",
+      "confidence": 90
+    },
+    "anteroom": {
+      "category": "Apps for Your Life",
+      "confidence": 65
+    },
+    "epicode-bench": {
+      "category": "Developer Tools",
+      "confidence": 62
+    },
+    "airspec": {
+      "category": "Work & Productivity",
+      "confidence": 78
+    },
+    "tell-bella-powered-by-briai": {
+      "category": "Apps for Your Life",
+      "confidence": 90
+    },
+    "geckoos-live-intervention": {
+      "category": "Developer Tools",
+      "confidence": 68
+    },
+    "phq-personal-health-questionnaire": {
+      "category": "Apps for Your Life",
+      "confidence": 88
+    },
+    "susurro": {
+      "category": "Apps for Your Life",
+      "confidence": 92
+    },
+    "sara-smartest-speaker": {
+      "category": "Apps for Your Life",
+      "confidence": 90
+    },
+    "personal-cfo-w6n47r": {
+      "category": "Apps for Your Life",
+      "confidence": 92
+    },
+    "wek-for-e-commerce": {
+      "category": "Work & Productivity",
+      "confidence": 92
+    },
+    "check-in-wo0phk": {
+      "category": "Apps for Your Life",
+      "confidence": 90
+    },
+    "llna-pro-low-latency-mobile-audio-framework-for-unity": {
+      "category": "Developer Tools",
+      "confidence": 95
+    },
+    "constitutional-runtime-for-autonomous-systems-cras": {
+      "category": "Developer Tools",
+      "confidence": 90
+    },
+    "skill-issue-4if309": {
+      "category": "Developer Tools",
+      "confidence": 92
+    },
+    "asos-control-room": {
+      "category": "Developer Tools",
+      "confidence": 90
+    },
+    "aletheia-ody705": {
+      "category": "Education",
+      "confidence": 92
+    },
+    "studysnap-ai": {
+      "category": "Education",
+      "confidence": 92
+    },
+    "code-p1t78u": {
+      "category": "Developer Tools",
+      "confidence": 25
+    },
+    "klio": {
+      "category": "Education",
+      "confidence": 92
+    },
+    "travel-hospitality": {
+      "category": "Apps for Your Life",
+      "confidence": 90
+    },
+    "skill-loom": {
+      "category": "Developer Tools",
+      "confidence": 92
+    },
+    "anantaora-ai-career-guide": {
+      "category": "Education",
+      "confidence": 60
+    },
+    "salestrics-04pjs7": {
+      "category": "Work & Productivity",
+      "confidence": 92
+    },
+    "vibaenvissionaries": {
+      "category": "Education",
+      "confidence": 92
+    },
+    "breakpoint-6k1qxe": {
+      "category": "Education",
+      "confidence": 90
+    },
+    "healthbridge-zd5gnp": {
+      "category": "Apps for Your Life",
+      "confidence": 92
+    },
+    "gitarchaeologist": {
+      "category": "Developer Tools",
+      "confidence": 95
+    },
+    "fargate-spot-autopilot": {
+      "category": "Developer Tools",
+      "confidence": 95
+    },
+    "accio-xwy6pv": {
+      "category": "Developer Tools",
+      "confidence": 70
+    },
+    "lyy-motorcycle": {
+      "category": "Work & Productivity",
+      "confidence": 65
+    },
+    "cloudkeep-rivals": {
+      "category": "Apps for Your Life",
+      "confidence": 95
+    },
+    "yuki-the-curious-desktop-robot": {
+      "category": "Apps for Your Life",
+      "confidence": 90
+    },
+    "crisisresponse": {
+      "category": "Apps for Your Life",
+      "confidence": 95
+    },
+    "pragyanta-tutor": {
+      "category": "Education",
+      "confidence": 95
+    },
+    "gogo-history-simulator": {
+      "category": "Apps for Your Life",
+      "confidence": 90
+    },
+    "cryptorafts": {
+      "category": "Work & Productivity",
+      "confidence": 85
+    },
+    "lessonbend": {
+      "category": "Education",
+      "confidence": 95
+    },
+    "contextkit": {
+      "category": "Developer Tools",
+      "confidence": 95
+    },
+    "hives-your-feeds-clustered": {
+      "category": "Apps for Your Life",
+      "confidence": 90
+    },
+    "note-rush": {
+      "category": "Education",
+      "confidence": 95
+    },
+    "taskfence-ai": {
+      "category": "Developer Tools",
+      "confidence": 75
+    },
+    "universe-8zfbpo": {
+      "category": "Apps for Your Life",
+      "confidence": 60
+    },
+    "tensor-paper": {
+      "category": "Education",
+      "confidence": 95
+    },
+    "mission-control-os": {
+      "category": "Work & Productivity",
+      "confidence": 90
+    },
+    "vpn-for-ir": {
+      "category": "Apps for Your Life",
+      "confidence": 90
+    },
+    "aegis-rcfgno": {
+      "category": "Developer Tools",
+      "confidence": 95
+    },
+    "accounting-sop-learning-companion": {
+      "category": "Education",
+      "confidence": 92
+    },
+    "astrodata-ai": {
+      "category": "Work & Productivity",
+      "confidence": 72
+    },
+    "codex-gearshift": {
+      "category": "Developer Tools",
+      "confidence": 70
+    },
+    "english-pathway": {
+      "category": "Education",
+      "confidence": 97
+    },
+    "vibetracker": {
+      "category": "Developer Tools",
+      "confidence": 80
+    },
+    "project-shift": {
+      "category": "Apps for Your Life",
+      "confidence": 95
+    },
+    "ccload": {
+      "category": "Developer Tools",
+      "confidence": 95
+    },
+    "verseatlas-explore-poetry-through-time-and-place": {
+      "category": "Education",
+      "confidence": 95
+    },
+    "openfin": {
+      "category": "Work & Productivity",
+      "confidence": 90
+    },
+    "kyn-ist-agent-studio": {
+      "category": "Developer Tools",
+      "confidence": 92
+    },
+    "hapa-ai": {
+      "category": "Work & Productivity",
+      "confidence": 68
+    },
+    "nonothinbot": {
+      "category": "Education",
+      "confidence": 90
+    },
+    "powerpal": {
+      "category": "Apps for Your Life",
+      "confidence": 90
+    },
+    "dayfora": {
+      "category": "Apps for Your Life",
+      "confidence": 95
+    },
+    "fisics": {
+      "category": "Developer Tools",
+      "confidence": 78
+    },
+    "cosm-optic": {
+      "category": "Apps for Your Life",
+      "confidence": 62
+    },
+    "123-tjiwkq": {
+      "category": "Apps for Your Life",
+      "confidence": 15
+    },
+    "a-thousand-interviews-overnight-kl8x1i": {
+      "category": "Work & Productivity",
+      "confidence": 90
+    },
+    "gba-go-operations-copilot": {
+      "category": "Work & Productivity",
+      "confidence": 92
+    },
+    "chrono-fkst": {
+      "category": "Developer Tools",
+      "confidence": 92
+    },
+    "fluent-qt-native-fluent-ui-for-qt-widgets": {
+      "category": "Developer Tools",
+      "confidence": 95
+    },
+    "furly-0v3zc6": {
+      "category": "Apps for Your Life",
+      "confidence": 90
+    },
+    "coherent-integration-for-multi-node-millimeter-wave-radar": {
+      "category": "Work & Productivity",
+      "confidence": 75
+    },
+    "mergesignal-trust-for-every-pull-request": {
+      "category": "Developer Tools",
+      "confidence": 85
+    },
+    "frogue-the-living-incident": {
+      "category": "Apps for Your Life",
+      "confidence": 75
+    },
+    "vulcan-ai-seller-copilot-for-compra-cv": {
+      "category": "Work & Productivity",
+      "confidence": 88
+    },
+    "ee-wv8fqd": {
+      "category": "Apps for Your Life",
+      "confidence": 30
+    },
+    "ai-gallery-agr5jy": {
+      "category": "Education",
+      "confidence": 95
+    },
+    "sss-project-sentinel": {
+      "category": "Developer Tools",
+      "confidence": 50
+    },
+    "starshade-context-compiler": {
+      "category": "Developer Tools",
+      "confidence": 90
+    },
+    "sss-postal-system": {
+      "category": "Developer Tools",
+      "confidence": 85
+    },
+    "negocioscrm-com": {
+      "category": "Apps for Your Life",
+      "confidence": 80
+    },
+    "the-sims-2-path-tracing": {
+      "category": "Apps for Your Life",
+      "confidence": 90
+    },
+    "chinese-story-studio": {
+      "category": "Education",
+      "confidence": 95
+    },
+    "light-of-life": {
+      "category": "Apps for Your Life",
+      "confidence": 85
+    },
+    "project-stack-tracker": {
+      "category": "Work & Productivity",
+      "confidence": 65
+    },
+    "signalarc": {
+      "category": "Apps for Your Life",
+      "confidence": 90
+    },
+    "continuityiq": {
+      "category": "Work & Productivity",
+      "confidence": 90
+    },
+    "safegurad-synthesis": {
+      "category": "Apps for Your Life",
+      "confidence": 88
+    },
+    "gridfront": {
+      "category": "Apps for Your Life",
+      "confidence": 90
+    },
+    "bookmyhalwai-com": {
+      "category": "Apps for Your Life",
+      "confidence": 90
+    },
+    "telecodex": {
+      "category": "Developer Tools",
+      "confidence": 92
+    },
+    "ownyourcode": {
+      "category": "Education",
+      "confidence": 92
+    },
+    "le-dernier-emploi": {
+      "category": "Apps for Your Life",
+      "confidence": 90
+    },
+    "career-intelligence-platform": {
+      "category": "Apps for Your Life",
+      "confidence": 82
+    },
+    "plavendo": {
+      "category": "Apps for Your Life",
+      "confidence": 90
+    },
+    "topicforge": {
+      "category": "Work & Productivity",
+      "confidence": 85
+    },
+    "halide": {
+      "category": "Developer Tools",
+      "confidence": 94
+    },
+    "legacyos": {
+      "category": "Apps for Your Life",
+      "confidence": 90
+    },
+    "local-password-manager-vagz3e": {
+      "category": "Apps for Your Life",
+      "confidence": 93
+    },
+    "oplanner": {
+      "category": "Work & Productivity",
+      "confidence": 90
+    },
+    "promptpro-ai-multilingual-prompt-builder": {
+      "category": "Apps for Your Life",
+      "confidence": 80
+    },
+    "forgeai-smart-erp-for-precision-machining": {
+      "category": "Work & Productivity",
+      "confidence": 92
+    },
+    "chimera-vanguard-the-autonomous-zero-day-immune-system": {
+      "category": "Developer Tools",
+      "confidence": 93
+    },
+    "unimentor-ai": {
+      "category": "Education",
+      "confidence": 94
+    },
+    "p-gates": {
+      "category": "Developer Tools",
+      "confidence": 82
+    },
+    "laxfinder-advisor": {
+      "category": "Apps for Your Life",
+      "confidence": 85
+    },
+    "moham": {
+      "category": "Apps for Your Life",
+      "confidence": 88
+    },
+    "datalabs-bcy12l": {
+      "category": "Developer Tools",
+      "confidence": 90
+    },
+    "viking-chess-hnefatavl-ai": {
+      "category": "Apps for Your Life",
+      "confidence": 95
+    },
+    "mwalimu-audio": {
+      "category": "Education",
+      "confidence": 90
+    },
+    "subtitletong-2": {
+      "category": "Apps for Your Life",
+      "confidence": 85
+    },
+    "trajeto-inclusivo-accessible-mobility-for-everyone": {
+      "category": "Apps for Your Life",
+      "confidence": 90
+    },
+    "alo-net-online-reputation-shadow-agency": {
+      "category": "Work & Productivity",
+      "confidence": 85
+    },
+    "rewindbpf": {
+      "category": "Developer Tools",
+      "confidence": 95
+    },
+    "solvo-jx9a7f": {
+      "category": "Apps for Your Life",
+      "confidence": 90
+    },
+    "vacemo-an-ai-robot-pet-that-explores-and-remembers": {
+      "category": "Apps for Your Life",
+      "confidence": 90
+    },
+    "mees-portal": {
+      "category": "Work & Productivity",
+      "confidence": 95
+    },
+    "notzero": {
+      "category": "Education",
+      "confidence": 80
+    },
+    "devrecall": {
+      "category": "Developer Tools",
+      "confidence": 95
+    },
+    "human-guided-ai-marc-review": {
+      "category": "Work & Productivity",
+      "confidence": 90
+    },
+    "reconc": {
+      "category": "Developer Tools",
+      "confidence": 95
+    },
+    "sweet-salty-ai-feedback": {
+      "category": "Apps for Your Life",
+      "confidence": 80
+    },
+    "ai-design-team": {
+      "category": "Apps for Your Life",
+      "confidence": 70
+    },
+    "marketlens-20k9qg": {
+      "category": "Work & Productivity",
+      "confidence": 90
+    },
+    "patient-intake-assistant": {
+      "category": "Work & Productivity",
+      "confidence": 85
+    },
+    "hacktrack-tegsfo": {
+      "category": "Apps for Your Life",
+      "confidence": 85
+    },
+    "wattch": {
+      "category": "Developer Tools",
+      "confidence": 95
+    },
+    "agent-payment-redteam": {
+      "category": "Developer Tools",
+      "confidence": 85
+    },
+    "project-mainstage": {
+      "category": "Apps for Your Life",
+      "confidence": 90
+    },
+    "veil-0ch38s": {
+      "category": "Developer Tools",
+      "confidence": 95
+    },
+    "pr-guardian-ai": {
+      "category": "Developer Tools",
+      "confidence": 95
+    },
+    "workos-ai": {
+      "category": "Work & Productivity",
+      "confidence": 85
+    },
+    "pandya-ai": {
+      "category": "Developer Tools",
+      "confidence": 80
+    },
+    "vertex-palace": {
+      "category": "Developer Tools",
+      "confidence": 95
+    },
+    "goutou-junshi": {
+      "category": "Apps for Your Life",
+      "confidence": 95
+    },
+    "seo-scrubbox": {
+      "category": "Work & Productivity",
+      "confidence": 65
+    },
+    "mirromingo": {
+      "category": "Education",
+      "confidence": 95
+    },
+    "cloud-coach": {
+      "category": "Apps for Your Life",
+      "confidence": 60
+    },
+    "sherpa-ai-learning": {
+      "category": "Education",
+      "confidence": 95
+    },
+    "antibody-labmate": {
+      "category": "Work & Productivity",
+      "confidence": 80
+    },
+    "topiknow": {
+      "category": "Education",
+      "confidence": 95
+    },
+    "the-ai-software-team": {
+      "category": "Developer Tools",
+      "confidence": 90
+    },
+    "coderoad": {
+      "category": "Education",
+      "confidence": 90
+    },
+    "activecampus": {
+      "category": "Work & Productivity",
+      "confidence": 60
+    },
+    "hackforge-6k17e0": {
+      "category": "Developer Tools",
+      "confidence": 95
+    },
+    "citadel-ai": {
+      "category": "Work & Productivity",
+      "confidence": 70
+    },
+    "bag-doctor": {
+      "category": "Developer Tools",
+      "confidence": 90
+    },
+    "luna-dwjxka": {
+      "category": "Apps for Your Life",
+      "confidence": 95
+    },
+    "replayforge-wpl041": {
+      "category": "Developer Tools",
+      "confidence": 95
+    },
+    "dungeon-hunter": {
+      "category": "Apps for Your Life",
+      "confidence": 85
+    },
+    "ai-phone-case-studio": {
+      "category": "Apps for Your Life",
+      "confidence": 80
+    },
+    "local-human-intent-controller-lhic": {
+      "category": "Developer Tools",
+      "confidence": 80
+    },
+    "guidanceweave": {
+      "category": "Work & Productivity",
+      "confidence": 70
+    },
+    "buildmatch-bc-tender-to-bid-copilot": {
+      "category": "Work & Productivity",
+      "confidence": 85
+    },
+    "gamedevagent": {
+      "category": "Developer Tools",
+      "confidence": 80
+    },
+    "visual-prompt-atlas": {
+      "category": "Apps for Your Life",
+      "confidence": 70
+    },
+    "lingoquest-qmhk9e": {
+      "category": "Education",
+      "confidence": 90
+    },
+    "suixing": {
+      "category": "Apps for Your Life",
+      "confidence": 90
+    },
+    "gestionsundarrayi": {
+      "category": "Work & Productivity",
+      "confidence": 80
+    },
+    "email-hub": {
+      "category": "Developer Tools",
+      "confidence": 70
+    },
+    "vocoflo-moment-coach": {
+      "category": "Education",
+      "confidence": 65
+    },
+    "pavitra-rishta-international": {
+      "category": "Apps for Your Life",
+      "confidence": 90
+    },
+    "dopa-cart": {
+      "category": "Apps for Your Life",
+      "confidence": 90
+    },
+    "patchpilot-ord9wl": {
+      "category": "Developer Tools",
+      "confidence": 95
+    },
+    "agentshield-i16kjn": {
+      "category": "Developer Tools",
+      "confidence": 70
+    },
+    "oh-mega-fund": {
+      "category": "Apps for Your Life",
+      "confidence": 80
+    },
+    "umipass": {
+      "category": "Apps for Your Life",
+      "confidence": 90
+    },
+    "share-resets": {
+      "category": "Developer Tools",
+      "confidence": 90
+    },
+    "flowdesk-s2h98n": {
+      "category": "Work & Productivity",
+      "confidence": 90
+    },
+    "newsletter-buddy": {
+      "category": "Apps for Your Life",
+      "confidence": 90
+    },
+    "hees-ai-console-governed-ai-profile-studio": {
+      "category": "Developer Tools",
+      "confidence": 95
+    },
+    "traceai-zjw6bk": {
+      "category": "Work & Productivity",
+      "confidence": 80
+    },
+    "unitforge": {
+      "category": "Education",
+      "confidence": 92
+    },
+    "mathtutoragent": {
+      "category": "Education",
+      "confidence": 90
+    },
+    "ai-presenter-hniyme": {
+      "category": "Work & Productivity",
+      "confidence": 90
+    },
+    "imaginate-ai-gmqfx1": {
+      "category": "Apps for Your Life",
+      "confidence": 92
+    },
+    "we-the-ravers": {
+      "category": "Apps for Your Life",
+      "confidence": 90
+    },
+    "north-j1h3aq": {
+      "category": "Work & Productivity",
+      "confidence": 92
+    },
+    "ilog": {
+      "category": "Apps for Your Life",
+      "confidence": 90
+    },
+    "biomechanic-analysis": {
+      "category": "Work & Productivity",
+      "confidence": 78
+    },
+    "aigo-ab4oel": {
+      "category": "Work & Productivity",
+      "confidence": 88
+    },
+    "groundloop-controlfirst": {
+      "category": "Work & Productivity",
+      "confidence": 85
+    },
+    "where-did-i-put-it-s25it8": {
+      "category": "Apps for Your Life",
+      "confidence": 92
+    },
+    "lazy-skill-router": {
+      "category": "Developer Tools",
+      "confidence": 95
+    },
+    "control-surface": {
+      "category": "Developer Tools",
+      "confidence": 80
+    },
+    "nudge-71ymu2": {
+      "category": "Apps for Your Life",
+      "confidence": 92
+    },
+    "breifly": {
+      "category": "Work & Productivity",
+      "confidence": 90
+    },
+    "quarrylings": {
+      "category": "Apps for Your Life",
+      "confidence": 95
+    },
+    "xmover": {
+      "category": "Apps for Your Life",
+      "confidence": 90
+    },
+    "relic-abix41": {
+      "category": "Developer Tools",
+      "confidence": 80
+    },
+    "mate-e": {
+      "category": "Work & Productivity",
+      "confidence": 75
+    },
+    "singsong-e": {
+      "category": "Apps for Your Life",
+      "confidence": 95
+    },
+    "quickstud-e": {
+      "category": "Education",
+      "confidence": 95
+    },
+    "changetrace": {
+      "category": "Developer Tools",
+      "confidence": 95
+    },
+    "octogee": {
+      "category": "Apps for Your Life",
+      "confidence": 85
+    },
+    "agentworkbench-arena": {
+      "category": "Developer Tools",
+      "confidence": 85
+    },
+    "wattle-z9t4vs": {
+      "category": "Work & Productivity",
+      "confidence": 85
+    },
+    "economics-peer-review-app": {
+      "category": "Education",
+      "confidence": 95
+    },
+    "agentos-by-prime": {
+      "category": "Developer Tools",
+      "confidence": 90
+    },
+    "oscar-nutricao-nutritional-intelligence": {
+      "category": "Apps for Your Life",
+      "confidence": 95
+    },
+    "vizkit": {
+      "category": "Work & Productivity",
+      "confidence": 80
+    },
+    "wen-studio": {
+      "category": "Education",
+      "confidence": 95
+    },
+    "t3-research-intelligence": {
+      "category": "Apps for Your Life",
+      "confidence": 85
+    },
+    "sw-73wukm": {
+      "category": "Apps for Your Life",
+      "confidence": 55
+    },
+    "lifeflow-your-daily-opportunity-os": {
+      "category": "Apps for Your Life",
+      "confidence": 80
+    },
+    "mitsu-hand-and-voice-gesture-control-for-the-desktop": {
+      "category": "Apps for Your Life",
+      "confidence": 85
+    },
+    "handfree": {
+      "category": "Work & Productivity",
+      "confidence": 70
+    },
+    "carecompass-kids": {
+      "category": "Apps for Your Life",
+      "confidence": 90
+    },
+    "argus-autonomous-market-intelligence-trade-governance": {
+      "category": "Apps for Your Life",
+      "confidence": 80
+    },
+    "bid2build-ai": {
+      "category": "Work & Productivity",
+      "confidence": 75
+    },
+    "flashpilot": {
+      "category": "Developer Tools",
+      "confidence": 90
+    },
+    "partyhost": {
+      "category": "Apps for Your Life",
+      "confidence": 92
+    },
+    "folio-ai-portfolio-signals": {
+      "category": "Apps for Your Life",
+      "confidence": 80
+    },
+    "the-brand-box": {
+      "category": "Work & Productivity",
+      "confidence": 72
+    },
+    "intellibiz": {
+      "category": "Work & Productivity",
+      "confidence": 88
+    },
+    "fallback-j95kot": {
+      "category": "Developer Tools",
+      "confidence": 60
+    },
+    "nakima-cfodru": {
+      "category": "Developer Tools",
+      "confidence": 95
+    },
+    "archive-to-argument": {
+      "category": "Work & Productivity",
+      "confidence": 85
+    },
+    "peerproof-6utq20": {
+      "category": "Work & Productivity",
+      "confidence": 80
+    },
+    "oinkle": {
+      "category": "Apps for Your Life",
+      "confidence": 90
+    },
+    "better-backgrounds": {
+      "category": "Apps for Your Life",
+      "confidence": 70
+    },
+    "codexai": {
+      "category": "Developer Tools",
+      "confidence": 85
+    },
+    "aigrid": {
+      "category": "Apps for Your Life",
+      "confidence": 50
+    },
+    "researchos": {
+      "category": "Work & Productivity",
+      "confidence": 85
+    },
+    "claw-in-a-box": {
+      "category": "Developer Tools",
+      "confidence": 88
+    },
+    "trendwell-route-replay": {
+      "category": "Apps for Your Life",
+      "confidence": 90
+    },
+    "next-your-ai-executive-assistant": {
+      "category": "Apps for Your Life",
+      "confidence": 90
+    },
+    "proofpilot-0bhezn": {
+      "category": "Work & Productivity",
+      "confidence": 72
+    },
+    "umbral-4ftbd1": {
+      "category": "Work & Productivity",
+      "confidence": 85
+    },
+    "cl-field-report-ai": {
+      "category": "Work & Productivity",
+      "confidence": 90
+    },
+    "tcmandyou-global-dietary-navigator": {
+      "category": "Apps for Your Life",
+      "confidence": 90
+    },
+    "phewsh-plugins-ion": {
+      "category": "Developer Tools",
+      "confidence": 92
+    },
+    "crowone": {
+      "category": "Developer Tools",
+      "confidence": 70
+    },
+    "specsentry": {
+      "category": "Developer Tools",
+      "confidence": 95
+    },
+    "rustdataclient": {
+      "category": "Developer Tools",
+      "confidence": 90
+    },
+    "budgetpro-smart-financial-forecast": {
+      "category": "Apps for Your Life",
+      "confidence": 90
+    },
+    "personal-keyword-blocker": {
+      "category": "Apps for Your Life",
+      "confidence": 90
+    },
+    "minting-hero": {
+      "category": "Apps for Your Life",
+      "confidence": 95
+    },
+    "cc-cfixyn": {
+      "category": "Work & Productivity",
+      "confidence": 90
+    },
+    "logictab": {
+      "category": "Apps for Your Life",
+      "confidence": 72
+    },
+    "orchestra-982zi5": {
+      "category": "Developer Tools",
+      "confidence": 92
+    },
+    "readfit-journeys": {
+      "category": "Education",
+      "confidence": 95
+    },
+    "shadow-c-operations-monitor": {
+      "category": "Work & Productivity",
+      "confidence": 85
+    },
+    "equivalens": {
+      "category": "Education",
+      "confidence": 65
+    },
+    "christchurch-community-hub": {
+      "category": "Apps for Your Life",
+      "confidence": 88
+    },
+    "collector-of-home-an-interactive-science-fiction-novel": {
+      "category": "Apps for Your Life",
+      "confidence": 95
+    },
+    "songaio-music": {
+      "category": "Apps for Your Life",
+      "confidence": 90
+    },
+    "gaia-guard": {
+      "category": "Apps for Your Life",
+      "confidence": 95
+    },
+    "chemical-analysis-hub": {
+      "category": "Work & Productivity",
+      "confidence": 85
+    },
+    "zen-notes": {
+      "category": "Apps for Your Life",
+      "confidence": 90
+    },
+    "socialmediamother": {
+      "category": "Apps for Your Life",
+      "confidence": 95
+    },
+    "visualmql": {
+      "category": "Developer Tools",
+      "confidence": 90
+    },
+    "critiforge": {
+      "category": "Developer Tools",
+      "confidence": 95
+    },
+    "decidio-9rc8q0": {
+      "category": "Work & Productivity",
+      "confidence": 95
+    },
+    "clearpath-ai-s1whmc": {
+      "category": "Apps for Your Life",
+      "confidence": 90
+    },
+    "codexcandoit": {
+      "category": "Developer Tools",
+      "confidence": 70
+    },
+    "dispatchai-abj20d": {
+      "category": "Work & Productivity",
+      "confidence": 95
+    },
+    "ai-infra": {
+      "category": "Developer Tools",
+      "confidence": 80
+    },
+    "rex-signal-to-action-engine": {
+      "category": "Work & Productivity",
+      "confidence": 95
+    },
+    "odeya": {
+      "category": "Work & Productivity",
+      "confidence": 75
+    },
+    "gpt-wallet-aifinpay": {
+      "category": "Apps for Your Life",
+      "confidence": 85
+    },
+    "hotseat": {
+      "category": "Education",
+      "confidence": 95
+    },
+    "reellearn": {
+      "category": "Education",
+      "confidence": 98
+    },
+    "word-cards": {
+      "category": "Education",
+      "confidence": 95
+    },
+    "poopi": {
+      "category": "Apps for Your Life",
+      "confidence": 95
+    },
+    "quick-6wm74i": {
+      "category": "Education",
+      "confidence": 95
+    },
+    "curio-l052x6": {
+      "category": "Education",
+      "confidence": 95
+    },
+    "tagdrop-the-price-tracking-agent-for-everyday-life": {
+      "category": "Apps for Your Life",
+      "confidence": 95
+    },
+    "midnight-harbor": {
+      "category": "Apps for Your Life",
+      "confidence": 90
+    },
+    "review-intelligence-engine": {
+      "category": "Apps for Your Life",
+      "confidence": 92
+    },
+    "eduspacesim": {
+      "category": "Education",
+      "confidence": 95
+    },
+    "cortex-u7j9f0": {
+      "category": "Work & Productivity",
+      "confidence": 88
+    },
+    "agent-the-gathering": {
+      "category": "Apps for Your Life",
+      "confidence": 90
+    },
+    "babelvoice-evidence-first-voice-workflows": {
+      "category": "Work & Productivity",
+      "confidence": 84
+    },
+    "muevequest-tu-cuerpo-mueve-la-aventura": {
+      "category": "Apps for Your Life",
+      "confidence": 93
+    },
+    "fusioned-campus-management-system": {
+      "category": "Work & Productivity",
+      "confidence": 86
+    },
+    "adgoptz": {
+      "category": "Work & Productivity",
+      "confidence": 90
+    },
+    "worldtree": {
+      "category": "Developer Tools",
+      "confidence": 88
+    },
+    "omaragi-reliability-replay": {
+      "category": "Developer Tools",
+      "confidence": 95
+    },
+    "flint-gate-action-time-authorization-for-ai-agents": {
+      "category": "Developer Tools",
+      "confidence": 94
+    },
+    "ghost-core": {
+      "category": "Apps for Your Life",
+      "confidence": 89
+    },
+    "vispl": {
+      "category": "Developer Tools",
+      "confidence": 87
+    },
+    "a-resource-rational-agent": {
+      "category": "Developer Tools",
+      "confidence": 85
+    },
+    "storybook-scrolls": {
+      "category": "Apps for Your Life",
+      "confidence": 80
+    },
+    "layoutmaster": {
+      "category": "Developer Tools",
+      "confidence": 94
+    },
+    "asis-secure-whatsapp-ai-operations-assistant": {
+      "category": "Work & Productivity",
+      "confidence": 89
+    },
+    "filmidi-i970g4": {
+      "category": "Apps for Your Life",
+      "confidence": 90
+    },
+    "agentpet": {
+      "category": "Apps for Your Life",
+      "confidence": 90
+    },
+    "boundarylens": {
+      "category": "Developer Tools",
+      "confidence": 82
+    },
+    "one-step-forward-a20g9v": {
+      "category": "Apps for Your Life",
+      "confidence": 90
+    },
+    "project-grimoire": {
+      "category": "Education",
+      "confidence": 70
+    },
+    "epistemic-engine": {
+      "category": "Developer Tools",
+      "confidence": 75
+    },
+    "wealth-dashboard": {
+      "category": "Apps for Your Life",
+      "confidence": 90
+    },
+    "erp-uqmg1z": {
+      "category": "Work & Productivity",
+      "confidence": 95
+    },
+    "future-fiji": {
+      "category": "Apps for Your Life",
+      "confidence": 85
+    },
+    "hormonal-health-research-assistant": {
+      "category": "Work & Productivity",
+      "confidence": 70
+    },
+    "vectorlens": {
+      "category": "Work & Productivity",
+      "confidence": 65
+    },
+    "newengrid": {
+      "category": "Work & Productivity",
+      "confidence": 90
+    },
+    "forge-eor9cp": {
+      "category": "Work & Productivity",
+      "confidence": 65
+    },
+    "nyx-persona": {
+      "category": "Work & Productivity",
+      "confidence": 75
     }
   }
 }
